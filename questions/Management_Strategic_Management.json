@@ -1,0 +1,1582 @@
+[
+  {
+    "questionText": "Strategic management is defined as:",
+    "options": [
+      "Day‑to‑day operational control",
+      "Only financial accounting",
+      "The set of decisions and actions to formulate and implement strategies that achieve organizational goals",
+      "Human resource planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The strategic management process typically includes analysis, formulation, implementation, and:",
+    "options": [
+      "Termination",
+      "Recruitment",
+      "Product design",
+      "Evaluation and control"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a key question addressed by strategic management?",
+    "options": [
+      "What is our long‑term direction and how will we achieve it?",
+      "How to process payroll?",
+      "How to schedule employee shifts?",
+      "What is the office layout?"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The difference between strategic planning and operational planning is that strategic planning:",
+    "options": [
+      "Focuses on short‑term daily activities",
+      "Is only for frontline employees",
+      "Involves long‑term, organization‑wide decisions about mission and competitive position",
+      "Does not involve resource allocation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strategic management integrates knowledge from basic courses such as marketing, finance, and:",
+    "options": [
+      "Only history",
+      "Operations, HR, and management information systems",
+      "Only art",
+      "Only physical education"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The holistic perspective of strategic management means:",
+    "options": [
+      "Focusing only on one department",
+      "Ignoring competitors",
+      "Only analyzing internal factors",
+      "Considering the entire organization and its interaction with the external environment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A strategy is best described as:",
+    "options": [
+      "A random action without purpose",
+      "A budget for next month",
+      "A comprehensive plan to achieve competitive advantage and long‑term goals",
+      "An employee handbook"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sustainable competitive advantage exists when:",
+    "options": [
+      "Competitors can easily copy the strategy",
+      "A firm creates value that competitors cannot duplicate easily and that persists over time",
+      "All firms have identical strategies",
+      "The firm has no unique resources"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The mission statement of an organization answers:",
+    "options": [
+      "How much profit will we make next year?",
+      "Who is our CEO?",
+      "What is our stock price?",
+      "What is our reason for being?"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A well‑written mission statement should be:",
+    "options": [
+      "Vague and abstract",
+      "Changed every month",
+      "Customer‑focused, realistic, and motivating",
+      "Focused only on financial targets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizational objectives (goals) should be:",
+    "options": [
+      "General and non‑specific",
+      "Specific, measurable, achievable, relevant, and time‑bound (SMART)",
+      "Set only by top management without input",
+      "Unchanged for decades"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A strategic objective differs from a mission statement in that a strategic objective:",
+    "options": [
+      "Is broader and more general",
+      "Never includes financial targets",
+      "Is the same as a vision statement",
+      "Is a specific, measurable commitment to achieve a targeted result within a specific timeframe"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The vision statement focuses on:",
+    "options": [
+      "What the organization is today",
+      "Detailed operational procedures",
+      "What the organization aspires to become in the future",
+      "Historical performance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A clear vision helps strategic management by:",
+    "options": [
+      "Replacing the need for strategies",
+      "Providing direction and inspiration for strategic decisions",
+      "Eliminating all uncertainty",
+      "Focusing only on past results"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategic goals should be challenging but achievable to:",
+    "options": [
+      "Demotivate employees",
+      "Ensure guaranteed success without effort",
+      "Avoid any risk",
+      "Stretch the organization and focus effort"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Environmental analysis in strategic management includes:",
+    "options": [
+      "Only internal strengths",
+      "Only competitor advertising",
+      "Monitoring, evaluating, and forecasting external and internal factors",
+      "Only employee satisfaction surveys"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "External environmental analysis typically includes:",
+    "options": [
+      "Only financial ratios",
+      "Macroenvironment (PESTLE) and industry environment (Porter's Five Forces)",
+      "Only employee skills",
+      "Only production technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "PESTLE analysis examines Political, Economic, Social, Technological, Legal, and:",
+    "options": [
+      "Environmental factors",
+      "Educational factors",
+      "Ethical factors",
+      "Emotional factors"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In PESTLE analysis, changes in tax policy would be considered a:",
+    "options": [
+      "Social factor",
+      "Technological factor",
+      "Economic factor",
+      "Political/legal factor"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of an economic factor in environmental analysis?",
+    "options": [
+      "New pollution regulations",
+      "Cultural attitudes toward work",
+      "Interest rates and inflation",
+      "New manufacturing patents"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Social factors in the macroenvironment include:",
+    "options": [
+      "Trade tariffs",
+      "Computer processing power",
+      "Demographic trends and lifestyle changes",
+      "Minimum wage laws"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Technological factors include:",
+    "options": [
+      "Government stability",
+      "Age distribution of population",
+      "Climate change regulations",
+      "Automation, R&D activity, and innovation pace"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Industry environment analysis (Porter's Five Forces) includes threat of new entrants, bargaining power of buyers, bargaining power of suppliers, threat of substitutes, and:",
+    "options": [
+      "Government regulation",
+      "Rivalry among existing competitors",
+      "Technological change",
+      "Social responsibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A high threat of new entrants in an industry tends to:",
+    "options": [
+      "Increase industry profitability",
+      "Have no effect on profitability",
+      "Guarantee monopoly profits",
+      "Limit industry profitability by intensifying competition"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a barrier to entry?",
+    "options": [
+      "Low capital requirements",
+      "Lack of patents",
+      "Easy access to distribution channels",
+      "Economies of scale and brand loyalty"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When buyers have many choices and low switching costs, the bargaining power of buyers is:",
+    "options": [
+      "Low",
+      "Irrelevant",
+      "High",
+      "Zero"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Suppliers have high bargaining power when:",
+    "options": [
+      "There are many substitute suppliers",
+      "The supplier's product is unique and switching costs are high",
+      "The industry buys in large volumes",
+      "The supplier's product is a commodity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The threat of substitute products is high when:",
+    "options": [
+      "Substitutes are expensive and low performance",
+      "Customers are locked into the current product",
+      "Substitutes offer attractive price‑performance alternatives",
+      "There are no alternatives"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Intense rivalry among existing competitors is likely when:",
+    "options": [
+      "Industry growth is rapid",
+      "Few competitors of equal size",
+      "High switching costs for buyers",
+      "High fixed costs and low differentiation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A strategic group is a set of firms within an industry that:",
+    "options": [
+      "Have no similarities",
+      "Follow similar strategies or compete on similar bases",
+      "Are located in the same building",
+      "Never compete with each other"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mapping strategic groups helps managers:",
+    "options": [
+      "Ignore competition",
+      "Only analyze internal resources",
+      "Set financial targets",
+      "Identify direct competitors, opportunities, and mobility barriers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Internal environmental analysis (internal appraisal) examines:",
+    "options": [
+      "Only external threats",
+      "Only government regulations",
+      "An organization's strengths, weaknesses, resources, and capabilities",
+      "Only competitor strategies"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Resources are the organization's assets, while capabilities are:",
+    "options": [
+      "The same as resources",
+      "The organization's ability to deploy resources to achieve goals",
+      "Only financial assets",
+      "Only physical assets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Tangible resources include:",
+    "options": [
+      "Brand reputation",
+      "Employee knowledge",
+      "Organizational culture",
+      "Physical assets (plant, equipment) and financial assets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Intangible resources include:",
+    "options": [
+      "Cash and inventory",
+      "Brand reputation, patents, and organizational culture",
+      "Buildings and machinery",
+      "Raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Core competencies are:",
+    "options": [
+      "Activities a firm does poorly",
+      "Mandatory legal requirements",
+      "Unique strengths that provide competitive advantage",
+      "Outsourced functions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The VRIO framework evaluates resources and capabilities based on Value, Rarity, Imitability, and:",
+    "options": [
+      "Organization (ability to exploit)",
+      "Opportunity",
+      "Velocity",
+      "Viability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A resource that is valuable, rare, costly to imitate, and the organization is able to exploit it leads to:",
+    "options": [
+      "Competitive disadvantage",
+      "Temporary competitive advantage",
+      "No advantage",
+      "Sustained competitive advantage"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A resource that is valuable but not rare leads to:",
+    "options": [
+      "Sustained advantage",
+      "Competitive parity (average)",
+      "Competitive disadvantage",
+      "Monopoly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "SWOT analysis identifies Strengths, Weaknesses, Opportunities, and:",
+    "options": [
+      "Trends",
+      "Tactics",
+      "Threats",
+      "Technology"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strengths and weaknesses are part of the:",
+    "options": [
+      "External environment",
+      "Internal environment",
+      "Macroenvironment",
+      "Industry environment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Opportunities and threats are part of the:",
+    "options": [
+      "Internal environment",
+      "Organizational culture",
+      "External environment",
+      "Capital structure"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A SO (Strengths‑Opportunities) strategy aims to:",
+    "options": [
+      "Minimize weaknesses",
+      "Avoid threats",
+      "Convert weaknesses into strengths",
+      "Use internal strengths to exploit external opportunities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A WT (Weaknesses‑Threats) strategy aims to:",
+    "options": [
+      "Aggressively expand",
+      "Defend and minimize weaknesses while avoiding threats",
+      "Ignore both",
+      "Only use strengths"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategy formulation involves developing:",
+    "options": [
+      "Daily work schedules",
+      "Only employee training programs",
+      "Only product packaging",
+      "Corporate, business, and functional level strategies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Corporate level strategy addresses:",
+    "options": [
+      "How to compete in a specific market",
+      "How to manage a single department",
+      "What businesses to be in and how to allocate resources across them",
+      "Only pricing tactics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Business level strategy focuses on:",
+    "options": [
+      "Which industries to enter",
+      "How to compete successfully in a particular industry or market",
+      "Functional area activities",
+      "Only financial structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Functional level strategy supports:",
+    "options": [
+      "Only the CEO",
+      "Only external relations",
+      "Only production",
+      "Business and corporate strategies through functional activities (marketing, finance, HR, etc.)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Porter's generic competitive strategies include cost leadership, differentiation, and:",
+    "options": [
+      "Growth",
+      "Focus (narrow scope)",
+      "Diversification",
+      "Retrenchment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A cost leadership strategy aims to:",
+    "options": [
+      "Charge premium prices",
+      "Differentiate products in unique ways",
+      "Serve only a niche market",
+      "Achieve lower costs than competitors while maintaining acceptable quality"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A differentiation strategy involves:",
+    "options": [
+      "Lowest price",
+      "Creating unique products that customers value and are willing to pay a premium for",
+      "Copying competitors exactly",
+      "Broad market with no uniqueness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A focus strategy targets:",
+    "options": [
+      "The entire market",
+      "Only the lowest‑income customers",
+      "A specific narrow segment and tailors its strategy to that segment",
+      "Only the highest‑income customers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Stuck in the middle refers to:",
+    "options": [
+      "A firm with both low cost and high differentiation",
+      "A market leader",
+      "A monopoly",
+      "A firm with no clear strategy, lacking cost leadership or differentiation, and performing poorly"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A best‑cost provider strategy:",
+    "options": [
+      "Ignores both cost and quality",
+      "Only competes on price",
+      "Offers more value for the money by combining low cost with some differentiated features",
+      "Only competes on uniqueness"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Growth strategies include market penetration, market development, product development, and:",
+    "options": [
+      "Retrenchment",
+      "Diversification",
+      "Liquidation",
+      "Harvesting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Market penetration means:",
+    "options": [
+      "Selling existing products in new markets",
+      "Developing new products for existing markets",
+      "Increasing sales of existing products in existing markets",
+      "Entering new industries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Market development means:",
+    "options": [
+      "Increasing share in current market",
+      "Entering new geographic or customer segments with existing products",
+      "New products for current customers",
+      "Reducing prices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Product development means:",
+    "options": [
+      "Selling same products to new customers",
+      "Diversification into unrelated industries",
+      "Cost reduction",
+      "New products for current markets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Related diversification occurs when a firm:",
+    "options": [
+      "Enters a completely unrelated industry",
+      "Enters a new industry that shares strategic fit with existing businesses",
+      "Stays in a single industry",
+      "Sells off all businesses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Unrelated diversification occurs when:",
+    "options": [
+      "The new business shares no common strategic fit with existing businesses",
+      "The new business is identical to existing ones",
+      "The firm only has one product",
+      "The firm only sells to the same customers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Vertical integration is:",
+    "options": [
+      "Merging with a competitor",
+      "Outsourcing all activities",
+      "Selling all assets",
+      "Expanding into activities that are upstream (backward) or downstream (forward) in the value chain"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Backward integration means:",
+    "options": [
+      "Moving closer to customers",
+      "Diversifying into unrelated businesses",
+      "Moving into the role of a supplier (e.g., raw materials)",
+      "Reducing the scope of operations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Forward integration means:",
+    "options": [
+      "Moving into raw materials",
+      "Moving closer to the end customer (e.g., retailing)",
+      "Selling off subsidiaries",
+      "Exiting the industry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A retrenchment strategy (turnaround) is used when:",
+    "options": [
+      "The firm is growing rapidly",
+      "The firm has excess cash",
+      "The firm wants to expand globally",
+      "The firm is in decline and needs to reverse performance by reducing costs and assets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A divestiture strategy involves:",
+    "options": [
+      "Keeping all businesses",
+      "Acquiring another company",
+      "Selling off a business unit or division",
+      "Merging with a competitor"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Liquidation is:",
+    "options": [
+      "Selling a division",
+      "Expanding into new markets",
+      "Increasing production",
+      "Closing down the entire firm and selling its assets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A merger occurs when:",
+    "options": [
+      "One company buys another and the acquired company ceases to exist",
+      "Two companies combine to form a new entity",
+      "One company sells a division",
+      "Two companies agree to fix prices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An acquisition occurs when:",
+    "options": [
+      "Two equal firms merge",
+      "A firm sells its assets",
+      "One firm buys another and the acquired firm becomes part of the acquirer",
+      "A firm goes bankrupt"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strategic alliances are:",
+    "options": [
+      "Full mergers",
+      "Acquisitions",
+      "Divestitures",
+      "Cooperative agreements between firms to share resources without merging"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Strategy implementation involves:",
+    "options": [
+      "Only strategic planning",
+      "Executing the chosen strategy through programs, budgets, and procedures",
+      "Ignoring execution",
+      "Only environmental analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The key difference between strategy formulation and strategy implementation is that formulation is primarily:",
+    "options": [
+      "Operational and detailed",
+      "Easier than implementation",
+      "Not important",
+      "Intellectual and analytical; implementation is action‑oriented"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Annual objectives and policies are essential for strategy implementation because they:",
+    "options": [
+      "Replace the need for a strategy",
+      "Are optional",
+      "Only focus on financial reporting",
+      "Translate strategy into action and guide daily decisions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Budgeting in strategy implementation involves:",
+    "options": [
+      "Ignoring resource allocation",
+      "Allocating financial resources to strategic initiatives",
+      "Eliminating all costs",
+      "Only cutting expenses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Procedures (or standard operating procedures) provide:",
+    "options": [
+      "Broad guidelines",
+      "The mission statement",
+      "Step‑by‑step instructions for specific tasks",
+      "The vision"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizational structure should:",
+    "options": [
+      "Be independent of strategy",
+      "Never change",
+      "Align with and support the chosen strategy",
+      "Be the same for all firms"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A functional structure is most appropriate for:",
+    "options": [
+      "Highly diversified conglomerates",
+      "Single‑business or dominant‑business firms with a narrow product line",
+      "Global multinationals with many unrelated products",
+      "Any firm regardless of strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A divisional (multidivisional) structure is appropriate for:",
+    "options": [
+      "Small startups",
+      "Firms with only one product",
+      "Firms with no strategy",
+      "Firms with multiple product lines or geographic markets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A matrix structure is useful for:",
+    "options": [
+      "Simple, stable environments",
+      "Pure cost leadership",
+      "Projects requiring integration across functions, such as in aerospace or R&D",
+      "Very small organizations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strategy implementation requires leadership to:",
+    "options": [
+      "Avoid communication",
+      "Motivate, communicate, and build culture consistent with strategy",
+      "Ignore employee resistance",
+      "Only give orders without explanation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organizational culture can be a barrier to implementation if:",
+    "options": [
+      "Culture supports the strategy",
+      "Culture is strong",
+      "Culture is misaligned with the new strategy",
+      "Culture is weak"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "To align culture with strategy, managers should:",
+    "options": [
+      "Ignore culture",
+      "Force immediate changes without communication",
+      "Keep all rituals unchanged",
+      "Change reward systems, symbols, stories, and role modeling"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Reward systems should:",
+    "options": [
+      "Reward behaviors that hinder strategy",
+      "Reinforce and encourage behaviors that support strategic success",
+      "Be identical for all employees regardless of role",
+      "Ignore performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Resource allocation in strategy implementation must:",
+    "options": [
+      "Be random",
+      "Keep resources fixed regardless of strategy",
+      "Only allocate to routine operations",
+      "Prioritize strategic initiatives and shift resources from low‑priority to high‑priority areas"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A key success factor in strategy implementation is:",
+    "options": [
+      "Secrecy and no communication",
+      "Avoiding employee involvement",
+      "Clear communication of strategy to all employees",
+      "Changing strategy daily"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strategic evaluation and control involve:",
+    "options": [
+      "Only setting goals",
+      "Monitoring performance, comparing to standards, and taking corrective action",
+      "Eliminating all feedback",
+      "Only financial audits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The first step in strategic control is:",
+    "options": [
+      "Taking corrective action",
+      "Ignoring variances",
+      "Rewarding all employees equally",
+      "Establishing performance standards or measures"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Measuring actual performance in strategic control includes:",
+    "options": [
+      "Only quantitative financial metrics",
+      "Both financial and non‑financial measures (e.g., customer satisfaction, market share)",
+      "Only employee satisfaction",
+      "Only production volume"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The balanced scorecard approach to strategic control measures performance across:",
+    "options": [
+      "Only financial perspective",
+      "Only customer perspective",
+      "Financial, customer, internal business process, and learning & growth perspectives",
+      "Only internal processes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A leading indicator in strategic control predicts:",
+    "options": [
+      "Past performance",
+      "Historical financial results",
+      "Employee turnover from last year",
+      "Future performance (e.g., customer satisfaction leading to future sales)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A lagging indicator measures:",
+    "options": [
+      "Future outcomes",
+      "Past outcomes (e.g., profit, revenue)",
+      "Predictive trends",
+      "Early warnings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The strategic evaluation step of comparing actual performance to standards may reveal:",
+    "options": [
+      "No need for action",
+      "Only positive outcomes",
+      "Variances (positive or negative) that require analysis",
+      "Only negative outcomes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Corrective action in strategic control can include:",
+    "options": [
+      "Ignoring the variance",
+      "Adjusting strategy, objectives, or implementation tactics",
+      "Firing all employees",
+      "No action"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategic control differs from operational control in that strategic control:",
+    "options": [
+      "Focuses on daily activities",
+      "Is less important",
+      "Does not involve feedback",
+      "Focuses on long‑term direction and significant deviations from strategy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A strategic audit is a systematic evaluation of:",
+    "options": [
+      "Only employee performance",
+      "The entire strategic management process, from analysis to implementation and outcomes",
+      "Only financial statements",
+      "Only marketing campaigns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of strategic intent means:",
+    "options": [
+      "Having no long‑term ambition",
+      "Short‑term profit maximization",
+      "A long‑term, compelling goal that stretches the organization",
+      "Avoiding all risks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strategic flexibility is the ability to:",
+    "options": [
+      "Stick to one plan regardless of changes",
+      "Adapt and respond quickly to environmental changes",
+      "Avoid all change",
+      "Ignore competitor moves"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Scenario planning is a technique used to:",
+    "options": [
+      "Predict the future with certainty",
+      "Replace all strategic analysis",
+      "Focus only on one forecast",
+      "Develop multiple plausible future scenarios and plan strategies accordingly"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A learning organization in strategic management:",
+    "options": [
+      "Punishes mistakes",
+      "Continuously adapts and improves based on new knowledge and experience",
+      "Avoids feedback",
+      "Has no strategic direction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Stakeholder analysis in strategy involves:",
+    "options": [
+      "Ignoring all stakeholders except shareholders",
+      "Only focusing on competitors",
+      "Only focusing on government",
+      "Identifying and balancing the interests of groups affected by the strategy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Corporate governance refers to:",
+    "options": [
+      "Day‑to‑day management",
+      "Product pricing",
+      "The system by which companies are directed and controlled, including roles of board, shareholders, and executives",
+      "Employee training"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The board of directors' role in strategic management includes:",
+    "options": [
+      "Daily operations",
+      "Only hiring janitors",
+      "Overseeing strategy, monitoring performance, and protecting shareholder interests",
+      "Only setting product prices"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Shareholder value maximization is a primary goal of:",
+    "options": [
+      "Non‑profit organizations",
+      "Government agencies",
+      "Charities",
+      "For‑profit corporations in the traditional finance view"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The stakeholder approach to strategy holds that:",
+    "options": [
+      "Only shareholders matter",
+      "Multiple stakeholders (employees, customers, community) have legitimate interests that should be considered",
+      "Only customers matter",
+      "Only employees matter"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Corporate social responsibility (CSR) in strategic management:",
+    "options": [
+      "Is irrelevant to strategy",
+      "Can be integrated into strategy to create competitive advantage and manage risk",
+      "Only increases costs with no benefits",
+      "Is illegal in some countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm that uses its core competencies to create social value while achieving financial returns is practicing:",
+    "options": [
+      "Greenwashing",
+      "Unethical behavior",
+      "Short‑termism",
+      "Creating shared value (CSV)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "International strategy must consider:",
+    "options": [
+      "Only domestic factors",
+      "Cultural, political, and economic differences across countries",
+      "Only exchange rates",
+      "Only language differences"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Global strategy (standardization) is most appropriate when:",
+    "options": [
+      "Local needs vary greatly",
+      "There are strong pressures for cost reduction and limited need for local adaptation",
+      "Trade barriers are high",
+      "Local regulations vary widely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Multidomestic strategy (localization) is most appropriate when:",
+    "options": [
+      "Consumer tastes are identical worldwide",
+      "Economies of scale are critical",
+      "Pressures for local responsiveness are high and cost pressures are low",
+      "Global competition is intense"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Transnational strategy seeks to:",
+    "options": [
+      "Only standardize",
+      "Only adapt locally",
+      "Achieve both global efficiency and local responsiveness simultaneously",
+      "Avoid international markets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Entry mode choice (exporting, joint venture, wholly owned subsidiary) depends on:",
+    "options": [
+      "Only firm size",
+      "Level of control desired, risk tolerance, and resource commitment",
+      "Only exchange rates",
+      "Only product color"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategic outsourcing decisions involve:",
+    "options": [
+      "Doing all activities in‑house",
+      "Avoiding all external partners",
+      "Determining which activities to perform internally and which to contract externally",
+      "Only manufacturing decisions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Vertical integration versus outsourcing trade‑offs consider:",
+    "options": [
+      "Only cost",
+      "Transaction costs, coordination, and strategic flexibility",
+      "Only brand name",
+      "Only employee satisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A blue ocean strategy is about:",
+    "options": [
+      "Competing in existing, crowded markets",
+      "Copying competitors' strategies",
+      "Reducing prices to zero",
+      "Creating new, uncontested market space and making competition irrelevant"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Red ocean strategy refers to:",
+    "options": [
+      "Creating new markets",
+      "Competing in existing, highly competitive markets with head‑to‑head rivalry",
+      "No competition",
+      "Monopoly markets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A turnaround strategy typically includes:",
+    "options": [
+      "Aggressive expansion",
+      "Ignoring losses",
+      "Asset reduction, cost cutting, and revenue generation to reverse decline",
+      "Increasing debt"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A harvesting strategy is used when:",
+    "options": [
+      "The firm wants to grow the business",
+      "The firm extracts maximum short‑term cash flow from a business before divesting or closing it",
+      "The firm invests heavily in R&D",
+      "The firm enters a new market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategic planning horizon typically covers:",
+    "options": [
+      "Less than one year",
+      "One week",
+      "One day",
+      "Three to five years or more"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Contingency planning in strategy means:",
+    "options": [
+      "Having no alternative plans",
+      "Developing alternative plans to be implemented if key assumptions fail",
+      "Ignoring risks",
+      "Only planning for best case"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of strategic drift occurs when:",
+    "options": [
+      "Strategy is perfectly aligned with environment",
+      "Strategy changes too rapidly",
+      "Strategy gradually fails to adapt to environmental changes, leading to performance decline",
+      "No strategy exists"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A strategic inflection point is:",
+    "options": [
+      "A minor change in operations",
+      "An annual budget meeting",
+      "A routine performance review",
+      "A major shift in the industry environment that requires a fundamental change in strategy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Core rigidity is the flip side of core competency; it refers to:",
+    "options": [
+      "A strength that becomes a weakness when it prevents adaptation",
+      "A new competitive advantage",
+      "An irrelevant factor",
+      "A financial asset"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Dynamic capabilities are the firm's ability to:",
+    "options": [
+      "Maintain static routines",
+      "Integrate, build, and reconfigure resources to adapt to changing environments",
+      "Avoid all change",
+      "Only produce one product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategic leadership involves:",
+    "options": [
+      "Only managing daily operations",
+      "Avoiding any vision",
+      "Influencing others to make strategic decisions and implement them effectively",
+      "Only focusing on past performance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Top management's role in strategic management includes:",
+    "options": [
+      "Only signing paychecks",
+      "Setting direction, making resource allocation decisions, and monitoring progress",
+      "Only cleaning offices",
+      "Only answering phones"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical dilemmas in strategic management may include:",
+    "options": [
+      "Transparent reporting",
+      "Always maximizing profit regardless of consequences",
+      "Ignoring legal requirements",
+      "Balancing profit with social responsibility, and avoiding short‑term gain that harms long‑term stakeholders"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An emergent strategy is one that:",
+    "options": [
+      "Is planned in advance and executed as intended",
+      "Develops over time from patterns of actions, not originally intended",
+      "Is never implemented",
+      "Only comes from top management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Deliberate strategy is:",
+    "options": [
+      "Unplanned and reactive",
+      "Random actions",
+      "Intended and planned strategy that is realized as intended",
+      "Unrealized strategy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The realized strategy is the combination of:",
+    "options": [
+      "Only planned strategy",
+      "Only unplanned actions",
+      "Deliberate strategy and emergent strategy",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strategic control systems should be:",
+    "options": [
+      "Rigid and unchanging",
+      "Flexible and focus on critical performance drivers",
+      "Ignored after implementation",
+      "Only annual"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"strategic map\" visually represents:",
+    "options": [
+      "Geographic locations",
+      "Employee travel routes",
+      "Product packaging designs",
+      "The cause‑and‑effect relationships among strategic objectives (e.g., balanced scorecard)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Ansoff's matrix identifies four growth strategies based on new vs. existing products and markets: market penetration, market development, product development, and:",
+    "options": [
+      "Retrenchment",
+      "Diversification",
+      "Harvesting",
+      "Liquidation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The BCG matrix classifies business units into Stars, Cash Cows, Question Marks, and:",
+    "options": [
+      "Winners",
+      "Leaders",
+      "Losers",
+      "Dogs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Stars in the BCG matrix have:",
+    "options": [
+      "Low market share, low growth",
+      "High market share, high market growth",
+      "High market share, low growth",
+      "Low market share, high growth"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cash Cows have:",
+    "options": [
+      "High growth, high share",
+      "High growth, low share",
+      "Low growth, high share",
+      "Low growth, low share"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Question Marks have:",
+    "options": [
+      "Low growth, high share",
+      "High growth, low share",
+      "Low growth, low share",
+      "High growth, high share"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Dogs have:",
+    "options": [
+      "High share, high growth",
+      "Low share, low growth",
+      "High growth, low share",
+      "Low growth, high share"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The GE McKinsey matrix uses industry attractiveness and:",
+    "options": [
+      "Only financial strength",
+      "Business unit competitive strength as dimensions",
+      "Only market share",
+      "Only growth rate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A differentiation strategy can be based on product features, service, or:",
+    "options": [
+      "Lowest price",
+      "Copying competitors",
+      "Brand image and customer experience",
+      "Reducing quality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A cost leadership strategy requires tight cost control, economies of scale, and:",
+    "options": [
+      "High differentiation",
+      "High R&D spending on uniqueness",
+      "Premium pricing",
+      "Efficient operations and minimal overhead"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "First‑mover advantages include:",
+    "options": [
+      "Avoiding all risks",
+      "Brand recognition, scale economies, and switching costs for customers",
+      "Guaranteed success",
+      "No competition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Late‑mover advantages include:",
+    "options": [
+      "Pioneering the market",
+      "No learning opportunities",
+      "Learning from first‑movers' mistakes and avoiding their sunk costs",
+      "Higher risk"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A strategic alliance can be a substitute for:",
+    "options": [
+      "Full merger when integration is not desired",
+      "Avoiding all collaboration",
+      "Internal competition",
+      "Legal compliance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The resource‑based view (RBV) of strategy emphasizes:",
+    "options": [
+      "Only external industry factors",
+      "Only market share",
+      "Unique internal resources and capabilities as sources of competitive advantage",
+      "Only pricing strategy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to RBV, a resource must be valuable, rare, inimitable, and:",
+    "options": [
+      "Transferable",
+      "Non‑substitutable",
+      "Cheap",
+      "Common"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm's value chain consists of primary activities (inbound logistics, operations, outbound logistics, marketing & sales, service) and:",
+    "options": [
+      "Only financial activities",
+      "Only R&D",
+      "Support activities (procurement, technology, HR, infrastructure)",
+      "Only customer service"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Value chain analysis helps identify:",
+    "options": [
+      "Only costs",
+      "Only employee satisfaction",
+      "Only competitor prices",
+      "Sources of competitive advantage and opportunities for cost reduction or differentiation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A strategic business unit (SBU) is:",
+    "options": [
+      "A small startup",
+      "A distinct business unit within a diversified firm with its own mission, strategy, and competitors",
+      "A functional department",
+      "An external supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Portfolio management techniques (BCG, GE) help diversified firms:",
+    "options": [
+      "Ignore business units",
+      "Only focus on one business",
+      "Allocate resources across SBUs and decide which to grow, maintain, or divest",
+      "Avoid strategic decisions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A turnaround strategy often requires:",
+    "options": [
+      "Increasing expenses",
+      "Asset reduction, cost cutting, and management changes",
+      "Ignoring cash flow",
+      "Expanding debt"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A strategic plan must be communicated to:",
+    "options": [
+      "Only top executives",
+      "Only external consultants",
+      "No one",
+      "All employees to align efforts and gain commitment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The concept of strategic stretch means:",
+    "options": [
+      "Setting easy goals",
+      "Creating a gap between current resources and ambitions to drive innovation and effort",
+      "Avoiding all challenges",
+      "Reducing aspirations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategic thinking differs from strategic planning in that strategic thinking is more about:",
+    "options": [
+      "Rigid adherence to schedules",
+      "Filling out forms",
+      "Synthesis, creativity, and opportunity recognition",
+      "Detailed budgets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A critical assumption in strategic planning is that:",
+    "options": [
+      "The environment is perfectly predictable",
+      "Assumptions about the future must be explicitly identified and tested",
+      "No assumptions are needed",
+      "Only historical data matters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategy evaluation should be performed:",
+    "options": [
+      "Only at the end of the plan period",
+      "Never",
+      "Only when problems arise",
+      "Continuously and at key milestones"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A strategic failure often results from:",
+    "options": [
+      "Clear communication",
+      "Strong leadership",
+      "Employee involvement",
+      "Lack of alignment between strategy, structure, culture, and resources"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A sustainable strategy integrates economic, environmental, and:",
+    "options": [
+      "Political goals only",
+      "Social goals (triple bottom line)",
+      "Technological goals",
+      "Legal goals only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The principle of \"strategic fit\" means that:",
+    "options": [
+      "Strategy is independent of environment",
+      "Any strategy works in any situation",
+      "Fit is irrelevant",
+      "Strategy should be aligned with internal and external conditions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The ultimate purpose of strategic management is to:",
+    "options": [
+      "Create a thick plan document",
+      "Avoid all change",
+      "Achieve sustained superior performance and long‑term success",
+      "Minimize employee input"
+    ],
+    "correct": 2
+  }
+]
