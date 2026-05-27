@@ -1,0 +1,1602 @@
+[
+  {
+    "questionText": "Organizational behaviour is the study of:",
+    "options": [
+      "Financial markets and investing",
+      "Production technology and engineering",
+      "The behaviour of individuals and groups within organizational settings",
+      "Macroeconomic policy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a primary goal of organizational behaviour?",
+    "options": [
+      "Maximizing executive compensation",
+      "Eliminating all informal groups",
+      "Reducing employee diversity",
+      "Explaining, predicting, and influencing human behaviour in organizations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The systematic study of behaviour based on scientific evidence is known as:",
+    "options": [
+      "Intuition",
+      "Evidence-based management",
+      "Common sense",
+      "Trial and error"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cognitive outcomes in OB include:",
+    "options": [
+      "Emotional reactions only",
+      "Physical actions only",
+      "Beliefs, thoughts, and judgments about work (e.g., job satisfaction perceptions)",
+      "Reflexes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Behavioural outcomes in OB include:",
+    "options": [
+      "Thoughts and beliefs",
+      "Personality traits",
+      "Actions such as task performance, citizenship, and deviance",
+      "Values"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Emotional outcomes in OB include:",
+    "options": [
+      "Logical reasoning",
+      "Job descriptions",
+      "Feelings such as joy, anger, or anxiety at work",
+      "Organizational charts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Individual differences in OB include personality, attitudes, and:",
+    "options": [
+      "Only age",
+      "Only gender",
+      "Perceptions and learning styles",
+      "Only salary level"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Big Five personality traits include openness, conscientiousness, extraversion, agreeableness, and:",
+    "options": [
+      "Intelligence",
+      "Neuroticism",
+      "Honesty",
+      "Creativity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A person who is organized, responsible, and hardworking scores high on:",
+    "options": [
+      "Openness",
+      "Extraversion",
+      "Conscientiousness",
+      "Neuroticism"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A person who is sociable, talkative, and energetic scores high on:",
+    "options": [
+      "Agreeableness",
+      "Neuroticism",
+      "Openness",
+      "Extraversion"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Emotional stability (low neuroticism) is associated with:",
+    "options": [
+      "High anxiety and moodiness",
+      "Calm, secure, and resilient behaviour",
+      "Low sociability",
+      "Low creativity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The tendency to be imaginative, curious, and open to new experiences is:",
+    "options": [
+      "Conscientiousness",
+      "Agreeableness",
+      "Extraversion",
+      "Openness to experience"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Agreeableness is characterized by:",
+    "options": [
+      "Competitiveness and skepticism",
+      "Shyness and withdrawal",
+      "Trust, cooperation, and kindness",
+      "Disorganization and carelessness"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Myers-Briggs Type Indicator (MBTI) classifies people into types based on:",
+    "options": [
+      "Only intelligence",
+      "Preferences for energy, information gathering, decision making, and lifestyle",
+      "Physical strength",
+      "Income level"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A limitation of the MBTI for workplace use is that it:",
+    "options": [
+      "Is highly valid for predicting job performance",
+      "Is too objective",
+      "Measures only one trait",
+      "Lacks strong predictive validity and may stereotype people"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Self-efficacy refers to a person's belief that:",
+    "options": [
+      "They are lucky",
+      "Others are better than them",
+      "They can successfully perform a task",
+      "Effort never matters"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Locus of control is the extent to which individuals believe that:",
+    "options": [
+      "Outcomes are random",
+      "They control their own fate (internal) or fate is controlled by external forces",
+      "They are always successful",
+      "They have no influence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An individual with an internal locus of control is more likely to:",
+    "options": [
+      "Blame others for failure",
+      "Avoid responsibility",
+      "Rely on luck",
+      "Take initiative and believe effort leads to outcomes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An individual with an external locus of control tends to:",
+    "options": [
+      "Set challenging goals",
+      "Be highly self-motivated",
+      "Accept full responsibility for failures",
+      "Attribute outcomes to luck, fate, or powerful others"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Attitudes have three components: cognitive, affective, and:",
+    "options": [
+      "Behavioral (intention)",
+      "Financial",
+      "Physical",
+      "Social"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cognitive component of an attitude is:",
+    "options": [
+      "An emotional feeling",
+      "An intention to act",
+      "A belief or knowledge about an object",
+      "A reflex action"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The affective component of an attitude is:",
+    "options": [
+      "A belief",
+      "An emotional feeling toward an object",
+      "A behavioural intention",
+      "A skill"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The behavioural component of an attitude is:",
+    "options": [
+      "A thought about the attitude object",
+      "A physiological response",
+      "An inherited trait",
+      "An intention to behave in a certain way"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Job satisfaction is defined as:",
+    "options": [
+      "The employee's intention to quit",
+      "The employee's salary level",
+      "The number of years in the job",
+      "A positive feeling about one's job resulting from an evaluation of its characteristics"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Employee engagement is characterized by:",
+    "options": [
+      "Low energy and disinterest",
+      "Frequent absenteeism",
+      "High absorption, dedication, and vigor toward work",
+      "Passive compliance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizational commitment is the degree to which an employee:",
+    "options": [
+      "Dislikes the organization",
+      "Identifies with and feels attached to the organization",
+      "Plans to leave soon",
+      "Ignores organizational goals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Affective commitment refers to:",
+    "options": [
+      "Staying because of lack of alternatives",
+      "Staying due to high costs of leaving",
+      "Obligation to stay",
+      "Emotional attachment and desire to stay"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Continuance commitment is based on:",
+    "options": [
+      "Emotional attachment",
+      "Perceived costs of leaving (e.g., loss of benefits)",
+      "Moral obligation",
+      "Love for the job"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Normative commitment is the feeling that:",
+    "options": [
+      "The organization is unfair",
+      "One has no other options",
+      "One ought to stay due to moral or ethical reasons",
+      "One is overpaid"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cognitive dissonance is the discomfort experienced when:",
+    "options": [
+      "Attitudes and behaviours are consistent",
+      "One agrees with all organizational policies",
+      "One holds conflicting attitudes or behaviour contradicts an attitude",
+      "One has no beliefs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to dissonance theory, individuals are motivated to:",
+    "options": [
+      "Increase dissonance",
+      "Ignore contradictions",
+      "Blame others",
+      "Reduce inconsistency by changing attitudes or behaviours"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Perception is the process by which individuals:",
+    "options": [
+      "React unconsciously",
+      "Memorize facts",
+      "Organize and interpret sensory impressions to give meaning to their environment",
+      "Develop physical skills"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Selective perception means that people:",
+    "options": [
+      "See all information objectively",
+      "Interpret what they see based on their own interests, background, and experience",
+      "Ignore all information",
+      "See exactly what is there"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The halo effect occurs when:",
+    "options": [
+      "One negative trait dominates perception of a person",
+      "We compare people to ourselves",
+      "We judge based on group membership",
+      "One positive trait dominates overall impression of a person"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The fundamental attribution error is the tendency to:",
+    "options": [
+      "Overestimate external causes for others' behavior",
+      "Overestimate internal causes for others' behavior and underestimate external factors",
+      "Always blame the situation",
+      "Always praise others"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Self-serving bias is the tendency to attribute:",
+    "options": [
+      "Success to external factors, failure to internal factors",
+      "Both success and failure to luck",
+      "Both success and failure to others",
+      "Success to internal factors, failure to external factors"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Learning is defined as:",
+    "options": [
+      "An innate reflex",
+      "A temporary change in mood",
+      "A relatively permanent change in behaviour resulting from experience",
+      "Genetic inheritance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Classical conditioning (Pavlov) involves learning through:",
+    "options": [
+      "Consequences of behaviour",
+      "Reinforcement schedules",
+      "Observing others",
+      "Association of two stimuli"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Operant conditioning (Skinner) involves learning through:",
+    "options": [
+      "Reflexes",
+      "Reinforcement and punishment following behaviour",
+      "Imitation",
+      "Insight"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Positive reinforcement involves:",
+    "options": [
+      "Removing an unpleasant stimulus to increase behaviour",
+      "Adding an unpleasant stimulus to decrease behaviour",
+      "Adding a pleasant stimulus to increase behaviour",
+      "Removing a pleasant stimulus to decrease behaviour"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Negative reinforcement involves:",
+    "options": [
+      "Adding a pleasant stimulus",
+      "Adding an unpleasant stimulus",
+      "Removing a pleasant stimulus",
+      "Removing an unpleasant stimulus to increase behaviour"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Punishment involves:",
+    "options": [
+      "Increasing behaviour",
+      "Adding an unpleasant stimulus or removing a pleasant stimulus to decrease behaviour",
+      "Ignoring behaviour",
+      "Rewarding behaviour"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Extinction in operant conditioning occurs when:",
+    "options": [
+      "Reinforcement is given continuously",
+      "A new behaviour is learned",
+      "Punishment is applied",
+      "Reinforcement is withheld, causing behaviour to decrease"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Social learning theory (Bandura) emphasizes learning through:",
+    "options": [
+      "Only direct reinforcement",
+      "Observation, imitation, and modeling",
+      "Classical conditioning only",
+      "Genetic programming"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A model in social learning is:",
+    "options": [
+      "A mathematical equation",
+      "A type of punishment",
+      "A reinforcement schedule",
+      "A person whose behaviour is observed and imitated"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Shaping behaviour involves:",
+    "options": [
+      "Rewarding only the final desired behaviour",
+      "Punishing all behaviours",
+      "Rewarding successive approximations toward a desired behaviour",
+      "Ignoring progress"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A group is defined as two or more individuals who:",
+    "options": [
+      "Have no interaction",
+      "Work alone in the same building",
+      "Interact and are interdependent to achieve common goals",
+      "Never communicate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Formal groups are created by:",
+    "options": [
+      "Spontaneous friendship",
+      "The organization's structure to perform specific tasks",
+      "Random chance",
+      "External competitors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Informal groups are formed by:",
+    "options": [
+      "Management decree",
+      "Legal requirements",
+      "Job descriptions",
+      "Natural social interactions and common interests of employees"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Tuckman's five stages of group development in order are:",
+    "options": [
+      "Storming, forming, norming, performing, adjourning",
+      "Forming, storming, norming, performing, adjourning",
+      "Norming, forming, storming, performing, adjourning",
+      "Forming, norming, storming, performing, adjourning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the forming stage, group members:",
+    "options": [
+      "Experience conflict",
+      "Establish norms",
+      "Get to know each other and understand the task",
+      "Achieve high performance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the storming stage, group members:",
+    "options": [
+      "Are polite and avoid disagreement",
+      "Are highly cohesive",
+      "Disband",
+      "Experience conflict over leadership, roles, and goals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In the norming stage, the group:",
+    "options": [
+      "Disintegrates",
+      "Develops cohesion, norms, and mutual relationships",
+      "Experiences chaos",
+      "Avoids all tasks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the performing stage, the group:",
+    "options": [
+      "Has no structure",
+      "Is still forming",
+      "Functions effectively and focuses on task accomplishment",
+      "Is about to adjourn"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The adjourning stage occurs when:",
+    "options": [
+      "The group is newly formed",
+      "Conflict is highest",
+      "Norms are established",
+      "The group completes its task and disbands"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Group norms are:",
+    "options": [
+      "Written rules from management",
+      "Shared expectations about how members should behave",
+      "Individual preferences",
+      "Formal job descriptions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Group cohesion is the degree to which members:",
+    "options": [
+      "Compete with each other",
+      "Avoid each other",
+      "Dislike the group",
+      "Are attracted to the group and motivated to stay"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "High group cohesion can lead to:",
+    "options": [
+      "Lower performance always",
+      "Higher satisfaction and sometimes higher performance, but also risk of groupthink",
+      "Guaranteed success",
+      "No interaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Groupthink occurs when:",
+    "options": [
+      "Groups make highly creative decisions",
+      "Members freely express dissent",
+      "The desire for harmony overrides realistic evaluation of alternatives",
+      "An outsider facilitates the meeting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Symptoms of groupthink include:",
+    "options": [
+      "Critical evaluation of all ideas",
+      "Illusion of invulnerability and pressure on dissenters",
+      "Encouragement of diverse views",
+      "Open debate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To prevent groupthink, a leader should:",
+    "options": [
+      "Express a strong opinion first",
+      "Isolate the group",
+      "Punish dissent",
+      "Encourage critical evaluation, assign a devil's advocate, and seek outside opinions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Social loafing is the tendency for individuals to:",
+    "options": [
+      "Work harder in groups",
+      "Exert less effort when working in a group than alone",
+      "Take over all group work",
+      "Compete excessively"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social loafing can be reduced by:",
+    "options": [
+      "Increasing group size",
+      "Ignoring performance",
+      "Making individual contributions identifiable and accountable",
+      "Rewarding the group equally regardless of effort"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A team is a group whose members:",
+    "options": [
+      "Work independently and never interact",
+      "Only meet once",
+      "Have no accountability",
+      "Have complementary skills and are committed to a common purpose and performance goals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Problem-solving teams typically meet to:",
+    "options": [
+      "Produce tangible products",
+      "Manage other teams",
+      "Discuss ways to improve quality, efficiency, or work environment",
+      "Handle external customers only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Self-managed work teams are groups that:",
+    "options": [
+      "Have no leader or autonomy",
+      "Manage themselves, including planning, scheduling, and monitoring their own work",
+      "Report to multiple managers",
+      "Avoid decision making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cross-functional teams are composed of members from:",
+    "options": [
+      "The same department",
+      "The same hierarchical level only",
+      "Only senior executives",
+      "Different functional areas (e.g., marketing, finance, production)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Virtual teams work together across:",
+    "options": [
+      "A single office",
+      "Only the same shift",
+      "Time, space, and organizational boundaries using technology",
+      "Only the same country"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Team effectiveness is often measured by:",
+    "options": [
+      "Only financial profit",
+      "Productivity, cohesion, learning, and member satisfaction",
+      "Number of meetings",
+      "Length of team name"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Motivation is defined as the process that accounts for an individual's:",
+    "options": [
+      "Physical strength",
+      "Intelligence level",
+      "Direction, intensity, and persistence of effort toward a goal",
+      "Personality traits"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Maslow's hierarchy of needs includes physiological, safety, social, esteem, and:",
+    "options": [
+      "Power",
+      "Wealth",
+      "Recognition",
+      "Self-actualization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to Maslow, the lowest unsatisfied need:",
+    "options": [
+      "Has no effect on motivation",
+      "Motivates behaviour until satisfied",
+      "Is always self-actualization",
+      "Is irrelevant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Herzberg's two-factor theory distinguishes between:",
+    "options": [
+      "Intrinsic and extrinsic motivation only",
+      "Theory X and Theory Y",
+      "Hygiene factors (dissatisfiers) and motivators (satisfiers)",
+      "Equity and expectancy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Hygiene factors (Herzberg) include:",
+    "options": [
+      "Recognition and achievement",
+      "Company policies, salary, and working conditions",
+      "Responsibility and growth",
+      "Interesting work"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Motivators (Herzberg) include:",
+    "options": [
+      "Supervision quality",
+      "Interpersonal relations",
+      "Job security",
+      "Achievement, recognition, responsibility, and advancement"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "McClelland's theory of needs focuses on needs for achievement, affiliation, and:",
+    "options": [
+      "Power",
+      "Safety",
+      "Esteem",
+      "Self-actualization"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A person with a high need for achievement prefers:",
+    "options": [
+      "Easy tasks with guaranteed success",
+      "Moderately difficult tasks with personal responsibility and feedback",
+      "Impossible tasks",
+      "Group work only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Goal-setting theory (Locke) states that specific, difficult goals with feedback lead to:",
+    "options": [
+      "Lower performance",
+      "No change in performance",
+      "Decreased motivation",
+      "Higher performance than easy or vague goals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to goal-setting theory, feedback is important because it:",
+    "options": [
+      "Discourages effort",
+      "Helps track progress and adjust strategies",
+      "Is unnecessary",
+      "Replaces goal setting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Expectancy theory (Vroom) proposes that motivation is a function of:",
+    "options": [
+      "Equity and fairness only",
+      "Hygiene factors only",
+      "Expectancy (effort → performance), instrumentality (performance → outcome), and valence (value of outcome)",
+      "Social needs only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In expectancy theory, if valence = 0, motivation will be:",
+    "options": [
+      "High",
+      "Moderate",
+      "Negative",
+      "Zero (since any factor zero reduces product to zero)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Equity theory (Adams) states that employees compare:",
+    "options": [
+      "Their salary to the CEO's salary only",
+      "Their own outcome/input ratio to that of relevant others",
+      "Their effort to their age",
+      "Their education to their height"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When an employee perceives inequity (under-reward), they may:",
+    "options": [
+      "Work harder without change",
+      "Do nothing",
+      "Reduce inputs, seek higher outcomes, distort perceptions, or leave",
+      "Become more satisfied"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Over-reward inequity may lead to:",
+    "options": [
+      "Guilt and possibly increasing inputs",
+      "No reaction",
+      "Immediate resignation",
+      "Sabotage"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Organizational justice includes distributive, procedural, interactional, and:",
+    "options": [
+      "Retributive",
+      "Informational justice",
+      "Financial justice",
+      "Competitive justice"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Distributive justice refers to the perceived fairness of:",
+    "options": [
+      "Decision-making processes",
+      "Interpersonal treatment",
+      "Outcomes (e.g., pay, promotions)",
+      "Information sharing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Procedural justice refers to fairness of:",
+    "options": [
+      "Outcomes",
+      "The methods and processes used to determine outcomes",
+      "Communication style",
+      "Hiring only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Interactional justice refers to the quality of:",
+    "options": [
+      "Salary levels",
+      "Interpersonal treatment and communication from authority figures",
+      "Office furniture",
+      "Work schedules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Reinforcement theory (Skinner) ignores internal states and focuses on:",
+    "options": [
+      "Thoughts and feelings",
+      "Unconscious motives",
+      "Genetic predispositions",
+      "The relationship between behaviour and environmental consequences"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A fixed-interval reinforcement schedule provides a reward:",
+    "options": [
+      "After a random number of responses",
+      "After a fixed amount of time",
+      "After a fixed number of responses",
+      "After a random time interval"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A variable-ratio schedule is typically associated with:",
+    "options": [
+      "Low and steady response rates",
+      "Very high and steady response rates (e.g., gambling)",
+      "No response",
+      "Predictable pauses after reinforcement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organizational culture is defined as:",
+    "options": [
+      "The physical layout of the office",
+      "The financial performance of the firm",
+      "A system of shared values, beliefs, and assumptions that guide behaviour",
+      "The legal structure of the organization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A strong culture is characterized by:",
+    "options": [
+      "Low consensus and low intensity",
+      "Frequent changes in values",
+      "High consensus and high intensity of values",
+      "No shared values"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizational climate refers to:",
+    "options": [
+      "The weather in the office",
+      "The organization's mission statement",
+      "Shared perceptions of organizational policies, practices, and procedures",
+      "The building architecture"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Culture is typically transmitted through:",
+    "options": [
+      "Legal contracts",
+      "Financial reports",
+      "Product catalogs",
+      "Stories, rituals, symbols, and language"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Subcultures within an organization can develop based on:",
+    "options": [
+      "Only hierarchical level",
+      "Department, geography, or profession",
+      "Only gender",
+      "Only age"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Power is defined as:",
+    "options": [
+      "Authority given by a job title",
+      "Leadership charisma only",
+      "The capacity to influence others to do something they otherwise would not",
+      "Physical strength"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Legitimate power is derived from:",
+    "options": [
+      "Personal charisma",
+      "One's formal position or authority in the organization",
+      "Ability to give rewards",
+      "Expertise"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Coercive power is based on:",
+    "options": [
+      "Ability to give positive rewards",
+      "Expert knowledge",
+      "Fear of punishment or negative consequences",
+      "Reference and admiration"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Reward power is based on the ability to:",
+    "options": [
+      "Punish",
+      "Give advice",
+      "Set organizational goals",
+      "Provide valued positive outcomes (pay, praise, promotions)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Expert power is based on:",
+    "options": [
+      "Job title",
+      "Specialized knowledge, skills, or expertise",
+      "Physical size",
+      "Seniority alone"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Referent power is based on:",
+    "options": [
+      "Formal authority",
+      "Threat of punishment",
+      "Admiration, respect, or identification with the power holder",
+      "Control of information"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizational politics are activities that:",
+    "options": [
+      "Are always illegal",
+      "Influence the distribution of advantages within the organization but are not officially sanctioned",
+      "Are the same as formal decision making",
+      "Never occur in healthy organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Political behaviour is more likely when:",
+    "options": [
+      "Resources are abundant",
+      "Rules are very clear",
+      "Everyone agrees on goals",
+      "Resources are scarce, decisions are ambiguous, and change is occurring"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Impression management is the process by which individuals:",
+    "options": [
+      "Ignore how others see them",
+      "Avoid all social interaction",
+      "Attempt to control the perceptions others have of them",
+      "Focus only on task performance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Upward influence tactics include:",
+    "options": [
+      "Ignoring superiors",
+      "Only threats",
+      "Withdrawal",
+      "Rational persuasion, ingratiation, and coalitions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Organizational design refers to:",
+    "options": [
+      "The office layout",
+      "The logo design",
+      "The formal structure of tasks, roles, and reporting relationships",
+      "The marketing plan"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Mechanistic structures are characterized by:",
+    "options": [
+      "High flexibility and low formalization",
+      "High centralization, rigid hierarchies, and many rules",
+      "Decentralized decision making",
+      "Wide spans of control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organic structures are characterized by:",
+    "options": [
+      "Rigid rules and clear authority lines",
+      "Tall hierarchies",
+      "Narrow spans of control",
+      "Flexibility, low formalization, and decentralized decision making"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A functional structure groups employees by:",
+    "options": [
+      "Product line",
+      "Specialized functions (e.g., marketing, finance, HR)",
+      "Geographic region",
+      "Customer type"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A divisional structure groups employees by:",
+    "options": [
+      "Function only",
+      "Product, geography, or customer",
+      "Seniority",
+      "Gender"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A matrix structure combines:",
+    "options": [
+      "Only functional reporting",
+      "Functional and divisional (or project) reporting, giving employees two bosses",
+      "Only project reporting",
+      "No reporting structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A boundaryless organization is one that:",
+    "options": [
+      "Has no employees",
+      "Has infinite layers of management",
+      "Removes internal and external barriers to collaboration",
+      "Is illegal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Centralization refers to:",
+    "options": [
+      "Wide span of control",
+      "Delegation of authority to lower levels",
+      "Tall structure",
+      "Concentration of decision-making authority at top levels"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Decentralization refers to:",
+    "options": [
+      "Top-only decision making",
+      "Dispersal of decision-making authority to lower levels",
+      "Narrow spans of control",
+      "High formalization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Formalization is the degree to which:",
+    "options": [
+      "Decisions are decentralized",
+      "Culture is strong",
+      "Hierarchy is flat",
+      "Jobs and rules are standardized and documented"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A tall organization has:",
+    "options": [
+      "Few hierarchical levels and wide spans of control",
+      "Many hierarchical levels and narrow spans of control",
+      "No hierarchy",
+      "Only one level"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A flat organization has:",
+    "options": [
+      "Many levels",
+      "High centralization",
+      "Few levels and wide spans of control",
+      "High formalization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Communication in organizations can flow downward, upward, and:",
+    "options": [
+      "Only diagonal",
+      "Only verbal",
+      "Laterally (horizontal)",
+      "Only written"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Downward communication includes:",
+    "options": [
+      "Employee suggestions to management",
+      "Instructions, feedback, and policy announcements from managers to subordinates",
+      "Peer-to-peer chat",
+      "Grapevine rumors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Upward communication includes:",
+    "options": [
+      "Orders from top management",
+      "Memos between departments",
+      "Social media posts",
+      "Feedback, reports, and suggestions from subordinates to managers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Horizontal communication occurs between:",
+    "options": [
+      "A boss and subordinate",
+      "Employees at the same hierarchical level, often across departments",
+      "The CEO and the janitor",
+      "Different organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The grapevine is an example of:",
+    "options": [
+      "Formal communication",
+      "Written communication",
+      "Informal communication network",
+      "Downward communication"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Information richness is highest in:",
+    "options": [
+      "A formal letter",
+      "Email",
+      "A memo",
+      "Face-to-face conversation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Barriers to effective communication include:",
+    "options": [
+      "Active listening",
+      "Filtering, selective perception, information overload, and language differences",
+      "Open feedback",
+      "Empathy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Active listening involves:",
+    "options": [
+      "Planning a response while the other is speaking",
+      "Paying full attention, reflecting, and clarifying",
+      "Interrupting frequently",
+      "Ignoring non-verbal cues"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organizational behaviour helps managers:",
+    "options": [
+      "Ignore employees' feelings",
+      "Focus only on profits",
+      "Eliminate teamwork",
+      "Understand and predict human behaviour to improve effectiveness"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Workplace stress can be caused by:",
+    "options": [
+      "Only physical hazards",
+      "Only pay level",
+      "Role ambiguity, workload, interpersonal conflict, and work-life imbalance",
+      "Only job security"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Role conflict occurs when:",
+    "options": [
+      "A role is clearly defined",
+      "An employee faces incompatible demands from different sources",
+      "All demands are consistent",
+      "There are no expectations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Role ambiguity occurs when:",
+    "options": [
+      "Job duties are over-specified",
+      "The role is very simple",
+      "There is no supervisor",
+      "An employee is unclear about job expectations or performance criteria"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Burnout is a syndrome of emotional exhaustion, depersonalization, and:",
+    "options": [
+      "High energy",
+      "Reduced personal accomplishment",
+      "Increased productivity",
+      "Job satisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Workplace deviance (counterproductive work behaviour) includes:",
+    "options": [
+      "Helping coworkers",
+      "Theft, sabotage, and incivility",
+      "Arriving early",
+      "Volunteering"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organizational citizenship behaviour (OCB) includes:",
+    "options": [
+      "Lateness and absenteeism",
+      "Ignoring work tasks",
+      "Voluntary helping, courtesy, and sportsmanship beyond formal job requirements",
+      "Refusing to cooperate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Trust in the workplace is built through:",
+    "options": [
+      "Inconsistent behaviour",
+      "Secrecy and manipulation",
+      "Punishment",
+      "Integrity, benevolence, and ability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Emotional intelligence (EI) includes self-awareness, self-management, social awareness, and:",
+    "options": [
+      "Technical skills",
+      "Relationship management",
+      "Physical strength",
+      "Analytical ability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manager with high emotional intelligence is likely to:",
+    "options": [
+      "Ignore others' emotions",
+      "Handle conflict effectively and build positive relationships",
+      "Be emotionally volatile",
+      "Avoid all social interaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Negotiation is a process in which two or more parties:",
+    "options": [
+      "Always fight",
+      "Never compromise",
+      "Exchange goods or services and attempt to agree on exchange rates",
+      "Avoid communication"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Distributive bargaining is a win-lose negotiation over:",
+    "options": [
+      "Long-term relationships",
+      "Multiple issues",
+      "A fixed amount of resources (zero-sum)",
+      "Joint problem solving"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Integrative bargaining is a win-win negotiation that seeks:",
+    "options": [
+      "To divide a fixed pie",
+      "Mutual gains and creative solutions",
+      "To maximize one's own benefit at any cost",
+      "To avoid agreement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "BATNA in negotiation stands for:",
+    "options": [
+      "Best Alternative to a Negotiated Agreement",
+      "Basic Agreement Terms and Norms Assessment",
+      "Bilateral Action for Trade and Arbitration",
+      "Binding Arbitration and Termination Notice Agreement"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In negotiation, having a strong BATNA gives a party:",
+    "options": [
+      "Less power",
+      "More power and leverage",
+      "No influence",
+      "A reason to avoid negotiation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A mediator is a neutral third party who:",
+    "options": [
+      "Makes a binding decision",
+      "Facilitates negotiation and helps parties reach a voluntary agreement",
+      "Forces a solution",
+      "Takes sides"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An arbitrator has the power to:",
+    "options": [
+      "Only suggest a solution",
+      "Walk away",
+      "Ignore both parties",
+      "Impose a binding decision on the disputing parties"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Workforce diversity includes differences in age, gender, race, ethnicity, religion, disability, and:",
+    "options": [
+      "Only education",
+      "Sexual orientation and other personal characteristics",
+      "Only job title",
+      "Only salary"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Inclusive organizations value diversity and:",
+    "options": [
+      "Ignore differences",
+      "Discriminate against majority groups",
+      "Create an environment where all members feel respected and able to participate fully",
+      "Eliminate all differences"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Unconscious bias can affect OB outcomes such as:",
+    "options": [
+      "None",
+      "Only break room conversations",
+      "Only parking assignments",
+      "Hiring, performance ratings, and promotion decisions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Managing diversity effectively can lead to:",
+    "options": [
+      "Lower creativity",
+      "Improved problem-solving and innovation",
+      "Higher turnover",
+      "Increased conflict without benefits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Resistance to change is often caused by:",
+    "options": [
+      "Clear communication of change benefits",
+      "High trust in management",
+      "Fear of the unknown, loss of control, and habit",
+      "Participation in change planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "To manage resistance to change, managers can:",
+    "options": [
+      "Ignore employee concerns",
+      "Use education, participation, support, and negotiation",
+      "Force change without explanation",
+      "Avoid any communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Lewin's change model consists of unfreezing, moving (changing), and:",
+    "options": [
+      "Freezing again",
+      "Refreezing",
+      "Melting",
+      "Accelerating"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Kotter's 8-step change model begins with:",
+    "options": [
+      "Creating quick wins",
+      "Anchoring changes in culture",
+      "Creating a sense of urgency",
+      "Forming a powerful coalition"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizational development (OD) is a planned, systematic process of change using:",
+    "options": [
+      "Only financial incentives",
+      "Punishment only",
+      "Behavioural science knowledge to improve organizational effectiveness",
+      "Ignoring human factors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Action research in OD involves:",
+    "options": [
+      "Random changes without diagnosis",
+      "Diagnosis, data collection, feedback, action, and evaluation",
+      "Top-down commands only",
+      "No employee involvement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The ultimate dependent variable in OB often studied is:",
+    "options": [
+      "Only profit",
+      "Individual and organizational performance, satisfaction, and commitment",
+      "Only CEO salary",
+      "Only stock price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "OB research methods include surveys, field studies, experiments, and:",
+    "options": [
+      "Only intuition",
+      "Only guesswork",
+      "Only astrology",
+      "Case studies and meta-analysis"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A key ethical principle in OB research is:",
+    "options": [
+      "Deception without consent",
+      "Publishing false data",
+      "Informed consent and confidentiality of participants",
+      "Ignoring participant welfare"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Job crafting is when employees:",
+    "options": [
+      "Build physical furniture",
+      "Redesign their own jobs to increase meaning and engagement",
+      "Avoid all task changes",
+      "Only follow orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Workplace spirituality refers to:",
+    "options": [
+      "Religious practices at work",
+      "Meditation breaks only",
+      "Avoiding all social interaction",
+      "A sense of purpose, meaning, and connection to others in the workplace"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A learning organization is one that:",
+    "options": [
+      "Avoids mistakes",
+      "Punishes all new ideas",
+      "Facilitates continuous learning and adapts through knowledge sharing",
+      "Has no training programs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The five disciplines of a learning organization (Senge) include personal mastery, mental models, shared vision, team learning, and:",
+    "options": [
+      "Financial accounting",
+      "Systems thinking",
+      "Marketing",
+      "Operations"
+    ],
+    "correct": 1
+  }
+]
