@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Leadership is best defined as:",
+    "options": [
+      "The ability to punish subordinates",
+      "Holding a formal management position",
+      "The process of influencing others to achieve group or organizational goals",
+      "Completing administrative tasks efficiently"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following distinguishes leadership from management?",
+    "options": [
+      "Leadership focuses on control; management focuses on vision",
+      "Leadership focuses on vision and change; management focuses on order and consistency",
+      "Leadership is only for top executives",
+      "There is no difference"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manager who inspires employees to go beyond their formal job requirements is demonstrating:",
+    "options": [
+      "Transactional leadership",
+      "Laissez-faire leadership",
+      "Bureaucratic leadership",
+      "Transformational leadership"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to trait theories of leadership, which of the following is most associated with effective leaders?",
+    "options": [
+      "Short height",
+      "Introversion",
+      "Intelligence, self-confidence, and integrity",
+      "Indifference to others"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Ohio State studies identified two key leadership behaviors: initiating structure and:",
+    "options": [
+      "Production orientation",
+      "Consideration",
+      "Employee satisfaction",
+      "Task focus"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Initiating structure refers to the extent a leader:",
+    "options": [
+      "Shows concern for subordinates' feelings",
+      "Avoids decision making",
+      "Defines roles, organizes tasks, and sets performance standards",
+      "Focuses only on personal relationships"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Consideration refers to the extent a leader:",
+    "options": [
+      "Structures tasks rigidly",
+      "Punishes mistakes harshly",
+      "Delegates all authority",
+      "Shows trust, respect, and concern for subordinates' welfare"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The University of Michigan studies identified two leadership styles: employee-oriented and:",
+    "options": [
+      "Task-oriented",
+      "Change-oriented",
+      "Production-oriented",
+      "Relationship-oriented"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to the Blake-Mouton Managerial Grid, the ideal leadership style (9,9) is called:",
+    "options": [
+      "Country club management",
+      "Team management",
+      "Authority compliance",
+      "Impoverished management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Country club management (1,9) shows:",
+    "options": [
+      "High concern for production, low for people",
+      "Low concern for both",
+      "High concern for people, low for production",
+      "High concern for both"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Authority compliance (9,1) shows:",
+    "options": [
+      "High concern for people",
+      "High concern for production, low for people",
+      "Balanced concern",
+      "No concern"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Impoverished management (1,1) shows:",
+    "options": [
+      "High concern for both",
+      "Low concern for both people and production",
+      "High concern for people only",
+      "High concern for production only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Fiedler's contingency model suggests that leadership effectiveness depends on:",
+    "options": [
+      "The leader's personality only",
+      "The number of subordinates only",
+      "Matching leadership style (task vs relationship) to situational control",
+      "The leader's age"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In Fiedler's model, situational control is determined by leader-member relations, task structure, and:",
+    "options": [
+      "Position power",
+      "Environmental turbulence",
+      "Organizational culture",
+      "Subordinate education level"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "According to Fiedler, a task-oriented leader is most effective in situations of:",
+    "options": [
+      "Moderate control only",
+      "Very high or very low control",
+      "Any level of control",
+      "No control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A relationship-oriented leader is most effective in situations of:",
+    "options": [
+      "Very high or very low control",
+      "Moderate control",
+      "Any control",
+      "Only low control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Path-Goal theory of leadership (House) focuses on:",
+    "options": [
+      "Leader traits only",
+      "Situational control only",
+      "How leaders motivate subordinates to achieve goals by clarifying paths and removing obstacles",
+      "Leader gender"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to Path-Goal theory, a directive leader:",
+    "options": [
+      "Consults with subordinates",
+      "Achieves high performance regardless of situation",
+      "Avoids giving any guidance",
+      "Provides clear instructions, schedules, and performance standards"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to Path-Goal theory, a supportive leader:",
+    "options": [
+      "Sets challenging goals",
+      "Shows concern for subordinate well-being and creates a friendly environment",
+      "Punishes poor performance",
+      "Delegates all decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Participative leadership in Path-Goal theory involves:",
+    "options": [
+      "Making decisions alone",
+      "Consulting with subordinates and considering their input",
+      "Avoiding all decisions",
+      "Following orders from above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Achievement-oriented leadership sets:",
+    "options": [
+      "Easy goals to avoid stress",
+      "No goals",
+      "Goals unrelated to work",
+      "Challenging goals and expects high performance with confidence"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Path-Goal theory suggests that directive leadership is most effective when tasks are:",
+    "options": [
+      "Highly structured and clear",
+      "Ambiguous, complex, or unstructured",
+      "Already mastered by subordinates",
+      "Extremely simple"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Hersey and Blanchard's situational leadership model suggests that leader style should match:",
+    "options": [
+      "Leader's personality",
+      "Organizational size",
+      "Followers' readiness (ability and willingness)",
+      "Industry type"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The four leadership styles in situational leadership are telling, selling, participating, and:",
+    "options": [
+      "Delegating",
+      "Directing",
+      "Coaching",
+      "Supporting"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "For low readiness followers (low ability, low willingness), the recommended style is:",
+    "options": [
+      "Delegating",
+      "Telling (high task, low relationship)",
+      "Participating",
+      "Selling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "For high readiness followers (high ability, high willingness), the recommended style is:",
+    "options": [
+      "Telling",
+      "Delegating (low task, low relationship)",
+      "Selling",
+      "Participating"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Transactional leadership is based on:",
+    "options": [
+      "Inspiring followers to transcend self-interest",
+      "Exchanging rewards for effort and managing by exception",
+      "Ignoring follower needs",
+      "Charismatic inspiration only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Transformational leadership includes idealized influence, inspirational motivation, intellectual stimulation, and:",
+    "options": [
+      "Contingent reward",
+      "Individualized consideration",
+      "Management by exception",
+      "Laissez-faire"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A transformational leader who acts as a role model and exhibits high ethical standards is demonstrating:",
+    "options": [
+      "Inspirational motivation",
+      "Individualized consideration",
+      "Intellectual stimulation",
+      "Idealized influence"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When a leader encourages creativity, innovation, and questioning of assumptions, they are using:",
+    "options": [
+      "Contingent reward",
+      "Intellectual stimulation",
+      "Passive management by exception",
+      "Laissez-faire"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A leader who pays attention to each follower's needs and acts as a mentor or coach is showing:",
+    "options": [
+      "Intellectual stimulation",
+      "Idealized influence",
+      "Management by exception",
+      "Individualized consideration"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Charismatic leadership is a component of:",
+    "options": [
+      "Transactional leadership",
+      "Transformational leadership",
+      "Laissez-faire leadership",
+      "Bureaucratic leadership"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A leader who avoids making decisions and abdicates responsibility is using:",
+    "options": [
+      "Transformational leadership",
+      "Transactional leadership",
+      "Democratic leadership",
+      "Laissez-faire leadership"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The full range leadership model includes transformational, transactional, and:",
+    "options": [
+      "Autocratic",
+      "Laissez-faire",
+      "Democratic",
+      "Servant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Servant leadership prioritizes:",
+    "options": [
+      "The leader's own career advancement",
+      "Maximizing shareholder wealth at any cost",
+      "Serving the needs of followers and helping them grow",
+      "Strict rule enforcement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Authentic leadership is characterized by:",
+    "options": [
+      "Pretending to be someone else",
+      "Self-awareness, transparency, and acting consistently with values",
+      "Manipulating followers",
+      "Avoiding feedback"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key behavior of authentic leaders?",
+    "options": [
+      "Hiding mistakes",
+      "Relational transparency and balanced processing",
+      "Ignoring ethical issues",
+      "Making decisions without input"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical leadership involves:",
+    "options": [
+      "Breaking rules when convenient",
+      "Punishing all employees equally",
+      "Focusing only on profits",
+      "Demonstrating normatively appropriate conduct and promoting ethical behavior"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A leader who is admired for their ability to articulate an appealing vision and arouse strong emotions is:",
+    "options": [
+      "Transactional",
+      "Laissez-faire",
+      "Charismatic",
+      "Bureaucratic"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The primary difference between charismatic and transformational leadership is that:",
+    "options": [
+      "Charismatic leadership is always unethical",
+      "Transformational leadership focuses on developing followers to become leaders themselves",
+      "There is no difference",
+      "Charismatic leadership is only for small groups"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Change management is defined as:",
+    "options": [
+      "Maintaining the status quo at all costs",
+      "Eliminating all employee input",
+      "Avoiding any adaptation to the environment",
+      "The process of planning, implementing, and stabilizing changes in an organization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The three stages of Lewin's change model are:",
+    "options": [
+      "Freeze, shake, solidify",
+      "Unfreezing, moving (changing), refreezing",
+      "Denial, acceptance, commitment",
+      "Planning, execution, review"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Lewin's model, unfreezing involves:",
+    "options": [
+      "Implementing the change",
+      "Creating motivation for change and reducing resistance",
+      "Making the change permanent",
+      "Ignoring the need for change"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The moving (changing) stage in Lewin's model involves:",
+    "options": [
+      "Returning to old habits",
+      "Canceling the change",
+      "Implementing the desired change, including new behaviors and processes",
+      "Punishing resisters"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Refreezing in Lewin's model means:",
+    "options": [
+      "Stopping all change efforts",
+      "Stabilizing the change and integrating it into the organizational culture and systems",
+      "Reverting to the old state",
+      "Ignoring the change"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Kotter's 8-step change model begins with:",
+    "options": [
+      "Creating quick wins",
+      "Anchoring changes in culture",
+      "Forming a powerful coalition",
+      "Creating a sense of urgency"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which step in Kotter's model involves building a guiding coalition of influential people?",
+    "options": [
+      "Step 1",
+      "Step 2",
+      "Step 3",
+      "Step 4"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Developing a vision and strategy is which step in Kotter's model?",
+    "options": [
+      "Step 1",
+      "Step 3",
+      "Step 5",
+      "Step 7"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Communicating the change vision widely is Kotter's step:",
+    "options": [
+      "Step 2",
+      "Step 4",
+      "Step 6",
+      "Step 8"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Empowering broad-based action (removing obstacles) is Kotter's step:",
+    "options": [
+      "Step 3",
+      "Step 5",
+      "Step 7",
+      "Step 8"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Generating short-term wins is important in Kotter's model to:",
+    "options": [
+      "Reduce urgency",
+      "Build momentum and validate the change effort",
+      "Replace the vision",
+      "Stop the change"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Consolidating gains and producing more change (step 7) involves:",
+    "options": [
+      "Declaring victory too early",
+      "Returning to old ways",
+      "Using credibility from early wins to tackle larger changes",
+      "Firing change agents"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Anchoring new approaches in culture (step 8) means:",
+    "options": [
+      "Ignoring culture",
+      "Reverting to old culture",
+      "Avoiding any reinforcement",
+      "Making change stick by embedding it in norms, values, and systems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Organizational change can be incremental (gradual) or:",
+    "options": [
+      "Unnecessary",
+      "Transformational (radical, large-scale)",
+      "Always accidental",
+      "Always planned"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "First-order change is typically:",
+    "options": [
+      "Fundamental, paradigm-shifting",
+      "Chaotic and uncontrolled",
+      "Always technological",
+      "Incremental, fine-tuning within existing framework"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Second-order change (transformational change) involves:",
+    "options": [
+      "Minor adjustments",
+      "Fundamental shifts in strategy, structure, or culture",
+      "No disruption",
+      "Only changing office furniture"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Planned change is:",
+    "options": [
+      "Reactive and unplanned",
+      "Accidental improvement",
+      "Deliberate, intentional change designed to achieve specific goals",
+      "Always resisted"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Unplanned change occurs due to:",
+    "options": [
+      "Strategic planning",
+      "Scheduled initiatives",
+      "Routine maintenance",
+      "External events (crisis, unexpected competitor action) requiring spontaneous response"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A reactive change strategy responds to:",
+    "options": [
+      "Future opportunities",
+      "Problems or threats after they occur",
+      "Proactive planning",
+      "Employee suggestions only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A proactive change strategy anticipates:",
+    "options": [
+      "No change",
+      "Future opportunities and threats and prepares in advance",
+      "Only negative events",
+      "Only positive events"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Resistance to change is:",
+    "options": [
+      "Always irrational",
+      "Never justified",
+      "A natural response to perceived threat, loss, or uncertainty",
+      "Always easily overcome"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Common individual sources of resistance to change include:",
+    "options": [
+      "Excitement and anticipation",
+      "Habit, fear of the unknown, and economic insecurity",
+      "High job satisfaction",
+      "Strong leadership support"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organizational sources of resistance to change include:",
+    "options": [
+      "Agile structure",
+      "Structural inertia, group norms, and power conflicts",
+      "High adaptability",
+      "Strong change readiness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A technique to overcome resistance that involves explaining benefits and reasons is:",
+    "options": [
+      "Coercion",
+      "Manipulation",
+      "Education and communication",
+      "Negotiation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Using participation and involvement to overcome resistance:",
+    "options": [
+      "Increases resistance",
+      "Is never effective",
+      "Only works for trivial changes",
+      "Increases ownership and reduces resistance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Facilitation and support (e.g., training, counseling) help overcome resistance by:",
+    "options": [
+      "Forcing compliance",
+      "Reducing fear and anxiety, building skills",
+      "Ignoring concerns",
+      "Punishing resisters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Negotiation as a resistance management tactic involves:",
+    "options": [
+      "Threatening employees",
+      "Exchanging benefits for cooperation",
+      "Avoiding discussion",
+      "Denying any change"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Manipulation and co-optation as change tactics are:",
+    "options": [
+      "Highly ethical and transparent",
+      "Potentially unethical, as they involve selective information or giving resisters a role to buy them off",
+      "Never effective",
+      "Always the best approach"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Explicit coercion (threats, transfers, firing) should be used only as:",
+    "options": [
+      "First resort",
+      "Routine practice",
+      "Last resort when speed is essential and others have failed",
+      "Never, under any circumstances"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizational development (OD) is:",
+    "options": [
+      "A financial strategy",
+      "A marketing technique",
+      "A production method",
+      "A planned, systematic change process using behavioral science to improve organizational effectiveness"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "OD interventions include:",
+    "options": [
+      "Price reductions",
+      "Team building, survey feedback, process consultation, and T-groups",
+      "Stock splits",
+      "Advertising campaigns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Survey feedback as an OD intervention involves:",
+    "options": [
+      "Ignoring employee input",
+      "Only surveying managers",
+      "Collecting data via surveys, then feeding results back to groups for problem solving",
+      "Keeping results confidential"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Team building interventions aim to:",
+    "options": [
+      "Eliminate teams",
+      "Improve communication, trust, and problem-solving within teams",
+      "Increase individual competition",
+      "Reduce group cohesion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Process consultation focuses on:",
+    "options": [
+      "Product design",
+      "Financial auditing",
+      "Helping groups understand and improve their own processes (communication, decision making)",
+      "Recruitment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Appreciative inquiry (AI) is an OD approach that:",
+    "options": [
+      "Focuses on problems and deficits",
+      "Punishes failures",
+      "Identifies what works well and amplifies positive elements to create change",
+      "Avoids any positive thinking"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The 4-D cycle of appreciative inquiry includes Discovery, Dream, Design, and:",
+    "options": [
+      "Denial",
+      "Destiny",
+      "Destruction",
+      "Delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Conflict is defined as:",
+    "options": [
+      "Complete agreement among parties",
+      "A process that begins when one party perceives that another has negatively affected something they care about",
+      "Always destructive and avoidable",
+      "A legal dispute only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Traditional view of conflict holds that:",
+    "options": [
+      "Conflict is natural and beneficial",
+      "Conflict is necessary for group performance",
+      "Conflict never occurs",
+      "Conflict is harmful and must be avoided or eliminated"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The human relations view of conflict suggests that:",
+    "options": [
+      "Conflict should be completely avoided",
+      "Conflict is natural and inevitable, and sometimes beneficial",
+      "Conflict is always positive",
+      "Conflict only occurs in dysfunctional organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The interactionist view of conflict holds that:",
+    "options": [
+      "All conflict is bad",
+      "Conflict should be suppressed immediately",
+      "Some conflict is necessary and even healthy for group performance",
+      "Only interpersonal conflict matters"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Functional conflict is conflict that:",
+    "options": [
+      "Hinders group performance",
+      "Supports group goals and improves performance",
+      "Is always personal",
+      "Is never resolved"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Dysfunctional conflict is conflict that:",
+    "options": [
+      "Improves creativity",
+      "Hinders group performance and is destructive",
+      "Is task-oriented",
+      "Is always resolved quickly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Task conflict relates to:",
+    "options": [
+      "Personal dislikes and personality clashes",
+      "Emotional animosity",
+      "Disagreements about work content, goals, or methods",
+      "Competition over status"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Relationship conflict involves:",
+    "options": [
+      "Work procedures",
+      "Resource allocation",
+      "Strategic direction",
+      "Interpersonal incompatibility, tension, and animosity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Process conflict concerns:",
+    "options": [
+      "Personal values",
+      "How work gets done, delegation, and role assignment",
+      "Salary levels",
+      "Office location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The dual concern model of conflict management has two dimensions: concern for self and:",
+    "options": [
+      "Concern for profit",
+      "Concern for others",
+      "Concern for time",
+      "Concern for rules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The five conflict management styles (Thomas-Kilmann) are competing, collaborating, compromising, avoiding, and:",
+    "options": [
+      "Fighting",
+      "Mediating",
+      "Accommodating",
+      "Arbitrating"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Competing (forcing) style is high in assertiveness and low in:",
+    "options": [
+      "Concern for self",
+      "Cooperativeness",
+      "Speed",
+      "Ethics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Collaborating style is high in assertiveness and high in:",
+    "options": [
+      "Avoidance",
+      "Aggression",
+      "Passivity",
+      "Cooperativeness"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Compromising style is intermediate in both assertiveness and:",
+    "options": [
+      "Cooperativeness",
+      "Hostility",
+      "Withdrawal",
+      "Dominance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Avoiding style is low in assertiveness and low in:",
+    "options": [
+      "Cooperativeness",
+      "Intelligence",
+      "Time",
+      "Conflict"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Accommodating style is low in assertiveness and high in:",
+    "options": [
+      "Cooperativeness",
+      "Competition",
+      "Avoidance",
+      "Aggression"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Collaborating is most appropriate when:",
+    "options": [
+      "The issue is trivial",
+      "Both parties' concerns are important, and they need to find an integrative solution",
+      "Quick decision is required",
+      "The relationship is unimportant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Competing is appropriate when:",
+    "options": [
+      "Long-term relationships are critical",
+      "Quick, decisive action is needed (e.g., emergency)",
+      "The issue is complex and requires multiple perspectives",
+      "All parties agree"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Accommodating is appropriate when:",
+    "options": [
+      "You are wrong about the issue",
+      "You want to preserve harmony and the issue matters more to the other party",
+      "The issue is very important to you",
+      "You have strong power"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Compromising is appropriate when:",
+    "options": [
+      "There is a threat of relationship breakdown",
+      "Parties have equal power and need a temporary solution",
+      "One party is completely right",
+      "Time is unlimited"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Avoiding is appropriate when:",
+    "options": [
+      "The issue is very important",
+      "Both parties are willing to collaborate",
+      "The issue is trivial or more time is needed to gather information",
+      "A quick decision is essential"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Third-party conflict resolution options include mediation, arbitration, and:",
+    "options": [
+      "Litigation only",
+      "Conciliation (facilitation)",
+      "Ignoring the conflict",
+      "Fighting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mediation involves a neutral third party who:",
+    "options": [
+      "Imposes a binding solution",
+      "Takes sides",
+      "Facilitates communication and negotiation but does not impose a decision",
+      "Avoids involvement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Arbitration involves a neutral third party who:",
+    "options": [
+      "Only suggests a solution",
+      "Hears evidence and makes a binding decision",
+      "Encourages the parties to fight",
+      "Refuses to hear the case"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In voluntary arbitration, the parties:",
+    "options": [
+      "Are forced by law",
+      "Can ignore the decision",
+      "Agree in advance to accept the arbitrator's decision",
+      "Never agree"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Negotiation is a process of:",
+    "options": [
+      "Avoiding conflict entirely",
+      "Always using an arbitrator",
+      "Two or more parties exchanging offers and counteroffers to reach an agreement",
+      "One party dictating terms"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Distributive negotiation (win-lose) assumes:",
+    "options": [
+      "Integrative potential",
+      "A fixed pie of resources that must be divided",
+      "Mutual gains are possible",
+      "Long-term relationship is key"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Integrative negotiation (win-win) seeks:",
+    "options": [
+      "To maximize one's own gain at any cost",
+      "To avoid any agreement",
+      "To use deception",
+      "To create value and expand the pie for mutual benefit"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A key tactic in integrative negotiation is:",
+    "options": [
+      "Hiding information",
+      "Making extreme demands",
+      "Sharing interests and brainstorming options",
+      "Refusing to compromise"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "BATNA stands for:",
+    "options": [
+      "Best Agreement to Negotiate Tactics",
+      "Best Alternative to a Negotiated Agreement",
+      "Binding Arbitration and Termination Notice Agreement",
+      "Bilateral Action for Trade and Negotiation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In negotiation, knowing your BATNA gives you:",
+    "options": [
+      "Less power",
+      "More power and confidence",
+      "No advantage",
+      "A reason to walk away without trying"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The reservation point in negotiation is:",
+    "options": [
+      "The starting offer",
+      "The final contract price",
+      "The time limit",
+      "The least favorable point at which a negotiator is willing to accept a deal"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The zone of possible agreement (ZOPA) exists when:",
+    "options": [
+      "There is no overlap between parties' reservation points",
+      "The buyer's reservation point is above the seller's reservation point",
+      "Both parties refuse to negotiate",
+      "The mediator has no authority"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Anchoring in negotiation refers to:",
+    "options": [
+      "Moving a ship",
+      "Ending the negotiation",
+      "Ignoring the first offer",
+      "The effect of an initial offer that influences subsequent negotiations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Emotional intelligence in conflict management helps by:",
+    "options": [
+      "Escalating emotions",
+      "Recognizing and regulating emotions to de-escalate conflict",
+      "Suppressing all feelings",
+      "Avoiding all communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A learning organization is one that:",
+    "options": [
+      "Avoids mistakes",
+      "Continuously learns, adapts, and changes through knowledge sharing",
+      "Punishes innovation",
+      "Has no training programs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Culture change is often the most difficult type of change because:",
+    "options": [
+      "Culture is irrelevant",
+      "Culture changes overnight",
+      "Culture involves deep assumptions, values, and norms that are taken for granted",
+      "Culture is always positive"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A change agent can be:",
+    "options": [
+      "Only an external consultant",
+      "Only a senior executive",
+      "Only a frontline employee",
+      "An internal or external person who leads and facilitates change efforts"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The role of a change agent includes:",
+    "options": [
+      "Resisting all change",
+      "Diagnosing problems, planning, implementing, and stabilizing change",
+      "Ignoring employee concerns",
+      "Avoiding communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Action research in change management involves:",
+    "options": [
+      "Random changes without diagnosis",
+      "Only top-down directives",
+      "A cyclical process of diagnosis, action, and evaluation",
+      "No data collection"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Force field analysis (Lewin) identifies:",
+    "options": [
+      "Only positive forces",
+      "Driving forces (for change) and restraining forces (against change)",
+      "Only negative forces",
+      "Random factors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To implement change effectively, one should:",
+    "options": [
+      "Increase restraining forces",
+      "Strengthen driving forces and/or reduce restraining forces",
+      "Ignore both",
+      "Increase both equally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Transformational change often requires:",
+    "options": [
+      "Minor tweaks",
+      "No leadership support",
+      "Only technological changes",
+      "A shift in organizational culture, strategy, and mindset"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"burning platform\" metaphor in change management means:",
+    "options": [
+      "A physical fire in the office",
+      "Ignoring problems",
+      "Creating a sense of urgency that change is necessary for survival",
+      "Waiting for change to happen naturally"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a critical success factor for change management?",
+    "options": [
+      "Lack of communication",
+      "Visible leadership support and employee involvement",
+      "Avoiding any training",
+      "Punishing all employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Employee involvement in change decisions tends to:",
+    "options": [
+      "Increase resistance",
+      "Increase commitment and reduce resistance",
+      "Have no effect",
+      "Slow down change too much to be useful"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Communication during change should be:",
+    "options": [
+      "One-way and infrequent",
+      "Transparent, frequent, and two-way",
+      "Secretive",
+      "Only written memos"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Training during change helps:",
+    "options": [
+      "Ensure employees have skills for new processes",
+      "Increase anxiety and resistance",
+      "Replace the need for leadership",
+      "Avoid any change"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Celebrating short-term wins during change:",
+    "options": [
+      "Is a waste of time",
+      "Builds momentum and reinforces progress",
+      "Should never be done",
+      "Only benefits top management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustaining change requires:",
+    "options": [
+      "Declaring victory immediately",
+      "Reverting to old ways",
+      "Ignoring feedback",
+      "Reinforcing new behaviors through rewards, policies, and culture"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A common reason why change efforts fail is:",
+    "options": [
+      "Too much communication",
+      "Lack of a sense of urgency and insufficient leadership support",
+      "Over-involvement of employees",
+      "Too many short-term wins"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Kotter's 8 steps\" can fail if:",
+    "options": [
+      "Steps are followed sequentially",
+      "The leader declares victory too early (step 6 vs step 8)",
+      "Urgency is created",
+      "A guiding coalition is formed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organizational culture can be a barrier to change if it:",
+    "options": [
+      "Is adaptive",
+      "Encourages learning",
+      "Is rigid and values stability over innovation",
+      "Supports experimentation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "To change culture, leaders must:",
+    "options": [
+      "Only issue memos",
+      "Model new behaviors, change reward systems, and tell new stories",
+      "Avoid all communication",
+      "Keep old rituals unchanged"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a symbolic change action?",
+    "options": [
+      "Changing the mission statement but not practices",
+      "Only sending emails",
+      "Ignoring change",
+      "A leader visibly using new equipment to demonstrate commitment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A \"change-ready\" organization is characterized by:",
+    "options": [
+      "Fear of failure",
+      "Flexibility, trust, and openness to innovation",
+      "Rigid hierarchies",
+      "Punishment of mistakes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The role of middle managers in change is often:",
+    "options": [
+      "Unimportant",
+      "Crucial as translators and implementers of change",
+      "Only to resist",
+      "To ignore change"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Resistance to change can sometimes be positive because it:",
+    "options": [
+      "Always stops progress",
+      "Forces critical evaluation and prevents reckless change",
+      "Is never useful",
+      "Increases turnover"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When implementing change, pilots and trials help by:",
+    "options": [
+      "Testing changes on a small scale before full rollout",
+      "Increasing risk dramatically",
+      "Avoiding all feedback",
+      "Replacing the need for planning"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Post-change reinforcement includes:",
+    "options": [
+      "Ignoring results",
+      "Aligning performance appraisals and rewards with new behaviors",
+      "Returning to old measures",
+      "Eliminating all feedback"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A leader's emotional intelligence is particularly important during change because:",
+    "options": [
+      "Change is purely logical",
+      "Change creates anxiety and requires empathy and support",
+      "Emotions never matter",
+      "Only rational arguments work"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"ADKAR\" model of change focuses on Awareness, Desire, Knowledge, Ability, and:",
+    "options": [
+      "Attitude",
+      "Reinforcement",
+      "Action",
+      "Accountability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The difference between a leader and a manager in change contexts is that:",
+    "options": [
+      "Leaders maintain stability, managers drive change",
+      "Leaders create vision and inspire change, managers plan and control",
+      "There is no difference",
+      "Only managers can change things"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Charismatic leaders can be effective in change but may also:",
+    "options": [
+      "Build sustainable systems",
+      "Create dependency and fail to institutionalize change",
+      "Always succeed",
+      "Avoid all risks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical considerations in change management include:",
+    "options": [
+      "Manipulating employees without consent",
+      "Coercion as first resort",
+      "Respecting dignity, transparency, and fairness",
+      "Hiding the true reasons for change"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cross-cultural leadership differences affect change because:",
+    "options": [
+      "All cultures respond identically to change",
+      "Power distance, uncertainty avoidance, and time orientation vary across cultures",
+      "Culture has no impact",
+      "Only Western models work"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In high uncertainty avoidance cultures, change should be:",
+    "options": [
+      "Fast and radical",
+      "Avoided entirely",
+      "Unstructured",
+      "Well-planned, with clear steps and reassurance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In collectivist cultures, change implementation should:",
+    "options": [
+      "Focus on individual rewards only",
+      "Ignore group dynamics",
+      "Involve group consultation and emphasize team benefits",
+      "Use only top-down commands"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of \"psychological safety\" during change means:",
+    "options": [
+      "No one can speak up",
+      "Employees feel safe to voice concerns and take risks without fear of punishment",
+      "Only positive comments allowed",
+      "All change is safe"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A leader's ability to articulate a compelling vision is critical because:",
+    "options": [
+      "Vision is irrelevant",
+      "It provides direction and motivates action",
+      "It replaces planning",
+      "Only money motivates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Vision statements during change should be:",
+    "options": [
+      "Vague and abstract",
+      "Only about financial targets",
+      "Clear, challenging, and achievable",
+      "Kept secret"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"storytelling\" technique in change leadership helps by:",
+    "options": [
+      "Spreading rumors",
+      "Replacing data",
+      "Creating confusion",
+      "Making the change understandable and emotionally engaging"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A change leader who models desired behaviors is using:",
+    "options": [
+      "Coercion",
+      "Avoidance",
+      "Leading by example",
+      "Delegation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The ultimate measure of change success is:",
+    "options": [
+      "Speed of implementation",
+      "Number of memos sent",
+      "Absence of resistance",
+      "Sustainable improvement in organizational performance and adaptation"
+    ],
+    "correct": 3
+  }
+]
