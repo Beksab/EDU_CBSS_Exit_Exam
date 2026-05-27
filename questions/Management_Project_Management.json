@@ -1,0 +1,1592 @@
+[
+  {
+    "questionText": "A project is defined as:",
+    "options": [
+      "A routine, ongoing operational activity",
+      "A continuous process with no defined end",
+      "A temporary endeavor undertaken to create a unique product, service, or result",
+      "A repetitive manufacturing task"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of a project?",
+    "options": [
+      "Temporary, unique, and progressively elaborated",
+      "Ongoing and repetitive",
+      "Perpetual and unchanging",
+      "No defined start or end"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The primary difference between a project and operations is that projects are:",
+    "options": [
+      "Repetitive and permanent",
+      "More important than operations",
+      "Never constrained by resources",
+      "Temporary and unique, while operations are ongoing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project management is the application of knowledge, skills, tools, and techniques to:",
+    "options": [
+      "Avoid all planning",
+      "Eliminate project teams",
+      "Meet project requirements and objectives",
+      "Focus only on cost cutting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a typical constraint in project management?",
+    "options": [
+      "No constraints exist",
+      "Only customer satisfaction",
+      "Only resource availability",
+      "Scope, time, cost, and quality"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"triple constraint\" in project management includes:",
+    "options": [
+      "Quality, risk, and communication",
+      "Scope, time, and cost",
+      "Resources, procurement, and stakeholders",
+      "Planning, execution, and closure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project life cycle typically includes phases such as initiation, planning, execution, and:",
+    "options": [
+      "Termination only",
+      "Marketing",
+      "Monitoring/control and closure",
+      "Recruitment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The project initiation phase includes:",
+    "options": [
+      "Detailed scheduling",
+      "Building the product",
+      "Closing contracts",
+      "Defining the project charter, identifying stakeholders, and authorizing the project"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project charter is a document that:",
+    "options": [
+      "Lists all project risks",
+      "Formally authorizes the project and gives the project manager authority",
+      "Contains detailed work schedules",
+      "Is optional for small projects"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The project management plan is developed in which phase?",
+    "options": [
+      "Execution",
+      "Closing",
+      "Initiation",
+      "Planning"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The executing phase involves:",
+    "options": [
+      "Defining scope",
+      "Performing the work defined in the project management plan",
+      "Monitoring variances",
+      "Closing the project"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The monitoring and controlling phase involves:",
+    "options": [
+      "Only reporting",
+      "Only budget approval",
+      "Tracking progress, managing changes, and taking corrective action",
+      "Only team building"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The closing phase includes:",
+    "options": [
+      "Initiating the project",
+      "Detailed planning",
+      "Risk identification",
+      "Finalizing all activities, handing over deliverables, and releasing resources"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project identification is the process of:",
+    "options": [
+      "Executing project tasks",
+      "Recognizing and selecting potential projects that align with organizational strategy",
+      "Closing a project",
+      "Hiring team members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sources of project ideas include:",
+    "options": [
+      "Only government mandates",
+      "Only competitor actions",
+      "Customer needs, technological advances, market demands, and regulatory requirements",
+      "Only internal cost reduction"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A project selection method that uses financial criteria such as Net Present Value (NPV) is:",
+    "options": [
+      "Qualitative analysis",
+      "Random selection",
+      "Expert judgment only",
+      "Benefit measurement method"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Net Present Value (NPV) is positive when:",
+    "options": [
+      "The project destroys value",
+      "The payback period is longer than the project life",
+      "The present value of future cash flows exceeds the initial investment",
+      "The discount rate is zero"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Internal Rate of Return (IRR) is the discount rate at which:",
+    "options": [
+      "NPV is negative",
+      "NPV equals zero",
+      "NPV is maximized",
+      "Payback period is zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project with a higher IRR compared to the cost of capital should be:",
+    "options": [
+      "Accepted (all else equal)",
+      "Rejected",
+      "Postponed indefinitely",
+      "Ignored"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Payback period measures:",
+    "options": [
+      "Total project profit",
+      "The net present value",
+      "The time required to recover the initial investment",
+      "The internal rate of return"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A limitation of payback period is that it:",
+    "options": [
+      "Considers all cash flows",
+      "Ignores the time value of money and cash flows after payback",
+      "Is too complex to calculate",
+      "Always favors long‑term projects"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Benefit‑Cost Ratio (BCR) greater than 1 indicates:",
+    "options": [
+      "Costs exceed benefits",
+      "Project should be rejected",
+      "No benefit",
+      "Benefits exceed costs, project is viable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A scoring model for project selection uses:",
+    "options": [
+      "Only financial metrics",
+      "Multiple weighted criteria (strategic alignment, risk, etc.) to rank projects",
+      "Random numbers",
+      "Only one criterion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project feasibility study is conducted to:",
+    "options": [
+      "Guarantee project success",
+      "Replace the project plan",
+      "Assess the viability of a project before committing resources",
+      "Avoid all analysis"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Types of feasibility studies include technical, economic, legal, operational, and:",
+    "options": [
+      "Only marketing",
+      "Schedule feasibility",
+      "Aesthetic feasibility",
+      "Cultural feasibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Technical feasibility examines:",
+    "options": [
+      "Market demand",
+      "Legal requirements only",
+      "Financial returns",
+      "Whether the project can be built with available technology and expertise"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Economic feasibility (cost‑benefit analysis) evaluates:",
+    "options": [
+      "Only technical aspects",
+      "Whether the project's financial benefits outweigh its costs",
+      "Only legal compliance",
+      "Only team skills"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Legal feasibility assesses:",
+    "options": [
+      "Production capability",
+      "Customer preferences",
+      "Equipment availability",
+      "Compliance with laws, regulations, and contractual obligations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Operational feasibility asks:",
+    "options": [
+      "Can we build it?",
+      "Will the organization be able to use and support the project's outputs?",
+      "Is it profitable?",
+      "Is it legal?"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Schedule feasibility evaluates:",
+    "options": [
+      "Only cost",
+      "Only quality",
+      "Whether the project can be completed within a reasonable timeframe",
+      "Only team morale"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A project charter should include:",
+    "options": [
+      "Detailed work breakdown structure",
+      "Every task down to the hour",
+      "Only the project name",
+      "Project purpose, objectives, high‑level scope, key stakeholders, and budget"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A stakeholder is anyone who:",
+    "options": [
+      "Has no interest in the project",
+      "Only includes the project manager",
+      "Has a vested interest in the project or may be affected by it",
+      "Only includes external customers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Stakeholder analysis involves:",
+    "options": [
+      "Ignoring stakeholder needs",
+      "Only listing names without analysis",
+      "Avoiding communication",
+      "Identifying stakeholders, their interests, influence, and potential impact on the project"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project manager's primary role is to:",
+    "options": [
+      "Do all the technical work alone",
+      "Lead the project team, manage resources, and ensure project objectives are met",
+      "Only approve expenses",
+      "Avoid conflict"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Work Breakdown Structure (WBS) is:",
+    "options": [
+      "A list of employee names",
+      "A budget spreadsheet",
+      "A risk register",
+      "A hierarchical decomposition of project deliverables and work required"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The WBS helps to:",
+    "options": [
+      "Hide project complexity",
+      "Organize work, assign responsibilities, and estimate costs and durations",
+      "Eliminate all planning",
+      "Replace the project schedule"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The lowest level of a WBS is called a:",
+    "options": [
+      "Deliverable",
+      "Work package",
+      "Task name only",
+      "Milestone"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A work package is a deliverable that can be:",
+    "options": [
+      "Ignored",
+      "Deleted without effect",
+      "Completed by anyone without assignment",
+      "Estimated in time and cost and assigned to a specific team"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A milestone in project management is:",
+    "options": [
+      "A detailed task",
+      "A cost estimate",
+      "A significant event or achievement with zero duration",
+      "A risk assessment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The critical path is the:",
+    "options": [
+      "Shortest sequence of activities",
+      "Longest sequence of dependent activities that determines the project's minimum completion time",
+      "Easiest path to complete",
+      "Path with the most slack"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Activities on the critical path have:",
+    "options": [
+      "Positive slack",
+      "Negative slack",
+      "Zero slack (float)",
+      "Unlimited slack"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Float (slack) is the amount of time an activity can be delayed without:",
+    "options": [
+      "Increasing cost",
+      "Affecting quality",
+      "Changing scope",
+      "Delaying the project finish date"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A Gantt chart is used to:",
+    "options": [
+      "Show only costs",
+      "Visually display project schedule tasks, durations, and dependencies over time",
+      "Replace the WBS",
+      "Show only risks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A PERT (Program Evaluation and Review Technique) uses three time estimates: optimistic, most likely, and:",
+    "options": [
+      "Average",
+      "Pessimistic",
+      "Median",
+      "Minimum"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The expected time (TE) in PERT is calculated as:",
+    "options": [
+      "(O + M + P) / 3",
+      "(O + 4M + P) / 6",
+      "(O + M + P) / 6",
+      "(O + 2M + P) / 4"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The main advantage of PERT over CPM is that PERT:",
+    "options": [
+      "Ignores uncertainty",
+      "Is only for construction projects",
+      "Uses deterministic durations",
+      "Incorporates uncertainty in activity durations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "CPM (Critical Path Method) assumes:",
+    "options": [
+      "Variable durations",
+      "No dependencies",
+      "Deterministic (known) activity durations",
+      "No critical path"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Crashing a project means:",
+    "options": [
+      "Reducing scope",
+      "Extending the schedule",
+      "Reducing quality",
+      "Shortening the project duration by adding resources or increasing cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Fast tracking a project means:",
+    "options": [
+      "Adding more resources",
+      "Performing activities in parallel that would normally be done sequentially, possibly increasing risk",
+      "Reducing the budget",
+      "Eliminating milestones"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Resource leveling is used to:",
+    "options": [
+      "Increase resource peaks",
+      "Always crash the project",
+      "Smooth resource demand to avoid over‑allocation or fluctuation",
+      "Ignore resource constraints"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Project cost estimation techniques include analogous, parametric, and:",
+    "options": [
+      "Random guess",
+      "Bottom‑up estimating",
+      "Wishful thinking",
+      "Only expert judgment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analogous estimating uses:",
+    "options": [
+      "Statistical relationships",
+      "Detailed bottom‑up calculations",
+      "Historical data from similar projects to estimate current project",
+      "No data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Parametric estimating uses:",
+    "options": [
+      "Expert opinion only",
+      "No formulas",
+      "Only top‑down approach",
+      "Statistical relationship between historical data and variables (e.g., cost per square meter)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Bottom‑up estimating involves:",
+    "options": [
+      "Estimating at the project level only",
+      "Estimating individual work packages and rolling up to total",
+      "Ignoring details",
+      "Only using one number"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Contingency reserves are for:",
+    "options": [
+      "Unknown‑unknowns",
+      "Scope changes",
+      "Known‑unknowns (identified risks)",
+      "Profit margin"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Management reserves are for:",
+    "options": [
+      "Known risks",
+      "Unknown‑unknowns (unforeseen events)",
+      "Routine costs",
+      "Salary increases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Earned Value Management (EVM) integrates scope, schedule, and:",
+    "options": [
+      "Quality",
+      "Risk",
+      "Cost",
+      "Communication"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Planned Value (PV) is the:",
+    "options": [
+      "Actual cost incurred",
+      "Budgeted cost of work scheduled",
+      "Budgeted cost of work performed",
+      "Actual cost of work performed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Earned Value (EV) is the:",
+    "options": [
+      "Planned budget",
+      "Actual cost incurred",
+      "Total project budget",
+      "Budgeted cost of work actually performed"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Actual Cost (AC) is the:",
+    "options": [
+      "Planned budget",
+      "Total cost of work performed to date",
+      "Budget at completion",
+      "Earned value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cost Variance (CV) = EV – AC. A positive CV means:",
+    "options": [
+      "Over budget",
+      "Under budget",
+      "On budget",
+      "No variance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Schedule Variance (SV) = EV – PV. A negative SV means:",
+    "options": [
+      "Ahead of schedule",
+      "On schedule",
+      "Behind schedule",
+      "No variance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cost Performance Index (CPI) = EV / AC. CPI < 1 means:",
+    "options": [
+      "Under budget",
+      "On budget",
+      "No meaning",
+      "Over budget"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Schedule Performance Index (SPI) = EV / PV. SPI > 1 means:",
+    "options": [
+      "Behind schedule",
+      "Ahead of schedule",
+      "On schedule",
+      "No variance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Estimate at Completion (EAC) can be calculated as:",
+    "options": [
+      "AC + (BAC – EV) / CPI",
+      "BAC – EV",
+      "Many formulas, typically BAC / CPI",
+      "AC + BAC"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "To‑Complete Performance Index (TCPI) indicates:",
+    "options": [
+      "The project's profit",
+      "The number of remaining tasks",
+      "The efficiency needed to complete remaining work within budget",
+      "The schedule variance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Project risk management includes identification, analysis, response planning, and:",
+    "options": [
+      "Ignoring risks",
+      "Monitoring and controlling risks",
+      "Eliminating all risks",
+      "Only documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A risk is an uncertain event that, if it occurs, has a:",
+    "options": [
+      "Only positive effect",
+      "Only negative effect",
+      "No effect",
+      "Positive or negative effect on project objectives"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Qualitative risk analysis:",
+    "options": [
+      "Uses numerical probabilities and monetary values",
+      "Prioritizes risks based on probability and impact using rating scales",
+      "Ignores risk",
+      "Only looks at opportunities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Quantitative risk analysis:",
+    "options": [
+      "Uses descriptive categories",
+      "Is always unnecessary",
+      "Numerically analyzes the effect of risks on project objectives (e.g., Monte Carlo simulation)",
+      "Only uses expert judgment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A risk response strategy for threats include avoid, transfer, mitigate, and:",
+    "options": [
+      "Exploit",
+      "Enhance",
+      "Share",
+      "Accept"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Risk transfer involves:",
+    "options": [
+      "Keeping the risk",
+      "Shifting the risk impact to a third party (e.g., insurance, warranty)",
+      "Reducing probability or impact",
+      "Eliminating the risk entirely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Risk mitigation aims to:",
+    "options": [
+      "Ignore the risk",
+      "Exploit the risk",
+      "Reduce the probability or impact of a threat to an acceptable level",
+      "Share the risk"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Risk acceptance means:",
+    "options": [
+      "Doing nothing proactively and dealing with the risk if it occurs",
+      "Always avoiding the risk",
+      "Transferring the risk",
+      "Eliminating the risk"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Risk response for opportunities include exploit, enhance, share, and:",
+    "options": [
+      "Avoid",
+      "Accept",
+      "Transfer",
+      "Mitigate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A risk register contains:",
+    "options": [
+      "Only project budget",
+      "Work breakdown structure",
+      "Identified risks, their analysis, and response plans",
+      "Team member contact list"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Project quality management includes quality planning, quality assurance, and:",
+    "options": [
+      "Scope verification",
+      "Cost estimation",
+      "Risk identification",
+      "Quality control"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Quality assurance focuses on:",
+    "options": [
+      "Inspecting defects",
+      "Process improvement and ensuring quality standards will be met",
+      "Only final product testing",
+      "Budget review"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Quality control focuses on:",
+    "options": [
+      "Planning quality",
+      "Team building",
+      "Monitoring specific results to see if they comply with standards",
+      "Risk analysis"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Project procurement management includes planning, conducting, controlling, and:",
+    "options": [
+      "Closing procurements",
+      "Only bidding",
+      "Only contract negotiation",
+      "Only supplier selection"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A contract is a legally binding agreement between:",
+    "options": [
+      "Only the project manager and team",
+      "A buyer and a seller",
+      "Only internal departments",
+      "Only government agencies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Fixed‑price contracts are suitable when:",
+    "options": [
+      "Scope is uncertain",
+      "Costs are unpredictable",
+      "Requirements are well‑defined and risk is low for the buyer",
+      "No specifications exist"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cost‑reimbursable contracts pay the seller for:",
+    "options": [
+      "A fixed amount regardless of cost",
+      "Only labor costs",
+      "Only materials",
+      "Allowable costs plus a fee"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Time and Materials (T&M) contracts are a hybrid of:",
+    "options": [
+      "Only fixed price",
+      "Fixed price and cost‑reimbursable",
+      "Only cost reimbursable",
+      "No contract type"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Request for Proposal (RFP) is used to:",
+    "options": [
+      "Hire employees",
+      "Close a project",
+      "Solicit bids or proposals from potential suppliers",
+      "Approve the budget"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Source selection criteria may include:",
+    "options": [
+      "Only price",
+      "Price, technical capability, past performance, and schedule",
+      "Only the lowest bid",
+      "Only brand name"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement statement of work (SOW) describes:",
+    "options": [
+      "Employee duties",
+      "The project budget",
+      "The risk register",
+      "The work to be performed by the seller"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project communication management includes planning, managing, and:",
+    "options": [
+      "Ignoring communication",
+      "Monitoring communications",
+      "Only sending emails",
+      "Only meetings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A communication matrix or plan should specify:",
+    "options": [
+      "Only the project name",
+      "Only the project manager's phone number",
+      "What information, to whom, when, and how",
+      "No details"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Stakeholder engagement is critical because:",
+    "options": [
+      "Stakeholders have no influence",
+      "Stakeholders should be ignored",
+      "Only the sponsor matters",
+      "Engaged stakeholders increase project success and reduce resistance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project integration management includes developing the project charter, project management plan, directing work, monitoring work, performing integrated change control, and:",
+    "options": [
+      "Only closing",
+      "Closing the project or phase",
+      "Only risk management",
+      "Only quality control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Integrated change control ensures that:",
+    "options": [
+      "Changes are made arbitrarily",
+      "No changes are allowed",
+      "Change requests are reviewed, approved, and managed systematically",
+      "Only the sponsor can change anything"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A change control board (CCB) is responsible for:",
+    "options": [
+      "Doing technical work",
+      "Reviewing and approving or rejecting change requests",
+      "Ignoring changes",
+      "Only budget changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Configuration management tracks:",
+    "options": [
+      "Employee hours",
+      "Only software code",
+      "Versions of project deliverables and documents",
+      "Only hardware"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Lessons learned document is created to:",
+    "options": [
+      "Blame team members",
+      "Capture knowledge and insights for future projects",
+      "Avoid documentation",
+      "Only report failures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Project closure includes:",
+    "options": [
+      "Starting new projects",
+      "Ignoring deliverables",
+      "Final product delivery, releasing resources, and administrative closure",
+      "Only financial audit"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A post‑project review (post‑mortem) evaluates:",
+    "options": [
+      "Only successes",
+      "Only failures",
+      "Only the budget",
+      "What went well, what went wrong, and lessons for the future"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project success is often measured by:",
+    "options": [
+      "Only meeting schedule",
+      "Meeting scope, time, cost, quality goals, and stakeholder satisfaction",
+      "Only meeting cost",
+      "Only meeting quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project phase gate (stage gate) is a:",
+    "options": [
+      "Physical barrier",
+      "Cost overrun",
+      "Schedule delay",
+      "Review point at the end of a phase to decide whether to continue"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Agile project management differs from traditional (waterfall) by emphasizing:",
+    "options": [
+      "Rigid upfront planning with no changes",
+      "No customer involvement",
+      "Only documentation",
+      "Iterative delivery, customer collaboration, and responding to change"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A sprint in Scrum is:",
+    "options": [
+      "A long planning phase",
+      "A time‑boxed iteration (usually 1‑4 weeks) where a potentially releasable product increment is created",
+      "The project closure phase",
+      "The risk management phase"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The product owner in Scrum is responsible for:",
+    "options": [
+      "Managing the team's daily work",
+      "Removing impediments",
+      "Writing code",
+      "Maximizing product value, managing the product backlog, and prioritizing work"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Scrum Master is responsible for:",
+    "options": [
+      "Doing all technical work",
+      "Facilitating the Scrum process, removing impediments, and coaching the team",
+      "Approving the budget",
+      "Setting the product vision"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The development team in Scrum is:",
+    "options": [
+      "Only one person",
+      "Only managers",
+      "A self‑organizing, cross‑functional group that delivers product increments",
+      "Only testers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A product backlog is:",
+    "options": [
+      "A list of completed features",
+      "An ordered list of features, fixes, and requirements for the product",
+      "A financial statement",
+      "A risk register"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A sprint backlog is:",
+    "options": [
+      "The overall project plan",
+      "A list of defects",
+      "A stakeholder list",
+      "The subset of product backlog items selected for the current sprint, with a plan to deliver them"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A daily stand‑up meeting is:",
+    "options": [
+      "A long weekly meeting",
+      "A short (15 minutes) daily meeting for the team to coordinate and identify impediments",
+      "A meeting with external stakeholders only",
+      "A budget review meeting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A sprint review is held to:",
+    "options": [
+      "Review team performance for punishment",
+      "Plan the next year",
+      "Demonstrate the completed increment to stakeholders and gather feedback",
+      "Close the project"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A sprint retrospective is for:",
+    "options": [
+      "Only celebrating",
+      "The team to reflect on the sprint and identify improvements for the next sprint",
+      "Assigning blame",
+      "Canceling the project"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Kanban is an agile method that focuses on:",
+    "options": [
+      "Time‑boxed iterations",
+      "No visualization",
+      "Fixed scope",
+      "Visualizing workflow and limiting work in progress (WIP)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project financing refers to:",
+    "options": [
+      "Only equity financing",
+      "Only government grants",
+      "Obtaining funds to support project activities, including debt and equity",
+      "Only internal cash"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sources of project financing include:",
+    "options": [
+      "Only personal savings",
+      "Only bank loans",
+      "Equity (owners), debt (loans, bonds), grants, and retained earnings",
+      "Only venture capital"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Equity financing for a project means:",
+    "options": [
+      "Borrowing money to be repaid with interest",
+      "Selling ownership shares in the project or venture",
+      "Receiving a grant",
+      "Using only personal credit cards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Debt financing for a project means:",
+    "options": [
+      "Selling shares",
+      "Borrowing funds that must be repaid with interest over time",
+      "Receiving donations",
+      "Using only internal funds"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project loan may be secured by:",
+    "options": [
+      "No collateral",
+      "Only personal guarantees",
+      "Only government backing",
+      "Project assets or guarantees"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project bonds are debt instruments issued to:",
+    "options": [
+      "Raise equity",
+      "Raise long‑term debt from investors for large infrastructure projects",
+      "Pay dividends",
+      "Reduce project scope"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Public‑private partnerships (PPPs) are a financing mechanism where:",
+    "options": [
+      "Only government funds the project",
+      "Only private sector funds",
+      "No risk sharing",
+      "Government and private sector share risks and resources for public infrastructure projects"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A grant is a form of financing that:",
+    "options": [
+      "Must be repaid with interest",
+      "Does not require repayment, but often has conditions",
+      "Requires equity dilution",
+      "Is only for non‑profits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Crowdfunding for a project involves:",
+    "options": [
+      "A single large investor",
+      "Only bank loans",
+      "Only government funds",
+      "Raising small amounts from many individuals, often via online platforms"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A letter of credit is often used in project financing to:",
+    "options": [
+      "Replace equity",
+      "Eliminate all risks",
+      "Guarantee payment to a seller or contractor",
+      "Reduce scope"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cost of capital for a project is the:",
+    "options": [
+      "Total project budget",
+      "Required return that makes a project investment worthwhile, considering the mix of debt and equity",
+      "Interest rate only",
+      "Inflation rate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Weighted Average Cost of Capital (WACC) is used to:",
+    "options": [
+      "Calculate payback period",
+      "Determine project scope",
+      "Discount cash flows for NPV calculation",
+      "Estimate resource requirements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Debt service coverage ratio (DSCR) measures:",
+    "options": [
+      "Profitability",
+      "The number of employees",
+      "The project duration",
+      "The ability of a project's cash flow to cover debt payments"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project finance SPV (Special Purpose Vehicle) is:",
+    "options": [
+      "A regular operating company",
+      "A legal entity created solely for the project, isolating financial risk",
+      "The project manager's office",
+      "A type of loan"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Project viability from a financing perspective requires:",
+    "options": [
+      "Guaranteed profit",
+      "Sufficient cash flow to meet obligations and return on investment",
+      "No risk at all",
+      "Only low interest rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The role of a project sponsor includes:",
+    "options": [
+      "Doing daily tasks",
+      "Only writing reports",
+      "Only testing software",
+      "Providing funding, championing the project, and making high‑level decisions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A business case for a project justifies:",
+    "options": [
+      "The need to hire more staff",
+      "The investment decision, including benefits, costs, risks, and alignment with strategy",
+      "The office location",
+      "The project's color scheme"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Project benefits realization ensures that:",
+    "options": [
+      "The project is completed on time",
+      "The project is under budget",
+      "Stakeholders are ignored",
+      "The intended benefits from the project are actually achieved after implementation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project management office (PMO) provides:",
+    "options": [
+      "Only administrative support",
+      "Standardization, governance, and support for project management across the organization",
+      "Only training",
+      "Only financial auditing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A matrix organization structure for projects means:",
+    "options": [
+      "No structure",
+      "Only functional reporting",
+      "Team members report to both functional manager and project manager",
+      "Only project reporting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A projectized organization structure means:",
+    "options": [
+      "No project managers",
+      "Functional managers have all authority",
+      "No clear reporting",
+      "Project managers have full authority and resources, and team members report directly to them"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Functional organization structure is best for:",
+    "options": [
+      "Large, complex projects",
+      "Routine operations; projects are secondary",
+      "Any project regardless of size",
+      "Only IT projects"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project manager's authority is highest in:",
+    "options": [
+      "Functional structure",
+      "Weak matrix",
+      "Projectized structure",
+      "Balanced matrix"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"iron triangle\" of project management consists of:",
+    "options": [
+      "Risk, quality, and communication",
+      "Resources, procurement, and stakeholders",
+      "Planning, execution, and closure",
+      "Scope, time, and cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Scope creep is:",
+    "options": [
+      "Reducing project scope",
+      "Uncontrolled expansion of project scope without adjustments to time and cost",
+      "A risk response strategy",
+      "A quality control method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To manage scope creep, project managers should:",
+    "options": [
+      "Accept all changes",
+      "Ignore all change requests",
+      "Only reduce scope",
+      "Use a formal change control process"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project baseline includes:",
+    "options": [
+      "Only schedule",
+      "Only budget",
+      "Only risk register",
+      "Approved versions of scope, schedule, and cost plans against which performance is measured"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project audits are conducted to:",
+    "options": [
+      "Punish team members",
+      "Assess project health, compliance, and identify improvement opportunities",
+      "Replace the project manager",
+      "Cancel the project"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project's \"lessons learned\" should be shared:",
+    "options": [
+      "Only with the project team",
+      "Across the organization to improve future projects",
+      "Only with senior management",
+      "Never shared"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical considerations in project management include:",
+    "options": [
+      "Misreporting status",
+      "Hiding risks from stakeholders",
+      "Favoring certain contractors without reason",
+      "Transparency, fairness, and avoiding conflicts of interest"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Project management software (e.g., MS Project, Jira) helps with:",
+    "options": [
+      "Only budgeting",
+      "Scheduling, resource allocation, and tracking progress",
+      "Only team communication",
+      "Only documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project buffer (time buffer) is added to:",
+    "options": [
+      "Reduce quality",
+      "Protect the project schedule from uncertainty and delays",
+      "Increase scope",
+      "Reduce cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critical chain project management (CCPM) focuses on:",
+    "options": [
+      "Ignoring resource availability",
+      "Traditional CPM without buffers",
+      "Only cost control",
+      "Buffers and resource constraints rather than task dependencies only"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The concept of \"gold plating\" in project management means:",
+    "options": [
+      "Adding unnecessary features not requested by the customer",
+      "Meeting all requirements exactly",
+      "Reducing scope",
+      "Increasing cost without customer approval"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Project handover is the process of:",
+    "options": [
+      "Starting a new project",
+      "Firing the project team",
+      "Transferring deliverables and responsibility to the customer or operations",
+      "Closing the project without deliverables"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A project's \"kill point\" is a decision point to:",
+    "options": [
+      "Continue regardless of performance",
+      "Terminate the project if it no longer makes sense",
+      "Always continue",
+      "Ignore problems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The role of the project steering committee (or board) includes:",
+    "options": [
+      "Daily task management",
+      "Only coding",
+      "Only testing",
+      "Providing strategic direction, approving major changes, and resolving issues"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project's success criteria should be defined:",
+    "options": [
+      "After the project ends",
+      "At the beginning of the project, preferably in the charter",
+      "Only by the project manager",
+      "Only by the customer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Project leadership requires:",
+    "options": [
+      "Only technical skills",
+      "Avoiding any interaction with team members",
+      "Influencing, motivating, and guiding the project team",
+      "Only administrative skills"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Conflict resolution in projects should aim for:",
+    "options": [
+      "Avoiding all conflict",
+      "Blaming individuals",
+      "Escalation to senior management for every issue",
+      "Constructive resolution focusing on project goals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Resource leveling may cause:",
+    "options": [
+      "Shorter project duration",
+      "Longer project duration but smoother resource usage",
+      "No change in duration",
+      "Lower quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Project crashing increases cost to:",
+    "options": [
+      "Reduce scope",
+      "Reduce project duration",
+      "Increase quality",
+      "Reduce risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project's \"float\" on the critical path is:",
+    "options": [
+      "Positive",
+      "Zero",
+      "Negative",
+      "Unlimited"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A forward pass in network analysis computes:",
+    "options": [
+      "Latest start and finish times",
+      "Earliest start and finish times",
+      "Float",
+      "Cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A backward pass computes:",
+    "options": [
+      "Earliest times",
+      "Budget",
+      "Latest times and float",
+      "Quality metrics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Project management maturity models assess:",
+    "options": [
+      "Only financial performance",
+      "The organization's capability and effectiveness in managing projects",
+      "Only employee satisfaction",
+      "Only customer satisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The PMBOK® Guide is a standard published by:",
+    "options": [
+      "ISO",
+      "UN",
+      "PMI (Project Management Institute)",
+      "World Bank"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "PRINCE2 is a project management methodology that emphasizes:",
+    "options": [
+      "Agile only",
+      "No documentation",
+      "Only cost control",
+      "Process‑based approach with defined roles and stages"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The ultimate goal of project management is to:",
+    "options": [
+      "Create a thick plan",
+      "Avoid all change",
+      "Successfully deliver project objectives within constraints",
+      "Maximize the number of meetings"
+    ],
+    "correct": 2
+  }
+]
