@@ -1,0 +1,926 @@
+[
+  {
+    "questionText": "When the rules in IFRS or IAS standard are contrary to what the framework says:",
+    "options": [
+      "IFRS interpretations are needed",
+      "We need to develop our own accounting policy",
+      "Conceptual framework will be applied",
+      "IFRS will be applied"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Income as per the IASB’s conceptual framework may represent:",
+    "options": [
+      "Contributions from equity participants",
+      "Increases in liabilities that result in increase in equity",
+      "Decreases in liability that result in increases in equity",
+      "Decreases in economic benefits that increase equity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Amount of bad debt expense is:",
+    "options": [
+      "$2,500",
+      "$8,500",
+      "$6,000",
+      "$11,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Liability is:",
+    "options": [
+      "Present obligation resulting from future events",
+      "Results in inflow of economic benefits",
+      "Residual interest in assets",
+      "Present obligation arising from past events"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Effective communication of information requires:",
+    "options": [
+      "Grouping similar items and separating dissimilar items",
+      "Extremely detailed bulky information",
+      "Excessively aggregated information",
+      "Sufficient detail regardless of cost"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Two key organizations in development of international accounting standards:",
+    "options": [
+      "IASB and FASB",
+      "SEC and FASB",
+      "IOSCO and SEC",
+      "IASB and IOSCO"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Expected net realizable value of accounts receivable:",
+    "options": [
+      "$7,000",
+      "$100,000",
+      "$93,000",
+      "$107,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "IFRS is comprised of:",
+    "options": [
+      "International Financial Reporting Standards only",
+      "IFRS, IAS, and interpretations",
+      "IAS and interpretations only",
+      "FASB standards and IAS"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Revenue may result from:",
+    "options": [
+      "Decrease in asset from primary operations",
+      "Increase in asset from incidental transactions",
+      "Increase in liability from incidental transactions",
+      "Decrease in liability from primary operations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Objective of financial reporting emphasizes:",
+    "options": [
+      "Reporting to capital providers",
+      "Stewardship",
+      "Specific guidance for specific needs",
+      "Information for experts only"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "General-purpose financial statements are prepared primarily for:",
+    "options": [
+      "Internal users",
+      "External users",
+      "Auditors",
+      "Government regulators"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Most influential in enforcing IFRS:",
+    "options": [
+      "Monitoring Board",
+      "IOSCO",
+      "IFRS Advisory Council",
+      "IFRS Foundation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Amount to record land and building respectively:",
+    "options": [
+      "500,000 and 2,000,000",
+      "1,760,000 and 440,000",
+      "300,000 and 900,000",
+      "440,000 and 1,760,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is not reported as cash?",
+    "options": [
+      "Coins and paper currencies",
+      "Postdated checks",
+      "Money orders",
+      "Checking account balances"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Fundamental qualitative characteristic:",
+    "options": [
+      "Relevance",
+      "Verifiability",
+      "Comparability",
+      "Objectivity"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "IFRS stands for:",
+    "options": [
+      "International Federation of Reporting Services",
+      "Independent Financial Reporting Standards",
+      "International Financial Reporting Standards",
+      "Integrated Financial Reporting Services"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Not a reason for imbalance in bank reconciliation:",
+    "options": [
+      "NSF checks",
+      "Outstanding checks",
+      "Cash not yet deposited",
+      "Voided checks"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Fair value measurement is:",
+    "options": [
+      "Acquisition or settlement cost",
+      "Price in orderly transaction between willing parties",
+      "Forced liquidation value",
+      "Capital distribution amount"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Impairment is:",
+    "options": [
+      "Recognition of loss due to decline in value",
+      "Recognition of gain due to increase in value",
+      "Recognition of loss on liability increase",
+      "Recognition of loss when carrying value lower than fair value"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Receivables are:",
+    "options": [
+      "Money paid to company",
+      "Claims against customers for money",
+      "Loan repayments",
+      "Investments in company"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Companies recognize revenue when performance obligation is satisfied under:",
+    "options": [
+      "Cost principle",
+      "Matching principle",
+      "Revenue recognition principle",
+      "Consistency principle"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Financial statement reporting accounts receivable:",
+    "options": [
+      "Income statement",
+      "Statement of financial position",
+      "Statement of cash flows",
+      "Statement of changes in equity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Inventory method assuming first purchased sold first:",
+    "options": [
+      "LIFO",
+      "FIFO",
+      "Weighted Average",
+      "Specific Identification"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Not an example of investment property:",
+    "options": [
+      "Building leased for rental income",
+      "Land held for appreciation",
+      "Warehouse used for inventory storage",
+      "Property under development for resale"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Changes in fair value of investment property recognized:",
+    "options": [
+      "When property values change in market",
+      "When sold",
+      "Significant changes in market or occupancy rates",
+      "Only year-end"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Initial recognition of investment property measured at:",
+    "options": [
+      "Cost",
+      "Fair value",
+      "Lower of cost or fair value",
+      "Higher of cost or fair value"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Investment property is:",
+    "options": [
+      "Property used in operations",
+      "Property held for rental income or appreciation",
+      "Property acquired for resale soon",
+      "Property for personal use"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sale of machine reflected in cash flow statement as:",
+    "options": [
+      "Financing inflow 34,000",
+      "Financing inflow 6,000",
+      "Investing inflow 34,000",
+      "Investing inflow 6,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Purchase of equipment reflected as:",
+    "options": [
+      "Not in operating section",
+      "Investing cash outflow",
+      "Financing cash inflow",
+      "Operating cash outflow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Impairment loss on machine:",
+    "options": [
+      "200,000",
+      "265,000",
+      "15,000",
+      "No impairment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Financial reporting pertains to:",
+    "options": [
+      "Economy as whole",
+      "Individual business enterprises",
+      "Industries only",
+      "Enterprises and economy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Accounting information not used to:",
+    "options": [
+      "Buy/sell/hold securities",
+      "Plan and control company operations",
+      "Evaluate borrowing capacity",
+      "Decide whether to invest"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Issuing reports within one month demonstrates:",
+    "options": [
+      "Verifiability",
+      "Relevance",
+      "Confirmatory value",
+      "Timeliness"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Objective of financial reporting:",
+    "options": [
+      "Exclude claims to resources",
+      "Portray nonfinancial transactions",
+      "Useful to management only",
+      "Useful to investors, lenders, and creditors"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Investors are interested in:",
+    "options": [
+      "Management’s ability to protect investments",
+      "Cash inflows and protection of investments",
+      "Company’s ability to generate net cash inflows",
+      "Ability to collect debts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Using FIFO consistently relates to:",
+    "options": [
+      "Materiality",
+      "Verifiability",
+      "Timeliness",
+      "Comparability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Primary users of general purpose reports:",
+    "options": [
+      "Employees and investors",
+      "Investors, lenders, and creditors",
+      "Lenders and customers",
+      "Investors and government"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Recognition is the process of:",
+    "options": [
+      "Capturing items meeting definitions of elements",
+      "Determining presentation location",
+      "Sorting items by characteristics",
+      "Aggregating similar items"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Included in Conceptual Framework:",
+    "options": [
+      "Relevance is fundamental",
+      "Relevance and faithful representation needed",
+      "Enhancing characteristics cannot make irrelevant info useful",
+      "All of the above",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Definition of fair value:",
+    "options": [
+      "Orderly transaction price at reporting date",
+      "Price received to sell asset or paid to transfer liability at measurement date",
+      "Weighted average market price",
+      "Entry price from market participant perspective"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Not an exception for IFRS 13 application:",
+    "options": [
+      "Share-based payments",
+      "Hedge instruments within IFRS 9",
+      "Leasing transactions",
+      "Net realizable value of inventories"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Not part of income approach valuation techniques:",
+    "options": [
+      "Present value techniques",
+      "Black-Scholes-Merton formula",
+      "Binomial option pricing model",
+      "Matrix pricing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Level 1 inputs consist of:",
+    "options": [
+      "Quoted prices for similar assets in active markets",
+      "Quoted prices in inactive markets",
+      "Unadjusted quoted prices in active markets",
+      "Observable inputs other than quoted prices"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "IFRS 13 assumptions include:",
+    "options": [
+      "Reliability assumptions",
+      "Risk assumptions",
+      "Going concern assumptions",
+      "Highest possible price assumptions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Impairment review for tangible asset needed:",
+    "options": [
+      "Annually",
+      "When indication of impairment arises",
+      "When present value declines",
+      "Every five years"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Asset is impaired if:",
+    "options": [
+      "Fair value less costs exceeds carrying amount",
+      "Value in use exceeds fair value less costs",
+      "Carrying amount exceeds value in use",
+      "Carrying amount exceeds recoverable amount"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Impairment losses under cost model recorded:",
+    "options": [
+      "In loss reserve",
+      "In OCI",
+      "Disclosure note only",
+      "In profit or loss"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Faithful representation requires information to be:",
+    "options": [
+      "Complete, neutral, and free from error.",
+      "Optimistic and detailed.",
+      "Verified by auditors.",
+      "Based on historical cost."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "X-company issued a 4 years term bond with a par value of 400,000 which pays 8% interest payable annually to yield 10% effective rate. The proceeds of this bond is",
+    "options": [
+      "Unrelated with par value",
+      "The same as the par value",
+      "Less than the par value",
+      "Greater than the par value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following should not be included in the physical inventory of a company?",
+    "options": [
+      "Goods held on consignment from another company.",
+      "Goods shipped on consignment to another company.",
+      "Goods in transit from another company shipped FOB shipping point.",
+      "All of the above should be included."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The appropriate method of accounting for uncollectable accounts when the amount of uncollectible is material:",
+    "options": [
+      "Direct write-off method",
+      "Allowance method",
+      "Bad debt expense",
+      "A and B"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If merchandise inventory at year-end is overstated by Br. 8000, the error will cause:",
+    "options": [
+      "Overstatement of cost goods sold at year end by 8000",
+      "Understatement of gross profit of the year by 8000",
+      "Overstatement of net income of the year by 8000",
+      "Understatement of the net income of the year by 8000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An asset is impaired when:",
+    "options": [
+      "If the carrying amount exceeds the value in use",
+      "If the fair value less costs to sell exceeds carrying amount",
+      "If the value in use exceeds the fair value less costs to sell",
+      "If the carrying amount exceeds the recoverable amount"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hughes PLC has a debit balance of Birr 7,000 in its Allowance for Doubtful Accounts before adjustments. The firm estimates that Birr 59,000 of its receivables is uncollectible. The amount of bad debt expense which should be reported for the year is:",
+    "options": [
+      "Birr 52,000",
+      "Birr 66,000",
+      "Birr 59,000",
+      "Birr 7,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Company has sales of Br.100,000 and cost of goods available for sale of Br.145,000. If the gross profit rate is 42.9% on cost, the estimated cost of the ending inventory under the gross profit method is",
+    "options": [
+      "Br.15,000",
+      "Br.30,000",
+      "Br.45,000",
+      "Br.75,000",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A business acquired land and two buildings for a single, lump-sum purchase price of $600,000. The land was assessed at $220,000 and the buildings at $100,000 and $80,000, respectively, for a total assessed value of $400,000. The land would be recorded at which cost?",
+    "options": [
+      "$600,000",
+      "$330,000",
+      "$300,000",
+      "$220,000",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which depreciation method does not use the salvage value in computing depreciation expense for the first year?",
+    "options": [
+      "Straight-line",
+      "Units of Production",
+      "Declining Balance",
+      "A and C"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cost of equipment was $45,600. The accumulated depreciation is $45,600. The equipment was taken to a local disposal site and discarded. Which of the following is correct?",
+    "options": [
+      "There was a gain on disposal of $1,500.",
+      "There was no gain or loss on disposal.",
+      "There was a loss on disposal of $1,500.",
+      "There was a gain on disposal of $1,500.",
+      "There was a loss on disposal of $44,100."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A business paid Birr120,000 for two machines valued at current fair value of Birr90,000 and Birr60,000, respectively. The business will record these machines at:",
+    "options": [
+      "Birr90,000 and Birr60,000",
+      "Birr72,000 and Birr48,000",
+      "Birr60,000 each",
+      "Birr70,000 and Birr50,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not considered as part of cost of a new machine?",
+    "options": [
+      "Maintenance cost to adjust the machine",
+      "Freight cost",
+      "Insurance cost for machine while in shipment",
+      "Cost of installing the machine"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An entity shall measure a non-current asset (or disposal group) classified as held for sale",
+    "options": [
+      "Cost",
+      "Fair value less cost to sale",
+      "Lower of carrying amount and recoverable amount",
+      "Lower of carrying amount and fair value less cost to sale."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "R- Corporation purchased a limited-life intangible asset for $180,000 on May 1, 2006. It has a useful life of 10 years. What will be the amount of amortization expense that should be recorded on the intangible asset on December 31, 2008?",
+    "options": [
+      "$ -0-.",
+      "$48,000",
+      "$18,000",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not an intangible asset?",
+    "options": [
+      "Trade name",
+      "Research and development costs",
+      "Franchise",
+      "Copyrights"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The intangible asset goodwill may be",
+    "options": [
+      "Capitalized only when purchased.",
+      "Capitalized either when purchased or created internally.",
+      "Capitalized only when created internally.",
+      "Written off directly to retained earnings."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Amortization is computed in the same manner of which depreciation method?",
+    "options": [
+      "Straight line",
+      "Double declining balance",
+      "Units of production",
+      "Sum of years digits"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following definitions fits depreciation?",
+    "options": [
+      "Allocation of the asset's fair value to expense over its useful life",
+      "Allocation of the asset's cost to expense over its useful life",
+      "Decrease in the asset's market value over its useful life",
+      "Increase in the fund set aside to replace the asset when it is worn out"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To report the equipment at fair value on December 31, 2020, ABC does:",
+    "options": [
+      "Records an Unrealized Loss on Revaluation—Equipment Br. 250,000",
+      "Reduces the Accumulated Depreciation—Equipment account by Br.600,000",
+      "Records an Unrealized Gain on Revaluation—Equipment Br. 150,000",
+      "Reduces the Equipment account by Br.75,000—it then is reported at its fair value of Br.2,400,000",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "To report the equipment at fair value on December 31, 2021, ABC does:",
+    "options": [
+      "Records an Unrealized Gain on Revaluation—Equipment Br. 210,000",
+      "Reduces the Accumulated Depreciation—Equipment account by Br.600,000",
+      "Reduces the Equipment account by Br.750,000—it then is reported at its fair value of Br.2,250,000",
+      "Records an Unrealized Gains on Revaluation—Equipment Br. 22,500",
+      "None of the above"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "IFRS is comprised of",
+    "options": [
+      "International financial reporting standards and FASB financial reporting standards.",
+      "International financial reporting standards, international accounting standards and international accounting standards interpretation.",
+      "International accounting standards and international accounting standards interpretation.",
+      "FASB financial reporting standards and international accounting standards."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one is false about fair value?",
+    "options": [
+      "The price that would be received to sell an asset or paid to transfer a liability",
+      "It’s Not a liquidation price or forced sale",
+      "At the measurement date of exit price.",
+      "The price always consider the entry price"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "On April 1 2001 La presa company sells some equipment for $18,000, the original cost was $50,000, the estimated salvage value was $8,000, and expected useful life was 6 years. On December 31, 2000 the accumulated depreciation account has a balance of 29,400. How much is the gain or loss on sale (using straight line depreciation method)",
+    "options": [
+      "2600 gain",
+      "300 gain",
+      "850 loss",
+      "5400 gain"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The interest rate written in the terms of the bond indenture is known as the",
+    "options": [
+      "Coupon rate",
+      "Nominal rate",
+      "Stated rate",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is the characteristics of market participants in principal market (or most advantageous market)",
+    "options": [
+      "Independent",
+      "Use all available information",
+      "Knowledgeable",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If a property is partly an investment property and partly owner occupied, the company should account for the property",
+    "options": [
+      "As owner occupied property",
+      "Each portion should be accounted for separately",
+      "As investment property",
+      "As inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "________is the amount at which an asset is recognized after deducting any accumulated depreciation (amortization) and accumulated impairment losses thereon.",
+    "options": [
+      "Carrying amount",
+      "Recoverable amount",
+      "Fair value",
+      "Impairment"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The primary users of general purpose financial reports",
+    "options": [
+      "Investors and lenders",
+      "Investors and customers",
+      "Employees and lenders",
+      "Investors and employees"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cost of investment properties include the purchase price and the following except",
+    "options": [
+      "Transfer duties",
+      "Abnormal wastage",
+      "Normal wastage",
+      "B & C"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Non-current assets are presented as current items in the statement of financial position",
+    "options": [
+      "Only when they are expected to be sold within 12 months from the end of reporting period",
+      "Only if they are actually sold after the reporting period but before the date of authorization of the financial statement for issue.",
+      "Only when they qualify as held for sale assets under IFRS 5",
+      "Never presented as current items"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Determination of fair value based on market transactions involving identical or similar assets or liabilities is",
+    "options": [
+      "Cost approach",
+      "Market approach",
+      "Income approach",
+      "All"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The type of bank account specifically used to facilitate payments by businesses",
+    "options": [
+      "Saving account",
+      "Fixed deposit account",
+      "Current account",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A check was issued by Abc co for payment of liability for birr 3200 but erroneously recorded in payment journal as birr 2300",
+    "options": [
+      "Added to cash balance as per bank statement",
+      "Deducted from cash balance from bank statement",
+      "Added to cash balance per depositors record",
+      "Deducted from cash balance per depositors record"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A check issued by the business for birr 5000 was not paid by the bank.",
+    "options": [
+      "Added to cash balance as per bank statement",
+      "Deducted from cash balance from bank statement",
+      "Added to cash balance per depositors record",
+      "Deducted from cash balance per depositors record"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A credit memo was sent by bank to notify interest revenue of birr 200.",
+    "options": [
+      "Added to cash balance as per bank statement",
+      "Deducted from cash balance from bank statement",
+      "Added to cash balance per depositors record",
+      "Deducted from cash balance per depositors record"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Companies value and report short-term receivables",
+    "options": [
+      "At present value of future cash flows",
+      "At net realizable value",
+      "At fair value",
+      "At recoverable amount"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How much is the present value of the note?",
+    "options": [
+      "62,000",
+      "50,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How much is the periodic interest revenue?",
+    "options": [
+      "62,000",
+      "5000",
+      "3000",
+      "1500"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "All of the following are true about major characteristics of property, plant and equipment. Except",
+    "options": [
+      "PPE’s are acquired for use in operation",
+      "PPE’s are held for sale",
+      "Long term in nature",
+      "Possess physical substance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If an asset has a cost of birr 100,000 and residual value of birr 10,000 and 5 years estimated useful life. How much is the depreciable cost?",
+    "options": [
+      "18,000",
+      "90,000",
+      "100,000",
+      "10,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What are the fundamental qualities of useful financial information?",
+    "options": [
+      "relevance and faithful representation",
+      "relevance and comparability",
+      "faithful representation and comparability",
+      "verifiability and understandability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "At what date is fair value determined?",
+    "options": [
+      "At the measurement date",
+      "Settlement date",
+      "Transaction date",
+      "Exchange date"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is an investment property?",
+    "options": [
+      "Property held to earn rentals",
+      "Property held for capital appreciation",
+      "Property used in the production or supply of goods and services",
+      "A & B"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In which of the following PPE classification the acquisition cost is not considered a purchase price or contract price?",
+    "options": [
+      "Self-constructed assets",
+      "Cost of equipment",
+      "Cost of land",
+      "Cost of building"
+    ],
+    "correct": 0
+  }
+]
