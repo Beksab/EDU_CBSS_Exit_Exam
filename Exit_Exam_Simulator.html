@@ -115,7 +115,6 @@
 </div>
 
 <script>
-  // ========== HARDCODED DEPARTMENT EMAILS ==========
   const departmentEmails = {
     "Management": "beksabtsegi@gmail.com",
     "Logistics": "bekabemay@gmail.com",
@@ -132,13 +131,10 @@
   let timerInterval = null;
   let timeLeftSeconds = 0;
   let submitted = false;
-  let currentDepartment = "Management";
-  let currentCourseName = "";
-  let googleScriptUrl = "https://script.google.com/macros/s/AKfycbxI_9svm19VPRENT_QttUBW4Uyx-T71U_1fVYvCEyvSFY0ru0S0Ykt0f8qMSqAdmH_m3A/exec"; // REPLACE WITH YOUR SCRIPT URL
+  let googleScriptUrl = "https://script.google.com/macros/s/AKfycbxI_9svm19VPRENT_QttUBW4Uyx-T71U_1fVYvCEyvSFY0ru0S0Ykt0f8qMSqAdmH_m3A/exec";
 
   let departmentCourses = {};
 
-  // DOM elements
   const departmentSelect = document.getElementById('departmentSelect');
   const courseSelect = document.getElementById('courseSelect');
   const loadCourseBtn = document.getElementById('loadCourseBtn');
@@ -176,19 +172,38 @@
       const response = await fetch('courses.json');
       if (!response.ok) throw new Error('Failed to load courses.json');
       departmentCourses = await response.json();
-      updateCourseDropdown();
-      // After populating dropdown, set currentCourseName to first course and load
-      currentCourseName = courseSelect.value;
-      await loadQuestionsForCurrentCourse();
+      populateCourseDropdown(); // fill dropdown based on current department
+      // Load questions for the first course
+      await loadQuestionsFromCurrentSelection();
     } catch (err) {
       console.error(err);
       singleContainer.innerHTML = `<div class="loading">⚠️ Could not load courses.json. Make sure the file exists on the server.</div>`;
     }
   }
 
-  async function loadQuestionsForCurrentCourse() {
-    if (!currentCourseName) return;
-    const fileName = getQuestionFileName(currentDepartment, currentCourseName);
+  function populateCourseDropdown() {
+    const dept = departmentSelect.value;
+    const courses = departmentCourses[dept] || [];
+    courseSelect.innerHTML = "";
+    courses.forEach(course => {
+      const option = document.createElement("option");
+      option.value = course;
+      option.textContent = course;
+      courseSelect.appendChild(option);
+    });
+  }
+
+  async function loadQuestionsFromCurrentSelection() {
+    const dept = departmentSelect.value;
+    const course = courseSelect.value;
+    if (!course) {
+      debugSpan.innerText = `No course selected for department ${dept}`;
+      currentQuestions = [];
+      resetExamState();
+      questionCounterSpan.innerText = `Questions: 0`;
+      return;
+    }
+    const fileName = getQuestionFileName(dept, course);
     debugSpan.innerText = `Loading: ${fileName}`;
     try {
       const response = await fetch(fileName);
@@ -220,37 +235,6 @@
     questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
   }
 
-  function updateCourseDropdown() {
-    const dept = departmentSelect.value;
-    const courses = departmentCourses[dept] || [];
-    courseSelect.innerHTML = "";
-    courses.forEach(course => {
-      const option = document.createElement("option");
-      option.value = course;
-      option.textContent = course;
-      courseSelect.appendChild(option);
-    });
-    // Set the current course name to the first in the list
-    if (courses.length > 0) {
-      currentCourseName = courses[0];
-      courseSelect.value = currentCourseName;
-    } else {
-      currentCourseName = "";
-    }
-  }
-
-  function updateUploadCourseDropdown() {
-    const dept = uploadDept.value;
-    const courses = departmentCourses[dept] || [];
-    uploadCourse.innerHTML = "";
-    courses.forEach(course => {
-      const option = document.createElement("option");
-      option.value = course;
-      option.textContent = course;
-      uploadCourse.appendChild(option);
-    });
-  }
-
   function resetExamState() {
     if (timerInterval) clearInterval(timerInterval);
     examActive = false;
@@ -265,17 +249,6 @@
     timerDisplay.innerText = "-- : --";
     resultsPanel.style.display = "none";
     examArea.style.display = "block";
-  }
-
-  async function loadCourseQuestionsAndReset() {
-    if (examActive) { if(timerInterval) clearInterval(timerInterval); examActive = false; }
-    // Sync currentCourseName with the dropdown's selected value
-    currentDepartment = departmentSelect.value;
-    currentCourseName = courseSelect.value;
-    await loadQuestionsForCurrentCourse();
-    resetExamState();
-    examActive = false;
-    submitted = false;
   }
 
   function renderCurrentQuestion() {
@@ -414,12 +387,12 @@
     }
     const percentage = (correctCount / currentQuestions.length) * 100;
     const student = studentNameInput.value.trim();
-    const deptName = (currentDepartment === "Management" ? "Management Department" :
-                     currentDepartment === "Logistics" ? "Logistics and Supply Chain Management Department" :
-                     currentDepartment === "Accounting" ? "Accounting and Finance Department" :
-                     currentDepartment === "Law" ? "Law Department" : "Journalism and Communications Department");
-    const course = currentCourseName;
-    const recipient = departmentEmails[currentDepartment];
+    const deptName = (departmentSelect.value === "Management" ? "Management Department" :
+                     departmentSelect.value === "Logistics" ? "Logistics and Supply Chain Management Department" :
+                     departmentSelect.value === "Accounting" ? "Accounting and Finance Department" :
+                     departmentSelect.value === "Law" ? "Law Department" : "Journalism and Communications Department");
+    const course = courseSelect.value;
+    const recipient = departmentEmails[departmentSelect.value];
     const subject = `Exit Exam Report - ${student} (${deptName} - ${course}) - Score: ${correctCount}/${currentQuestions.length} (${percentage.toFixed(1)}%)`;
     let body = `STUDENT: ${student}\nDEPARTMENT: ${deptName}\nCOURSE: ${course}\nDATE/TIME: ${new Date().toLocaleString()}\nSCORE: ${correctCount}/${currentQuestions.length}\nPERCENTAGE: ${percentage.toFixed(1)}%\n\nDETAILED ANSWERS:\n`;
     for (let r of reviewDetails) {
@@ -472,7 +445,7 @@
         const storageKey = `exam_${targetDept}_${targetCourse.replace(/\s/g, '_')}`;
         localStorage.setItem(storageKey, JSON.stringify(parsed));
         alert(`Uploaded ${parsed.length} questions for ${targetDept} - ${targetCourse} (only on this device). To make permanent, replace the corresponding JSON file on the server.`);
-        if (targetDept === currentDepartment && targetCourse === currentCourseName) {
+        if (targetDept === departmentSelect.value && targetCourse === courseSelect.value) {
           currentQuestions = parsed;
           resetExamState();
           questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
@@ -490,25 +463,27 @@
     else if (pwd !== null) alert("Wrong password.");
   });
 
-  departmentSelect.addEventListener('change', async () => { 
-    if(examActive && confirm("Change department?")){ stopTimerAndLock(); submitted=false; examActive=false; } 
-    updateCourseDropdown(); 
-    // After changing department, the dropdown is updated and currentCourseName set to first course
-    currentCourseName = courseSelect.value;
-    await loadQuestionsForCurrentCourse();
+  departmentSelect.addEventListener('change', async () => {
+    if (examActive && confirm("Change department? Current exam progress will be lost.")) {
+      stopTimerAndLock();
+      submitted = false;
+      examActive = false;
+    }
+    populateCourseDropdown();
+    await loadQuestionsFromCurrentSelection();
   });
 
-  courseSelect.addEventListener('change', async () => { 
-    if(examActive && confirm("Change course?")){ stopTimerAndLock(); submitted=false; examActive=false; } 
-    currentCourseName = courseSelect.value;
-    await loadQuestionsForCurrentCourse();
+  courseSelect.addEventListener('change', async () => {
+    if (examActive && confirm("Change course? Current exam progress will be lost.")) {
+      stopTimerAndLock();
+      submitted = false;
+      examActive = false;
+    }
+    await loadQuestionsFromCurrentSelection();
   });
 
-  loadCourseBtn.addEventListener('click', async () => { 
-    // Ensure we use the currently selected department and course
-    currentDepartment = departmentSelect.value;
-    currentCourseName = courseSelect.value;
-    await loadQuestionsForCurrentCourse();
+  loadCourseBtn.addEventListener('click', async () => {
+    await loadQuestionsFromCurrentSelection();
   });
 
   startExamBtn.addEventListener('click', startExam);
@@ -518,11 +493,30 @@
   flagBtn.addEventListener('click', toggleFlag);
   jumpSelect.addEventListener('change', (e) => { if(examActive && !submitted) goToQuestion(parseInt(e.target.value)); });
   uploadJsonBtn.addEventListener('click', handleUploadJson);
-  uploadDept.addEventListener('change', updateUploadCourseDropdown);
+  uploadDept.addEventListener('change', () => {
+    const dept = uploadDept.value;
+    const courses = departmentCourses[dept] || [];
+    uploadCourse.innerHTML = "";
+    courses.forEach(course => {
+      const option = document.createElement("option");
+      option.value = course;
+      option.textContent = course;
+      uploadCourse.appendChild(option);
+    });
+  });
 
   async function init() {
     await loadCourseLists();
-    updateUploadCourseDropdown();
+    // Also populate upload dropdowns
+    const dept = uploadDept.value;
+    const courses = departmentCourses[dept] || [];
+    uploadCourse.innerHTML = "";
+    courses.forEach(course => {
+      const option = document.createElement("option");
+      option.value = course;
+      option.textContent = course;
+      uploadCourse.appendChild(option);
+    });
   }
   init();
 </script>
