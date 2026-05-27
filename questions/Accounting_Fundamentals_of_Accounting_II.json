@@ -1,0 +1,937 @@
+[
+  {
+    "questionText": "A separate account or record is maintained for both cost of goods sold and merchandise inventory on hand under:",
+    "options": [
+      "LIFO",
+      "Average",
+      "Perpetual inventory system",
+      "Periodic inventory system"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is true about cost of goods sold?",
+    "options": [
+      "CGS = Cost of goods available for sale plus ending inventories",
+      "CGS = Cost of goods available for sale minus ending inventories",
+      "CGS = Cost of goods available for sale minus beginning inventories",
+      "CGS = Cost of goods available for sale minus cost of goods sold"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The credit terms offered to a customer by a business firm are 4/15, n/60, which means that",
+    "options": [
+      "Four sales returns can be made within 15 days",
+      "4% discount if paid between 15th and 60th day",
+      "4% discount if paid within 15 days",
+      "Bill must be paid within 15 days"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The total of beginning inventory and purchases during the period determine:",
+    "options": [
+      "Cost of goods sold",
+      "Total purchases",
+      "Cost of goods available for sale",
+      "Ending inventory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under the perpetual inventory method, purchases on credit are debited to:",
+    "options": [
+      "Purchases",
+      "Income Summary",
+      "Cash",
+      "Inventory"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which statement is correct about inventory errors?",
+    "options": [
+      "Overstate beginning inventory → overstated COGS → overstated net income",
+      "Understate ending inventory → understated COGS → understated net income",
+      "Understate beginning inventory → understated COGS → overstated net income",
+      "Overstate ending inventory → overstated COGS → overstated net income"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Journal entry for purchase of 900 units at Br6 each on account under perpetual system:",
+    "options": [
+      "Inventory 5,400; Accounts Payable 5,400",
+      "Purchases 5,400; Accounts Payable 5,400",
+      "Accounts Receivable 5,400; Sales 5,400",
+      "Inventory 5,400; Cash 5,400"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which statement is FALSE?",
+    "options": [
+      "Average cost is also called weighted average",
+      "Inventories are assets held for sale or production",
+      "FIFO assumes latest goods purchased are first sold",
+      "Perpetual inventory systems update continuously"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If ending inventory is understated by $7,500, it causes:",
+    "options": [
+      "Understatement of COGS",
+      "Overstatement of net income",
+      "Overstatement of inventory",
+      "Understatement of net income"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Estimated cost of ending inventory:",
+    "options": [
+      "$150,000",
+      "$90,000",
+      "$125,000",
+      "$60,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cost retail price ratio:",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.4",
+      "1"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Not a principal feature of periodic inventory system:",
+    "options": [
+      "Sales revenue recorded when sales occur",
+      "Attempt made to record COGS at sale date",
+      "Purchases recorded in Purchases account",
+      "Inventory determined at end of period"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ownership transfers at point of origin:",
+    "options": [
+      "FOB Destination",
+      "FOB Shipping Point",
+      "Transportation cost",
+      "Freight in"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cost of goods sold equals:",
+    "options": [
+      "135,000",
+      "105,000",
+      "100,000",
+      "90,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "FIFO cost of goods sold:",
+    "options": [
+      "Br5,670",
+      "Br2,070",
+      "Br3,240",
+      "Br3,600"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Weighted-average ending inventory:",
+    "options": [
+      "Br2,070",
+      "Br3,600",
+      "Br2,025",
+      "Br3,645"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Correct cost of goods sold:",
+    "options": [
+      "95,000",
+      "65,000",
+      "68,000",
+      "80,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Correct net income:",
+    "options": [
+      "40,000",
+      "20,000",
+      "55,000",
+      "42,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Net realizable value:",
+    "options": [
+      "$3,500",
+      "$3,250",
+      "$4,100",
+      "$4,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Inventory method giving higher turnover ratio in inflation:",
+    "options": [
+      "Weighted average",
+      "FIFO",
+      "LIFO",
+      "Specific identification"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Accumulated depreciation on Dec 31, 2009:",
+    "options": [
+      "16,000",
+      "20,000",
+      "32,000",
+      "48,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Incorrect statement about subsequent expenditures:",
+    "options": [
+      "Capital expenditures improve efficiency",
+      "Revenue expenditures debited to expense",
+      "Capital expenditures debited to asset",
+      "Subsequent expenditures usually debited to repairs expense"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Disposal of equipment results in:",
+    "options": [
+      "Gain 5,000",
+      "Loss 5,000",
+      "Gain 115,000",
+      "No gain, no loss"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Additions and improvements to plant assets are:",
+    "options": [
+      "Revenue expenditures",
+      "Maintenance expense",
+      "Debited to Purchases",
+      "Debited to Plant Asset account"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Original cost of building:",
+    "options": [
+      "350,000",
+      "360,000",
+      "420,000",
+      "400,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Original annual depreciation expense:",
+    "options": [
+      "7,200",
+      "10,000",
+      "12,000",
+      "15,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Revised annual depreciation expense:",
+    "options": [
+      "5,000",
+      "5,714",
+      "6,545",
+      "8,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Transfer of natural resource cost to expense:",
+    "options": [
+      "Amortization",
+      "Depletion",
+      "Depreciation",
+      "Expenditure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cost recorded for equipment:",
+    "options": [
+      "24,000",
+      "25,400",
+      "25,200",
+      "25,800"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Gain or loss on machine sale:",
+    "options": [
+      "€18,000",
+      "€22,000",
+      "€54,000",
+      "€46,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Double-declining balance depreciation second year:",
+    "options": [
+      "$7,600",
+      "$5,760",
+      "$5,000",
+      "$3,400"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When depreciation estimate changes:",
+    "options": [
+      "Previous depreciation corrected",
+      "Current and future revised",
+      "Only future revised",
+      "Accounting error"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Entry to record depletion includes:",
+    "options": [
+      "Debit accumulated depletion 2,000,000",
+      "Debit depletion expense 1,200,000",
+      "Credit natural resource 1,200,000",
+      "Credit accumulated depletion 2,000,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Patent amortization expense for 2008:",
+    "options": [
+      "$41,200",
+      "$40,000",
+      "$37,600",
+      "$31,200"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Proceeds from timber sale should be:",
+    "options": [
+      "Other income",
+      "Netted against clearing costs",
+      "Deducted from plant cost",
+      "Deducted from land cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Depreciation is a technique of:",
+    "options": [
+      "Valuation",
+      "Cash accumulation",
+      "Cost allocation",
+      "Asset appraisal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Characteristic of property, plant & equipment:",
+    "options": [
+      "Held for sale",
+      "Lacks physical substance",
+      "Held for appreciation",
+      "Held for use in operations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Rights and privileges without physical substance:",
+    "options": [
+      "Natural resources",
+      "Intangible assets",
+      "Research costs",
+      "Depletion expenses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Not included in land cost:",
+    "options": [
+      "Cash purchase price",
+      "Closing costs",
+      "Broker commissions",
+      "Structural additions with definite life"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Disposal of PPE involves:",
+    "options": [
+      "Debiting asset account",
+      "Crediting accumulated depreciation",
+      "Crediting asset account",
+      "Debiting depreciation expense"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Gross profit results if:",
+    "options": [
+      "Operating expenses less than net income",
+      "Sales greater than operating expenses",
+      "Sales greater than cost of goods sold",
+      "Operating expenses greater than COGS"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under perpetual inventory system:",
+    "options": [
+      "Purchases debited to Merchandise Inventory",
+      "Purchases on account debited to Purchases",
+      "Purchase returns debited to Purchase Returns",
+      "Freight costs debited to Freight-out"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Sales accounts with debit balance:",
+    "options": [
+      "Sales Discounts",
+      "Sales Returns and Allowances",
+      "Both A and B",
+      "Neither"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Amount received as payment in full:",
+    "options": [
+      "$700",
+      "$686",
+      "$685",
+      "$650"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Account appearing under perpetual inventory system:",
+    "options": [
+      "Purchases",
+      "Freight-in",
+      "Cost of Goods Sold",
+      "Purchase Discounts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sale of goods for cash under perpetual system:",
+    "options": [
+      "One entry for COGS only",
+      "One entry for revenue only",
+      "Two journal entries necessary",
+      "Two entries for inventory and sales revenue"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Accounting cycle differs because:",
+    "options": [
+      "Additional inventory adjustment may be needed",
+      "Closing entries not required",
+      "Post-closing trial balance not required",
+      "Multiple-step income statement required"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Multiple-step income statement excludes:",
+    "options": [
+      "Gross profit",
+      "Cost of goods sold",
+      "Sales revenue section",
+      "Investing activities section"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under periodic inventory system:",
+    "options": [
+      "Purchases debited to Merchandise Inventory",
+      "Purchases debited to Purchases",
+      "Purchase returns debited to Purchase Returns",
+      "Freight costs debited to Purchases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In determining COGS:",
+    "options": [
+      "Purchase discounts deducted from net purchases",
+      "Freight-out added to purchases",
+      "Purchase returns deducted from net purchases",
+      "Freight-in added to net purchases"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Net sales equal:",
+    "options": [
+      "395,000",
+      "300,300",
+      "414,700",
+      "375,300",
+      "339,700"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Buyer informs seller of returns using:",
+    "options": [
+      "Debit memorandum",
+      "Credit memorandum",
+      "Invoice",
+      "Bill"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Income statement deducting total expenses from revenues:",
+    "options": [
+      "Multiple-step",
+      "Account form",
+      "Single-step",
+      "Report format"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Expense classified as other expense:",
+    "options": [
+      "Depreciation expense office equipment",
+      "Sales salaries expense",
+      "Insurance expense",
+      "Interest expense"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Inventory system updating records continuously:",
+    "options": [
+      "Periodic inventory",
+      "JIT inventory",
+      "Perpetual inventory",
+      "EOQ"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Seller grants allowance for defective goods:",
+    "options": [
+      "Purchase discount",
+      "Purchase return",
+      "Purchase allowance",
+      "Freight out"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "FOB shipping point means:",
+    "options": [
+      "Ownership transfers on arrival",
+      "Buyer accepts ownership at shipment",
+      "Seller pays shipping costs",
+      "Seller keeps inventory in transit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "True statement about merchandising expenses:",
+    "options": [
+      "Selling expenses include advertising and delivery",
+      "G&A includes accounting and HR",
+      "Other expenses exclude interest expense",
+      "Operating expenses separated into selling and G&A"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Net income share to Star:",
+    "options": [
+      "20,000",
+      "30,000",
+      "25,000",
+      "35,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Admission of new partner by asset contribution:",
+    "options": [
+      "Assets and equity unaffected",
+      "Liabilities decrease",
+      "Assets and owners’ equity increase",
+      "Assets increase only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Disadvantage of partnership:",
+    "options": [
+      "Many legal requirements",
+      "Partnership pays income tax",
+      "Unlimited liability",
+      "Complexity of operations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Yohannes capital after admission:",
+    "options": [
+      "112,000",
+      "120,000",
+      "92,800",
+      "75,200"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Delu capital after admission:",
+    "options": [
+      "94,800",
+      "85,200",
+      "112,000",
+      "90,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Withdrawal of partner taking assets results in:",
+    "options": [
+      "Increase assets",
+      "Increase assets and equity",
+      "Decrease assets and equity",
+      "Change liabilities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Gain or loss on realization:",
+    "options": [
+      "Gain 45,500",
+      "Gain 71,000",
+      "Loss 45,500",
+      "Loss 71,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Amount non-cash assets realized:",
+    "options": [
+      "71,000",
+      "45,500",
+      "64,000",
+      "108,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cash balance after liabilities paid:",
+    "options": [
+      "37,000",
+      "108,000",
+      "71,000",
+      "41,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Deficiency of insolvent partner settled by:",
+    "options": [
+      "Shared by all partners",
+      "Reduced from partnership assets",
+      "Remaining partners share deficiency",
+      "Ignore deficiency"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Net income share to B:",
+    "options": [
+      "28,000",
+      "32,000",
+      "42,000",
+      "40,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Net income share to F:",
+    "options": [
+      "20,000",
+      "30,000",
+      "25,000",
+      "35,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Combined total capital recorded:",
+    "options": [
+      "75,000",
+      "79,000",
+      "60,000",
+      "90,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Partnership with joint and several liability:",
+    "options": [
+      "General partnership",
+      "Limited liability partnership",
+      "Limited partnership",
+      "Unlimited liability partnership"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Partnership income statement differs because:",
+    "options": [
+      "Capital section",
+      "Additional division of net income section",
+      "Withdrawal section",
+      "Additional investment section"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Legal characteristic where partner binds partnership:",
+    "options": [
+      "Mutual agency",
+      "Unlimited liability",
+      "Partnership contract",
+      "Partnership accounting",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Not true regarding partnership:",
+    "options": [
+      "Limited life",
+      "Voluntary association",
+      "Unlimited liability",
+      "Partnership pays income tax",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Amount credited to partner A:",
+    "options": [
+      "19,500",
+      "18,000",
+      "7,000",
+      "9,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Disadvantage of partnership compared to corporation:",
+    "options": [
+      "Legal requirements",
+      "Unlimited liability",
+      "Partnership pays taxes",
+      "Government regulation",
+      "Complexity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Dissolution of partnership occurs:",
+    "options": [
+      "Only when business closes",
+      "Only when partner leaves",
+      "At year-end",
+      "Only when new partner admitted",
+      "Any change in partners"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "NOT essential feature of partnership:",
+    "options": [
+      "Business exists",
+      "Business for profit",
+      "Business carried by all partners",
+      "Agreement exists"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Goodwill account credit given in:",
+    "options": [
+      "Old profit-sharing ratio",
+      "Gaining ratio",
+      "New profit-sharing ratio",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Minimum partners required:",
+    "options": [
+      "10",
+      "5",
+      "2",
+      "20"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Liability of partners:",
+    "options": [
+      "Limited",
+      "Unlimited",
+      "Limited to capital",
+      "No liability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Profits divided without deed:",
+    "options": [
+      "Based on capital",
+      "Based on experience",
+      "Unequal",
+      "Equal"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Not a characteristic of partnership firm:",
+    "options": [
+      "Easy formation",
+      "Equal profits",
+      "Limited liability",
+      "Mutual consent"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "General Partnership:",
+    "options": [
+      "No fixed duration partnership",
+      "Partnership with corporate features",
+      "Form under common law",
+      "Single transaction partnership"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Features of partnership firm:",
+    "options": [
+      "Two or more persons",
+      "Share profits and losses",
+      "Mutual agency",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Amount credited to A’s capital account:",
+    "options": [
+      "50,000",
+      "40,000",
+      "35,000",
+      "80,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Amount credited to X and Y:",
+    "options": [
+      "50,000 each",
+      "25,000 each",
+      "30,000 and 20,000",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Admission of D means:",
+    "options": [
+      "Old firm dissolved",
+      "Old firm and partnership dissolved",
+      "Old partnership reconstituted",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Rectifying entry for Q:",
+    "options": [
+      "Debited 400",
+      "Credited 400",
+      "Debited 1600",
+      "Credited 1600"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Relation of partner with firm:",
+    "options": [
+      "Owner",
+      "Agent",
+      "Owner and agent both",
+      "Manager"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Correct option regarding interest on capital:",
+    "options": [
+      "64,000 and 48,000",
+      "56,000 and 24,000",
+      "22,400 and 9,600",
+      "41,600 and 38,400"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Share of profit of new partner decided by:",
+    "options": [
+      "Old partner",
+      "New partner",
+      "Sacrificing partner",
+      "None"
+    ],
+    "correct": 0
+  }
+]
