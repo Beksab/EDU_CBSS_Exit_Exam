@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>EDU Exit Exam | Per‑Course JSON Files</title>
+  <title>EDU Exit Exam | Live Questions</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { background: #f0f4f8; font-family: 'Segoe UI', Roboto, system-ui, sans-serif; padding: 16px; color: #1e2a3e; }
@@ -38,7 +38,7 @@
 <div class="container">
   <div class="card">
     <h1>📘 Exit Exam Simulator</h1>
-    <div class="sub">Ethiopian Defence University – College of Business & Social Studies<br>Auto Timer: 1 min/question | Separate JSON per course</div>
+    <div class="sub">Ethiopian Defence University – College of Business & Social Studies<br>Auto Timer: 1 min/question | Reports to department rep</div>
     <label>👤 Student Name</label>
     <input type="text" id="studentName" placeholder="Full name">
     <div class="flex-row">
@@ -85,9 +85,9 @@
 
   <div class="card admin-panel" id="adminPanelContainer" style="display: none;">
     <div id="adminPanelContent">
-      <div style="font-weight: bold; margin-bottom: 12px;">⚙️ Instructor Panel – Upload Questions (Local Only)</div>
+      <div style="font-weight: bold; margin-bottom: 12px;">⚙️ Instructor Panel – Upload Questions</div>
       <div style="margin-top: 16px;">
-        <p style="font-size:0.85rem;">To update a course, edit its JSON file in the <code>questions/Department/</code> folder and re-upload to GitHub.</p>
+        <p style="font-size:0.85rem;">To update questions, edit the <strong>Exit_Exam_Questions.json</strong> file on the server and re-upload it.</p>
         <hr>
         <label>📤 Temporary upload (local only)</label>
         <div class="flex-row">
@@ -102,14 +102,14 @@
         </div>
         <input type="file" id="uploadQuestionsFile" accept=".json">
         <button id="uploadJsonBtn">📂 Replace questions (local only)</button>
-        <p style="font-size:0.75rem; margin-top:8px;">This only affects your current device. Permanent changes require editing the server JSON file.</p>
+        <p style="font-size:0.75rem; margin-top:8px;">Changes made here only affect your current device. To make permanent changes, update the server's JSON file.</p>
       </div>
     </div>
   </div>
   <div style="text-align: center; margin-bottom: 20px;">
     <button id="unlockAdminBtn" class="outline">🔒 Show Instructor Panel (Admin Only)</button>
   </div>
-  <footer>✅ Questions are loaded from per‑course JSON files → easy to edit individually.</footer>
+  <footer>✅ Questions are loaded live from Exit_Exam_Questions.json → always up to date.</footer>
 </div>
 
 <script>
@@ -122,60 +122,6 @@
     "Journalism": "tesfayetariku192199@gmail.com"
   };
 
-  // ========== COURSE LISTS (keep separate for dropdown) ==========
-  const departmentCourses = {
-    "Management": [
-      "Introduction to Management", "Principles of Marketing", "International Marketing",
-      "Human Resource Management", "Organizational Behaviour", "Leadership and Change Management",
-      "Entrepreneurship", "Management Information System", "Strategic Management",
-      "Project Management", "Business Research Methods", "Statistics for Management I",
-      "Statistics for Management II", "Operations Management", "Financial Management",
-      "Operations Research", "Comprehensive Mock I", "Comprehensive Mock II",
-      "Comprehensive Mock III", "Comprehensive Mock IV"
-    ],
-    "Logistics": [
-      "Essentials of Supply Chain Management", "E-commerce and Supply Chain Information System",
-      "Strategic Supply chain Management", "Sustainable Supply Chain Management",
-      "Negotiation and Contract Management", "Government Procurement", "Foreign Procurement",
-      "Fundamentals of Logistics Management", "Transportation Management",
-      "Customs Clearing and Freight Forwarding Management", "Inventory Management",
-      "Operations Management", "Introduction to Mangement", "Organizational Behaviour",
-      "Research Methods in Logistics and Supply Chain Management", "Comprehensive Mock I",
-      "Comprehensive Mock II", "Comprehensive Mock III", "Comprehensive Mock IV"
-    ],
-    "Accounting": [
-      "Fundamentals of Accounting I", "Fundamentals of Accounting II",
-      "Intermediate Financial Accounting I", "Intermediate Financial Accounting II",
-      "Advanced Financial Accounting I", "Advanced Financial Accounting II",
-      "Cost and Management Accounting I", "Cost and Management Accounting II",
-      "Financial Management I", "Financial Management II",
-      "Financial Markets and Institution", "Auditing Principles and Practices I",
-      "Auditing Principles and Practices II", "Public Finance and Taxation",
-      "Accounting for Public Sector and Civil Society", "ACFN Comprehensive I",
-      "ACFN Comprehensive II", "ACFN Comprehensive III", "ACFN Comprehensive IV"
-    ],
-    "Law": [
-      "Law of Successions", "Family Law", "Law of Contract",
-      "Law of Extra-contractual Liabilities", "General Property Law",
-      "Law of Traders & Business Organization", "Constitutional Law",
-      "Criminal Law", "Tax Law", "Public International Law",
-      "Human Rights Law", "Law of Civil Procedure", "Law of Criminal Procedure",
-      "Law of Evidence", "Employment Law", "Legal Ethics", "Jurisprudence",
-      "Law Comprehensive I", "Law Comprehensive II", "Law Comprehensive III",
-      "Law Comprehensive IV"
-    ],
-    "Journalism": [
-      "Development Journalism", "Media and Information Literacy",
-      "News Writing and Reporting For Print", "Investigative Journalism",
-      "Feature Writing", "Broadcast News Writing and Reporting",
-      "Intercultural Communication", "Communication Theories",
-      "International Communication", "Communication and Conflict Management",
-      "Introduction to Public Relations", "Advertising and Social Marketing",
-      "Media Translation", "Media Law and Ethics", "JOCO Comprehensive I",
-      "JOCO Comprehensive II", "JOCO Comprehensive III", "JOCO Comprehensive IV"
-    ]
-  };
-
   // ========== GLOBAL STATE ==========
   let currentQuestions = [];
   let studentAnswers = [];
@@ -186,8 +132,11 @@
   let timeLeftSeconds = 0;
   let submitted = false;
   let currentDepartment = "Management";
-  let currentCourseName = departmentCourses["Management"][0];
-  let googleScriptUrl = "https://script.google.com/macros/s/AKfycbxI_9svm19VPRENT_QttUBW4Uyx-T71U_1fVYvCEyvSFY0ru0S0Ykt0f8qMSqAdmH_m3A/exec"; // REPLACE
+  let currentCourseName = "";
+  let googleScriptUrl = "https://script.google.com/macros/s/AKfycbxI_9svm19VPRENT_QttUBW4Uyx-T71U_1fVYvCEyvSFY0ru0S0Ykt0f8qMSqAdmH_m3A/exec"; // REPLACE WITH YOUR SCRIPT URL
+
+  let departmentCourses = {};
+  let masterQuestions = {}; // loaded from JSON
 
   // DOM elements
   const departmentSelect = document.getElementById('departmentSelect');
@@ -215,51 +164,48 @@
   const adminContainer = document.getElementById('adminPanelContainer');
   const ADMIN_PASSWORD = "admin123";
 
-  // Helper: get JSON file URL for current course
-  function getCourseJsonUrl() {
-    // Convert course name to a safe file name (replace spaces with underscores)
-    const fileName = currentCourseName.replace(/\s+/g, '_') + ".json";
-    return `questions/${currentDepartment}/${fileName}`;
+  // Load external JSON file
+  async function loadMasterQuestions() {
+    try {
+      const response = await fetch('Exit_Exam_Questions.json');
+      if (!response.ok) throw new Error('Failed to load Exit_Exam_Questions.json');
+      const data = await response.json();
+      masterQuestions = data.questions;
+      departmentCourses = data.courses;
+      updateCourseDropdown();
+      loadCourseQuestionsAndReset();
+    } catch (err) {
+      console.error(err);
+      singleContainer.innerHTML = `<div class="loading">⚠️ Could not load Exit_Exam_Questions.json. Make sure the file exists on the server.</div>`;
+    }
   }
 
-  // Storage key for localStorage fallback
-  function getStorageKey() { return `exam_${currentDepartment}_${currentCourseName.replace(/\s/g, '_')}`; }
+  function getStorageKey(dept, course) { return `exam_${dept}_${course.replace(/\s/g, '_')}`; }
+  function getCurrentStorageKey() { return getStorageKey(currentDepartment, currentCourseName); }
 
-  // Load questions from remote JSON or localStorage
-  async function loadQuestionsForCurrentCourse() {
-    const key = getStorageKey();
+  function loadQuestionsForCurrentCourse() {
+    const key = getCurrentStorageKey();
     const stored = localStorage.getItem(key);
     if (stored) {
       try {
         const parsed = JSON.parse(stored);
         if (Array.isArray(parsed) && parsed.length) {
           currentQuestions = parsed;
-          return true;
+          return;
         }
       } catch(e) {}
     }
-    // Fetch from remote JSON
-    const url = getCourseJsonUrl();
-    try {
-      const response = await fetch(url);
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const loaded = await response.json();
-      if (Array.isArray(loaded) && loaded.length) {
-        currentQuestions = loaded;
-        // Save to localStorage as fallback
-        localStorage.setItem(key, JSON.stringify(currentQuestions));
-        return true;
-      } else {
-        throw new Error("Invalid format");
-      }
-    } catch (err) {
-      console.error("Failed to load course JSON:", err);
-      currentQuestions = [];
-      return false;
+    const deptData = masterQuestions[currentDepartment];
+    if (deptData && deptData[currentCourseName] && deptData[currentCourseName].length) {
+      currentQuestions = JSON.parse(JSON.stringify(deptData[currentCourseName]));
+    } else {
+      currentQuestions = [
+        { questionText: "No questions for this course. Edit Exit_Exam_Questions.json to add questions.", options: ["OK"], correct: 0 }
+      ];
     }
+    localStorage.setItem(key, JSON.stringify(currentQuestions));
   }
 
-  // Update course dropdown (populate from departmentCourses)
   function updateCourseDropdown() {
     const dept = departmentSelect.value;
     const courses = departmentCourses[dept] || [];
@@ -301,26 +247,17 @@
     examArea.style.display = "block";
   }
 
-  async function loadCourseQuestionsAndReset() {
+  function loadCourseQuestionsAndReset() {
     if (examActive) { if(timerInterval) clearInterval(timerInterval); examActive = false; }
     currentDepartment = departmentSelect.value;
     currentCourseName = courseSelect.value;
-    const success = await loadQuestionsForCurrentCourse();
-    if (!success || currentQuestions.length === 0) {
-      currentQuestions = [];
-      questionCounterSpan.innerText = "Questions: 0";
-      singleContainer.innerHTML = `<div class="loading">⚠️ No questions found for this course. Please check that the file <code>${getCourseJsonUrl()}</code> exists in the repository.</div>`;
-      navButtons.style.display = "none";
-      jumpContainer.style.display = "none";
-      return;
-    }
+    loadQuestionsForCurrentCourse();
     resetExamState();
     examActive = false;
     submitted = false;
     questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
   }
 
-  // Render current question (same as before)
   function renderCurrentQuestion() {
     if (!currentQuestions.length || !examActive || submitted) {
       if (!examActive && !submitted && currentQuestions.length) {
@@ -499,7 +436,6 @@
     examArea.style.display = "block";
   }
 
-  // Local upload (for instructor testing)
   function handleUploadJson() {
     const file = uploadFileInput.files[0];
     if (!file) { alert("Select JSON file."); return; }
@@ -513,14 +449,13 @@
         for (let q of parsed) {
           if (!q.questionText || !Array.isArray(q.options) || typeof q.correct !== 'number') throw new Error("Bad format");
         }
-        const key = `exam_${targetDept}_${targetCourse.replace(/\s/g, '_')}`;
-        localStorage.setItem(key, JSON.stringify(parsed));
+        const storageKey = getStorageKey(targetDept, targetCourse);
+        localStorage.setItem(storageKey, JSON.stringify(parsed));
         alert(`Uploaded ${parsed.length} questions for ${targetDept} - ${targetCourse} (only on this device).`);
         if (targetDept === currentDepartment && targetCourse === currentCourseName) {
-          loadQuestionsForCurrentCourse().then(() => {
-            resetExamState();
-            questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
-          });
+          loadQuestionsForCurrentCourse();
+          resetExamState();
+          questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
         }
       } catch(err) { alert("Invalid JSON: " + err.message); }
     };
@@ -529,7 +464,6 @@
 
   function escapeHtml(str) { return str.replace(/[&<>]/g, function(m){ if(m==='&') return '&amp;'; if(m==='<') return '&lt;'; if(m==='>') return '&gt;'; return m;}); }
 
-  // Password protection
   unlockAdminBtn.addEventListener('click', () => {
     const pwd = prompt("Enter instructor password:");
     if (pwd === ADMIN_PASSWORD) { adminContainer.style.display = "block"; unlockAdminBtn.style.display = "none"; }
@@ -549,9 +483,7 @@
   uploadDept.addEventListener('change', updateUploadCourseDropdown);
 
   function init() {
-    updateCourseDropdown();
-    updateUploadCourseDropdown();
-    loadCourseQuestionsAndReset();
+    loadMasterQuestions();
   }
   init();
 </script>
