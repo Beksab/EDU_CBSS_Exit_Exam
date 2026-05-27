@@ -1,0 +1,1772 @@
+[
+  {
+    "questionText": "Financial management is primarily concerned with:",
+    "options": [
+      "Recruitment of employees",
+      "Marketing of products",
+      "Acquisition and effective utilization of financial resources to achieve organizational goals",
+      "Production planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The primary goal of financial management is to:",
+    "options": [
+      "Minimize employee satisfaction",
+      "Maximize shareholder wealth (or firm value)",
+      "Maximize total costs",
+      "Maximize sales revenue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Maximizing shareholder wealth means maximizing the:",
+    "options": [
+      "Number of employees",
+      "Total assets",
+      "Current period profit only",
+      "Market price of the firm's common stock"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a key decision area in financial management?",
+    "options": [
+      "Employee training",
+      "Product design",
+      "Capital budgeting, financing, and working capital management",
+      "Advertising strategy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The finance function includes making decisions about:",
+    "options": [
+      "Only dividend policy",
+      "Long‑term investments (capital budgeting), capital structure, and dividend policy",
+      "Only working capital",
+      "Only short‑term investments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The primary objective of financial planning is to:",
+    "options": [
+      "Ignore future cash needs",
+      "Minimize long‑term debt at all costs",
+      "Maximize current spending",
+      "Ensure that funds are available when needed and that financial goals are met"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The CFO (Chief Financial Officer) is responsible for:",
+    "options": [
+      "Only payroll",
+      "Financial planning, analysis, capital raising, and strategic financial decisions",
+      "Only tax filings",
+      "Only accounting records"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a function of the treasurer in a corporation?",
+    "options": [
+      "Tax compliance",
+      "Internal auditing",
+      "Cash management, capital raising, and banking relationships",
+      "External financial reporting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The controller typically handles:",
+    "options": [
+      "Cash management",
+      "Investor relations",
+      "Raising capital",
+      "Financial accounting, cost accounting, and internal controls"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Agency problem arises when:",
+    "options": [
+      "There is no separation of ownership and control",
+      "Shareholders manage the company directly",
+      "Managers (agents) pursue their own interests rather than maximizing shareholder value",
+      "All stakeholders have identical goals"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Agency costs include:",
+    "options": [
+      "Only the cost of equity",
+      "Monitoring costs, bonding costs, and residual loss",
+      "Only dividend payments",
+      "Only direct out‑of‑pocket expenses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Corporate governance mechanisms to reduce agency problems include:",
+    "options": [
+      "Increasing managerial perks",
+      "Board oversight, executive compensation aligned with performance, and shareholder activism",
+      "Eliminating transparency",
+      "Ignoring board of directors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The financial environment includes financial markets, financial institutions, and:",
+    "options": [
+      "Interest rates and regulations",
+      "Only the government",
+      "Only production technology",
+      "Only corporate strategy"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Primary financial markets are where:",
+    "options": [
+      "Only government bonds are sold",
+      "Existing securities are traded among investors",
+      "Only debt securities are traded",
+      "New securities are issued to raise capital for the issuer"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Secondary financial markets are where:",
+    "options": [
+      "New securities are created",
+      "Only IPOs occur",
+      "Existing securities are bought and sold between investors",
+      "Only commercial paper is issued"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An initial public offering (IPO) occurs in the:",
+    "options": [
+      "Derivatives market",
+      "Primary market",
+      "Secondary market",
+      "Money market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Money markets deal with:",
+    "options": [
+      "Real estate investments",
+      "Equity securities only",
+      "Long‑term securities (maturity > 1 year)",
+      "Short‑term debt securities (maturity ≤ 1 year)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Capital markets deal with:",
+    "options": [
+      "Only commercial paper",
+      "Only treasury bills",
+      "Long‑term securities (equity and bonds with maturity > 1 year)",
+      "Short‑term instruments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Financial ratio analysis is used to:",
+    "options": [
+      "Determine product pricing",
+      "Set employee salaries",
+      "Replace all financial planning",
+      "Evaluate a company's financial performance and condition relative to past or industry peers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Liquidity ratios measure a firm's ability to:",
+    "options": [
+      "Pay dividends",
+      "Use long‑term debt",
+      "Generate profit",
+      "Pay short‑term obligations as they come due"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The current ratio is calculated as:",
+    "options": [
+      "Current liabilities / Current assets",
+      "Net income / Current assets",
+      "Current assets / Current liabilities",
+      "(Current assets – Inventory) / Current liabilities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A current ratio of 2.0 means:",
+    "options": [
+      "The firm has no liquidity",
+      "Current liabilities are twice current assets",
+      "Current assets are twice current liabilities",
+      "The firm is insolvent"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The quick ratio (acid test) excludes ______ from current assets.",
+    "options": [
+      "Accounts receivable",
+      "Cash",
+      "Inventory",
+      "Marketable securities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A higher quick ratio indicates:",
+    "options": [
+      "Lower accounts receivable",
+      "Higher inventory levels",
+      "Lower liquidity",
+      "Stronger short‑term liquidity (excluding inventory)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Leverage (solvency) ratios measure:",
+    "options": [
+      "Market valuation",
+      "Profitability",
+      "Efficiency of asset use",
+      "The extent of debt financing and ability to meet long‑term obligations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The debt ratio is calculated as:",
+    "options": [
+      "EBIT / Interest expense",
+      "Total equity / Total assets",
+      "Total debt / Total assets",
+      "Total debt / Total equity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A high debt ratio indicates:",
+    "options": [
+      "Low operating leverage",
+      "Heavy reliance on debt financing (higher financial leverage)",
+      "High liquidity",
+      "Low financial risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The debt‑to‑equity ratio is:",
+    "options": [
+      "Total equity / Total debt",
+      "EBIT / Interest",
+      "Total assets / Total equity",
+      "Total debt / Total equity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Times interest earned (interest coverage) ratio is:",
+    "options": [
+      "Total debt / EBIT",
+      "EBITDA / Total debt",
+      "Net income / Interest expense",
+      "EBIT / Interest expense"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A times interest earned ratio below 1.0 indicates:",
+    "options": [
+      "High profitability",
+      "No debt exists",
+      "The firm can easily pay interest",
+      "EBIT is insufficient to cover interest payments"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Activity (efficiency) ratios measure:",
+    "options": [
+      "Market price of stock",
+      "How efficiently a firm uses its assets",
+      "Dividend policy",
+      "Profitability of sales"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Inventory turnover ratio is calculated as:",
+    "options": [
+      "Sales / Average inventory",
+      "Cost of goods sold / Average inventory",
+      "Average inventory / COGS",
+      "Sales / Inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A low inventory turnover may indicate:",
+    "options": [
+      "Just‑in‑time success",
+      "Rapid restocking",
+      "Slow‑moving inventory or overstocking",
+      "Strong sales and efficient inventory management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Accounts receivable turnover is:",
+    "options": [
+      "COGS / Accounts receivable",
+      "Average accounts receivable / Net credit sales",
+      "Sales / Accounts payable",
+      "Net credit sales / Average accounts receivable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A high accounts receivable turnover indicates:",
+    "options": [
+      "High bad debts",
+      "Slow collection of receivables",
+      "Efficient collection and short collection period",
+      "Lax credit policy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The average collection period (days sales outstanding) is calculated as:",
+    "options": [
+      "365 × Accounts receivable turnover",
+      "Accounts receivable turnover / 365",
+      "365 / Inventory turnover",
+      "365 / Accounts receivable turnover"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Total asset turnover ratio is:",
+    "options": [
+      "Net income / Total assets",
+      "Total assets / Sales",
+      "Sales / Fixed assets",
+      "Sales / Total assets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Profitability ratios measure:",
+    "options": [
+      "Debt levels",
+      "Liquidity",
+      "The firm's ability to generate earnings relative to sales, assets, or equity",
+      "Market value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Gross profit margin is:",
+    "options": [
+      "EBIT / Sales",
+      "Net income / Total assets",
+      "(Sales – COGS) / Sales",
+      "Net income / Sales"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Operating profit margin (EBIT margin) is:",
+    "options": [
+      "Net income / Sales",
+      "EBIT / Sales",
+      "Gross profit / Sales",
+      "EBIT / Total assets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Net profit margin is:",
+    "options": [
+      "EBIT / Sales",
+      "Operating cash flow / Sales",
+      "Gross profit / Sales",
+      "Net income / Sales"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Return on assets (ROA) is:",
+    "options": [
+      "Net income / Sales",
+      "Sales / Total assets",
+      "EBIT / Total assets",
+      "Net income / Total assets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Return on equity (ROE) is:",
+    "options": [
+      "EBIT / Total equity",
+      "Net income / Total equity",
+      "Sales / Total equity",
+      "Net income / Total assets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The DuPont identity breaks ROE into:",
+    "options": [
+      "ROA × Debt ratio",
+      "Net profit margin × Total asset turnover × Equity multiplier",
+      "EBIT margin × Interest coverage × Debt/Equity",
+      "Gross margin × Fixed asset turnover × Debt ratio"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Market value ratios include:",
+    "options": [
+      "Inventory turnover and days sales outstanding",
+      "Debt ratio and times interest earned",
+      "Current ratio and quick ratio",
+      "Price‑earnings (P/E) ratio and market‑to‑book ratio"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The price‑earnings (P/E) ratio is:",
+    "options": [
+      "Book value per share / Market price per share",
+      "Net income / Number of shares",
+      "Market price per share / Earnings per share",
+      "Earnings per share / Market price per share"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A high P/E ratio may indicate:",
+    "options": [
+      "Low investor confidence",
+      "Investors expect high future growth",
+      "The stock is undervalued",
+      "Low profitability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The market‑to‑book ratio is:",
+    "options": [
+      "Book value / Sales",
+      "Market capitalization / Net income",
+      "Book value per share / Market price per share",
+      "Market price per share / Book value per share"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Financial planning involves:",
+    "options": [
+      "Only dividend decisions",
+      "Only short‑term cash management",
+      "Forecasting future financial needs, preparing pro forma statements, and managing growth",
+      "Only tax avoidance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Pro forma financial statements are:",
+    "options": [
+      "Tax returns",
+      "Projected or forecasted financial statements based on assumptions",
+      "Historical statements",
+      "Audited statements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The percentage of sales method is used for:",
+    "options": [
+      "Determining cost of capital",
+      "Valuing bonds",
+      "Forecasting financial statements assuming certain accounts vary proportionally with sales",
+      "Capital budgeting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The sustainable growth rate is the maximum growth rate a firm can achieve without:",
+    "options": [
+      "Increasing sales",
+      "Reducing dividends",
+      "Increasing assets",
+      "External equity financing while maintaining constant debt ratio"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The AFN (Additional Funds Needed) equation helps determine:",
+    "options": [
+      "The internal rate of return",
+      "The payback period",
+      "The dividend payout ratio",
+      "The external financing required to support a given sales growth"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The time value of money (TVM) concept states that:",
+    "options": [
+      "Money value never changes",
+      "Money today is worth less than the same amount in the future",
+      "Inflation does not affect money value",
+      "Money today is worth more than the same amount in the future due to earning potential"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Future value (FV) of a lump sum is calculated as:",
+    "options": [
+      "PV × (1 + r × n)",
+      "PV / (1 + r)^n",
+      "PV × r × n",
+      "PV × (1 + r)^n"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Present value (PV) of a lump sum is:",
+    "options": [
+      "FV × r × n",
+      "FV / (1 + r)^n",
+      "FV × (1 + r)^n",
+      "FV / (1 + r × n)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An ordinary annuity assumes payments occur:",
+    "options": [
+      "In a lump sum only",
+      "At the beginning of each period",
+      "At the end of each period",
+      "Irregularly"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An annuity due assumes payments occur:",
+    "options": [
+      "Only once",
+      "At the beginning of each period",
+      "In the middle of each period",
+      "At the end of each period"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The future value of an ordinary annuity formula is:",
+    "options": [
+      "PMT × [(1+r)^n – 1] / (r(1+r)^n)",
+      "PMT × n × r",
+      "PMT × [(1 – (1+r)^‑n) / r]",
+      "PMT × [((1+r)^n – 1) / r]"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The present value of an ordinary annuity formula is:",
+    "options": [
+      "PMT × n",
+      "PMT × [(1+r)^n – 1] / (r(1+r)^n)",
+      "PMT × [(1 – (1+r)^‑n) / r]",
+      "PMT × [((1+r)^n – 1) / r]"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A perpetuity is an annuity that:",
+    "options": [
+      "Never makes payments",
+      "Lasts for a fixed number of periods",
+      "Continues forever with constant periodic payments",
+      "Has growing payments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The present value of a perpetuity (constant payment) is:",
+    "options": [
+      "PMT × r",
+      "PMT / (1+r)",
+      "PMT / r",
+      "PMT × (1/r)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A growing perpetuity (constant growth rate g) has present value:",
+    "options": [
+      "PMT × (1+g) / r",
+      "PMT / (r + g)",
+      "PMT / (r – g) where r > g",
+      "PMT × (r – g)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The effective annual rate (EAR) differs from the stated annual rate (APR) when:",
+    "options": [
+      "There is no interest",
+      "Compounding occurs annually",
+      "The loan is interest‑free",
+      "Compounding occurs more frequently than annually (e.g., monthly)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The EAR formula is:",
+    "options": [
+      "(1 + APR/n)^n – 1",
+      "(1 + APR)^n",
+      "(1 + APR/n) – 1",
+      "(1 + APR)^n – 1"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If APR is 12% compounded monthly, the EAR is:",
+    "options": [
+      "12.36%",
+      "1%",
+      "12%",
+      "12.68% approximately"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Amortization refers to:",
+    "options": [
+      "The valuation of perpetual bonds",
+      "The dividend payment schedule",
+      "The process of paying off a loan with regular periodic payments covering interest and principal",
+      "The calculation of future value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In an amortized loan, as time passes, the portion of each payment going to interest:",
+    "options": [
+      "Varies randomly",
+      "Stays constant",
+      "Decreases",
+      "Increases"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A bond is a:",
+    "options": [
+      "Share of ownership in a company",
+      "Derivative security",
+      "Short‑term bank loan",
+      "Long‑term debt instrument promising periodic interest payments and repayment of principal"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The face value (par value) of a bond is:",
+    "options": [
+      "The annual interest payment",
+      "The principal amount repaid at maturity",
+      "The market price of the bond",
+      "The current yield"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The coupon rate of a bond is the:",
+    "options": [
+      "Annual interest payment divided by the bond's face value",
+      "Yield to maturity",
+      "Market interest rate",
+      "Current yield"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The value of a bond is equal to the:",
+    "options": [
+      "Market price of the company's stock",
+      "Face value only",
+      "Sum of all coupons without discounting",
+      "Present value of its future coupon payments plus present value of face value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When market interest rates rise, bond prices:",
+    "options": [
+      "Stay unchanged",
+      "Fall",
+      "Double",
+      "Rise"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When market interest rates fall, bond prices:",
+    "options": [
+      "Remain constant",
+      "Become negative",
+      "Fall",
+      "Rise"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The yield to maturity (YTM) on a bond is:",
+    "options": [
+      "The risk‑free rate",
+      "The coupon rate",
+      "The discount rate that equates the bond's price to the present value of its future cash flows",
+      "The current yield"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A bond selling at a discount means its market price is:",
+    "options": [
+      "Zero",
+      "Equal to face value",
+      "Above face value",
+      "Below face value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A bond selling at a premium means its market price is:",
+    "options": [
+      "Equal to face value",
+      "Negative",
+      "Above face value",
+      "Below face value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a bond's coupon rate equals its YTM, the bond sells at:",
+    "options": [
+      "A price unrelated to par",
+      "Par value",
+      "Premium",
+      "Discount"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Current yield is calculated as:",
+    "options": [
+      "Face value / Market price",
+      "YTM / Market price",
+      "Annual coupon payment / Face value",
+      "Annual coupon payment / Market price"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Bond ratings (e.g., AAA, BBB) indicate:",
+    "options": [
+      "Coupon rate",
+      "Maturity date",
+      "Credit quality and default risk",
+      "Market price"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A zero‑coupon bond:",
+    "options": [
+      "Has no maturity date",
+      "Pays annual interest",
+      "Pays interest monthly",
+      "Sells at a deep discount and pays no periodic interest; only face value at maturity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Preferred stock is often viewed as a:",
+    "options": [
+      "Short‑term liability",
+      "Hybrid security with fixed dividends but no voting rights (usually)",
+      "Common stock with variable dividends",
+      "Debt instrument with voting rights"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Common stock represents:",
+    "options": [
+      "A fixed income security",
+      "A bank loan",
+      "Ownership in the company with residual claim on assets and voting rights",
+      "Debt of the company"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Dividends on common stock are:",
+    "options": [
+      "Always cumulative",
+      "Fixed like bond interest",
+      "Guaranteed",
+      "Not guaranteed, paid at discretion of the board"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The value of a common stock using the dividend discount model (DDM) with constant growth (Gordon model) is:",
+    "options": [
+      "D₀ / (r – g)",
+      "D₁ / (r + g)",
+      "D₀ × (1+g) / (r + g)",
+      "D₁ / (r – g)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In the Gordon growth model, r is the required return, g is the dividend growth rate, and the model requires:",
+    "options": [
+      "g = 0",
+      "r < g",
+      "r > g",
+      "r = g"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cost of capital is the:",
+    "options": [
+      "Interest rate on a savings account",
+      "Dividend payout ratio",
+      "Required return necessary to make an investment worthwhile, reflecting the risk of the firm's assets",
+      "Historical cost of debt"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cost of debt (after‑tax) is:",
+    "options": [
+      "Interest rate / (1 – tax rate)",
+      "Interest rate × tax rate",
+      "Interest rate only",
+      "Interest rate × (1 – tax rate)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The cost of preferred stock (rₚ) is:",
+    "options": [
+      "Net income / Preferred shares outstanding",
+      "Annual dividend / Par value",
+      "Annual dividend / Market price of preferred stock",
+      "(Dividend × (1+g)) / Market price + g"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cost of common equity using the dividend growth model (rₑ) is:",
+    "options": [
+      "D₀ / P₀ – g",
+      "D₁ / P₀ – g",
+      "D₀ / P₀ + g",
+      "D₁ / P₀ + g"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Capital Asset Pricing Model (CAPM) estimates cost of equity as:",
+    "options": [
+      "β(Rm – Rf)",
+      "Rm + β(Rf)",
+      "Rf + β(Rm – Rf)",
+      "Rf – β(Rm – Rf)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The weighted average cost of capital (WACC) is:",
+    "options": [
+      "Cost of debt × (Equity/Value) + Cost of equity × (Debt/Value)",
+      "(Cost of debt + Cost of equity) / 2",
+      "Cost of equity only",
+      "Cost of debt × (Debt/Value) + Cost of equity × (Equity/Value)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When calculating WACC, the cost of debt is adjusted for taxes because:",
+    "options": [
+      "Dividends are tax‑deductible",
+      "No adjustment is needed",
+      "Equity is tax‑deductible",
+      "Interest is tax‑deductible"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A firm's WACC is used as the discount rate in capital budgeting for projects with:",
+    "options": [
+      "Risk higher than the firm's average",
+      "Any level of risk without adjustment",
+      "Risk equal to the firm's average risk",
+      "Risk lower than the firm's average"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Capital budgeting is the process of:",
+    "options": [
+      "Paying dividends",
+      "Managing daily cash flow",
+      "Planning and evaluating long‑term investment decisions (e.g., purchase of machinery, new plant)",
+      "Raising short‑term funds"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a capital budgeting decision?",
+    "options": [
+      "Issuing a commercial paper",
+      "Purchasing a new factory",
+      "Deciding the credit terms for customers",
+      "Hiring a new employee"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The payback period method measures:",
+    "options": [
+      "The net present value",
+      "The internal rate of return",
+      "The profitability of a project",
+      "The time required to recover the initial investment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A major disadvantage of the payback period is that it:",
+    "options": [
+      "Ignores cash flows after the payback period and ignores time value of money",
+      "Always gives the correct accept/reject decision",
+      "Is too complex to calculate",
+      "Uses discounted cash flows"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The discounted payback period addresses one criticism of payback by:",
+    "options": [
+      "Using accounting income instead of cash flows",
+      "Including all cash flows after payback",
+      "Discounting cash flows before calculating payback",
+      "Ignoring time value of money"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Net Present Value (NPV) is calculated as:",
+    "options": [
+      "Sum of undiscounted cash flows",
+      "Initial investment divided by annual cash flow",
+      "Future value of cash inflows minus initial investment",
+      "Present value of cash inflows minus present value of cash outflows"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project with positive NPV should be:",
+    "options": [
+      "Postponed indefinitely",
+      "Accepted because it adds value to the firm",
+      "Ignored",
+      "Rejected"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If NPV = 0, the project is:",
+    "options": [
+      "Always rejected",
+      "Always accepted",
+      "Not acceptable",
+      "Indifferent (returns exactly the required rate)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Internal Rate of Return (IRR) is the discount rate that:",
+    "options": [
+      "Makes NPV positive",
+      "Equals the WACC",
+      "Makes NPV equal to zero",
+      "Makes NPV negative"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The decision rule for IRR: accept a project if IRR is:",
+    "options": [
+      "Equal to zero",
+      "Negative",
+      "Less than the required rate of return",
+      "Greater than the required rate of return"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A potential problem with IRR is that:",
+    "options": [
+      "It considers the scale of investment",
+      "For non‑conventional cash flows, there may be multiple IRRs or no IRR",
+      "It is easy to calculate",
+      "It always agrees with NPV"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Profitability Index (PI) is:",
+    "options": [
+      "Initial investment / PV of cash flows",
+      "NPV / Initial investment",
+      "IRR / WACC",
+      "Present value of future cash flows / Initial investment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A PI greater than 1 indicates:",
+    "options": [
+      "The project has negative NPV",
+      "The project should be rejected",
+      "The project creates value (consistent with positive NPV)",
+      "The project destroys value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The modified internal rate of return (MIRR) addresses:",
+    "options": [
+      "The NPV calculation",
+      "The cost of debt",
+      "The reinvestment rate assumption of IRR",
+      "The payback period"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Capital budgeting decisions should be based primarily on:",
+    "options": [
+      "Accounting rate of return",
+      "Payback period",
+      "Book value",
+      "NPV (or equivalent like IRR when no conflicts)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Mutually exclusive projects are those where:",
+    "options": [
+      "Neither can be accepted",
+      "Acceptance of one does not affect acceptance of another",
+      "Both can be accepted simultaneously",
+      "Acceptance of one precludes acceptance of the other"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When NPV and IRR conflict for mutually exclusive projects, generally choose based on:",
+    "options": [
+      "Any arbitrary rule",
+      "NPV (which directly measures value added)",
+      "Payback period",
+      "IRR"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Capital rationing occurs when:",
+    "options": [
+      "No projects are available",
+      "All projects are negative NPV",
+      "The firm has a fixed budget and must choose among positive NPV projects",
+      "The firm has unlimited funds"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The financing decision concerns:",
+    "options": [
+      "Inventory management",
+      "Product pricing",
+      "The mix of debt and equity (capital structure)",
+      "Which projects to invest in"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The dividend decision involves:",
+    "options": [
+      "The level of debt",
+      "Which projects to invest in",
+      "The cost of capital",
+      "How much of earnings to distribute to shareholders vs. retain"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Modigliani‑Miller Proposition I (without taxes) states that:",
+    "options": [
+      "Equity is always better than debt",
+      "Capital structure does not affect firm value",
+      "Debt is always better than equity",
+      "Capital structure does affect firm value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "With taxes, the value of a levered firm is equal to the value of an unlevered firm plus:",
+    "options": [
+      "The cost of equity",
+      "The present value of dividends",
+      "The present value of the interest tax shield",
+      "The present value of bankruptcy costs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The trade‑off theory of capital structure balances:",
+    "options": [
+      "NPV and IRR",
+      "Interest tax shields against costs of financial distress",
+      "Current ratio and quick ratio",
+      "Dividends and retained earnings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The pecking order theory suggests firms prefer financing in order:",
+    "options": [
+      "No preference",
+      "Equity first, then debt, then internal funds",
+      "Debt first, then equity, then internal funds",
+      "Internal funds first, then debt, then equity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Operating leverage refers to:",
+    "options": [
+      "The current ratio",
+      "The use of debt financing",
+      "The proportion of fixed costs in the cost structure",
+      "The dividend payout ratio"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Financial leverage refers to:",
+    "options": [
+      "The level of inventory",
+      "The accounts receivable turnover",
+      "The use of fixed operating costs",
+      "The use of debt financing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Combined leverage is the product of:",
+    "options": [
+      "Debt and equity ratios",
+      "Profit margin and turnover",
+      "Operating and financial leverage",
+      "Current and quick ratios"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The break‑even point in units is:",
+    "options": [
+      "Total revenue / Total cost",
+      "Variable costs / Contribution margin",
+      "(Fixed costs + Variable costs) / Selling price",
+      "Fixed costs / (Selling price per unit – Variable cost per unit)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Working capital management involves:",
+    "options": [
+      "Capital budgeting",
+      "Managing current assets and current liabilities",
+      "Long‑term investment decisions",
+      "Dividend policy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The cash conversion cycle is calculated as:",
+    "options": [
+      "Receivables days – Inventory days – Payables days",
+      "Payables days – Inventory days – Receivables days",
+      "Inventory days – Receivables days + Payables days",
+      "Inventory days + Receivables days – Payables days"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A shorter cash conversion cycle:",
+    "options": [
+      "Has no effect on liquidity",
+      "Increases the need for external financing",
+      "Indicates more efficient working capital management and lower financing needs",
+      "Indicates less efficient working capital management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The economic order quantity (EOQ) in working capital context minimizes:",
+    "options": [
+      "Purchase costs",
+      "Total ordering and carrying costs",
+      "Ordering costs only",
+      "Carrying costs only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The purpose of holding cash (transaction, precautionary, and speculative motives) is managed in:",
+    "options": [
+      "Capital structure",
+      "Capital budgeting",
+      "Working capital management",
+      "Dividend policy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Trade credit is an example of:",
+    "options": [
+      "Equity financing",
+      "Capital budgeting",
+      "Long‑term financing",
+      "Spontaneous financing (accounts payable)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The cash budget is a tool for:",
+    "options": [
+      "Valuing bonds",
+      "Long‑term planning",
+      "Calculating depreciation",
+      "Forecasting short‑term cash inflows and outflows to manage liquidity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A firm's dividend policy affects:",
+    "options": [
+      "Only the bond rating",
+      "The level of retained earnings and thus financing available for investments",
+      "Only the stock price but not the firm's investments",
+      "Only the tax liability of the firm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Stock repurchases (buybacks) are an alternative to:",
+    "options": [
+      "Reducing working capital",
+      "Issuing debt",
+      "Paying dividends, returning cash to shareholders",
+      "Investing in new projects"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The signaling hypothesis of dividends suggests that:",
+    "options": [
+      "Dividends increase taxes",
+      "Dividends reduce agency costs only",
+      "Dividends are irrelevant",
+      "Dividend changes convey management's private information about future earnings"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The clientele effect suggests that:",
+    "options": [
+      "Dividends do not affect stock price",
+      "Stock price is independent of dividend policy",
+      "Investors select stocks with dividend policies that match their tax and income preferences",
+      "All investors prefer the same dividend policy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The residual dividend policy means:",
+    "options": [
+      "Dividends are paid from debt proceeds",
+      "Dividends are always zero",
+      "Dividends are fixed and never change",
+      "Dividends are paid from residual earnings after all profitable investments are funded"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The weighted average cost of capital is used as the hurdle rate for projects with:",
+    "options": [
+      "Low risk only",
+      "No risk",
+      "Average risk similar to the firm's existing assets",
+      "High risk only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The flotation costs of issuing new securities:",
+    "options": [
+      "Decrease the cost of capital",
+      "Are irrelevant for capital budgeting",
+      "Only affect debt, not equity",
+      "Increase the cost of external financing and may be incorporated into the WACC or adjusted in NPV"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Beta (β) in CAPM measures:",
+    "options": [
+      "The dividend yield",
+      "The systematic risk relative to the market",
+      "The total risk of a security",
+      "The unsystematic risk of a security"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If a stock has β = 1.5, it is:",
+    "options": [
+      "Risk‑free",
+      "Negatively correlated with the market",
+      "Less volatile than the market",
+      "50% more volatile than the market"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The risk‑free rate (Rf) is often approximated by:",
+    "options": [
+      "The inflation rate",
+      "The return on long‑term government bonds or treasury bills",
+      "The average stock market return",
+      "The return on corporate bonds"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The market risk premium (Rm – Rf) is:",
+    "options": [
+      "The beta of the market",
+      "The return on risk‑free assets",
+      "The additional return investors expect for holding a diversified market portfolio over risk‑free assets",
+      "The dividend yield"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A project with higher systematic risk than the firm's average should use a discount rate:",
+    "options": [
+      "Equal to risk‑free rate",
+      "Lower than WACC",
+      "Equal to WACC",
+      "Higher than WACC"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Real options analysis in capital budgeting recognizes:",
+    "options": [
+      "That all projects have the same risk",
+      "Only the NPV rule without flexibility",
+      "That all investments are irreversible",
+      "The value of flexibility to delay, expand, or abandon projects"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Sensitivity analysis in capital budgeting changes:",
+    "options": [
+      "No variables",
+      "The discount rate only",
+      "Multiple variables at once",
+      "One variable at a time to see the effect on NPV"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Scenario analysis evaluates:",
+    "options": [
+      "Only the base case",
+      "One variable at a time",
+      "The impact of changing several variables simultaneously (e.g., best‑case, worst‑case scenarios)",
+      "The payback period"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Monte Carlo simulation in capital budgeting:",
+    "options": [
+      "Provides a single point estimate of NPV",
+      "Replaces NPV analysis entirely",
+      "Uses probability distributions for inputs to simulate many possible outcomes",
+      "Ignores risk"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The certainty equivalent approach adjusts:",
+    "options": [
+      "The discount rate",
+      "The payback period",
+      "The accounting profit",
+      "The expected cash flows to reflect risk"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The risk‑adjusted discount rate approach adjusts:",
+    "options": [
+      "The cash flows",
+      "The dividend payout",
+      "The discount rate for risk (higher risk, higher discount rate)",
+      "The payback period"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The primary advantage of NPV is that it:",
+    "options": [
+      "Ignores the time value of money",
+      "Is easy to calculate without a calculator",
+      "Directly measures the dollar increase in shareholder wealth",
+      "Uses accounting earnings instead of cash flows"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "For independent projects, if NPV > 0, then IRR will be:",
+    "options": [
+      "Negative",
+      "Equal to the required return",
+      "Less than the required return",
+      "Greater than the required return"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The crossover rate is the discount rate where:",
+    "options": [
+      "Payback periods are equal",
+      "Both projects have zero NPV",
+      "NPV of two projects are equal",
+      "IRR of one project equals the other's IRR"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In capital budgeting, relevant cash flows are:",
+    "options": [
+      "Past expenses",
+      "Sunk costs",
+      "Incremental cash flows (changes in firm's total cash flow from accepting the project)",
+      "Financing costs already included in WACC"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sunk costs should be:",
+    "options": [
+      "Added to operating expenses",
+      "Subtracted from future cash flows",
+      "Included in the initial investment",
+      "Ignored in capital budgeting decisions (they are past and unrecoverable)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Opportunity cost is:",
+    "options": [
+      "Always zero",
+      "A sunk cost",
+      "A financing cost",
+      "The value of the best alternative forgone by using a resource for a project"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Externalities (e.g., cannibalization) in capital budgeting refer to:",
+    "options": [
+      "Flotation costs",
+      "Sunk costs",
+      "Effects on other parts of the firm (positive or negative) from the project",
+      "Depreciation tax shields"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Depreciation tax shield is calculated as:",
+    "options": [
+      "Depreciation expense / tax rate",
+      "Tax rate / Depreciation expense",
+      "Depreciation expense × (1 – tax rate)",
+      "Depreciation expense × tax rate"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The terminal value of a project includes:",
+    "options": [
+      "Only the last year's operating cash flow",
+      "Only the initial investment",
+      "Salvage value of assets, recovery of net working capital, and after‑tax proceeds",
+      "No cash flows after the project ends"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The equivalent annual annuity (EAA) method is used to compare projects with:",
+    "options": [
+      "The same initial investment",
+      "Equal lives",
+      "Different discount rates",
+      "Unequal lives, converting NPV to an annualized amount"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The replacement chain (common life) method also handles:",
+    "options": [
+      "Independent projects only",
+      "Projects with equal lives by repeating projects to a common horizon",
+      "Mutually exclusive projects with equal lives only",
+      "Projects with unequal lives by repeating projects to a common horizon"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Inflation is incorporated into capital budgeting by:",
+    "options": [
+      "Using real cash flows with a nominal discount rate",
+      "Ignoring it",
+      "Using nominal cash flows with a real discount rate",
+      "Using nominal cash flows with a nominal discount rate or real cash flows with a real discount rate"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Financial management decisions must consider:",
+    "options": [
+      "Only liquidity",
+      "Only risk",
+      "Only profitability",
+      "Risk, return, and liquidity in an integrated manner"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The goal of working capital management is to:",
+    "options": [
+      "Maximize accounts payable",
+      "Maximize current assets",
+      "Balance profitability and liquidity to ensure smooth operations and minimize financing costs",
+      "Eliminate all current liabilities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cash conversion cycle can be shortened by:",
+    "options": [
+      "Increasing receivables days",
+      "Decreasing payables days",
+      "Increasing inventory days",
+      "Decreasing receivables days and increasing payables days"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The maturity matching (self‑liquidating) approach funds:",
+    "options": [
+      "All assets with equity",
+      "All assets with long‑term debt",
+      "Seasonal assets with short‑term debt and permanent assets with long‑term debt",
+      "Permanent assets with short‑term debt"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The aggressive financing strategy uses:",
+    "options": [
+      "Only equity financing",
+      "Only long‑term debt",
+      "More short‑term debt, increasing risk but potentially lowering cost",
+      "Only long‑term financing for all assets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Conservative financing strategy uses:",
+    "options": [
+      "Mostly short‑term debt",
+      "Only trade credit",
+      "No debt",
+      "Mostly long‑term financing, reducing liquidity risk but increasing cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The primary purpose of financial statement analysis is to:",
+    "options": [
+      "Determine employee satisfaction",
+      "Prepare tax returns",
+      "Assess the firm's financial health, performance, and future prospects",
+      "Compute the company's market share"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Horizontal analysis compares financial data:",
+    "options": [
+      "As a percentage of a base figure",
+      "Across different companies",
+      "Using only ratios",
+      "Over time (trend analysis)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Vertical analysis expresses each item in a financial statement as:",
+    "options": [
+      "An absolute number",
+      "A percentage of a base item (e.g., sales or total assets)",
+      "A dollar change",
+      "A ratio to the previous year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The DuPont equation: ROE = (Net profit margin) × (Total asset turnover) × (Equity multiplier). This helps identify:",
+    "options": [
+      "Only liquidity",
+      "Sources of profitability, efficiency, and leverage",
+      "Only market value",
+      "Only profitability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A high equity multiplier indicates:",
+    "options": [
+      "High liquidity",
+      "Low asset turnover",
+      "High financial leverage",
+      "Low debt usage"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The goal of financial management in a public company should be:",
+    "options": [
+      "Maximize CEO compensation",
+      "Maximize long‑term shareholder value",
+      "Minimize taxes at all costs",
+      "Maximize short‑term earnings regardless of risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a drawback of maximizing shareholder wealth as a goal?",
+    "options": [
+      "It always aligns with societal welfare",
+      "It has no long‑term focus",
+      "It may ignore other stakeholders' interests if not balanced with ethics and social responsibility",
+      "It is easy to measure"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Stakeholder theory in financial management suggests:",
+    "options": [
+      "Financial decisions should ignore ethics",
+      "Only shareholders matter",
+      "Managers should consider the interests of all stakeholders (customers, employees, society)",
+      "Shareholder value is the only legitimate goal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of \"value‑based management\" means:",
+    "options": [
+      "Focusing only on market share",
+      "Aligning management decisions with maximizing long‑term shareholder value",
+      "Avoiding any financial risk",
+      "Managing to maximize accounting profit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Economic Value Added (EVA) is:",
+    "options": [
+      "Net income – Dividends",
+      "EBIT – Taxes",
+      "Net operating profit after tax (NOPAT) – (WACC × Invested capital)",
+      "Net income – (Cost of equity × Equity)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A positive EVA indicates that:",
+    "options": [
+      "The firm is destroying shareholder value",
+      "The firm has negative NPV projects",
+      "The firm's stock price will fall",
+      "The firm is earning more than its cost of capital, creating value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The ultimate purpose of financial management is to:",
+    "options": [
+      "Eliminate debt entirely",
+      "Make the firm's stock price as high as possible in the short term",
+      "Minimize all expenditures",
+      "Allocate financial resources efficiently to create sustainable value for owners and society"
+    ],
+    "correct": 3
+  }
+]
