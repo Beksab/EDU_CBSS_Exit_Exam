@@ -1,0 +1,1402 @@
+[
+  {
+    "questionText": "Human Resource Management (HRM) is primarily concerned with:",
+    "options": [
+      "Managing the organization's people to achieve strategic goals",
+      "Managing financial assets",
+      "Managing production technology",
+      "Managing customer relationships"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an operative function of HRM?",
+    "options": [
+      "Strategic planning",
+      "Financial auditing",
+      "Recruitment and selection",
+      "Product development"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The importance of HRM as an organizational asset is based on the idea that:",
+    "options": [
+      "People are a cost to be minimized",
+      "Machines are more important than people",
+      "HRM has no impact on performance",
+      "Human resources are valuable, rare, and difficult to imitate"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The external environment affecting HRM includes all of the following EXCEPT:",
+    "options": [
+      "Labor laws",
+      "Company culture",
+      "Economic conditions",
+      "Technological changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that must comply with equal employment opportunity laws is responding to which HRM environment?",
+    "options": [
+      "Technological",
+      "Competitive",
+      "Legal-political",
+      "Demographic"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a demographic factor affecting HRM?",
+    "options": [
+      "Minimum wage laws",
+      "New software for payroll",
+      "Trade union negotiations",
+      "Aging workforce and changing workforce diversity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Job analysis is the process of:",
+    "options": [
+      "Predicting future HR needs",
+      "Gathering and analyzing information about the content and requirements of a job",
+      "Recruiting candidates for a job",
+      "Dismissing employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The two main outputs of job analysis are:",
+    "options": [
+      "Recruitment and selection plans",
+      "Performance appraisal and compensation",
+      "Training and development programs",
+      "Job description and job specification"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A job description typically includes:",
+    "options": [
+      "Required education and experience",
+      "Salary range only",
+      "Job title, duties, responsibilities, and working conditions",
+      "Employee names"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A job specification describes:",
+    "options": [
+      "The tasks to be performed",
+      "The knowledge, skills, abilities, and other characteristics (KSAOs) needed to perform the job",
+      "The company's mission",
+      "The performance appraisal method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Human resource planning (HRP) involves:",
+    "options": [
+      "Only recruiting new employees",
+      "Only firing underperformers",
+      "Forecasting future HR needs and planning to meet them",
+      "Only training current employees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The first step in human resource planning is:",
+    "options": [
+      "Recruiting",
+      "Selecting candidates",
+      "Conducting job analysis",
+      "Forecasting demand for labor"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Forecasting the supply of internal labor involves:",
+    "options": [
+      "Analyzing external labor market trends",
+      "Assessing current employees' skills, potential, and turnover rates",
+      "Setting salary levels",
+      "Designing job descriptions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A skills inventory is a tool used in HR planning to:",
+    "options": [
+      "List all open positions",
+      "Track customer complaints",
+      "Record the qualifications, skills, and career interests of current employees",
+      "Monitor financial performance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Recruitment is the process of:",
+    "options": [
+      "Selecting the best candidate",
+      "Training new employees",
+      "Evaluating employee performance",
+      "Attracting a pool of qualified applicants for a job"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Internal recruitment sources include:",
+    "options": [
+      "Job fairs and online job boards",
+      "Temporary agencies",
+      "Executive search firms",
+      "Job postings, employee referrals, and promotions from within"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An advantage of internal recruitment is:",
+    "options": [
+      "New ideas from outside",
+      "Lower cost and higher employee morale",
+      "Larger applicant pool",
+      "No need for interviews"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "External recruitment methods include:",
+    "options": [
+      "Only internal job postings",
+      "Newspaper ads, campus recruiting, and online job portals",
+      "Only promotions",
+      "Only transfers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A realistic job preview (RJP) during recruitment:",
+    "options": [
+      "Exaggerates the job's positive aspects only",
+      "Describes only the salary",
+      "Provides both positive and negative information about the job to reduce early turnover",
+      "Is illegal in most countries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Selection is the process of:",
+    "options": [
+      "Attracting applicants",
+      "Training the hired candidate",
+      "Evaluating job performance",
+      "Choosing the most suitable candidate from the pool"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a selection tool?",
+    "options": [
+      "Job analysis",
+      "HR planning",
+      "Application blank, interview, and test",
+      "Orientation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Reliability in selection refers to:",
+    "options": [
+      "The extent to which a test measures what it claims to measure",
+      "The cost of the test",
+      "The legal defensibility of the test",
+      "The consistency of a selection measure (produces similar results over time)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Validity in selection refers to:",
+    "options": [
+      "Consistency of scores",
+      "The extent to which a test predicts job performance",
+      "The test's length",
+      "The number of applicants"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A cognitive ability test is most valid for predicting:",
+    "options": [
+      "Physical strength",
+      "Honesty",
+      "Creativity in art",
+      "Learning ability and job performance for many jobs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A structured interview asks:",
+    "options": [
+      "Different questions to each candidate",
+      "Only yes/no questions",
+      "The same questions in the same order to all candidates",
+      "No questions at all"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An unstructured interview is more likely to suffer from:",
+    "options": [
+      "High reliability",
+      "Bias and low validity",
+      "Legal compliance",
+      "Standardization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A work sample test requires a candidate to:",
+    "options": [
+      "Take a personality test",
+      "Write an essay about themselves",
+      "Undergo a medical exam",
+      "Perform a task similar to the job"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assessment centers are used primarily for:",
+    "options": [
+      "Entry-level manual jobs",
+      "Hourly wage employees",
+      "Selecting and developing managers using multiple exercises",
+      "Temporary staff only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Background checks are conducted to:",
+    "options": [
+      "Violate candidate privacy",
+      "Verify information provided by candidates and check for legal eligibility",
+      "Avoid hiring anyone",
+      "Increase recruitment costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Training is defined as:",
+    "options": [
+      "Terminating an employee",
+      "Promoting employees without preparation",
+      "Teaching employees the skills and knowledge needed to perform their current jobs",
+      "Outsourcing all work"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Development (employee development) focuses on:",
+    "options": [
+      "Current job skills only",
+      "Disciplinary actions",
+      "Reducing salaries",
+      "Preparing employees for future roles and career growth"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A needs assessment for training includes:",
+    "options": [
+      "Only organizational analysis",
+      "Organizational, task, and person analysis",
+      "Only financial analysis",
+      "Only market analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "On-the-job training (OJT) includes:",
+    "options": [
+      "Classroom lectures",
+      "Online courses only",
+      "Coaching, job rotation, and apprenticeships",
+      "Simulations only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Job rotation as a training method involves:",
+    "options": [
+      "Firing employees",
+      "Moving employees through different jobs to broaden their skills",
+      "Reducing work hours",
+      "Eliminating all training"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Vestibule training (simulation) occurs:",
+    "options": [
+      "On the actual production floor",
+      "At home",
+      "During lunch breaks",
+      "In a simulated environment away from the production area"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "E-learning (online training) offers the advantage of:",
+    "options": [
+      "No interaction",
+      "Flexibility and lower delivery costs for large audiences",
+      "Guaranteed learning",
+      "No need for content development"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The four levels of training evaluation (Kirkpatrick) are:",
+    "options": [
+      "Cost, time, quality, satisfaction",
+      "Input, process, output, outcome",
+      "Reaction, learning, behavior, results",
+      "Planning, implementation, evaluation, feedback"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Return on investment (ROI) in training measures:",
+    "options": [
+      "Employee satisfaction only",
+      "Number of training hours",
+      "Monetary benefits compared to training costs",
+      "Number of participants"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Performance appraisal is the process of:",
+    "options": [
+      "Recruiting new employees",
+      "Designing job descriptions",
+      "Determining compensation levels only",
+      "Evaluating employee performance and providing feedback"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The primary purpose of performance appraisal for administrative decisions is:",
+    "options": [
+      "Employee development only",
+      "Pay, promotion, retention, and termination decisions",
+      "Ignoring performance differences",
+      "Reducing communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The developmental purpose of performance appraisal is to:",
+    "options": [
+      "Justify firing",
+      "Set budgets",
+      "Identify strengths, weaknesses, and training needs",
+      "Assign office space"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A graphic rating scale is a performance appraisal method that:",
+    "options": [
+      "Compares employees against each other",
+      "Rates employees on a list of traits or behaviors using a numerical scale",
+      "Uses only narrative descriptions",
+      "Avoids any rating"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The critical incident method of appraisal requires the supervisor to:",
+    "options": [
+      "Rate employees once per year only",
+      "Compare employees to each other",
+      "Use only quantitative metrics",
+      "Keep a log of examples of very good or poor behavior"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Behaviorally Anchored Rating Scales (BARS) combine:",
+    "options": [
+      "Only trait ratings",
+      "Critical incidents with numerical scales for specific behaviors",
+      "Only ranking",
+      "Only self-appraisal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Forced distribution method:",
+    "options": [
+      "Gives all employees the same rating",
+      "Avoids any comparison",
+      "Forces a predetermined percentage of employees into performance categories",
+      "Uses only pass/fail"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "360-degree feedback gathers performance ratings from:",
+    "options": [
+      "Only the supervisor",
+      "Supervisor, peers, subordinates, self, and sometimes customers",
+      "Only customers",
+      "Only subordinates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A potential drawback of 360-degree feedback is:",
+    "options": [
+      "High reliability",
+      "Low cost",
+      "Quick implementation",
+      "Rater bias, complexity, and possible conflict"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A performance appraisal should be conducted:",
+    "options": [
+      "Only when an employee is about to be fired",
+      "Regularly, with ongoing feedback and formal reviews",
+      "Never, because it reduces morale",
+      "Only by HR staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Halo error in performance appraisal occurs when:",
+    "options": [
+      "The rater is too strict on all ratings",
+      "The rater avoids extreme ratings",
+      "The rater rates everyone the same",
+      "One positive trait influences ratings of all other traits"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Leniency error is when a rater:",
+    "options": [
+      "Gives all employees low ratings",
+      "Rates based on recent events only",
+      "Gives all employees high ratings",
+      "Rates based on personal dislike"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Central tendency error is when a rater:",
+    "options": [
+      "Gives extreme ratings",
+      "Rates most employees in the middle of the scale",
+      "Uses only the highest rating",
+      "Uses only the lowest rating"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Recency effect in appraisal means the rater:",
+    "options": [
+      "Focuses on the employee's entire year",
+      "Ignores recent events",
+      "Uses only objective data",
+      "Bases ratings mainly on recent performance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A calibration meeting in performance management:",
+    "options": [
+      "Eliminates all ratings",
+      "Sets compensation levels",
+      "Aligns ratings across managers to ensure consistency and fairness",
+      "Fires low performers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Compensation refers to:",
+    "options": [
+      "Only base salary",
+      "Only bonuses",
+      "Only health insurance",
+      "All forms of financial returns and tangible benefits employees receive"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Direct financial compensation includes:",
+    "options": [
+      "Health insurance and retirement plans",
+      "Wages, salaries, commissions, and bonuses",
+      "Paid time off",
+      "Company cars"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Indirect financial compensation (benefits) includes:",
+    "options": [
+      "Base pay",
+      "Overtime pay",
+      "Performance bonuses",
+      "Health insurance, retirement plans, paid leave, and other perks"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A salary is typically paid:",
+    "options": [
+      "Hourly",
+      "Per unit produced",
+      "On an annual basis, regardless of hours worked",
+      "Only at the end of the year"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Wages are typically paid:",
+    "options": [
+      "Monthly with no variation",
+      "Hourly, based on time worked",
+      "As a percentage of sales",
+      "As a signing bonus"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A commission is a form of compensation based on:",
+    "options": [
+      "Hours worked",
+      "Attendance",
+      "A percentage of sales or revenue generated",
+      "Seniority"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A bonus is:",
+    "options": [
+      "Guaranteed annual amount",
+      "An extra payment for achieving specific goals, often not built into base pay",
+      "A mandatory benefit",
+      "Always equal to base pay"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A merit pay increase is based on:",
+    "options": [
+      "Length of service only",
+      "Union negotiations only",
+      "Performance appraisal results",
+      "Random selection"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Profit sharing plans distribute a portion of company profits to:",
+    "options": [
+      "Only top executives",
+      "Only shareholders",
+      "All eligible employees",
+      "Only external consultants"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Employee stock ownership plans (ESOPs) give employees:",
+    "options": [
+      "Only cash bonuses",
+      "Company stock, aligning their interests with shareholders",
+      "Additional vacation days",
+      "Free products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"comparable worth\" (pay equity) requires:",
+    "options": [
+      "Paying all employees the same regardless of job",
+      "Paying only the minimum wage",
+      "Ignoring gender differences",
+      "Paying equal pay for jobs of equal value, even if different titles"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Fair Labor Standards Act (FLSA) in the U.S. establishes:",
+    "options": [
+      "Only workplace safety rules",
+      "Minimum wage, overtime pay, and child labor standards",
+      "Health insurance requirements",
+      "Union rights"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Job evaluation is used to determine:",
+    "options": [
+      "Training needs",
+      "Employee satisfaction",
+      "The relative worth of jobs for establishing pay structures",
+      "Recruitment sources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A pay grade groups:",
+    "options": [
+      "Employees by age",
+      "Employees by gender",
+      "Jobs by location only",
+      "Jobs of similar value or difficulty into the same pay range"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Broadbanding reduces the number of pay grades and:",
+    "options": [
+      "Increases hierarchy",
+      "Creates wider pay ranges for more flexibility",
+      "Eliminates all pay differences",
+      "Fixes pay at one level"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Integration and maintenance in HRM refer to:",
+    "options": [
+      "Only recruiting",
+      "Only terminating employees",
+      "Retaining and motivating employees through fair treatment, safety, and employee relations",
+      "Only financial accounting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Employee relations activities include:",
+    "options": [
+      "Only payroll processing",
+      "Handling grievances, discipline, and fostering positive work environment",
+      "Only recruiting",
+      "Only training"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A grievance procedure is a formal process for:",
+    "options": [
+      "Promoting employees",
+      "Hiring new staff",
+      "Resolving employee complaints or disputes",
+      "Conducting job analysis"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Discipline in the workplace should be:",
+    "options": [
+      "Arbitrary and secret",
+      "Only termination",
+      "Never used",
+      "Progressive (verbal warning, written warning, suspension, termination)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The hot stove rule of discipline means discipline should be:",
+    "options": [
+      "Delayed and uncertain",
+      "Immediate, consistent, and impersonal (like touching a hot stove)",
+      "Only verbal",
+      "Only written"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Employee turnover refers to:",
+    "options": [
+      "Employee promotion",
+      "Employee training",
+      "Employee satisfaction",
+      "The rate at which employees leave the organization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Functional turnover is:",
+    "options": [
+      "Always bad",
+      "Desirable turnover of low-performing employees",
+      "Turnover of high performers",
+      "No turnover at all"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Dysfunctional turnover is the loss of:",
+    "options": [
+      "Low performers",
+      "Temporary staff",
+      "High-performing or hard-to-replace employees",
+      "Retirees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A retention strategy aims to:",
+    "options": [
+      "Increase turnover",
+      "Fire employees",
+      "Reduce salaries",
+      "Keep valuable employees by addressing job satisfaction, pay, and career development"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Promotion is the movement of an employee to:",
+    "options": [
+      "A lower level job",
+      "A higher level job with more responsibility and pay",
+      "A job at the same level in a different department",
+      "A job in a different company"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Transfer is the movement of an employee to:",
+    "options": [
+      "A higher level job",
+      "A different job at the same level, often in another location or department",
+      "A demotion",
+      "Termination"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A demotion involves moving an employee to:",
+    "options": [
+      "A higher level with more pay",
+      "A lateral position",
+      "Early retirement",
+      "A lower level with less responsibility and usually lower pay"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Separation occurs when an employee:",
+    "options": [
+      "Joins the organization",
+      "Leaves the organization voluntarily or involuntarily",
+      "Receives a promotion",
+      "Starts a new project"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Voluntary separation includes:",
+    "options": [
+      "Termination for cause",
+      "Layoff without cause",
+      "Resignation or retirement",
+      "Discharge for misconduct"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Involuntary separation includes:",
+    "options": [
+      "Quitting",
+      "Retirement with full benefits",
+      "Sabbatical leave",
+      "Dismissal, layoff, or termination for cause"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An exit interview is conducted to:",
+    "options": [
+      "Force employees to stay",
+      "Gather information about reasons for leaving and improve retention",
+      "Avoid paying final wages",
+      "Reduce benefits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Outplacement services help terminated employees:",
+    "options": [
+      "Sue the company",
+      "Return to work immediately",
+      "Find new employment through counseling and job search assistance",
+      "Avoid taxes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Layoff is a temporary or permanent separation for:",
+    "options": [
+      "Employee misconduct",
+      "Retirement",
+      "Economic or business reasons, not performance",
+      "Promotion"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A severance package is:",
+    "options": [
+      "Required by law in all countries",
+      "Additional pay and benefits given to an employee upon involuntary separation",
+      "A reduction in salary",
+      "A demotion letter"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "HR metrics are used to:",
+    "options": [
+      "Avoid accountability",
+      "Eliminate HR department",
+      "Measure HR effectiveness (e.g., turnover rate, time to fill, cost per hire)",
+      "Reduce employee count"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The turnover rate is calculated as:",
+    "options": [
+      "(Number of hires / total employees) × 100",
+      "(Training hours / employees) × 100",
+      "(Salary costs / revenue) × 100",
+      "(Number of separations / average total employees) × 100"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A high turnover rate may indicate:",
+    "options": [
+      "High employee satisfaction",
+      "Problems with retention, compensation, or management",
+      "Excellent training",
+      "Low recruitment needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Human Resource Information System (HRIS) is used to:",
+    "options": [
+      "Replace all HR staff",
+      "Only recruit",
+      "Only terminate",
+      "Store, process, and manage employee data, payroll, and benefits"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Electronic HRM (e-HRM) allows:",
+    "options": [
+      "No employee self-service",
+      "Employees to access and update their own information, apply for leave, etc.",
+      "Only managers to use computers",
+      "Only payroll processing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Workforce diversity management is important because:",
+    "options": [
+      "It reduces creativity",
+      "It increases discrimination",
+      "It can improve innovation, problem-solving, and market understanding",
+      "It lowers performance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Affirmative action refers to:",
+    "options": [
+      "Hiring without any regard to diversity",
+      "Positive steps to increase representation of underrepresented groups",
+      "Firing majority group members",
+      "Ignoring equal opportunity laws"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Equal Employment Opportunity (EEO) laws prohibit discrimination based on:",
+    "options": [
+      "Job performance only",
+      "Education level only",
+      "Race, color, religion, sex, national origin, age, disability, etc.",
+      "Salary level"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sexual harassment is a form of:",
+    "options": [
+      "Fair treatment",
+      "Illegal discrimination and a violation of workplace safety",
+      "A motivational tool",
+      "Performance appraisal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Quid pro quo harassment occurs when:",
+    "options": [
+      "The workplace has offensive jokes",
+      "There is no power difference",
+      "Both parties consent equally",
+      "Employment decisions depend on granting sexual favors"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hostile environment harassment creates:",
+    "options": [
+      "A productive workplace",
+      "A safe environment",
+      "An intimidating, offensive, or abusive work atmosphere",
+      "No legal consequences"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Employer liability for harassment includes:",
+    "options": [
+      "No responsibility",
+      "Obligation to prevent and correct harassment, and take complaints seriously",
+      "Only if the harasser is a customer",
+      "Only if the victim reports within one day"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A union (labor union) is an organization that:",
+    "options": [
+      "Represents management's interests",
+      "Represents shareholders",
+      "Represents government regulators",
+      "Represents workers collectively in negotiations with employers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Collective bargaining is the process of:",
+    "options": [
+      "Individual salary negotiation",
+      "Negotiating employment terms (wages, hours, conditions) between employer and union representatives",
+      "Hiring without any agreement",
+      "Firing union members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A collective bargaining agreement (CBA) is a:",
+    "options": [
+      "Verbal promise",
+      "Non-binding recommendation",
+      "Written contract covering terms and conditions of employment for unionized workers",
+      "Individual employment contract"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Union security arrangements include:",
+    "options": [
+      "No union allowed",
+      "Closed shop, union shop, agency shop (depending on legality)",
+      "Only voluntary membership",
+      "Prohibition of any union activity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A grievance procedure under a union contract typically ends with:",
+    "options": [
+      "Management's sole decision",
+      "Arbitration if unresolved",
+      "Union dissolution",
+      "No resolution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Right-to-work laws prohibit:",
+    "options": [
+      "All unions",
+      "Collective bargaining",
+      "Compulsory union membership as a condition of employment",
+      "Strikes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Mediation in labor disputes involves:",
+    "options": [
+      "A third party making a binding decision",
+      "A strike",
+      "A lockout",
+      "A neutral third party assisting the parties to reach a voluntary agreement"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Arbitration involves:",
+    "options": [
+      "Non-binding recommendations",
+      "A neutral third party making a binding decision on the dispute",
+      "No resolution",
+      "Management imposing terms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A strike is a:",
+    "options": [
+      "Management lockout",
+      "A union election",
+      "Work stoppage by employees to pressure the employer",
+      "Grievance filing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A lockout is a:",
+    "options": [
+      "Employee strike",
+      "Work stoppage initiated by management, preventing employees from working",
+      "Union organizing drive",
+      "Arbitration award"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Human resource strategy should align with:",
+    "options": [
+      "Only the marketing department",
+      "Only the finance department",
+      "The overall corporate strategy and goals",
+      "No other functions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "High-performance work practices (HPWPs) include:",
+    "options": [
+      "Low wages and no training",
+      "Employee empowerment, extensive training, and incentive pay",
+      "High supervision and rigid rules",
+      "Minimal communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Employee engagement refers to:",
+    "options": [
+      "Employee dissatisfaction",
+      "Absenteeism",
+      "Emotional commitment and discretionary effort toward organizational goals",
+      "Turnover intention"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An engaged employee is more likely to:",
+    "options": [
+      "Quit the job",
+      "Work harder, stay longer, and contribute to success",
+      "Be absent frequently",
+      "Ignore customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Work-life balance programs help employees:",
+    "options": [
+      "Work 80 hours per week",
+      "Avoid all work",
+      "Increase stress",
+      "Manage work and personal responsibilities (e.g., flexible hours, telecommuting)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Telecommuting (remote work) offers benefits such as:",
+    "options": [
+      "No need for performance management",
+      "Reduced commuting time and increased flexibility",
+      "Guaranteed promotion",
+      "No supervision at all"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "HR metrics like \"time to fill\" measure:",
+    "options": [
+      "Training effectiveness",
+      "Turnover rate",
+      "Compensation cost",
+      "Recruitment efficiency (days from approval to acceptance)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Cost per hire\" is calculated as:",
+    "options": [
+      "Total salary / number of employees",
+      "Training budget / number of trainees",
+      "Total recruitment costs / number of hires",
+      "Benefits cost / number of employees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"human capital\" perspective views employees as:",
+    "options": [
+      "An expense to be minimized",
+      "A liability",
+      "Replaceable parts",
+      "An asset that creates value through skills and knowledge"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Talent management integrates recruitment, development, and retention of:",
+    "options": [
+      "Only low performers",
+      "High-potential and key employees",
+      "Only temporary staff",
+      "Only executives"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Succession planning identifies and develops:",
+    "options": [
+      "External candidates only",
+      "Only entry-level workers",
+      "Internal candidates to fill key leadership positions in the future",
+      "Only retiring employees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A career path is a:",
+    "options": [
+      "Random job assignment",
+      "One-time promotion",
+      "Termination plan",
+      "Sequence of jobs or positions that an employee may move through over time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Mentoring involves:",
+    "options": [
+      "Formal classroom training",
+      "An experienced employee guiding and supporting a less experienced employee",
+      "Disciplinary action",
+      "Performance appraisal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Coaching focuses on:",
+    "options": [
+      "Long-term career only",
+      "Retirement planning",
+      "Improving specific skills and performance in the current job",
+      "Legal compliance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An HR scorecard is used to:",
+    "options": [
+      "Fire employees",
+      "Measure HR's contribution to organizational strategy and outcomes",
+      "Calculate payroll",
+      "Recruit new employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Outsourcing HR functions means:",
+    "options": [
+      "Eliminating all HR",
+      "Increasing HR staff",
+      "Ignoring legal requirements",
+      "Contracting with external vendors to perform HR activities (e.g., payroll, recruitment)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Shared service centers in HR:",
+    "options": [
+      "Eliminate all HR services",
+      "Centralize routine HR transactions to improve efficiency",
+      "Decentralize every decision",
+      "Only handle terminations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Employee wellness programs aim to:",
+    "options": [
+      "Increase health care costs",
+      "Force employees to exercise",
+      "Improve employee health, reduce absenteeism, and boost productivity",
+      "Reduce salaries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Occupational health and safety (OHS) regulations require employers to:",
+    "options": [
+      "Ignore workplace hazards",
+      "Provide a safe workplace and prevent injuries",
+      "Pay only minimum wage",
+      "Avoid training"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Occupational Safety and Health Administration (OSHA) is responsible for:",
+    "options": [
+      "Setting wages",
+      "Managing union elections",
+      "Providing retirement benefits",
+      "Enforcing workplace safety standards"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A workplace hazard can be physical, chemical, biological, or:",
+    "options": [
+      "Financial",
+      "Ergonomic or psychosocial (e.g., stress, violence)",
+      "Marketing",
+      "Accounting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Employee assistance programs (EAPs) help employees with:",
+    "options": [
+      "Only financial problems",
+      "Only technical training",
+      "Personal issues like mental health, substance abuse, or family problems that affect work",
+      "Only promotion"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Diversity training aims to:",
+    "options": [
+      "Eliminate all differences",
+      "Discriminate against majority groups",
+      "Reduce productivity",
+      "Increase awareness and skills to work effectively with diverse people"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Unconscious bias training helps managers:",
+    "options": [
+      "Ignore their biases",
+      "Recognize and mitigate hidden biases in decisions",
+      "Act on biases openly",
+      "Avoid hiring anyone"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "HR's role in mergers and acquisitions includes:",
+    "options": [
+      "Only payroll",
+      "Only legal paperwork",
+      "Cultural integration, communication, and talent retention",
+      "Avoiding all employee contact"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A reduction in force (RIF) must be managed carefully to:",
+    "options": [
+      "Discriminate arbitrarily",
+      "Comply with laws and maintain fairness and morale",
+      "Avoid any communication",
+      "Keep all employees regardless of need"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"psychological contract\" refers to:",
+    "options": [
+      "A legal employment contract",
+      "A union agreement",
+      "A performance appraisal form",
+      "Unwritten expectations between employee and employer (e.g., loyalty for job security)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When the psychological contract is broken, employees may:",
+    "options": [
+      "Increase loyalty",
+      "Reduce effort, trust, and consider leaving",
+      "Accept lower pay",
+      "Ignore the breach"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "HRM ethics include:",
+    "options": [
+      "Manipulating employees",
+      "Spying on employees",
+      "Fair treatment, respect for privacy, and honesty in communication",
+      "Ignoring discrimination"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An HR audit is a systematic review of:",
+    "options": [
+      "Financial statements only",
+      "Marketing strategy",
+      "Production quality",
+      "HR policies, practices, and compliance with laws"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The ultimate goal of HRM is to:",
+    "options": [
+      "Maximize employee turnover",
+      "Enable organizational success through effective management of people",
+      "Reduce all employee benefits",
+      "Eliminate training"
+    ],
+    "correct": 1
+  }
+]
