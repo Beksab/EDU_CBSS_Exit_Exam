@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "Management accounting focuses primarily on providing data for:",
+    "options": [
+      "Internal uses by managers.",
+      "External uses by stockholders and creditors.",
+      "External uses by the Ministry of Revenue.",
+      "External uses by the Accounting and Auditing Board of Ethiopia"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Managerial accounting:",
+    "options": [
+      "Is more future oriented than financial accounting.",
+      "Tends to summarize information more than financial accounting",
+      "Is primarily concerned with providing information to external users.",
+      "Is more concerned with precision than timeliness."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The function of management that compares planned results to actual results is known as:",
+    "options": [
+      "Planning.",
+      "Directing and motivating.",
+      "Controlling.",
+      "decision making"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A performance report is:",
+    "options": [
+      "A detailed report comparing budgeted data to actual data for a specific time period.",
+      "A formal statement of plans for the upcoming period.",
+      "Required to be filed monthly by the Securities and Exchange Commission.",
+      "Not used in decentralized organizations."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cost of lubricants used to grease a production machine in a manufacturing company is an example of a(n):",
+    "options": [
+      "Period cost.",
+      "Direct material cost.",
+      "Indirect material cost.",
+      "none of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Before these materials are used to manufacture its cars, Honda classifies steel, glass, and plastic as",
+    "options": [
+      "Raw materials inventory.",
+      "Finished goods inventory.",
+      "Work in process inventory.",
+      "Merchandise inventory"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a service company?",
+    "options": [
+      "Service companies make a product.",
+      "Service companies have a single category of inventory.",
+      "Service companies generally have no tangible products to sell.",
+      "Service companies transform raw materials into finished goods"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a manufacturing company wants its Balance Sheet to report the accurate value of its current asset inventory, which account balances must be included?",
+    "options": [
+      "Raw materials, supplies and work in process",
+      "Raw materials, work in process and finished goods",
+      "Supplies, raw materials and finished goods",
+      "Raw materials, finished goods and cost of goods sold"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The salary paid to the president of XYZ Co. would be classified on the income statement as a(n):",
+    "options": [
+      "Administrative expense.",
+      "Direct labor cost.",
+      "Manufacturing overhead cost.",
+      "selling expense"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Prime cost and conversion cost share what common element of total cost?",
+    "options": [
+      "Direct materials.",
+      "Direct labor.",
+      "Variable overhead.",
+      "Fixed overhead"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Prime cost consists of:",
+    "options": [
+      "Direct labor and manufacturing overhead.",
+      "Direct materials and manufacturing overhead.",
+      "Direct materials and direct labor.",
+      "Direct materials, direct labor and manufacturing overhea"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Depreciation on a personal computer used in the marketing department of a manufacturing firm would be classified as:",
+    "options": [
+      "A product cost that is fixed with respect to the company's output.",
+      "A period cost that is fixed with respect to the company's output.",
+      "A product cost that is variable with respect to the company's output.",
+      "A period cost that is fixed with respect to the company's output"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The nursing station on the fourth floor of Central Hospital is responsible for the care of patients who have undergone orthopedic surgery. The costs of drugs administered by the nursing station to patients would be classified as:",
+    "options": [
+      "Direct costs of the patients.",
+      "Indirect costs of the patients.",
+      "Overhead costs of the nursing station.",
+      "Period costs of the hospitals"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All of the following would be classified as product costs except:",
+    "options": [
+      "Property taxes on production equipment.",
+      "Insurance on factory machinery.",
+      "Salaries of the advertising staff.",
+      "Wages of machine operators."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Product costs appear on the balance sheet:",
+    "options": [
+      "Only if goods are partially completed at the end of the period.",
+      "Only if goods are unsold at the end of a period.",
+      "Only if goods are partially completed or are unsold at the end of a period.",
+      "Only in merchandising firms"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "John Johnson decided to leave his former job where he earned ETB 12 per hour to go to a new job where he will earn ETB 13 per hour. In the decision process, the former wage of ETB 12 per hour would be classified as a(n):",
+    "options": [
+      "Sunk cost.",
+      "Direct cost.",
+      "Fixed cost.",
+      "Opportunity cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hable Company's manufacturing overhead is 20% of its total conversion costs. If direct labor is ETB 45,000 and if direct materials are ETB 53,000, the manufacturing overhead is",
+    "options": [
+      "ETB 11,250",
+      "ETB 13,250",
+      "ETB 180,000",
+      "ETB 24,500"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "During the month of January, direct labor cost totaled ETB 17,000 and direct labor cost was 60% of prime cost. If total manufacturing costs during January were ETB 82,000, the manufacturing overhead was:",
+    "options": [
+      "ETB 11,333",
+      "ETB 53,667",
+      "ETB 28,333",
+      "ETB 65,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Haag Inc. is a merchandising company. Last month the company's cost of goods sold was ETB 86,000. The company's beginning merchandise inventory was ETB 20,000 and its ending merchandise inventory was ETB 21,000. What was the total amount of the company's merchandise purchases for the month?",
+    "options": [
+      "ETB 86,000",
+      "ETB 127,000",
+      "ETB 87,000",
+      "ETB 85,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The lead time is defined as:",
+    "options": [
+      "The length of time before a stock out occurs",
+      "The length of time between ordering and receiving an inventory order",
+      "The length of time that it takes to order inventory",
+      "The time before production can be resumed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The purchase manager is responsible for:",
+    "options": [
+      "Ensure that the items ordered meet the quality standards",
+      "Ensure that the items ordered are acquired at the lowest price",
+      "Ensure that the items ordered are delivered on a timely basis",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "For June, ABC Company had beginning materials inventory of 50,000. Ending materials inventory of 60,000 and, materials purchases of 280,000. What is the cost of direct materials used in production?",
+    "options": [
+      "170,000",
+      "290,000",
+      "270,000",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "is the function of ensuring that sufficient goods are retained in the stock to meet all the requirements without carrying unnecessary large stock.",
+    "options": [
+      "Inventory control",
+      "Inventory ledger",
+      "Inventory purchase",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "During March, the cost of goods manufactured was ETB 62,000. The beginning finished goods inventory was ETB 11,000 and the ending finished goods inventory was ETB 19,000. What was the cost of goods sold for the month?",
+    "options": [
+      "ETB 70,000",
+      "ETB 54,000",
+      "ETB 92,000",
+      "ETB 62,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is a not objective of inventory control?",
+    "options": [
+      "To provide continuous flow of required materials",
+      "To maximize investment in inventories",
+      "To provide for efficient store of materials",
+      "To keep surplus and obsolete items to minimum"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "From the following one is not the correct statement about the labor cost",
+    "options": [
+      "the debit to the work in process control account must equal the total direct labor cost",
+      "the credit to the factory overhead control account must equal the total indirect labor costs",
+      "Direct labor costs include the wages of machinists and assemblers",
+      "Indirect labor costs include the wages of factory supervisors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not true about cost accounting?",
+    "options": [
+      "It is the process of accumulating cost and assigning this cost to cost object",
+      "Provides cost data for both management accounting and financial accounting",
+      "It is subfield of management accounting.",
+      "Applied only in manufacturing companies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not the purpose of underlying the preparation of bill of materials:",
+    "options": [
+      "It serves the purpose of intimation to purchase department to purchase materials.",
+      "It serves as a guideline to merchandising sector.",
+      "It facilitates accounting of materials consumed as needed data can be passed on to relevant jobs or processes.",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A process cost system is employed in those situations where:",
+    "options": [
+      "Many different products, jobs, or batches of production are being produced each period",
+      "Where manufacturing involves a single, homogeneous product that flows evenly through the production process on a continuous basis.",
+      "A service is performed such as in a law firm or an accounting firm.",
+      "Full or absorption cost approach is not employed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Emco Company uses direct labor cost as a basis for computing its predetermined overhead rate. In computing the predetermined overhead rate for last year, the company misclassified a portion of direct labor cost as indirect labor. The effect of this misclassification will be to:",
+    "options": [
+      "Understate the predetermined overhead rate.",
+      "Overstate the predetermined overhead rate.",
+      "Have no effect on the predetermined overhead rate.",
+      "Cannot be determined from the information given"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When manufacturing overhead is applied to production, it is added to:",
+    "options": [
+      "The Cost of Goods Sold account.",
+      "The Raw Materials account.",
+      "The Work in Process account.",
+      "The Finished Goods inventory account."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under a job-order costing system, the dollar amount transferred from Work in Process to Finished Goods is the sum of the costs charged to all jobs:",
+    "options": [
+      "Started in process during the period.",
+      "In process during the period.",
+      "Completed and sold during the period.",
+      "Completed during the period"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If a company applies overhead to production on the basis of a predetermined rate, a debit balance in the Manufacturing Overhead account at the end of the period means that:",
+    "options": [
+      "Actual overhead cost was greater than the amount charged to production.",
+      "Actual overhead cost was less than the amount of direct labor cost.",
+      "More overhead cost has been charged to production than has been charged to finished goods during the period.",
+      "Actual overhead cost was less than the amount charged to production."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Overapplied overhead means that:",
+    "options": [
+      "The applied overhead cost was less than the actual overhead cost.",
+      "The applied overhead cost was greater than the actual overhead cost.",
+      "The estimated overhead cost was less than the actual overhead cost.",
+      "The estimated overhead cost was less than the applied overhead cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Costs in an operation costing system are accumulated by:",
+    "options": [
+      "Department.",
+      "By individual job.",
+      "By both job and departments",
+      "By neither job nor department."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The weighted-average method of process costing differs from the FIFO method of process costing in that the weighted-average method:",
+    "options": [
+      "Can be used under any cost flow assumption.",
+      "Does not require the use of predetermined overhead rates.",
+      "Keeps costs in the beginning inventory separate from current period costs.",
+      "Does not consider the degree of completion of units in the beginning work in process inventory when computing equivalent units of production."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements about process costing system is incorrect?",
+    "options": [
+      "In a process costing system, each processing department has a work in process account.",
+      "In a process costing system, equivalent units are separately computed for materials and for conversion costs.",
+      "In a process costing system, overhead can be under- or overapplied just as in job order costing.",
+      "In a process costing system, materials costs are traced to units of products"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When the weighted-average method of process costing is used, a department's equivalent units are computed by:",
+    "options": [
+      "Subtracting the equivalent units in beginning inventory from the equivalent units in ending inventory.",
+      "Subtracting the equivalent units in beginning inventory from the equivalent units for work performed during the period.",
+      "Adding the units transferred out to the equivalent units in ending inventory.",
+      "Subtracting the equivalent units in beginning inventory from the sum of the units transferred out and the equivalent units in ending inventory."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Equivalent units for a process costing system using the FIFO method would be equal to:",
+    "options": [
+      "Units completed during the period plus equivalent units in the ending work in process inventory.",
+      "Units started and completed during the period plus equivalent units in the ending work in process inventory.",
+      "Units completed during the period and transferred out.",
+      "Units started and completed during the period plus equivalent units in the ending work in process inventory plus work needed to complete units in the beginning work in process inventory."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assembly department of Zahra Technologies had 200 units as work in process at the beginning of the month. These units were 50% complete. It has 300 units which are 30% complete at the end of the month. During the month, it completed and transferred 600 units. Direct materials are added at the beginning of production. Conversion costs are allocated evenly throughout production. Zahra uses weighted-average process-costing method. What is the number of equivalent units of work done during the month with regards to direct materials?",
+    "options": [
+      "700 unit",
+      "1,100 units",
+      "900 units",
+      "600 units"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Brooks Company uses the weighted-average method in its process costing system. The beginning work in process inventory in a particular department consisted of 12,000 units, 100% complete with respect to materials cost and 40% complete with respect to conversion costs. The total cost in the beginning work in process inventory was ETB 25,000. During the month, 50,000 units were completed and transferred out of the department. The costs per equivalent unit were computed to be ETB 1.50 for materials and ETB 3.20 for conversion costs. The total cost of the units completed and transferred out of the department was:",
+    "options": [
+      "ETB 235,000.",
+      "ETB 226,640.",
+      "ETB 210,000.",
+      "ETB 201,640"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following defines spoilage?",
+    "options": [
+      "units of production that do not meet the specifications required by customers but that are subsequently repaired and sold as good finished units",
+      "units of production whether fully or partially completed, that do not meet the specifications required by customers for good units and are discarded or sold at reduced prices",
+      "residual material that results from manufacturing a product",
+      "products of a joint production process that have low total sales values relative to the total sales value of the main product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Rework units are:",
+    "options": [
+      "remanufactured and sold after they are returned from customers",
+      "repaired and sold units that are first quality items",
+      "produced from residual materials that were byproducts of a prior processing run",
+      "units with low or zero sales value but have some utility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Costs of normal spoilage are usually accounted for as:",
+    "options": [
+      "a deduction from the cost of goods sold",
+      "a component of the costs of good units manufactured",
+      "a \"loss from normal spoilage account\" in income statement",
+      "a liability on a balance sheet"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company produces 12,000 units of which 200 are spoiled units because the process, even though carefully and efficiently executed is unable to produce good units 100% of the time. Another 70 units are spoiled because machines broke down and there also were operator errors. What is the normal spoilage rate (round to two decimal places)",
+    "options": [
+      "2.25%",
+      "1.71%",
+      "1.67%",
+      "0.58%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is true of normal spoilage?",
+    "options": [
+      "It is a spoilage which is not inherent in a particular production process.",
+      "It occurs due to machine breakdowns and operator errors.",
+      "It is usually regarded as avoidable and controllable.",
+      "It arises even when the process is carried out in an efficient manner."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements is true of normal spoilage and abnormal spoilage?",
+    "options": [
+      "Normal spoilage is inherent in a particular production process, whereas abnormal spoilage is not inherent in a particular production process.",
+      "Abnormal spoilage arises even when the process is carried out in an efficient manner, whereas normal spoilage does not arise when the process is carried out in an efficient manner.",
+      "Normal spoilage is usually regarded as avoidable and controllable, whereas abnormal spoilage is unavoidable and uncontrollable.",
+      "The costs of normal spoilage are recorded as a loss as a separate line item in an income statement, whereas costs of abnormal spoilage are included as a component of the costs of good units manufactured."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Under the FIFO method, all spoilage costs are assumed to be related to the units:",
+    "options": [
+      "in beginning inventory, plus the units completed during the period",
+      "completed during the period, using the unit costs of that period",
+      "in ending inventory",
+      "in both beginning and ending inventory plus the units completed during the period"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following departments would NOT be considered a service or support department?",
+    "options": [
+      "Assembly",
+      "information systems",
+      "shipping",
+      "plant maintenance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following would be distinguishing features or attributes of a support (service) department of a manufacturer?",
+    "options": [
+      "directly adding value to the finish product to be purchased by customers",
+      "directly adding value to service contracts to be purchased by customers",
+      "assisting the production area with services such as maintenance and janitorial work",
+      "assisting potential customers who need to utilize the service agreement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Special cost-allocation problems arise when:",
+    "options": [
+      "support department costs exceed budgetary estimates",
+      "practical capacity is used as the allocation base",
+      "support departments provide reciprocal services to each other and operating departments",
+      "the same cost-allocation base is used among various support departments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following describes reciprocal support?",
+    "options": [
+      "the accounting department provides services to production",
+      "molding provides services to production and accounting provides services to both molding and production",
+      "assembling department provides services to three other departments",
+      "the materials management department provides support to all departments including the production control department which also provides services to the materials management department"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following describes the direct allocation method's allocation of support-department costs?",
+    "options": [
+      "it allocates support-department costs to operating departments by fully recognizing the mutual services provided among all support departments",
+      "it allocates support-department costs to other support departments and to operating departments in a sequential manner that partially recognizes the mutual services provided among all support departments",
+      "it allocates each support-department's costs to operating departments only",
+      "it requires managers to rank the support departments after predicting the usage of multiple support departments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is true about the step-down method?",
+    "options": [
+      "it partially recognizes the services provided among support departments",
+      "it does not recognize the total services that support departments provide to each other",
+      "it is conceptually the most precise method",
+      "it results in allocating only the support costs used by operating departments"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The reciprocal allocation method:",
+    "options": [
+      "is the most widely used because of its simplicity",
+      "requires the ranking of support departments in the order that the allocation is to proceed",
+      "fully incorporates interdepartmental relationships into the support-department cost allocations",
+      "allocates support-department costs to other support departments and to operating departments in a sequential manner that partially recognizes the mutual services provided among all support departments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements best define split off point in joint costing?",
+    "options": [
+      "It is the point at which managers decide to discontinue one or more of the products.",
+      "It is the point at which the managers decide to outsource some of its production processes.",
+      "It is the juncture in a joint production process when two or more products become separately identifiable.",
+      "It is the juncture at which decisions determining joint costs of various products to be produced are taken."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is true of joint production process and its components?",
+    "options": [
+      "Distribution costs incurred beyond the split-off point assignable to each of the specific products identified at the split-off point are considered as joint costs.",
+      "Decisions relating to the sale or further processing of each identifiable product can be made independently of decisions about the other products beyond the split-off point.",
+      "When a joint production process yields two or more products with low total sales values relative to the total sales values of other products, those products are called joint products.",
+      "The primary purpose of joint costing is to allocate the separable costs to the individual products that are eventually sold."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The challenge of a production facility that is producing several products from one main process is how to allocate the joint costs that are incurred:",
+    "options": [
+      "before the split-off point",
+      "after the split-off point",
+      "at the split-off point",
+      "at the end of production"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statements is true of joint costing?",
+    "options": [
+      "The costs of a production process that yields multiple products simultaneously are called joint costs.",
+      "Distribution costs incurred beyond the split-off point that are assignable to each of the specific products identified at the split-off point are considered as joint costs.",
+      "The primary purpose of joint costing is to allocate the separable costs to the individual products that are eventually sold.",
+      "Joint costing is less useful for companies which manufacture multiple products simultaneously from the same production process"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When a single manufacturing process yields two products, one of which has a relatively high sales value compared to the other, the two products are respectively known as:",
+    "options": [
+      "joint products and byproducts",
+      "joint products and scrap",
+      "main products and byproducts",
+      "main products and joint products"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements best define joint products?",
+    "options": [
+      "When one product has a high total sales value compared with the total sales value of other products of the process, that product is called a joint product.",
+      "Product of a joint production process that have the same sales value compared with the total sales value of the byproducts is called a joint product.",
+      "When one product has a low total sales value compared with the total sales value of other products of the process, that product is called a joint product.",
+      "When a joint production process yields two or more products with high total sales values relative to the total sales values of other products, those products are called joint products."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company produces three products from a joint production process: A, B, and C. As a percentage of total sales value, a represents 50%, B 49.5%, and C .5%. Product C could be considered a:",
+    "options": [
+      "primary product",
+      "main product",
+      "byproduct",
+      "waste product"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following factors would guide you in classifying a product as a main product or byproduct?",
+    "options": [
+      "number of units per processing period",
+      "weight or volume of outputs per period",
+      "percentage of total sales value",
+      "joint costs incurred up to the split-off point"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is true of main products and byproducts?",
+    "options": [
+      "A byproduct will never become a main product.",
+      "A main product will never become a byproduct.",
+      "Product classifications may change over time.",
+      "Product classifications remains constant over time"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is true of the methods for allocating joint costs?",
+    "options": [
+      "Constant gross-margin percentage method results in same joint production cost per unit for all products.",
+      "Estimated net realizable value method results in same gross margin percentage for all products.",
+      "Present value allocation method is the least preferred method due to its complex calculations.",
+      "Sales value at split-off method uses the sales value of the entire production of the accounting period to allocate costs."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The sales price at the point of sale, reduced by the cost to complete after split-off is equal to:",
+    "options": [
+      "total estimated product costs",
+      "joint costs",
+      "sales price less a normal profit margin at point of sale",
+      "net realizable value at split-off"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How does the sales value at split-off method allocate joint costs?",
+    "options": [
+      "allocates joint costs to joint products on the basis of the relative total sales value at the split-off point",
+      "allocates joint costs to joint products on the basis of a comparable physical measure at the split-off point",
+      "allocates joint costs to joint products on the basis of relative NRV",
+      "allocates joint costs to joint products in a way that each product has an identical gross-margin percentage"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statements is true of the methods for allocating joint costs?",
+    "options": [
+      "The net realizable value method uses the sales value of the units sold during the accounting period to allocate joint costs.",
+      "The sales value at split-off method always results in the same gross-margin percentage for all products.",
+      "The sales value at split-off method allocates joint costs to each product in proportion to the sales value of total production.",
+      "The net realizable value method results in the same joint production cost per unit for all products"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How does the physical-measure method allocate joint costs?",
+    "options": [
+      "allocates joint costs to joint products in a way that each product has an identical gross-margin percentage",
+      "allocates joint costs to joint products on the basis of a comparable physical measure at the split-off point",
+      "allocates joint costs to joint products on the basis of the relative sales value at the split-off point",
+      "allocates joint costs to joint products on the basis of relative NRV"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following formulas would calculate the net realizable value of a product?",
+    "options": [
+      "sales value at the split-off point less cost to produce up to the split-off point",
+      "sales value × constant gross-margin",
+      "final sales value minus cost of goods sold",
+      "final sales value minus separable costs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Berkel Corporation manufactures Widgets, Gizmos, and Turnbols from a joint process. June production is 9,000 widgets; 12,500 gizmos; and 14,500 turnbols. Respective per unit selling prices at split-off are ETB 100, ETB 60, and ETB 20. Joint costs up to the split-off point are ETB 190,000. If joint costs are allocated based upon the sales value at split-off, what amount of joint costs will be allocated to the widgets?",
+    "options": [
+      "ETB 18,608",
+      "ETB 88,144",
+      "ETB 28,402",
+      "ETB 73,454"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Berkel Corporation manufactures Widgets, Gizmos, and Turnbols from a joint process. June production is 7,000 widgets; 10,000 gizmos; and 11,500 turnbols. Respective per unit selling prices at split-off are ETB 115, ETB 85, and ETB 50. Joint costs up to the split-off point are ETB 188,000. What amount of joint costs will be allocated to the Turnbols?",
+    "options": [
+      "ETB 48,475",
+      "ETB 15,849",
+      "ETB 71,659",
+      "ETB 67,865"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Berkel Corporation manufactures Widgets, Gizmos, and Turnbols from a joint process. June production is 7,000 widgets; 10,500 gizmos; and 12,500 turnbols. Respective per unit selling prices at split-off are ETB 95, ETB 65, and ETB 30. Joint costs up to the split-off point are ETB 188,000. What amount of joint costs will be allocated to the Gizmos?",
+    "options": [
+      "ETB 40,929",
+      "ETB 20,519",
+      "ETB 74,491",
+      "ETB 72,581"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following reasons explain why a physical-measure to allocate joint costs is less preferred than the sales value at split-off point?",
+    "options": [
+      "a physical measure such as volume is difficult to estimate than sales value",
+      "physical volume usually has little relationship to the revenue producing power of products",
+      "a physical measure usually results in less costs being allocated to the product that weighs the most",
+      "customers will easily understand that the products are overpriced"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors would NOT be one of the reasons why the sales value at the split-off would be used to allocate joint costs?",
+    "options": [
+      "the sales value method is a good measure of benefits received",
+      "it helps determine manager compensation and performance evaluation",
+      "it is a method that is independent of further processing decisions",
+      "it provides a common allocation basis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements are true about marginal costing?",
+    "options": [
+      "In marginal costing, fixed costs are treated as product costs",
+      "Marginal costing is not an independent system of costing",
+      "The elements of cost in marginal costing are divided into fixed and variable components",
+      "Both b and c"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The costing method where fixed factory overheads are added to inventory is called __________ .",
+    "options": [
+      "Activity-based costing",
+      "Absorption costing",
+      "Marginal costing",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following costs is not included while computing unit product cost under variable costing?",
+    "options": [
+      "Direct materials cost",
+      "Direct labor cost",
+      "Variable manufacturing overhead cost",
+      "Fixed manufacturing overhead cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The reports generated by variable costing system of a company is mostly used by:",
+    "options": [
+      "lenders and creditors",
+      "internal management",
+      "government and tax agencies",
+      "investors and stockholders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Variable costing is also known as:",
+    "options": [
+      "direct/marginal costing",
+      "absorption costing",
+      "activity based costing",
+      "normal costing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Absorption costing is also known as:",
+    "options": [
+      "external costing",
+      "direct costing",
+      "full costing",
+      "operational costing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The reports generated by absorption costing (also known as full costing) is used by:",
+    "options": [
+      "Creditors",
+      "Investors",
+      "government agencies",
+      "all of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The reason of difference in net operating income under variable costing and absorption costing is:",
+    "options": [
+      "change in selling price",
+      "change in fixed cost",
+      "change in variable cost",
+      "change in inventory"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When inventory increases, the net operating income under absorption costing is:",
+    "options": [
+      "always equal to variable costing",
+      "always higher than variable costing",
+      "always lower than variable costing",
+      "always equal to breakeven point"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When inventory decreases, the net operating income under absorption costing is:",
+    "options": [
+      "always lower than variable costing",
+      "always higher than variable costing",
+      "always equal to breakeven point",
+      "always equal to variable costing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When calculating the total amount of manufacturing overhead to allocate to a particular job, the company would multiply each departmental overhead rate by ________ and then ________ together the allocated amounts from each department.",
+    "options": [
+      "the actual amount of the departmental allocation based used by the job, multiply",
+      "the actual amount of the plantwide allocation based used by the job, add",
+      "the actual amount of the departmental allocation based used by the job, add",
+      "the actual amount of the plantwide allocation based used by the job, multiply"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What will the use of departmental overhead rates generally result in?",
+    "options": [
+      "a separate overhead cost pool for the entire factory under a single cost driver",
+      "the same conceptual cost mapping structure as a single plant-wide allocation rate",
+      "a more accurate allocation of overhead costs than a single plantwide rate when departments have different cost drivers and usage patterns",
+      "a reduction in the number of distinct allocation bases utilized across the organization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If actual overhead costs exceed allocated overhead by 15% what will be the impact on the financial statements when a predetermined overhead allocation rate is used to allocate overhead costs for the unsold inventory and the units that are sold?",
+    "options": [
+      "The unsold inventory on the balance sheet will be overreported by 15% and the cost of goods sold will be overreported 15% on the income statement.",
+      "The unsold inventory on the balance sheet will be underreported by 15% and the cost of goods sold will be overreported 15% on the income statement.",
+      "The unsold inventory will be underreported on the balance sheet by 15% and the cost of goods sold will be overreported on the income statement.",
+      "The unsold inventory on the balance sheet will be underreported by 15% and the cost of goods sold will be underreported by 15% on the income statement"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If actual overhead costs are 12% less than the overhead costs that were allocated using a predetermined overhead rate, what will be the impact on the unsold inventory and the sold inventory on the financial statements?",
+    "options": [
+      "The unsold inventory on the balance sheet will be overreported by 12% and the cost of goods sold will be overreported by 12% on the income statement.",
+      "The unsold inventory on the balance sheet will be underreported by 12% and the cost of goods sold will be overreported 12% on the income statement.",
+      "The unsold inventory will be underreported 12% on the balance sheet and the cost of goods sold will be underreported 12% on the income statement.",
+      "The unsold inventory will be overreported on the income statement and the cost of goods sold will be overreported 12% on the balance sheet."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The first step in developing an ABC system is",
+    "options": [
+      "Calculate an activity cost allocation rate for each activity.",
+      "Allocate the costs to the cost object using the activity cost allocation rates.",
+      "Select an allocation base for each activity.",
+      "Identify the primary activities and estimate a total cost pool for each."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In using an ABC system, all of the following steps are performed before the company's year begins except",
+    "options": [
+      "Identify the primary activities and estimate a total cost pool for each.",
+      "Select an allocation base for each activity.",
+      "Allocate the costs to the cost object using the activity cost allocation rates.",
+      "Calculate an activity cost allocation rate for each activity."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "All of the following are considered to be part of the cost hierarchy often used to implement ABC, with the exception of",
+    "options": [
+      "Production-level activity.",
+      "Batch-level activity.",
+      "Product-level activity.",
+      "Unit-level activity."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In ABC, how is the activity allocation rate computed?",
+    "options": [
+      "The total estimated activity allocation base is divided by the total estimated activity cost pool.",
+      "The total estimated activity cost pool is divided by the total estimated activity allocation base.",
+      "The total estimated activity allocation base is multiplied by the total estimated activity cost pool.",
+      "You take the total estimated activity allocation base and subtract the total estimated total activity cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In developing an ABC system, what is the last step?",
+    "options": [
+      "Identify the primary activities and estimate a total cost pool for each.",
+      "Select an allocation base for each activity.",
+      "Allocate the costs to the cost object using the activity cost allocation rates.",
+      "Calculate an activity cost allocation rate for each activity."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "All of the following describe an ABC system except",
+    "options": [
+      "ABC systems may only be used by service companies.",
+      "ABC systems can create more accurate product costs.",
+      "ABC systems are more complex and costly than traditional costing systems.",
+      "ABC systems are used in both manufacturing and nonmanufacturing companies."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A business has acquired a special purpose machine at a cost of birr 100,000. After it is purchased it is known that it was unwise to buy this term. No amount of regret can relieve the firm from this decision and there is no future decision that can avoid this cost. What is the appropriate classification for this cost?",
+    "options": [
+      "Management cost",
+      "Period Cost",
+      "Sunk Cost",
+      "Uncontrollable cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Within the relevant range, variable costs can be expected to:",
+    "options": [
+      "Vary in total in direct proportion to changes in the activity level.",
+      "Remain constant in total as the activity level changes",
+      "Increase on a per unit basis as the activity level increases.",
+      "Increase on a per unit basis as the activity level decreases."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statements is true when referring to fixed costs?",
+    "options": [
+      "Committed fixed costs arise from the annual decisions by management.",
+      "As volume increases, unit fixed cost and total fixed cost will change.",
+      "Fixed costs increase in total throughout the relevant range.",
+      "Discretionary fixed costs can often be reduced to zero for short periods of time without seriously impairing the long-run goals of the company"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Guerra Electronics manufactures a variety of electronic gadgets for use in the home. Which of the following would probably be the most accurate measure of activity to use for allocating the costs of inspecting the finished products at Guerra?",
+    "options": [
+      "Machine-hours",
+      "Direct labor-hours",
+      "Inspection time",
+      "Number of inspections"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following costs should not be included in product costs for internal management reports that are used for decision-making?",
+    "options": [
+      "Costs of unit-level activities.",
+      "Costs of batch-level activities.",
+      "Costs of product-level activities.",
+      "Costs of organization-sustaining activities"
+    ],
+    "correct": 3
+  }
+]
