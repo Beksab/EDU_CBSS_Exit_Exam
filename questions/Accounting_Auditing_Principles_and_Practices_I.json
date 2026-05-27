@@ -1,0 +1,1003 @@
+[
+  {
+    "questionText": "Independent auditing can best be described as",
+    "options": [
+      "A branch of accounting.",
+      "A discipline that attests to the results of accounting and other functional operations and data.",
+      "A professional activity that measures and communicates financial and business data.",
+      "A regulatory function that prevents the issuance of improper financial information."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the audit of historical financial statements, which of the following accounting bases is the most common?",
+    "options": [
+      "Regulatory accounting principles.",
+      "Cash basis of accounting.",
+      "Generally accepted accounting principles.",
+      "Liquidation basis of accounting."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Any service that requires a CPA firm to issue a report about the reliability of an assertion that is made by another party is a(n):",
+    "options": [
+      "Accounting and bookkeeping service.",
+      "Attestation service.",
+      "Assurance service.",
+      "Tax service."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Providing quantitative information that management and others can use to make decisions is the function of:",
+    "options": [
+      "Management information systems.",
+      "Auditing.",
+      "Finance.",
+      "Accounting."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An audit to determine whether an entity is following specific procedures or rules set down by some higher authority is classified as a(n):",
+    "options": [
+      "Audit of financial statements.",
+      "Compliance audit.",
+      "Operational audit.",
+      "None of the above."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An audit of historical financial statements is most often performed to determine whether the:",
+    "options": [
+      "Organization is operating efficiently and effectively.",
+      "Entity is following specific procedures or rules set down by some higher authority.",
+      "Management team is fulfilling its fiduciary responsibilities to shareholders.",
+      "Financial statements are in material conformity with generally accepted accounting principles."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The generally accepted auditing standard that requires “Adequate technical training and proficiency” is normally interpreted as requiring the auditor to have:",
+    "options": [
+      "Formal education in auditing and accounting.",
+      "Worked for an entity similar to the entity being audited.",
+      "Independence in mental attitude.",
+      "A graduate degree in a business field."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the general character of the three generally accepted auditing standards classified as standards of field work?",
+    "options": [
+      "The competence, independence, and professional care of persons performing the audit.",
+      "Criteria for the content of the auditor’s report on financial statements and related footnote disclosures.",
+      "The criteria of audit planning and evidence gathering.",
+      "The need to maintain independence in mental attitude in all matters pertaining to the audit."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the general character of the three generally accepted auditing standards classified as general standards?",
+    "options": [
+      "Criteria for competence, independence, and professional care of individuals performing the audit.",
+      "Criteria for the content of the financial statements and related footnote disclosures.",
+      "Criteria for the content of the auditors' report on financial statements and related footnote disclosures.",
+      "The requirements for the planning of the audit and supervision of assistants, if any."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Based on the client (management) concern the reason establishes a system of internal control is to",
+    "options": [
+      "Achieve reliability of accounting records.",
+      "Safeguards assets.",
+      "Increase profitability.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following procedures is not a required planning procedure for a new client previously audited by another auditor?",
+    "options": [
+      "Attempting communication with the predecessor auditor.",
+      "Performing analytical procedures.",
+      "Obtaining the cash balance.",
+      "Obtaining a written engagement letter from the client."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not considered to be an analytical procedure?",
+    "options": [
+      "Comparisons of financial statement amounts with source documents.",
+      "Comparisons of financial statement amounts with nonfinancial data.",
+      "Comparisons of financial statement amounts with budgeted amounts.",
+      "Comparisons of financial statement amounts with comparable prior year amounts."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The possibility that the auditors may unknowingly fail to appropriately modify their opinion on financial statements that are materially misstated?",
+    "options": [
+      "Materiality.",
+      "Audit risk.",
+      "Audit plans.",
+      "All of the above."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The financial statements do not present fairly the financial position, results of operation, and cash flows of the client in conformity with generally accepted accounting principles?",
+    "options": [
+      "Qualified report / positive report.",
+      "Qualified report / negative report.",
+      "Adverse report.",
+      "Unqualified (clean) report."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is generally correct about the competence of evidential matter?",
+    "options": [
+      "The auditor's direct personal knowledge, obtained through observation and inspection, is more persuasive than information obtained indirectly from independent outside sources.",
+      "To be competent, evidential matter must be either valid or relevant, but need not be both.",
+      "Accounting data alone may be considered sufficient competent evidential matter to issue an unqualified opinion on financial statements.",
+      "Competence of evidential matter refers to the amount of corroborative evidence to be obtained."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not an assertion that is made in the financial statements by management concerning each major account and class of transaction?",
+    "options": [
+      "Completeness.",
+      "Legality.",
+      "Rights and obligations.",
+      "Presentation and disclosure."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following types of audits are most similar?",
+    "options": [
+      "Operational audits and compliance audits.",
+      "Independent financial statement audits and operational audits.",
+      "Compliance audits and independent financial statement audits.",
+      "Internal audits and independent financial statement audits."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The essence of the attest function is to",
+    "options": [
+      "Detect fraud.",
+      "Examine individual transactions so that the auditor can certify as to their validity.",
+      "Determine whether the client's financial statements are fairly stated.",
+      "Ensure the consistent application of correct accounting procedures."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following criteria is unique to the independent auditor's attest function?",
+    "options": [
+      "General competence.",
+      "Familiarity with the particular industry of each client.",
+      "Due professional care.",
+      "Independence."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The reason an independent auditor gathers evidence is to",
+    "options": [
+      "Form an opinion on the financial statements.",
+      "Detect fraud.",
+      "Evaluate management.",
+      "Evaluate internal controls."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Due professional care requires",
+    "options": [
+      "A critical review of the work done at every level of supervision.",
+      "The examination of all corroborating evidence available.",
+      "The exercise of error-free judgment.",
+      "A consideration of internal control structure that includes tests of controls."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An auditor, while performing an audit, strives to achieve the appearance of independence in order to",
+    "options": [
+      "Reduce risk and liability.",
+      "Comply with the generally accepted standards of fieldwork.",
+      "Become independent in fact.",
+      "Maintain public confidence in the profession."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Competence as a certified public accountant includes all of the following except",
+    "options": [
+      "Having the technical qualifications to perform an engagement.",
+      "Possessing the ability to supervise and evaluate the quality of staff work.",
+      "Warranting the infallibility of the work performed.",
+      "Consulting others if additional technical information is needed."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes what is meant by generally accepted auditing standards?",
+    "options": [
+      "Acts to be performed by the auditor.",
+      "Measures of the quality of an auditor's performance.",
+      "Procedures used to gather evidence to support financial statements.",
+      "Audit objectives generally determined on audit engagements."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "There is an inverse relationship between the effectiveness of an entity's internal control structure and the",
+    "options": [
+      "Reliability of financial statements.",
+      "Extent of detailed audit tests required.",
+      "Degree of staff supervision required in the performance of an audit.",
+      "Fairness of management assertions in the financial statements."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The generally accepted standards of fieldwork relate to",
+    "options": [
+      "The competence, independence, and professional care of persons performing the audit.",
+      "Criteria for the content of the auditor's report on financial statements.",
+      "Audit planning and evidence gathering.",
+      "The need to maintain independence in mental attitude."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is correct concerning the concept of materiality?",
+    "options": [
+      "Materiality is determined by reference to AICPA guidelines.",
+      "Materiality depends only on the dollar amount involved.",
+      "Materiality depends on the nature of an item rather than on the dollar amount.",
+      "Materiality is a matter of professional judgment."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In a financial statement audit, audit risk represents the probability that",
+    "options": [
+      "Internal control fails and the failure is not detected by the auditor's procedures.",
+      "The auditor unknowingly fails to modify an opinion on materially misstated financial statements.",
+      "Inherent and control risk cause errors that could be material to the financial statements.",
+      "The auditor is not retained to conduct a financial statement audit in the succeeding year."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a financial statement audit, inherent risk represents",
+    "options": [
+      "The susceptibility of an account balance to error that could be material.",
+      "The risk that error could occur and not be prevented or detected by the internal control structure.",
+      "The risk that error could occur and not be detected by the auditor's procedures.",
+      "The risk that the auditor fails to modify materially misstated financial statements."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The first general standard requires that a person or persons have adequate technical training and proficiency as an auditor. This standard is met by",
+    "options": [
+      "Understanding business and finance.",
+      "Education and experience in auditing.",
+      "Continuing professional education.",
+      "Knowledge of Statements of Auditing Standards."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the meaning of the generally accepted auditing standard that requires that the auditor be independent?",
+    "options": [
+      "The auditor must be without bias with respect to the client audited.",
+      "The auditor must adopt a critical attitude during the audit.",
+      "The auditor's sole obligation is to third parties.",
+      "The auditor may have a direct ownership interest in the client's business if it is not material."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The management of a client company believes that the statement of cash flow is not a useful document and refuses to include one in the annual report to stockholders. As a result, the auditor's opinion should be",
+    "options": [
+      "Qualified due to inadequate disclosure.",
+      "Qualified due to a scope limitation.",
+      "Adverse.",
+      "Unqualified."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An auditor would issue an adverse opinion if",
+    "options": [
+      "The audit was begun by other independent auditors who withdrew from the engagement.",
+      "A qualified opinion cannot be given because the auditor lacks independence.",
+      "The restriction on the scope of the audit was significant.",
+      "The statements taken as a whole do not fairly present the financial position, results of operations, and cash flows of the company."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An auditor's report includes a statement that “the financial statements do not present fairly the financial position in conformity with generally accepted accounting principles.” This auditor's report was probably issued in connection with financial statements that were",
+    "options": [
+      "Prepared on a comprehensive basis for accounting other than GAAP.",
+      "Restricted for use by management.",
+      "Misleading.",
+      "Condensed."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If the auditor believes there is minimal likelihood that resolution of an uncertainty will have a material effect on the financial statements, the auditor would issue a(n)",
+    "options": [
+      "Qualified opinion.",
+      "Adverse opinion.",
+      "Unqualified opinion.",
+      "Disclaimer of opinion."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An audit report should be dated as of",
+    "options": [
+      "The date the report is delivered to the entity audited.",
+      "The date of the last day of fieldwork.",
+      "The balance sheet date of the latest period reported on.",
+      "The date a letter of audit inquiry is received."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An auditor is unable to determine the amounts associated with illegal acts committed by a client. The auditor would most likely",
+    "options": [
+      "Issue either a qualified opinion or a disclaimer of opinion.",
+      "Issue an adverse opinion.",
+      "Issue either a qualified opinion or an adverse opinion.",
+      "Issue a disclaimer of opinion."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When management prepares financial statements on the basis of a going concern and the auditor believes the company may not continue as a going concern, the auditor should issue",
+    "options": [
+      "A qualified opinion.",
+      "An unqualified opinion with an explanatory paragraph.",
+      "A disclaimer of opinion.",
+      "An adverse opinion."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Of the following, which is the least persuasive type of audit evidence?",
+    "options": [
+      "Documents mailed by outsiders to the auditor.",
+      "Correspondence between auditor and vendors.",
+      "Copies of sales invoices inspected by the auditor.",
+      "Computations made by the auditor."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following should an auditor obtain from the predecessor auditor prior to accepting an audit engagement?",
+    "options": [
+      "Analysis of balance sheet accounts.",
+      "Analysis of income statement accounts.",
+      "All matters of continuing accounting significance.",
+      "Facts that might bear on the integrity of management."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In conducting an Audit:",
+    "options": [
+      "The information must be in verifiable form and some standards (criteria) by which the auditor can evaluate the information.",
+      "The auditor must be qualified to understand the criteria used and must be competent to know the types and amount of evidence to accumulate to reach the proper conclusion.",
+      "Auditor should conduct an audit to provide standard unqualified Audit opinion only.",
+      "All are correct."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The reason an independent auditor gathers evidence is to",
+    "options": [
+      "Form an opinion on the financial statement.",
+      "Detect fraud.",
+      "Evaluate management.",
+      "Evaluate internal controls."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Due professional care requires",
+    "options": [
+      "A critical review of the work done at every level of supervision.",
+      "The examination of all corroborating evidence available.",
+      "The exercise of error-free judgment.",
+      "A consideration of internal control structure that includes tests of controls."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following audit type ordinarily covers the balance sheet and the related statements of income, retained earnings, and cash flows?",
+    "options": [
+      "The audit of financial statements.",
+      "Compliance audits.",
+      "Operational audit.",
+      "None."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not true about Compliance Audits?",
+    "options": [
+      "It is a review of an organization’s procedures to determine whether the organization is following specific procedures, rules or regulations set out by some higher authority.",
+      "It is the audit to make sure that the existence of verifiable data and of recognized criteria or standards.",
+      "It involves a systematic review of an organization's activities in relation to the efficient and effective use of resources.",
+      "None of the above."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In which type of auditors’ principal goal is to investigate and evaluate the effectiveness with which the various organizational units of the company are carrying out their assigned functions?",
+    "options": [
+      "Internal Auditors.",
+      "External Auditors.",
+      "Government Auditors.",
+      "None."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is true about external Auditor?",
+    "options": [
+      "External auditors are often referred to as independent auditors or certified public accountants.",
+      "External auditors are not employed by the organization being audited.",
+      "An external auditor conducts only financial statement audits.",
+      "All except C."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The first general standard requires that a person or persons have adequate technical training and proficiency as an auditor. This standard is met by",
+    "options": [
+      "Understanding business and finance.",
+      "Education and experience in auditing.",
+      "Continuing professional education.",
+      "Knowledge of Statements of Auditing Standards."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which general standard means that auditors are professionals responsible for fulfilling their duties diligently and carefully?",
+    "options": [
+      "Adequate Technical Training and Proficiency.",
+      "Independence in Mental Attitude.",
+      "Due Professional Care.",
+      "Adequate Planning and Supervision."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The first paragraph of the auditors’ report is",
+    "options": [
+      "Introductory paragraph.",
+      "Scope paragraph.",
+      "Opinion paragraph.",
+      "None."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An audit report should be dated as of",
+    "options": [
+      "The date the report is delivered to the entity audited.",
+      "The date of the last day of fieldwork.",
+      "The balance sheet date of the latest period reported on.",
+      "The date a letter of audit inquiry is received from the entity's attorney of record."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In conducting an Audit:",
+    "options": [
+      "The information must be in verifiable form and some standards (criteria) by which the auditor can evaluate the information.",
+      "The auditor must be qualified to understand the criteria used and must be competent to know the types and amount of evidence to accumulate to reach the proper conclusion.",
+      "Auditor should conduct an audit to provide standard unqualified Audit opinion only.",
+      "All are correct."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In which audit report opinion type are the financial statements fairly presented, but the auditor believes it is important or required to provide additional information?",
+    "options": [
+      "Standard unqualified audit opinion.",
+      "Unqualified with explanatory paragraph or modified wording opinion.",
+      "Qualified opinion.",
+      "Adverse opinion.",
+      "Disclaimer opinion."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The materiality level that users’ decisions are unlikely to be affected is",
+    "options": [
+      "Immaterial.",
+      "Material.",
+      "Highly material.",
+      "None."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a qualified audit opinion that needs to be modified on scope and opinion part, the paragraph would be modified at which location?",
+    "options": [
+      "After opinion.",
+      "Before opinion.",
+      "Before and after opinion.",
+      "None."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Introductory paragraph includes the following except",
+    "options": [
+      "CPA firm done the audit.",
+      "Types of Financial statement.",
+      "Preparation of the Financial statement that shows the responsibility of management.",
+      "A factual statement about what the auditor did in the audit."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is/are not correct about Auditing and Accounting?",
+    "options": [
+      "Auditing is the recording, classifying, and summarizing of economic events.",
+      "Accounting is determining whether recorded information properly reflects economic events.",
+      "Accounting is analytical work that starts with the end product of auditing.",
+      "All."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A management assertion category which asserts whether particular components of an account are properly classified and disclosed is",
+    "options": [
+      "Valuation.",
+      "Presentation and disclosure.",
+      "Existence and occurrence.",
+      "Rights and obligations."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An audit objective which addresses whether all assets recorded really exist on the balance sheet date is",
+    "options": [
+      "Completeness.",
+      "Cut off.",
+      "Existence.",
+      "Accuracy."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A file that includes working papers applicable to the year under audit is",
+    "options": [
+      "Current files.",
+      "Account balance.",
+      "Permanent files.",
+      "Audit report."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following can be a source of information about the legal provisions of the client?",
+    "options": [
+      "Bylaw.",
+      "Contracts.",
+      "Articles of Incorporation.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assume that the auditor has assessed inherent risk for a particular assertion at 50% and control risk at 40%. In addition, they have performed audit procedures that they believe have a 20% risk of failing to detect a material misstatement in the assertion. What is acceptable audit risk?",
+    "options": [
+      "0.4%",
+      "4%",
+      "40%",
+      "0.04%"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To accept the engagement auditors do the following except",
+    "options": [
+      "Successor auditor communicated with predecessor auditor to accept new client about.",
+      "Other investigations gathered from local attorneys, other CPAs, banks, and other businesses.",
+      "CPA firms evaluate existing clients annually to determine whether there are reasons for not continuing to do the audit.",
+      "None."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All are reasons to discontinue with a client/organization to be audited except",
+    "options": [
+      "Previous conflicts over the appropriate scope of the audit.",
+      "Previous conflicts over the type of opinion to issue.",
+      "Previous conflicts over unpaid fees, or other matters.",
+      "None."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In an engagement in an audit a clear understanding of the terms of the engagement should exist between client and the CPA firm by letter of engagement. Engagement letter excludes:",
+    "options": [
+      "The engagement’s objectives.",
+      "The responsibilities of the auditor and management.",
+      "The engagement’s limitations.",
+      "An agreement not to provide other services."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Factors that have increased the importance of understanding the client’s business and industry are",
+    "options": [
+      "Factors that have increased the importance of understanding the client’s business and industry.",
+      "Factors that have increased the importance of understanding the client’s business and industry.",
+      "Factors that have increased the importance of understanding the client’s business and industry.",
+      "All."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The market for auditing services is driven by",
+    "options": [
+      "The regulatory authority of the Securities and Exchange Commission.",
+      "A demand by external users of financial statements.",
+      "Pronouncements issued by the Auditing Standards Board.",
+      "Congress at the federal level and elected legislative bodies at the state level."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following risk is measure of the sensitivity or susceptibility of the financial statement accounts to material misstatement before considering the effectiveness of internal control, accounting controls, policies or procedures?",
+    "options": [
+      "Inherent risk.",
+      "Control risk.",
+      "Detection risk.",
+      "None."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following measures a quality of evidence, meaning its relevance and reliability in meeting audit objectives for classes of transactions, account balances and related disclosures?",
+    "options": [
+      "Appropriateness of evidence.",
+      "Sufficiency of evidence.",
+      "Relevance of evidence.",
+      "Reliability of evidence."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not true?",
+    "options": [
+      "Evidence obtained from a source inside the entity is more reliable than that obtained from outside organization.",
+      "When a client’s internal controls are ineffective, evidence obtained is more reliable than when they are weak.",
+      "Answers obtained from inquiries of the client are generally considered more reliable than communications from banks, attorneys, or customers.",
+      "All."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following best describes what is meant by generally accepted auditing standards?",
+    "options": [
+      "Acts to be performed by the auditor.",
+      "Measures of the quality of the auditor’s performance.",
+      "Procedures to be used to gather evidence to support financial statements.",
+      "Audit objectives generally determined on audit engagements."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The general group of generally accepted auditing standards includes a requirement that",
+    "options": [
+      "Field work be adequately planned and supervised.",
+      "The auditor’s opinion state whether or not the financial statements conform to generally accepted accounting principles.",
+      "Due professional care be exercised by the auditor.",
+      "Informative disclosures in the financial statements are reasonably adequate."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A CPA firm is reasonably assured of meeting its responsibility to provide services that conform with professional standards by",
+    "options": [
+      "Adhering to generally accepted auditing standards.",
+      "Having an appropriate system of quality control.",
+      "Joining professional societies that enforce ethical conduct.",
+      "Maintaining an attitude of independence in its engagements."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not true with respect to the concept of reasonable assurance?",
+    "options": [
+      "Reasonable assurance allows for mistakes and misinterpretations by the audit team throughout the examination.",
+      "The nature of many audit procedures is such that they cannot always be relied upon to detect misstatements.",
+      "Audit teams should evaluate all transactions and components of an account balance or class of transactions.",
+      "Auditors should control the overall risk in an audit to an acceptably low level."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not true with respect to the auditors' report for a public entity?",
+    "options": [
+      "The report title should contain the word “independent.”",
+      "The report provides a detailed listing of major auditing procedures performed during the examination.",
+      "The opinion assesses the financial statements against an applicable financial reporting framework.",
+      "The report specifically identifies the financial statements and years examined by the auditor."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is not the purpose of Auditing",
+    "options": [
+      "Tool for internal control.",
+      "Increasing credibility of information.",
+      "Improving efficiency of economy.",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is the purpose of compliance audit?",
+    "options": [
+      "Increasing dependability of financial statement.",
+      "Maintaining compliance against government rules.",
+      "Appraising the performance of particular organization.",
+      "All are correct."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Private audit firms",
+    "options": [
+      "Provide auditing service on contractual basis.",
+      "Mainly assure compliance to tax rules.",
+      "Audit the activity of general government.",
+      "All are correct."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "External auditors mainly perform",
+    "options": [
+      "Operational audit.",
+      "Financial audit.",
+      "Compliance audit.",
+      "None of the above."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is not the objective of Operational audit?",
+    "options": [
+      "Evaluating Unit performance in relation to established criteria.",
+      "Assuring that all operating reports are on constant basis.",
+      "Assuring operational efficiency and economy.",
+      "Assuring fair presentation of financial statements."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Auditing",
+    "options": [
+      "Begins when accounting ends.",
+      "Precede accounting.",
+      "Performed by employees of the firm.",
+      "Deliver financial statement to users."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which is not an element that characterizes profession?",
+    "options": [
+      "Standardized body of knowledge.",
+      "Standard of conduct.",
+      "Acceptance of social responsibility.",
+      "Public denial."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Auditors must keep confidential information from disclosure to public except:",
+    "options": [
+      "When disclosure is authorized.",
+      "Disclosure is required by law.",
+      "When there is a right to disclose.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Gross negligence",
+    "options": [
+      "The same as simple negligence.",
+      "The same as constructive fraud.",
+      "The same as breach of contract.",
+      "The same as tort action."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is not the possible defense mechanism to auditor against lawsuit by third parties?",
+    "options": [
+      "Lack of duty to perform.",
+      "Non-negligent performance.",
+      "Contributory negligence.",
+      "Absence of causal connection."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An intentional misstatement of financial statement is:",
+    "options": [
+      "Error.",
+      "Tort action.",
+      "Fraud.",
+      "None of the above."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "__________ are expressed or implied representation by management that are reflected in the financial statement.",
+    "options": [
+      "Audit objective.",
+      "Standards of auditing.",
+      "Management assertion.",
+      "GAAP."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A management assertion category which asserts whether particular components of an account is properly classified and disclosed is",
+    "options": [
+      "Valuation.",
+      "Presentation and disclosure.",
+      "Existence and occurrence.",
+      "Right and obligations."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An audit objective which address whether all asset recorded really exist on the balance sheet date is",
+    "options": [
+      "Completeness.",
+      "Cut off.",
+      "Existence.",
+      "Accuracy."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A file that include working papers applicable to the year under audit is",
+    "options": [
+      "Current files.",
+      "Account balance.",
+      "Permanent files.",
+      "Audit report."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following can be a source of information about the legal provisions of the client?",
+    "options": [
+      "Bylaw.",
+      "Contracts.",
+      "Articles of Incorporation.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The degree to which evidence can be considered believable is",
+    "options": [
+      "Timing of the audit.",
+      "Sufficiency of evidence.",
+      "Competence of evidence.",
+      "None of the above."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Evidence is said to be believable when",
+    "options": [
+      "The provider is independent.",
+      "There is unfortunate internal control system.",
+      "The auditor obtain them from others.",
+      "Accumulated for the period outside of the audit."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Evaluation of financial information made by a study of relationships between financial and non-financial data is:",
+    "options": [
+      "Re-performance.",
+      "Analytical Procedure.",
+      "Inquiries of the client.",
+      "Observation."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors did not affect the sufficiency of evidence?",
+    "options": [
+      "The auditor's expected misstatement.",
+      "Effectiveness of internal control.",
+      "Past trends.",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Evidence is said to be sufficient if",
+    "options": [
+      "The samples are too large.",
+      "The samples are too small.",
+      "The samples are neither too large nor too small.",
+      "Sample size and sufficiency are not related."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Statements on Auditing Standards",
+    "options": [
+      "Relate to the filing requirements and enforcement activities of the SEC.",
+      "Describe procedures to be applied in specific areas of audit activity to eliminate inconsistencies in audit practice.",
+      "Are intended to limit the degree of auditor judgment needed to fulfill the attest function.",
+      "Interpret standards that provide guidelines or measures of quality for an independent audit."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The primary purpose of an independent financial statement audit is to",
+    "options": [
+      "Provide a basis for assessing management's performance.",
+      "Comply with state and federal regulatory requirements.",
+      "Assure management that the financial statements are unbiased and free from material error.",
+      "Provide users with an unbiased opinion about the fairness of information reported in the financial statements."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The essence of the attest function is to",
+    "options": [
+      "Detect fraud.",
+      "Examine individual transactions so that the auditor can certify as to their validity.",
+      "Determine whether the client's financial statements are fairly stated.",
+      "Ensure the consistent application of correct accounting procedures."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The auditor's judgment concerning the overall fairness of the presentation of financial positions, results of operations, and cash flows is applied within the framework of",
+    "options": [
+      "Quality control.",
+      "Generally accepted auditing standards that include the concept of materiality.",
+      "The auditor's evaluation of the audited company's internal controls.",
+      "Generally accepted accounting principles."
+    ],
+    "correct": 1
+  }
+]
