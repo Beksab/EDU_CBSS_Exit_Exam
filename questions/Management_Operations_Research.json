@@ -1,0 +1,1622 @@
+[
+  {
+    "questionText": "Operations Research (OR) is best defined as:",
+    "options": [
+      "A branch of accounting",
+      "A method for hiring employees",
+      "A purely qualitative approach to decision making",
+      "The application of scientific and mathematical methods to solve complex problems and support decision making"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The primary goal of Operations Research is to:",
+    "options": [
+      "Replace human judgment entirely",
+      "Provide optimal or near‑optimal solutions to complex decision problems",
+      "Eliminate all managerial decisions",
+      "Increase the complexity of problems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of OR approach?",
+    "options": [
+      "Avoidance of quantitative methods",
+      "Use of mathematical models, data, and systematic analysis",
+      "Focus only on qualitative factors",
+      "Reliance on intuition only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The first step in the OR problem‑solving process is:",
+    "options": [
+      "Building a mathematical model",
+      "Implementing the solution",
+      "Testing the model",
+      "Defining the problem and observing the system"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A mathematical model in OR represents:",
+    "options": [
+      "A random guess about the solution",
+      "The essential features of a real system using mathematical symbols and relationships",
+      "The physical system exactly without simplification",
+      "Only the financial aspects of a problem"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Decision variables in an OR model are:",
+    "options": [
+      "The constraints of the problem",
+      "The objective function coefficients",
+      "Fixed constants",
+      "The unknown quantities that the decision maker controls"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The objective function in an optimization model specifies:",
+    "options": [
+      "The constraints only",
+      "The decision variables only",
+      "The goal to be maximized or minimized (e.g., profit, cost)",
+      "The limitations on resources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Constraints in an OR model represent:",
+    "options": [
+      "The optimal solution",
+      "The objective to optimize",
+      "Limitations or restrictions (e.g., resources, capacity)",
+      "The decision variables"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Feasible solution in a constrained optimization problem is any solution that:",
+    "options": [
+      "Has no decision variables",
+      "Satisfies all constraints",
+      "Optimizes the objective function",
+      "Violates at least one constraint"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The optimal solution is a feasible solution that:",
+    "options": [
+      "Ignores constraints",
+      "Is the only possible solution",
+      "Satisfies all constraints but does not optimize",
+      "Provides the best value of the objective function (maximum or minimum)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A linear programming (LP) model requires that all functions are:",
+    "options": [
+      "Quadratic",
+      "Exponential",
+      "Linear (objective and constraints)",
+      "Non‑linear"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The general form of an LP problem includes:",
+    "options": [
+      "Integer decision variables only",
+      "Only equality constraints",
+      "Non‑linear constraints only",
+      "A linear objective function, linear constraints, and non‑negativity restrictions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is NOT an assumption of linear programming?",
+    "options": [
+      "Divisibility",
+      "Additivity",
+      "Non‑linearity",
+      "Proportionality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The proportionality assumption in LP means:",
+    "options": [
+      "There is no relationship between variables",
+      "Variables can only take integer values",
+      "Constraints must be equalities",
+      "Contribution of each activity is proportional to the level of the activity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The additivity assumption in LP means:",
+    "options": [
+      "Interaction terms are required",
+      "The total contribution is the sum of individual contributions",
+      "Variables are multiplied together",
+      "Constraints are non‑linear"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The divisibility assumption in LP means:",
+    "options": [
+      "Decision variables can take any fractional value",
+      "Fractions are not allowed",
+      "Variables must be integers",
+      "Only binary variables are allowed"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The certainty assumption in LP means:",
+    "options": [
+      "Constraints are stochastic",
+      "Probability distributions are required",
+      "All parameters (coefficients) are known with certainty",
+      "Random variables are included"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Graphical solution method for LP can handle:",
+    "options": [
+      "Only one decision variable",
+      "Any number of decision variables",
+      "Three decision variables",
+      "Two decision variables (2D)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The feasible region in an LP graph is:",
+    "options": [
+      "A single point",
+      "Always unbounded",
+      "The set of all points that satisfy all constraints",
+      "The area outside constraints"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The optimal solution of an LP problem occurs at:",
+    "options": [
+      "Outside the feasible region",
+      "A corner point (extreme point) of the feasible region",
+      "The center of the feasible region",
+      "Any point in the feasible region"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If two corner points are both optimal, then:",
+    "options": [
+      "The problem is infeasible",
+      "The objective function is non‑linear",
+      "Any point on the line segment between them is also optimal (multiple optima)",
+      "There is no optimal solution"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An unbounded solution in LP occurs when:",
+    "options": [
+      "There is a unique optimal solution",
+      "All constraints are equalities",
+      "The feasible region is empty",
+      "The objective function can improve indefinitely without violating constraints"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An infeasible LP problem occurs when:",
+    "options": [
+      "There are too many constraints",
+      "The objective function is unbounded",
+      "There are multiple optimal solutions",
+      "No feasible solution satisfies all constraints simultaneously"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In the simplex method, a basic feasible solution corresponds to:",
+    "options": [
+      "An infeasible point",
+      "Any random point",
+      "A corner point of the feasible region",
+      "A point inside the feasible region"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The simplex method moves from one basic feasible solution to an adjacent one with:",
+    "options": [
+      "No change in objective value",
+      "Improved (or not worse) objective value",
+      "Random objective value",
+      "Worse objective value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Slack variables are added to LP constraints to:",
+    "options": [
+      "Remove decision variables",
+      "Make the problem non‑linear",
+      "Increase the number of constraints",
+      "Convert inequalities to equalities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Surplus variables are used in:",
+    "options": [
+      "Equality constraints only",
+      "\"≥\" constraints",
+      "\"≤\" constraints",
+      "Objective function"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Artificial variables are introduced in the simplex method to:",
+    "options": [
+      "Reduce the number of constraints",
+      "Make the objective non‑linear",
+      "Replace slack variables",
+      "Find an initial basic feasible solution for constraints with \"≥\" or \"=\" when needed"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The big‑M method in LP:",
+    "options": [
+      "Uses only slack variables",
+      "Is used for minimization only",
+      "Penalizes artificial variables with a large cost coefficient to force them out of solution",
+      "Ignores artificial variables"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a maximization LP, if all coefficients in the objective row of the simplex tableau are non‑negative (for a maximization problem), the solution is:",
+    "options": [
+      "Infeasible",
+      "Not optimal",
+      "Optimal (if standard form)",
+      "Unbounded"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sensitivity analysis in LP examines:",
+    "options": [
+      "Only the right‑hand side values",
+      "Only the constraint coefficients",
+      "The effect of changes in model parameters on the optimal solution",
+      "Only the objective function coefficients"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The shadow price (dual variable) of a constraint indicates:",
+    "options": [
+      "The number of iterations",
+      "The price of the product",
+      "The change in optimal objective value per unit increase in the right‑hand side of that constraint",
+      "The value of the decision variable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A reduced cost in LP tells:",
+    "options": [
+      "The total profit",
+      "The shadow price",
+      "The cost of raw materials",
+      "The amount the objective coefficient must change for a non‑basic variable to become positive"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Duality in LP states that:",
+    "options": [
+      "Only maximization problems have duals",
+      "Every LP primal problem has a corresponding dual problem",
+      "Dual is unrelated to primal",
+      "Only minimization problems have duals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The dual of a maximization LP with \"≤\" constraints is a:",
+    "options": [
+      "Minimization LP with \"≥\" constraints",
+      "Non‑linear problem",
+      "Maximization LP with \"≤\" constraints",
+      "Unconstrained problem"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Strong duality theorem states that if the primal has an optimal solution, then:",
+    "options": [
+      "The primal and dual have no relationship",
+      "The dual is infeasible",
+      "The dual also has an optimal solution and their optimal objective values are equal",
+      "The dual is unbounded"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Integer Linear Programming (ILP) requires that:",
+    "options": [
+      "No constraints are allowed",
+      "Only binary variables are allowed",
+      "All variables are continuous",
+      "Some or all variables must take integer values"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Binary (0‑1) integer programming is used when decisions are:",
+    "options": [
+      "Negative",
+      "Continuous",
+      "Yes/no or go/no‑go (e.g., build plant or not)",
+      "Fractional"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The branch‑and‑bound method is used to solve:",
+    "options": [
+      "Only transportation problems",
+      "Non‑linear programs",
+      "Integer and mixed‑integer programs",
+      "Continuous linear programs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The transportation problem is a special type of:",
+    "options": [
+      "Decision theory problem",
+      "Integer program with all binary variables",
+      "Non‑linear program",
+      "Linear program with a specific network structure"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In a transportation problem, supply and demand are typically:",
+    "options": [
+      "Always unequal",
+      "Not balanced",
+      "Balanced (total supply = total demand) or made balanced with dummy",
+      "Irrelevant"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A dummy source or destination in a transportation problem is used to:",
+    "options": [
+      "Make the problem non‑linear",
+      "Eliminate all variables",
+      "Increase cost",
+      "Balance supply and demand when they are not equal"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The cost coefficients in a transportation problem represent:",
+    "options": [
+      "Fixed costs",
+      "Variable costs only on the supply side",
+      "Cost per unit shipped from each source to each destination",
+      "Profit per unit shipped"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Northwest Corner Rule is used to:",
+    "options": [
+      "Find the dual solution",
+      "Find an initial basic feasible solution for the transportation problem",
+      "Compute shadow prices",
+      "Find the optimal solution directly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Vogel's Approximation Method (VAM) for transportation typically:",
+    "options": [
+      "Provides a better (closer to optimal) initial solution than Northwest Corner",
+      "Gives a worse initial solution than Northwest Corner",
+      "Only works for balanced problems",
+      "Is not used in practice"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The stepping‑stone method is used to:",
+    "options": [
+      "Find the dual",
+      "Find an initial feasible solution",
+      "Solve assignment problems",
+      "Improve a feasible solution to optimality in transportation problems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The MODI (Modified Distribution) method is an efficient way to:",
+    "options": [
+      "Handle non‑linear objectives",
+      "Compute shadow prices and test optimality in transportation",
+      "Solve integer programs",
+      "Find initial feasible solution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a transportation tableau, a degenerate solution occurs when:",
+    "options": [
+      "Supply equals demand",
+      "The number of occupied cells is less than (rows + columns – 1)",
+      "The number of occupied cells is exactly (rows + columns – 1)",
+      "All cells are occupied"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The assignment problem is a special case of the transportation problem where:",
+    "options": [
+      "There are no constraints",
+      "Costs are all zero",
+      "Supplies and demands are large numbers",
+      "Supplies and demands are all equal to 1"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In an assignment problem, each worker is assigned to:",
+    "options": [
+      "No tasks",
+      "Multiple tasks",
+      "Exactly one task, and each task to one worker",
+      "Any number of tasks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Hungarian algorithm is used to solve:",
+    "options": [
+      "Transportation problems",
+      "Network flow problems",
+      "Linear programming with two variables",
+      "Assignment problems optimally"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The assignment problem is a type of:",
+    "options": [
+      "Unconstrained optimization",
+      "Decision theory problem",
+      "Integer linear program (binary variables)",
+      "Non‑linear program"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If an assignment problem has a cost matrix, the optimal assignment minimizes:",
+    "options": [
+      "Number of workers",
+      "Total cost",
+      "Number of assignments",
+      "Total profit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A dummy row or column in assignment problem is added when:",
+    "options": [
+      "All assignments are forbidden",
+      "All costs are zero",
+      "Number of workers equals number of tasks",
+      "Number of workers does not equal number of tasks"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The stepping‑stone method for transportation uses closed loops of:",
+    "options": [
+      "Arbitrary moves",
+      "Diagonal moves also",
+      "Horizontal and vertical moves only",
+      "No moves"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The transshipment problem extends transportation by allowing:",
+    "options": [
+      "No supply or demand",
+      "Only one source and one destination",
+      "Intermediate nodes (transshipment points)",
+      "Direct shipments only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Decision theory under certainty means:",
+    "options": [
+      "Multiple outcomes are possible with known probabilities",
+      "Outcomes are unknown",
+      "Probabilities are unknown",
+      "The decision maker knows which state of nature will occur with certainty"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Decision theory under risk means:",
+    "options": [
+      "Only one state of nature exists",
+      "The outcome is certain",
+      "No probabilities are known",
+      "The decision maker knows the probabilities of each state of nature"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Decision theory under uncertainty means:",
+    "options": [
+      "The decision is predetermined",
+      "There is no risk",
+      "Probabilities are unknown or cannot be estimated",
+      "Probabilities of states of nature are known"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The maximax criterion (optimistic) chooses the alternative with:",
+    "options": [
+      "The maximum of the maximum payoffs",
+      "The minimum of the maximum payoffs",
+      "The minimum of the minimum payoffs",
+      "The maximum of the minimum payoffs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The maximin criterion (pessimistic) chooses the alternative with:",
+    "options": [
+      "The minimum of the minimum payoffs",
+      "The maximum of the maximum payoffs",
+      "The minimum of the maximum payoffs",
+      "The maximum of the minimum payoffs (safest)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The minimax regret criterion (Savage) minimizes:",
+    "options": [
+      "The maximum opportunity loss (regret)",
+      "The average profit",
+      "The minimum profit",
+      "The maximum profit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Laplace criterion (equally likely) assumes:",
+    "options": [
+      "The decision maker is pessimistic",
+      "The decision maker is optimistic",
+      "Probabilities are known",
+      "All states of nature have equal probability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A payoff table shows:",
+    "options": [
+      "Probabilities only",
+      "Only the worst alternative",
+      "Payoffs for each combination of alternative and state of nature",
+      "Only the best alternative"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Regret (opportunity loss) is defined as:",
+    "options": [
+      "The probability of loss",
+      "The cost of the decision",
+      "The actual profit earned",
+      "The difference between the payoff of the chosen alternative and the best possible payoff for that state of nature"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Expected Monetary Value (EMV) criterion is used under:",
+    "options": [
+      "Certainty",
+      "All situations",
+      "Risk (known probabilities)",
+      "Uncertainty"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "EMV for an alternative is calculated as:",
+    "options": [
+      "Minimum payoff",
+      "Maximum payoff",
+      "Sum of (payoff × probability) across states",
+      "Payoff minus cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Expected Value of Perfect Information (EVPI) equals:",
+    "options": [
+      "The minimum expected opportunity loss",
+      "The maximum payoff",
+      "EMV without perfect information minus EMV with perfect information",
+      "EMV with perfect information minus EMV without perfect information"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "EVPI also equals:",
+    "options": [
+      "Zero",
+      "The minimum EMV",
+      "The maximum EMV",
+      "Expected opportunity loss (EOL) of the best alternative"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Decision trees are used to represent:",
+    "options": [
+      "Linear programming problems",
+      "Transportation problems",
+      "Sequential decisions under uncertainty with probabilities",
+      "Assignment problems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A decision node in a decision tree is represented by:",
+    "options": [
+      "A circle",
+      "A triangle",
+      "A diamond",
+      "A square"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A chance node (event node) in a decision tree is represented by:",
+    "options": [
+      "A circle",
+      "A rectangle",
+      "A square",
+      "A triangle"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The rollback (backward induction) method solves decision trees by:",
+    "options": [
+      "Ignoring probabilities",
+      "Starting at the leaves and working backward to the root",
+      "Randomly choosing branches",
+      "Starting at the root and going forward"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bayes' theorem in decision analysis updates:",
+    "options": [
+      "The decision tree structure",
+      "The utility values",
+      "Prior probabilities to posterior probabilities given new information",
+      "The payoffs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The value of sample information (EVSI) is the:",
+    "options": [
+      "Probability of correct decision",
+      "Maximum regret",
+      "Cost of collecting the sample",
+      "Difference between EMV with sample information and EMV without sample information"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Utility theory in decision making accounts for:",
+    "options": [
+      "Only expected monetary value",
+      "Only profits",
+      "Decision maker's risk preference (risk averse, risk neutral, risk seeking)",
+      "Only deterministic outcomes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A risk‑averse decision maker has a utility function that is:",
+    "options": [
+      "Constant",
+      "Linear",
+      "Concave (diminishing marginal utility for money)",
+      "Convex"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A risk‑neutral decision maker uses:",
+    "options": [
+      "A convex utility function",
+      "A concave utility function",
+      "Only the maximin criterion",
+      "Expected monetary value (linear utility)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A risk‑seeking decision maker has a utility function that is:",
+    "options": [
+      "Linear",
+      "Convex",
+      "Concave",
+      "Constant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sensitivity analysis in decision trees examines:",
+    "options": [
+      "The names of alternatives",
+      "The number of branches",
+      "The structure of the tree only",
+      "How the optimal decision changes with changes in probabilities or payoffs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Network models in OR include:",
+    "options": [
+      "Linear programming only",
+      "Transportation problems only",
+      "Assignment problems only",
+      "Shortest path, minimal spanning tree, maximum flow, and critical path methods"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The shortest path problem finds:",
+    "options": [
+      "Any path from source to destination",
+      "The path with maximum cost",
+      "The longest path from source to destination",
+      "The path with minimum total distance or time from source to destination"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Dijkstra's algorithm solves:",
+    "options": [
+      "The minimum spanning tree",
+      "The shortest path problem with non‑negative arc lengths",
+      "The assignment problem",
+      "The maximum flow problem"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The minimal spanning tree problem seeks to:",
+    "options": [
+      "Find the shortest path between two nodes",
+      "Find the longest path",
+      "Maximize flow from source to sink",
+      "Connect all nodes in a network with minimum total arc length, without cycles"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Prim's and Kruskal's algorithms are used for:",
+    "options": [
+      "Critical path method",
+      "Minimum spanning tree problems",
+      "Shortest path problems",
+      "Maximum flow problems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The maximum flow problem seeks to:",
+    "options": [
+      "Find the minimal spanning tree",
+      "Find the shortest path",
+      "Minimize flow through a network",
+      "Maximize the flow from a source to a sink subject to arc capacities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Ford‑Fulkerson algorithm is used to solve:",
+    "options": [
+      "Maximum flow",
+      "Assignment problem",
+      "Minimum spanning tree",
+      "Shortest path"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The max‑flow min‑cut theorem states:",
+    "options": [
+      "Flow is unbounded",
+      "Maximum flow equals the minimum cut capacity",
+      "Cuts are unrelated to flow",
+      "Minimum flow equals maximum cut capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A cut in a network is:",
+    "options": [
+      "A cycle",
+      "A path from source to sink",
+      "A spanning tree",
+      "A set of arcs whose removal disconnects source from sink"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The critical path method (CPM) is used for:",
+    "options": [
+      "Linear programming",
+      "Decision trees",
+      "Transportation problems",
+      "Project scheduling to identify the longest path and minimum project completion time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "PERT (Program Evaluation and Review Technique) differs from CPM by:",
+    "options": [
+      "Ignoring dependencies",
+      "Using three time estimates to account for uncertainty",
+      "Not having a critical path",
+      "Using deterministic activity times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The critical path in a project network is:",
+    "options": [
+      "Any path with zero float",
+      "The shortest path through the network",
+      "Both B and C",
+      "The longest path in terms of duration, determining project completion time, and any path with zero float"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Slack (float) is:",
+    "options": [
+      "The cost of an activity",
+      "The total project duration",
+      "The time required to complete an activity",
+      "The amount of time an activity can be delayed without delaying the project"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Activities on the critical path have slack of:",
+    "options": [
+      "Infinite",
+      "Positive",
+      "Zero",
+      "Negative"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Forward pass in CPM/PERT computes:",
+    "options": [
+      "Float",
+      "Cost",
+      "Earliest start and finish times",
+      "Latest start and finish times"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Backward pass computes:",
+    "options": [
+      "Resource requirements",
+      "Latest start and finish times",
+      "Activity durations",
+      "Earliest start times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Crashing a project refers to:",
+    "options": [
+      "Ignoring the critical path",
+      "Delaying the project",
+      "Reducing project duration by adding resources (at increased cost)",
+      "Removing activities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The time‑cost trade‑off in project crashing involves:",
+    "options": [
+      "Only reducing time without cost",
+      "Ignoring costs",
+      "Minimizing time at any cost",
+      "Reducing time at minimum additional cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Fast tracking in project management means:",
+    "options": [
+      "Adding more resources",
+      "Reducing scope",
+      "Performing activities in parallel that were originally sequential (may increase risk)",
+      "Eliminating activities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Network diagrams (e.g., AOA or AON) represent:",
+    "options": [
+      "The probability of completion",
+      "The sequence and dependencies of project activities",
+      "The cost of each activity",
+      "The resources needed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In an Activity‑on‑Arrow (AOA) network, nodes represent:",
+    "options": [
+      "Resources",
+      "Activities",
+      "Durations",
+      "Events (start or finish of activities)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In an Activity‑on‑Node (AON) network, nodes represent:",
+    "options": [
+      "Arrows",
+      "Events",
+      "Dummy activities",
+      "Activities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Dummy activities in AOA networks are used to:",
+    "options": [
+      "Show logical dependencies without consuming time or resources",
+      "Replace real activities",
+      "Represent real work",
+      "Increase the number of activities"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The project duration is the:",
+    "options": [
+      "Sum of all activity durations",
+      "Average of all path lengths",
+      "Longest path length (critical path) from start to finish",
+      "Shortest path length"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Resource leveling in project management aims to:",
+    "options": [
+      "Shorten the project duration",
+      "Smooth resource demand to avoid over‑allocation",
+      "Ignore resource constraints",
+      "Maximize resource peaks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "PERT uses three time estimates: optimistic (a), most likely (m), and pessimistic (b). The expected time (te) is:",
+    "options": [
+      "(a + b) / 2",
+      "(a + 4m + b) / 6",
+      "(a + 2m + b) / 4",
+      "(a + m + b) / 3"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The variance of activity time in PERT is:",
+    "options": [
+      "(b – a)² / 36",
+      "(b – a) / 6",
+      "Both [(b – a) / 6]² and (b – a)² / 36",
+      "[(b – a) / 6]²"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The probability of completing a project by a given date in PERT is found using:",
+    "options": [
+      "The exponential distribution",
+      "The uniform distribution",
+      "The binomial distribution",
+      "The normal distribution with the critical path mean and variance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Monte Carlo simulation in project risk analysis:",
+    "options": [
+      "Is not used in OR",
+      "Provides a single deterministic duration",
+      "Uses random sampling from activity duration distributions to estimate project completion distribution",
+      "Ignores uncertainty"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Game theory is another OR technique for:",
+    "options": [
+      "Inventory management",
+      "Single‑player decisions",
+      "Linear programming",
+      "Competitive situations with two or more players with conflicting interests"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In a zero‑sum game:",
+    "options": [
+      "Players have dominant strategies",
+      "The sum of payoffs to all players is zero",
+      "Payoffs are always positive",
+      "Both players can gain simultaneously"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A saddle point in a game matrix exists when:",
+    "options": [
+      "There is no pure strategy equilibrium",
+      "The game is cooperative",
+      "Players have dominant strategies",
+      "The maximin equals the minimax"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Mixed strategy in game theory means:",
+    "options": [
+      "Ignoring the opponent",
+      "Randomizing over pure strategies with certain probabilities",
+      "Using a single pure strategy",
+      "Choosing the worst strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Markov analysis (Markov chains) is used for:",
+    "options": [
+      "Finding shortest paths",
+      "Solving linear programs",
+      "Predicting future states based on current state and transition probabilities",
+      "Assignment problems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a Markov chain, the memoryless property means:",
+    "options": [
+      "The chain is deterministic",
+      "Transition probabilities change over time",
+      "Future state depends only on the current state",
+      "Future state depends on all past states"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Steady‑state (equilibrium) probabilities in a Markov chain:",
+    "options": [
+      "Are always zero",
+      "Vary with time",
+      "Cannot be computed",
+      "Are constant after many steps, independent of initial state (if ergodic)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Queuing theory (waiting line analysis) is an OR technique to:",
+    "options": [
+      "Find critical paths",
+      "Determine transportation routes",
+      "Minimize waiting times and optimize service systems",
+      "Solve assignment problems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An M/M/1 queue assumes:",
+    "options": [
+      "Finite population",
+      "Poisson arrivals, exponential service times, single server",
+      "Multiple servers",
+      "Deterministic arrivals and service"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In queuing, Little's Law states: L = λW, where L is average number in system, λ is arrival rate, and W is:",
+    "options": [
+      "Service rate",
+      "Average waiting time in queue only",
+      "Number of servers",
+      "Average time in system (including service)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Inventory models (EOQ) are also part of OR:",
+    "options": [
+      "Only in marketing",
+      "Only in finance",
+      "No, they are not quantitative",
+      "Yes, they use optimization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Dynamic programming breaks a complex problem into:",
+    "options": [
+      "Random subproblems",
+      "Non‑overlapping stages",
+      "One large problem",
+      "Simpler subproblems that are solved sequentially"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The principle of optimality in dynamic programming (Bellman) states:",
+    "options": [
+      "Suboptimal solutions are acceptable",
+      "An optimal policy has the property that whatever the initial state and decision, the remaining decisions must be optimal",
+      "Dynamic programming is not optimal",
+      "Greedy algorithms always work"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The knapsack problem is a classic OR problem that:",
+    "options": [
+      "Finds the shortest path",
+      "Balances assembly lines",
+      "Selects items to maximize value subject to weight capacity",
+      "Solves transportation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The traveling salesman problem (TSP) seeks:",
+    "options": [
+      "The minimum spanning tree",
+      "The shortest possible route visiting each city exactly once and returning to origin",
+      "The longest route",
+      "Any route"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "TSP is an example of:",
+    "options": [
+      "A linear program",
+      "A polynomially solvable problem",
+      "An NP‑hard problem (combinatorial optimization)",
+      "A network flow problem"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Heuristics are used in OR when:",
+    "options": [
+      "Exact optimal solution is easy to find",
+      "Problem is too large or complex for exact methods, and a good solution is acceptable",
+      "No constraints exist",
+      "Only one variable exists"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The term \"robust optimization\" deals with:",
+    "options": [
+      "Only deterministic problems",
+      "Certainty in parameters",
+      "Unbounded solutions",
+      "Uncertainty in model parameters, seeking solutions that perform well under various scenarios"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Goal programming extends LP to handle:",
+    "options": [
+      "Only equality constraints",
+      "No constraints",
+      "Single objective",
+      "Multiple, possibly conflicting objectives"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The analytic hierarchy process (AHP) is a multi‑criteria decision making technique that:",
+    "options": [
+      "Finds shortest paths",
+      "Uses pairwise comparisons and eigenvector prioritization",
+      "Simulates queues",
+      "Solves linear programs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Simulation is an OR technique that:",
+    "options": [
+      "Cannot incorporate randomness",
+      "Provides exact analytical solutions",
+      "Models real systems over time to study performance",
+      "Is only used for deterministic systems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Discrete event simulation models:",
+    "options": [
+      "Only manufacturing systems",
+      "Only financial systems",
+      "Continuous processes only",
+      "A system as a sequence of events over time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Monte Carlo simulation is often used for:",
+    "options": [
+      "Shortest path",
+      "Linear programming",
+      "Deterministic problems",
+      "Problems with stochastic (random) elements"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The main advantage of simulation over analytical models is:",
+    "options": [
+      "It always gives exact answers",
+      "Both: it can model complex, non‑linear, and stochastic systems that may be intractable analytically, and requires fewer assumptions",
+      "It requires fewer assumptions",
+      "It can model complex, non‑linear, and stochastic systems that may be intractable analytically"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Validation of a simulation model means:",
+    "options": [
+      "Collecting input data",
+      "Setting initial conditions",
+      "Ensuring the model's output matches the real system within acceptable accuracy",
+      "Ensuring the model runs without errors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Verification of a simulation model means:",
+    "options": [
+      "Optimizing the model",
+      "Performing sensitivity analysis",
+      "Checking that model matches reality",
+      "Checking that the model is correctly implemented (program works as intended)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Optimization via simulation is used when:",
+    "options": [
+      "No decisions are needed",
+      "Closed‑form solutions are available",
+      "The system is deterministic",
+      "The performance measure is analytically intractable, and simulation is used within an optimization loop"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"newsboy problem\" (single‑period inventory) is an OR model for:",
+    "options": [
+      "Long‑term inventory",
+      "Continuous review inventory",
+      "EOQ with known demand",
+      "Perishable products with uncertain demand, balancing overstock and understock costs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The curse of dimensionality in dynamic programming refers to:",
+    "options": [
+      "The ease of solving high‑dimensional problems",
+      "The unlimited memory available",
+      "The linear growth of time",
+      "The exponential growth of computational effort with number of state variables"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Lagrange multipliers are used in:",
+    "options": [
+      "Integer programming",
+      "Dynamic programming",
+      "Constrained optimization, especially with equality constraints",
+      "Unconstrained optimization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Non‑linear programming (NLP) deals with:",
+    "options": [
+      "Only network problems",
+      "Either objective or constraints (or both) non‑linear",
+      "Linear objective and constraints",
+      "Only integer variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Karush‑Kuhn‑Tucker (KKT) conditions are necessary for optimality in:",
+    "options": [
+      "Transportation problems",
+      "Assignment problems",
+      "Non‑linear programming under certain regularity conditions",
+      "Linear programming"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The simplex method is for:",
+    "options": [
+      "Integer programming",
+      "Quadratic programming",
+      "Non‑linear programming",
+      "Linear programming"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Interior point methods are an alternative to simplex for:",
+    "options": [
+      "Only transportation problems",
+      "Only small LP problems",
+      "Large‑scale linear and non‑linear optimization",
+      "Only assignment problems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Metaheuristics (e.g., genetic algorithms, simulated annealing) are used for:",
+    "options": [
+      "Only convex problems",
+      "Only linear programming",
+      "Small, simple problems where exact methods work",
+      "Large, complex optimization problems where exact methods are impractical"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The purpose of OR modeling is to:",
+    "options": [
+      "Ignore real‑world constraints",
+      "Provide quantitative support for better decision making",
+      "Replace managers",
+      "Complicate simple decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The final step in the OR approach is:",
+    "options": [
+      "Solving the model",
+      "Implementing and monitoring the solution",
+      "Building a model",
+      "Defining the problem"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "OR models are widely used in:",
+    "options": [
+      "Only government",
+      "Only finance",
+      "Only manufacturing",
+      "Manufacturing, logistics, finance, healthcare, military, and many other fields"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The phrase \"optimization in OR\" means:",
+    "options": [
+      "Finding any feasible solution",
+      "Minimizing quality",
+      "Maximizing cost",
+      "Finding the best possible solution according to a defined objective, subject to constraints"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In multi‑objective optimization, a Pareto optimal solution is one where:",
+    "options": [
+      "Only one objective matters",
+      "All objectives are simultaneously optimized",
+      "No objective can be improved without worsening another",
+      "Constraints are ignored"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"balanced transportation problem\" has:",
+    "options": [
+      "Total supply greater than total demand",
+      "Total supply equal to total demand",
+      "No supply",
+      "Total supply less than total demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"unbalanced transportation problem\" is balanced by:",
+    "options": [
+      "Changing the objective",
+      "Removing constraints",
+      "Adding a dummy source or dummy destination with zero cost",
+      "Ignoring the imbalance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The assignment problem can be solved as:",
+    "options": [
+      "A shortest path problem",
+      "A maximum flow problem",
+      "A transportation problem with unit supplies and demands",
+      "A non‑linear program"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Hungarian algorithm subtracts row and column minima to:",
+    "options": [
+      "Maximize cost",
+      "Increase all costs",
+      "Randomize assignment",
+      "Create zeros in the cost matrix"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The minimal cost flow problem is a network model that:",
+    "options": [
+      "Only applies to circular networks",
+      "Is a special case of linear programming",
+      "Generalizes transportation, assignment, and shortest path",
+      "Both generalizes transportation, assignment, and shortest path AND is a special case of linear programming"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The critical path method (CPM) assumes activity times are:",
+    "options": [
+      "Exponentially distributed",
+      "Probabilistic",
+      "Deterministic (known with certainty)",
+      "Uniformly distributed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "PERT is more appropriate than CPM when:",
+    "options": [
+      "Resources are unlimited",
+      "The project is very small",
+      "Activity times are exactly known",
+      "Activity times are highly variable and uncertain"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A project's expected completion time in PERT is:",
+    "options": [
+      "The average of all path lengths",
+      "The sum of expected times of all activities in the project",
+      "The longest of all path sums of expected times",
+      "The sum of expected times of all activities on the critical path"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The probability that a project finishes on time in PERT uses:",
+    "options": [
+      "The variance of the critical path (sum of variances of critical activities)",
+      "The minimum variance",
+      "The variance of the entire network",
+      "The maximum variance of any activity"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The primary output of OR is:",
+    "options": [
+      "Computer code only",
+      "Raw data",
+      "Recommendations for action based on analysis",
+      "A mathematical model"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Operations research is also known as:",
+    "options": [
+      "Human resource planning",
+      "Financial accounting",
+      "Marketing research",
+      "Management science"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"optimal solution\" in an OR model is optimal for:",
+    "options": [
+      "The real world without limitations",
+      "All possible situations",
+      "Any set of assumptions",
+      "The mathematical model, subject to its assumptions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The successful application of OR requires:",
+    "options": [
+      "Ignoring implementation issues",
+      "Perfect information with no uncertainty",
+      "Collaboration between analysts and managers to interpret results",
+      "Avoiding any model simplifications"
+    ],
+    "correct": 2
+  }
+]
