@@ -1,0 +1,1582 @@
+[
+  {
+    "questionText": "Marketing is defined as the process of:",
+    "options": [
+      "Creating, communicating, delivering, and exchanging value for customers",
+      "Maximizing shareholder wealth through stock sales",
+      "Reducing production costs to the lowest possible level",
+      "Distributing products without any customer interaction"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a core marketing concept?",
+    "options": [
+      "Double‑entry bookkeeping",
+      "Economies of scale",
+      "Needs, wants, and demands",
+      "Just‑in‑time inventory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A need is best described as:",
+    "options": [
+      "A specific product that a person desires",
+      "A state of felt deprivation (e.g., food, clothing, safety)",
+      "A luxury item that only the rich can afford",
+      "A temporary fad or trend"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Wants are shaped by:",
+    "options": [
+      "Only biological instincts",
+      "Culture, personality, and individual experiences",
+      "Government regulations",
+      "The law of diminishing returns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Demand exists when wants are backed by:",
+    "options": [
+      "Ability and willingness to buy",
+      "Strong emotions",
+      "Advertising exposure",
+      "Peer pressure"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The marketing concept holds that achieving organizational goals depends on:",
+    "options": [
+      "Producing as many units as possible",
+      "Determining the needs of target markets and satisfying them more effectively than competitors",
+      "Minimizing customer service costs",
+      "Focusing solely on internal efficiency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT one of the five marketing management orientations?",
+    "options": [
+      "Production concept",
+      "Accounting concept",
+      "Sales concept",
+      "Societal marketing concept"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The production concept holds that consumers will favor products that are:",
+    "options": [
+      "Highly promoted and advertised",
+      "Widely available and low in cost",
+      "Unique and customized",
+      "Environmentally friendly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that focuses on aggressive selling and promotion is applying the:",
+    "options": [
+      "Product concept",
+      "Sales concept",
+      "Marketing concept",
+      "Societal marketing concept"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The societal marketing concept adds which element to the traditional marketing concept?",
+    "options": [
+      "Society's long‑term well‑being and ethical considerations",
+      "Long‑term customer loyalty",
+      "Maximum short‑term profit",
+      "Elimination of competition"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Customer perceived value is defined as:",
+    "options": [
+      "The price paid for a product",
+      "The number of units sold",
+      "The total cost of production",
+      "The customer's evaluation of the difference between benefits and costs of a market offering"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Customer satisfaction occurs when:",
+    "options": [
+      "The price is lower than the competitor's",
+      "The company has a monopoly",
+      "The product is free",
+      "Perceived performance meets or exceeds expectations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of a tangible product?",
+    "options": [
+      "A laptop computer",
+      "A haircut",
+      "A legal consultation",
+      "An insurance policy"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Services are characterized by all of the following EXCEPT:",
+    "options": [
+      "Intangibility",
+      "Perishability",
+      "Inseparability of production and consumption",
+      "Tangibility"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A hotel room that goes unsold for one night cannot be sold later. This illustrates which characteristic of services?",
+    "options": [
+      "Intangibility",
+      "Variability",
+      "Perishability",
+      "Inseparability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The total market offering includes:",
+    "options": [
+      "Only the physical product",
+      "Only the price",
+      "The product, services, and brand image that deliver customer value",
+      "Only the packaging"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a component of the marketing environment?",
+    "options": [
+      "Company's internal financial statements",
+      "Only customer preferences",
+      "Only competitor actions",
+      "Demographic, economic, natural, technological, political, and cultural forces"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The demographic environment includes factors such as:",
+    "options": [
+      "Weather patterns and climate change",
+      "Age structure, income distribution, and population size",
+      "Interest rates and inflation",
+      "New inventions and patents"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An aging population with increasing life expectancy is most likely to create opportunities for:",
+    "options": [
+      "Toy manufacturers",
+      "Video game developers",
+      "Healthcare and senior living services",
+      "Fast‑food chains"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The economic environment includes:",
+    "options": [
+      "Cultural norms",
+      "Technological innovations",
+      "Laws and regulations",
+      "Purchasing power, income distribution, inflation, and interest rates"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A recession in the economy typically causes consumers to:",
+    "options": [
+      "Increase spending on luxury goods",
+      "Become more price‑sensitive and seek value",
+      "Ignore product quality",
+      "Save less money"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a component of the natural environment?",
+    "options": [
+      "Patent laws",
+      "Interest rates",
+      "Social media trends",
+      "Raw material availability and pollution levels"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The technological environment affects marketing by:",
+    "options": [
+      "Creating new product opportunities and rendering old products obsolete",
+      "Keeping products unchanged for decades",
+      "Reducing the need for customer research",
+      "Eliminating competition"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Political and legal environment includes:",
+    "options": [
+      "Laws, government agencies, and pressure groups that influence marketing",
+      "Consumer income levels",
+      "Cultural traditions",
+      "Weather patterns"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company that monitors and adapts to new environmental regulations is engaging in:",
+    "options": [
+      "Environmental scanning and response",
+      "Price fixing",
+      "Production orientation",
+      "Greenwashing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The macroenvironment consists of forces that are:",
+    "options": [
+      "Largely uncontrollable and external to the company",
+      "Controllable by the company",
+      "Only related to competitors",
+      "Only related to suppliers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an example of a microenvironment actor?",
+    "options": [
+      "Demographic trends",
+      "Technological changes",
+      "The company itself and its suppliers",
+      "Cultural shifts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The buying behavior of consumers is influenced by cultural, social, personal, and:",
+    "options": [
+      "Political factors",
+      "Legal factors",
+      "Psychological factors",
+      "Technological factors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Culture refers to:",
+    "options": [
+      "A person's income level",
+      "The set of basic values, perceptions, wants, and behaviors learned by a member of society",
+      "The legal system of a country",
+      "The physical environment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A subculture is a group of people with shared value systems based on:",
+    "options": [
+      "Only national origin",
+      "Common life experiences or backgrounds (e.g., ethnic, religious, geographic)",
+      "Identical income levels",
+      "Same job title"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social class in consumer behavior is determined by:",
+    "options": [
+      "Occupation, income, education, and other factors",
+      "Only income",
+      "Only education level",
+      "Only family background"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Reference groups influence consumer behavior by:",
+    "options": [
+      "Setting legal standards",
+      "Manufacturing products",
+      "Controlling product prices",
+      "Providing information, comparison, and social pressure"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a primary reference group?",
+    "options": [
+      "A large anonymous online forum",
+      "A distant celebrity",
+      "All people in the same city",
+      "A person's family and close friends"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Opinion leaders are:",
+    "options": [
+      "Government officials",
+      "Professional marketers",
+      "People within a reference group who exert influence on others' attitudes and behaviors",
+      "Stock analysts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Family influence on buying behavior is strongest for:",
+    "options": [
+      "Low‑cost impulse items",
+      "Industrial machinery",
+      "High‑involvement products and products used by the whole family",
+      "Commodities like wheat"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Personal factors affecting consumer behavior include:",
+    "options": [
+      "Age, occupation, economic situation, and lifestyle",
+      "Only personality traits",
+      "Only gender",
+      "Only education level"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Lifestyle refers to a person's:",
+    "options": [
+      "Annual income",
+      "Genetic makeup",
+      "Pattern of living as expressed in activities, interests, and opinions",
+      "Place of birth"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Personality is described as:",
+    "options": [
+      "A temporary mood",
+      "A learned skill",
+      "The unique psychological characteristics that lead to consistent responses to the environment",
+      "A financial asset"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The buyer decision process begins with:",
+    "options": [
+      "Problem (need) recognition",
+      "Evaluation of alternatives",
+      "Purchase decision",
+      "Post‑purchase behavior"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Information search in consumer decision making can be internal (memory) or:",
+    "options": [
+      "External (personal, commercial, public, experiential)",
+      "Irrelevant",
+      "Purely emotional",
+      "Illegal"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In the evaluation of alternatives stage, consumers:",
+    "options": [
+      "Ignore all product attributes",
+      "Always choose the cheapest option",
+      "Compare products based on attributes and importance weights",
+      "Skip this stage entirely"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Post‑purchase dissonance (cognitive dissonance) is most likely when:",
+    "options": [
+      "The product is very cheap",
+      "There is no alternative available",
+      "The purchase is expensive or involves trade‑offs",
+      "The customer does not use the product"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A consumer who buys a familiar brand without much thought is engaging in:",
+    "options": [
+      "Complex buying behavior",
+      "Habitual buying behavior",
+      "Variety‑seeking buying behavior",
+      "Dissonance‑reducing buying behavior"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Complex buying behavior occurs when the product is expensive, risky, and infrequently purchased, and there are:",
+    "options": [
+      "No brand differences",
+      "No consumer involvement",
+      "Only one brand available",
+      "Significant differences between brands"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A consumer who buys different flavors of yogurt each time to try something new is exhibiting:",
+    "options": [
+      "Complex buying behavior",
+      "Variety‑seeking buying behavior",
+      "Habitual buying behavior",
+      "Dissonance‑reducing buying behavior"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Market segmentation is the process of:",
+    "options": [
+      "Offering the same product to all consumers",
+      "Dividing a market into distinct groups with different needs, characteristics, or behaviors",
+      "Setting prices for different products",
+      "Choosing a single target customer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a requirement for effective market segmentation?",
+    "options": [
+      "Segments must be accessible, substantial, and actionable",
+      "Segments must be immeasurable",
+      "Segments must be extremely small",
+      "Segments must be identical"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Geographic segmentation divides the market based on:",
+    "options": [
+      "Age and gender",
+      "Nation, region, city size, or climate",
+      "Lifestyle and personality",
+      "Income level"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Demographic segmentation uses variables such as:",
+    "options": [
+      "Personality and values",
+      "Brand loyalty",
+      "Urban vs. rural",
+      "Age, gender, income, education, and family size"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Psychographic segmentation divides buyers into groups based on:",
+    "options": [
+      "Location",
+      "Purchase frequency",
+      "Social class, lifestyle, or personality characteristics",
+      "Product features"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Behavioral segmentation uses variables such as:",
+    "options": [
+      "Occasions, benefits sought, user status, and loyalty",
+      "Age and gender",
+      "Climate and terrain",
+      "Education level"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Target marketing involves:",
+    "options": [
+      "Trying to sell to everyone",
+      "Evaluating segments and selecting one or more to serve",
+      "Ignoring market research",
+      "Avoiding all segments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An undifferentiated (mass) marketing strategy ignores segment differences and targets:",
+    "options": [
+      "Multiple segments with different products",
+      "Only one niche",
+      "The whole market with one offer",
+      "Only local customers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Differentiated marketing targets several segments with:",
+    "options": [
+      "Separate offers and marketing mixes for each segment",
+      "The same marketing mix for all",
+      "No advertising",
+      "Only one product"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Concentrated (niche) marketing focuses on:",
+    "options": [
+      "A large share of a small market segment",
+      "The entire mass market",
+      "All segments equally",
+      "Only international markets"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Micromarketing involves tailoring products and programs to:",
+    "options": [
+      "Large geographic regions",
+      "Only corporate buyers",
+      "All consumers equally",
+      "The preferences of specific individuals or local customer groups"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Market positioning is the process of:",
+    "options": [
+      "Determining the physical location of stores",
+      "Distributing products through wholesalers",
+      "Setting the final price",
+      "Arranging for a product to occupy a clear, distinctive, and desirable place in the minds of target consumers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A product's position is based on:",
+    "options": [
+      "Only its price",
+      "The number of employees",
+      "The company's stock price",
+      "Important attributes that consumers perceive and value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company uses a value proposition to answer the customer's question:",
+    "options": [
+      "\"How much does it cost?\"",
+      "\"Where is the store?\"",
+      "\"Why should I buy your brand?\"",
+      "\"Who is your CEO?\""
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Perceptual mapping is a tool used to:",
+    "options": [
+      "Calculate financial ratios",
+      "Design product packaging",
+      "Hire new salespeople",
+      "Visually show consumer perceptions of brands relative to competitors"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Differentiation can be based on product, service, channel, people, or:",
+    "options": [
+      "Image",
+      "Only price",
+      "Only place",
+      "Only promotion"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A product is defined as:",
+    "options": [
+      "Only a physical good",
+      "Anything that can be offered to a market to satisfy a want or need",
+      "A service only",
+      "A marketing plan"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The three levels of a product are: core customer value, actual product, and:",
+    "options": [
+      "Discounted product",
+      "Promotional product",
+      "Augmented product",
+      "Secondary product"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Core customer value answers the question:",
+    "options": [
+      "\"What problem is the customer really buying a solution for?\"",
+      "\"What is the product's color?\"",
+      "\"What is the product's weight?\"",
+      "\"How much profit does it make?\""
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The actual product includes features such as:",
+    "options": [
+      "Warranty and after‑sale support",
+      "Quality level, design, brand name, and packaging",
+      "Financing and installation",
+      "Customer service hotline"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The augmented product includes:",
+    "options": [
+      "Additional services and benefits such as warranty, delivery, and installation",
+      "The basic product without any extras",
+      "Only the price tag",
+      "The raw materials"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Consumer products are classified into convenience, shopping, specialty, and:",
+    "options": [
+      "Industrial products",
+      "Unsought products",
+      "Luxury products",
+      "Durable products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Convenience products are:",
+    "options": [
+      "Expensive and infrequently purchased",
+      "Unique and require special search effort",
+      "Bought frequently, with minimal comparison and effort",
+      "Unsought by most consumers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Shopping products are typically:",
+    "options": [
+      "Bought without any planning",
+      "Purchased only once in a lifetime",
+      "Compared by consumers on price, quality, and style before purchase",
+      "Available only in one store"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Specialty products have:",
+    "options": [
+      "Low brand loyalty",
+      "No differentiation",
+      "Unique characteristics for which buyers are willing to make a special purchase effort",
+      "Very low prices"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Unsought products are:",
+    "options": [
+      "Highly desired by most consumers",
+      "The most profitable product category",
+      "Products that consumers do not know about or normally consider buying",
+      "Daily necessities like bread"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Industrial products are classified into materials and parts, capital items, and:",
+    "options": [
+      "Convenience goods",
+      "Supplies and business services",
+      "Specialty goods",
+      "Unsought goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Brand equity refers to the:",
+    "options": [
+      "Total cost of creating a brand",
+      "Differential effect that brand knowledge has on consumer response to marketing",
+      "Legal protection of a brand name",
+      "Number of brand managers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Packaging serves all of the following functions EXCEPT:",
+    "options": [
+      "Eliminating the need for advertising",
+      "Protecting the product",
+      "Providing information",
+      "Facilitating storage and use"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Product line is a group of products that are:",
+    "options": [
+      "Unrelated and sold to different markets",
+      "Priced identically",
+      "Manufactured in different countries",
+      "Closely related because they function similarly or are sold to the same customer groups"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Product mix (or product portfolio) refers to:",
+    "options": [
+      "Only the most profitable product",
+      "The list of discontinued products",
+      "The set of all product lines and items that a seller offers for sale",
+      "The packaging materials"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A new product development process typically starts with:",
+    "options": [
+      "Idea generation",
+      "Commercialization",
+      "Test marketing",
+      "Business analysis"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The stage in new product development where the product is introduced to a limited market is:",
+    "options": [
+      "Concept testing",
+      "Commercialization",
+      "Test marketing",
+      "Product development"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Product life cycle stages include introduction, growth, maturity, and:",
+    "options": [
+      "Expansion",
+      "Obsolescence",
+      "Innovation",
+      "Decline"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "During the introduction stage of the PLC, sales are typically:",
+    "options": [
+      "Rapidly rising",
+      "At their peak",
+      "Low and growing slowly",
+      "Declining sharply"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a strategy for the maturity stage?",
+    "options": [
+      "Modify the market, product, or marketing mix",
+      "Withdraw the product immediately",
+      "Lower price to zero",
+      "Stop all promotion"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Price is the only element of the marketing mix that:",
+    "options": [
+      "Creates value without any cost",
+      "Produces revenue; all others represent costs",
+      "Is intangible",
+      "Cannot be changed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Price elasticity of demand measures:",
+    "options": [
+      "The responsiveness of price to changes in demand",
+      "The responsiveness of quantity demanded to changes in price",
+      "The total revenue",
+      "The break‑even point"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If demand is elastic, a price increase will likely:",
+    "options": [
+      "Increase total revenue",
+      "Increase quantity demanded",
+      "Have no effect on total revenue",
+      "Decrease total revenue"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A cost‑based pricing method calculates the selling price by:",
+    "options": [
+      "Matching the competitor's price",
+      "Adding a standard markup to the cost of the product",
+      "Setting price based on customer perceived value",
+      "Using an auction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Value‑based pricing uses buyers' perceptions of value as the key, not:",
+    "options": [
+      "The seller's cost",
+      "The competitor's price only",
+      "The advertising budget",
+      "The distribution channel"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Competition‑based pricing involves:",
+    "options": [
+      "Setting prices based on competitors' strategies, prices, or market benchmarks",
+      "Setting prices based on cost plus a fixed fee",
+      "Charging the highest possible price",
+      "Giving products away for free"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Skimming pricing means setting a:",
+    "options": [
+      "High initial price to skim revenue layer by layer from segments willing to pay more",
+      "Low initial price to capture market share quickly",
+      "Price equal to average cost",
+      "Price that fluctuates daily"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Penetration pricing means setting a:",
+    "options": [
+      "High initial price to maximize profit per unit",
+      "Price that changes by the minute",
+      "Price that matches the competition exactly",
+      "Low initial price to attract many buyers and gain market share"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Psychological pricing includes strategies such as:",
+    "options": [
+      "Cost‑plus pricing",
+      "Value pricing",
+      "Target return pricing",
+      "Odd‑even pricing (e.g., $9.99 instead of $10)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Promotional pricing includes:",
+    "options": [
+      "High prices to signal quality",
+      "Price fixing",
+      "Cost‑based pricing",
+      "Discounts, special event pricing, and rebates"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Price discrimination (differential pricing) occurs when a company sells the same product at:",
+    "options": [
+      "The same price to all customers",
+      "Different prices to different customers without cost differences",
+      "Below cost",
+      "Only in foreign markets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Marketing channels (distribution channels) are sets of interdependent organizations that:",
+    "options": [
+      "Create the product design",
+      "Set the product's price",
+      "Make the product available for consumption or use",
+      "Finance the company"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A direct marketing channel has:",
+    "options": [
+      "One intermediary",
+      "No intermediary (producer to consumer)",
+      "Two or more intermediaries",
+      "Only wholesalers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An indirect channel includes one or more:",
+    "options": [
+      "Product features",
+      "Price changes",
+      "Promotional campaigns",
+      "Intermediaries (e.g., wholesalers, retailers)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Wholesalers primarily sell to:",
+    "options": [
+      "Retailers or other businesses, not final consumers",
+      "End consumers",
+      "Government agencies only",
+      "International markets only"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Retailers sell goods and services to:",
+    "options": [
+      "Final consumers for personal use",
+      "Other businesses",
+      "Manufacturers",
+      "Wholesalers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Intensive distribution aims to:",
+    "options": [
+      "Place products in as many outlets as possible",
+      "Limit the number of outlets",
+      "Use only one outlet per region",
+      "Avoid all outlets"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Selective distribution uses:",
+    "options": [
+      "Only one intermediary in a geographic area",
+      "All possible intermediaries",
+      "A limited number of intermediaries willing to carry the product",
+      "No intermediaries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Exclusive distribution gives:",
+    "options": [
+      "Many intermediaries exclusive rights",
+      "No one the right to sell",
+      "Only one intermediary the right to sell the product in a specific territory",
+      "Only online sellers the right"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Logistics (physical distribution) involves:",
+    "options": [
+      "Only warehousing",
+      "Only inventory management",
+      "Only transportation",
+      "Planning, implementing, and controlling the physical flow of goods from origin to consumption"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The promotion mix consists of advertising, sales promotion, public relations, personal selling, and:",
+    "options": [
+      "Product design",
+      "Distribution",
+      "Pricing",
+      "Direct marketing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Advertising is any paid form of nonpersonal presentation and promotion of ideas, goods, or services by:",
+    "options": [
+      "A government agency",
+      "An identified sponsor",
+      "A nonprofit organization only",
+      "A competitor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sales promotion includes short‑term incentives to:",
+    "options": [
+      "Build long‑term brand loyalty",
+      "Encourage trial or purchase of a product",
+      "Replace all other promotions",
+      "Reduce product quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Public relations involves:",
+    "options": [
+      "Paid advertising",
+      "Personal selling",
+      "Building good relations with various publics by obtaining favorable publicity and managing corporate image",
+      "Price discounts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Personal selling is:",
+    "options": [
+      "Nonpersonal communication",
+      "Online banner ads",
+      "Mass media advertising",
+      "Face‑to‑face interaction with potential buyers to make sales and build relationships"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Direct marketing uses:",
+    "options": [
+      "Direct communication with targeted individual consumers to obtain an immediate response",
+      "Intermediaries only",
+      "Wholesalers only",
+      "Retailers only"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Integrated marketing communications (IMC) means:",
+    "options": [
+      "Using only one promotional tool",
+      "Avoiding any communication with customers",
+      "Carefully integrating and coordinating all communication channels to deliver a clear, consistent message",
+      "Using only advertising"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "AIDA model in promotion stands for:",
+    "options": [
+      "Attention, Interest, Desire, Action",
+      "Awareness, Information, Decision, Appreciation",
+      "Analyze, Implement, Develop, Assess",
+      "Attract, Identify, Deliver, Approve"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The communication process includes sender, encoding, message, media, decoding, receiver, response, feedback, and:",
+    "options": [
+      "Noise",
+      "Profit",
+      "Inventory",
+      "Distribution"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Push strategy in promotion involves:",
+    "options": [
+      "Promoting directly to end consumers to create demand",
+      "Only digital advertising",
+      "Avoiding all intermediaries",
+      "Using the sales force and trade promotion to push the product through channels"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Pull strategy involves:",
+    "options": [
+      "Creating consumer demand so that consumers ask retailers for the product",
+      "Pushing products to wholesalers",
+      "Ignoring consumers",
+      "Using only personal selling"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a major advertising medium?",
+    "options": [
+      "Only television",
+      "Only social media",
+      "Television, digital, print, radio, outdoor, and direct mail",
+      "Only newspapers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A marketing plan typically includes:",
+    "options": [
+      "Only the budget",
+      "An executive summary, situation analysis, objectives, strategy, tactics, and controls",
+      "Only the pricing section",
+      "Only the distribution section"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Marketing return on investment (ROI) measures:",
+    "options": [
+      "The net return from marketing activities divided by the cost of those activities",
+      "Total sales only",
+      "The number of employees",
+      "The number of new products"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A marketing information system (MIS) consists of people, equipment, and procedures to:",
+    "options": [
+      "Manufacture products",
+      "Hire salespeople",
+      "Gather, sort, analyze, evaluate, and distribute needed information to decision makers",
+      "Set prices"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Marketing research is the systematic design, collection, analysis, and reporting of data relevant to:",
+    "options": [
+      "Financial accounting",
+      "A specific marketing situation or problem",
+      "Human resource management",
+      "Production scheduling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Exploratory research is used to:",
+    "options": [
+      "Test hypotheses about cause‑and‑effect",
+      "Gather preliminary information to define problems and suggest hypotheses",
+      "Describe market characteristics",
+      "Measure the frequency of purchase"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Descriptive research is used to:",
+    "options": [
+      "Find cause‑and‑effect relationships",
+      "Test a new product in the market",
+      "Generate new ideas",
+      "Describe marketing phenomena, such as market potential or customer profiles"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Causal research is used to:",
+    "options": [
+      "Describe customer attitudes",
+      "Test cause‑and‑effect relationships (e.g., if price changes, does sales change?)",
+      "Estimate market size",
+      "Segment the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Primary data are:",
+    "options": [
+      "Data already collected for another purpose",
+      "Data from industry associations",
+      "Data from government reports",
+      "Data collected firsthand for the specific problem at hand"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Secondary data are:",
+    "options": [
+      "Always outdated",
+      "Data that already exists somewhere, collected for another purpose",
+      "Less useful than primary data in all cases",
+      "More expensive than primary data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A survey is a research method that involves:",
+    "options": [
+      "Asking questions to a sample of respondents",
+      "Observing behavior without interaction",
+      "Conducting a controlled experiment",
+      "Analyzing financial statements"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A focus group typically consists of:",
+    "options": [
+      "One person interviewed in depth",
+      "Only company employees",
+      "A large random sample of the population",
+      "A small group of people (6‑10) led by a moderator to discuss a topic"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Observation research involves:",
+    "options": [
+      "Recording behavior without direct questioning",
+      "Asking respondents to fill out questionnaires",
+      "Conducting laboratory experiments",
+      "Analyzing secondary data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Experimental research involves:",
+    "options": [
+      "Describing current conditions",
+      "Selecting matched groups, giving them different treatments, and controlling extraneous factors",
+      "Observing natural behavior",
+      "Reviewing historical sales data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A sample is a segment of the population selected to:",
+    "options": [
+      "Replace the entire population",
+      "Avoid any statistical error",
+      "Guarantee accurate results",
+      "Represent the population for research purposes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Probability sampling means that:",
+    "options": [
+      "Each population element has a known, non‑zero chance of being selected",
+      "The researcher uses convenience to select participants",
+      "Only volunteers are included",
+      "No randomization is used"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Non‑probability sampling includes:",
+    "options": [
+      "Simple random sampling",
+      "Systematic sampling",
+      "Stratified random sampling",
+      "Convenience sampling and judgment sampling"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Marketing analytics involves:",
+    "options": [
+      "Only descriptive statistics",
+      "Only predictive modeling",
+      "The use of data, statistical methods, and models to gain insights and support marketing decisions",
+      "Only prescriptive modeling"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Social media marketing uses platforms like Facebook, Instagram, and Twitter to:",
+    "options": [
+      "Replace all traditional advertising",
+      "Reduce product quality",
+      "Avoid customer feedback",
+      "Engage with customers, build brands, and drive sales"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Influencer marketing involves:",
+    "options": [
+      "Advertising on television",
+      "Direct mail campaigns",
+      "Sending mass emails",
+      "Collaborating with individuals who have influence over potential buyers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Content marketing focuses on:",
+    "options": [
+      "Creating and distributing valuable, relevant content to attract and retain a target audience",
+      "Only selling products directly",
+      "Ignoring customer needs",
+      "Reducing content to a minimum"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Email marketing is effective for:",
+    "options": [
+      "Only B2B companies",
+      "Avoiding personalization",
+      "Building relationships, promoting offers, and retaining customers",
+      "Sending spam"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Mobile marketing includes:",
+    "options": [
+      "Only SMS text messages",
+      "Only QR codes",
+      "Only phone calls",
+      "Marketing through mobile devices (apps, push notifications, mobile websites)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Customer relationship management (CRM) is about:",
+    "options": [
+      "Acquiring as many customers as possible, regardless of profitability",
+      "Ignoring customer complaints",
+      "Managing detailed information about individual customers to maximize loyalty and lifetime value",
+      "Reducing customer service staff"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Customer lifetime value (CLV) is the:",
+    "options": [
+      "Present value of all future profits generated from a customer relationship",
+      "Total revenue from a customer in one year",
+      "Total cost of acquiring a customer",
+      "Number of transactions per customer"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A loyal customer is more profitable than a new customer because:",
+    "options": [
+      "Loyal customers demand lower prices",
+      "Acquisition cost is amortized, and loyal customers buy more and refer others",
+      "Loyal customers never complain",
+      "Loyal customers require no service"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Share of customer refers to:",
+    "options": [
+      "The company's market share",
+      "The number of customers in a segment",
+      "The percentage of a customer's spending in a category that goes to the company",
+      "The customer's share of voice"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Customer equity is the total:",
+    "options": [
+      "Profit from all customers over one year",
+      "Number of customers",
+      "Combined discounted lifetime values of all customers",
+      "Marketing budget"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company that practices societal marketing considers:",
+    "options": [
+      "Only short‑term profits",
+      "Consumers' wants, company's requirements, and society's long‑term interests",
+      "Only environmental issues",
+      "Only legal compliance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Green marketing refers to:",
+    "options": [
+      "Using green color in packaging",
+      "Selling agricultural products",
+      "Developing and promoting products that are environmentally safe",
+      "Reducing prices"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cause‑related marketing involves:",
+    "options": [
+      "Selling products at a loss",
+      "Donating all profits to shareholders",
+      "Avoiding any social responsibility",
+      "Linking product sales to a social cause or charity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Ethical issues in marketing can include:",
+    "options": [
+      "Transparent pricing",
+      "Customer satisfaction surveys",
+      "Honest product labeling",
+      "Deceptive advertising, predatory pricing, and manipulation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Consumerism is a social movement that seeks to:",
+    "options": [
+      "Increase corporate profits",
+      "Eliminate advertising",
+      "Reduce product variety",
+      "Increase the rights and power of buyers in relation to sellers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company's internal marketing environment includes:",
+    "options": [
+      "Competitors and suppliers",
+      "Technological changes",
+      "Economic trends",
+      "The company's culture, employees, and top management"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A competitor analysis involves:",
+    "options": [
+      "Only identifying direct competitors",
+      "Setting prices without looking at competitors",
+      "Ignoring new entrants",
+      "Identifying both direct and indirect competitors and understanding their strategies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A sustainable competitive advantage is one that:",
+    "options": [
+      "Can be copied easily by competitors",
+      "Lasts for one month",
+      "Cannot be easily imitated and lasts for a long time",
+      "Requires no investment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A mission statement in a marketing plan should be:",
+    "options": [
+      "Very long and detailed",
+      "Customer‑focused and realistic",
+      "Focused only on profit",
+      "Changed every month"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Marketing objectives should be:",
+    "options": [
+      "Specific, measurable, achievable, relevant, and time‑bound (SMART)",
+      "Vague and general",
+      "Set only by the sales team",
+      "Ignored during planning"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Marketing strategy outlines which customers to serve (target) and:",
+    "options": [
+      "The value proposition (how to serve them)",
+      "How much to spend on office supplies",
+      "The company's tax strategy",
+      "The building's location"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Tactical marketing plans specify:",
+    "options": [
+      "Long‑term vision for 10 years",
+      "Short‑term actions, media choices, and budgets to implement the strategy",
+      "Only the pricing strategy",
+      "Only the distribution strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Marketing control involves:",
+    "options": [
+      "Only setting goals",
+      "Evaluating results against plans and taking corrective action",
+      "Eliminating all marketing activities",
+      "Reducing the budget to zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A marketing audit is a:",
+    "options": [
+      "Financial tax review",
+      "Comprehensive, systematic, independent examination of the marketing environment, objectives, and activities",
+      "Product quality test",
+      "Employee performance review"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"value delivery\" suggests that marketing begins:",
+    "options": [
+      "After the product is produced",
+      "After the customer complains",
+      "Only at the point of sale",
+      "Before the product is produced, with identifying customer needs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a contemporary marketing approach?",
+    "options": [
+      "Mass production without research",
+      "Digital marketing, experiential marketing, and relationship marketing",
+      "Ignoring social media",
+      "One‑way communication only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Relationship marketing focuses on:",
+    "options": [
+      "One‑time transactions",
+      "Reducing customer contact",
+      "Building long‑term, mutually satisfying relationships with key parties (customers, suppliers, distributors)",
+      "Only internal relationships"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The ultimate goal of marketing is to:",
+    "options": [
+      "Maximize the number of advertisements",
+      "Minimize product quality",
+      "Create customer value and build strong customer relationships to capture value in return",
+      "Eliminate competition by any means"
+    ],
+    "correct": 2
+  }
+]
