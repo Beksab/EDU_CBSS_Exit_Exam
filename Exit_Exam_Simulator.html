@@ -32,6 +32,7 @@
     .option input { width: 20px; height: 20px; accent-color: #1e6f5c; }
     .auto-timer-note { font-size: 0.75rem; background: #eef2fa; padding: 6px 12px; border-radius: 40px; text-align: center; margin-top: 8px; }
     .loading { text-align: center; padding: 40px; font-style: italic; color: #5e7e9c; }
+    .debug-info { font-size: 0.7rem; background: #f0f0f0; padding: 4px 8px; border-radius: 12px; margin-top: 8px; text-align: center; word-break: break-all; }
   </style>
 </head>
 <body>
@@ -66,6 +67,7 @@
     <div class="timer-box" id="timerDisplay">-- : --</div>
     <div id="questionCounter" style="text-align:center; margin-top:8px;">Questions: 0</div>
     <div class="auto-timer-note">⏱️ Timer = 1 minute per question</div>
+    <div id="debugInfo" class="debug-info"></div>
   </div>
 
   <div id="examArea" class="card">
@@ -109,7 +111,7 @@
   <div style="text-align: center; margin-bottom: 20px;">
     <button id="unlockAdminBtn" class="outline">🔒 Show Instructor Panel (Admin Only)</button>
   </div>
-  <footer>✅ Questions loaded individually per course | Always up to date</footer>
+  <footer>✅ Questions loaded individually per course | Debug info shows actual file loaded</footer>
 </div>
 
 <script>
@@ -122,7 +124,6 @@
     "Journalism": "tesfayetariku192199@gmail.com"
   };
 
-  // ========== GLOBAL STATE ==========
   let currentQuestions = [];
   let studentAnswers = [];
   let flagged = [];
@@ -135,7 +136,7 @@
   let currentCourseName = "";
   let googleScriptUrl = "https://script.google.com/macros/s/AKfycbxI_9svm19VPRENT_QttUBW4Uyx-T71U_1fVYvCEyvSFY0ru0S0Ykt0f8qMSqAdmH_m3A/exec"; // REPLACE WITH YOUR SCRIPT URL
 
-  let departmentCourses = {}; // loaded from courses.json
+  let departmentCourses = {};
 
   // DOM elements
   const departmentSelect = document.getElementById('departmentSelect');
@@ -161,25 +162,23 @@
   const uploadJsonBtn = document.getElementById('uploadJsonBtn');
   const unlockAdminBtn = document.getElementById('unlockAdminBtn');
   const adminContainer = document.getElementById('adminPanelContainer');
+  const debugSpan = document.getElementById('debugInfo');
   const ADMIN_PASSWORD = "admin123";
 
-  // Helper: generate filename for course JSON
   function getQuestionFileName(dept, course) {
-    // Replace spaces with underscores, remove any special characters (keep letters/numbers/underscore)
     const safeDept = dept.replace(/\s+/g, '_');
     const safeCourse = course.replace(/\s+/g, '_');
     return `questions/${safeDept}_${safeCourse}.json`;
   }
 
-  // Load courses.json to get department course lists
   async function loadCourseLists() {
     try {
       const response = await fetch('courses.json');
       if (!response.ok) throw new Error('Failed to load courses.json');
       departmentCourses = await response.json();
-      // Populate course dropdown for initial department
       updateCourseDropdown();
-      // After loading course list, load questions for the first course
+      // After populating dropdown, set currentCourseName to first course and load
+      currentCourseName = courseSelect.value;
       await loadQuestionsForCurrentCourse();
     } catch (err) {
       console.error(err);
@@ -187,14 +186,14 @@
     }
   }
 
-  // Load questions from the course-specific JSON file
   async function loadQuestionsForCurrentCourse() {
     if (!currentCourseName) return;
     const fileName = getQuestionFileName(currentDepartment, currentCourseName);
+    debugSpan.innerText = `Loading: ${fileName}`;
     try {
       const response = await fetch(fileName);
       if (!response.ok) {
-        // File not found – show a message
+        debugSpan.innerText = `❌ File not found: ${fileName}`;
         currentQuestions = [
           { questionText: `No questions file found for this course. Expected: ${fileName}`, options: ["OK"], correct: 0 }
         ];
@@ -202,22 +201,21 @@
         const parsed = await response.json();
         if (Array.isArray(parsed) && parsed.length) {
           currentQuestions = parsed;
+          debugSpan.innerText = `✅ Loaded ${currentQuestions.length} questions from ${fileName}`;
         } else {
           currentQuestions = [
             { questionText: `Invalid format in ${fileName}. Expected an array of questions.`, options: ["OK"], correct: 0 }
           ];
+          debugSpan.innerText = `⚠️ Invalid JSON format in ${fileName}`;
         }
       }
     } catch (err) {
       console.error(err);
+      debugSpan.innerText = `❌ Error loading ${fileName}: ${err.message}`;
       currentQuestions = [
         { questionText: `Error loading ${fileName}. Check network or file existence.`, options: ["OK"], correct: 0 }
       ];
     }
-    // Also store in localStorage for possible offline use? (optional)
-    const storageKey = `exam_${currentDepartment}_${currentCourseName.replace(/\s/g, '_')}`;
-    localStorage.setItem(storageKey, JSON.stringify(currentQuestions));
-    
     resetExamState();
     questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
   }
@@ -232,7 +230,13 @@
       option.textContent = course;
       courseSelect.appendChild(option);
     });
-    currentCourseName = courses[0] || "";
+    // Set the current course name to the first in the list
+    if (courses.length > 0) {
+      currentCourseName = courses[0];
+      courseSelect.value = currentCourseName;
+    } else {
+      currentCourseName = "";
+    }
   }
 
   function updateUploadCourseDropdown() {
@@ -265,6 +269,7 @@
 
   async function loadCourseQuestionsAndReset() {
     if (examActive) { if(timerInterval) clearInterval(timerInterval); examActive = false; }
+    // Sync currentCourseName with the dropdown's selected value
     currentDepartment = departmentSelect.value;
     currentCourseName = courseSelect.value;
     await loadQuestionsForCurrentCourse();
@@ -451,7 +456,6 @@
     examArea.style.display = "block";
   }
 
-  // Local upload (overwrites localStorage only, not the server file)
   function handleUploadJson() {
     const file = uploadFileInput.files[0];
     if (!file) { alert("Select JSON file."); return; }
@@ -480,24 +484,33 @@
 
   function escapeHtml(str) { return str.replace(/[&<>]/g, function(m){ if(m==='&') return '&amp;'; if(m==='<') return '&lt;'; if(m==='>') return '&gt;'; return m;}); }
 
-  // Password protection
   unlockAdminBtn.addEventListener('click', () => {
     const pwd = prompt("Enter instructor password:");
     if (pwd === ADMIN_PASSWORD) { adminContainer.style.display = "block"; unlockAdminBtn.style.display = "none"; }
     else if (pwd !== null) alert("Wrong password.");
   });
 
-  // Event listeners
   departmentSelect.addEventListener('change', async () => { 
     if(examActive && confirm("Change department?")){ stopTimerAndLock(); submitted=false; examActive=false; } 
     updateCourseDropdown(); 
+    // After changing department, the dropdown is updated and currentCourseName set to first course
+    currentCourseName = courseSelect.value;
     await loadQuestionsForCurrentCourse();
   });
+
   courseSelect.addEventListener('change', async () => { 
     if(examActive && confirm("Change course?")){ stopTimerAndLock(); submitted=false; examActive=false; } 
+    currentCourseName = courseSelect.value;
     await loadQuestionsForCurrentCourse();
   });
-  loadCourseBtn.addEventListener('click', async () => { await loadQuestionsForCurrentCourse(); });
+
+  loadCourseBtn.addEventListener('click', async () => { 
+    // Ensure we use the currently selected department and course
+    currentDepartment = departmentSelect.value;
+    currentCourseName = courseSelect.value;
+    await loadQuestionsForCurrentCourse();
+  });
+
   startExamBtn.addEventListener('click', startExam);
   submitExamBtn.addEventListener('click', () => { if(examActive && !submitted) submitExamHandler(false); else alert("No active exam."); });
   prevBtn.addEventListener('click', prevQuestion);
@@ -507,7 +520,6 @@
   uploadJsonBtn.addEventListener('click', handleUploadJson);
   uploadDept.addEventListener('change', updateUploadCourseDropdown);
 
-  // Initialisation
   async function init() {
     await loadCourseLists();
     updateUploadCourseDropdown();
