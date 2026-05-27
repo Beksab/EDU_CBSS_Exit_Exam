@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "Which of the following one is correct about deferred income tax liability?",
+    "options": [
+      "Is a contingent liability.",
+      "Can result in a deferred income tax asset.",
+      "Represents income tax payments that are deferred until future years because of temporary differences between IFRS rules and tax accounting rules.",
+      "Is recorded whether or not the difference between taxable income and financial accounting income is permanent or temporary."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The following information was extracted from the financial records of Panda Limited: equipment purchased on January 1 2014 for $140,000 (accounting depreciation 10% straight line, tax depreciation 20% straight line). If the company tax rate is 30%, the deferred tax item that will be recorded by Panda Limited at December 31, 2014 is which of the following?",
+    "options": [
+      "Debit deferred tax asset $14,000",
+      "Credit deferred tax asset $4,200",
+      "Debit deferred tax liability $14,000",
+      "Credit deferred tax liability $4,200"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which accounting standard governs income tax accounting?",
+    "options": [
+      "IAS 28",
+      "IAS 38",
+      "IAS 10",
+      "IAS 12"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Taxable temporary differences are expected to lead to the payment of",
+    "options": [
+      "less tax in the future and gives rise to a deferred tax asset",
+      "more tax in the future and gives rise to a deferred tax asset",
+      "more tax in the future and gives rise to a deferred tax liability",
+      "less tax in the future and gives rise to a deferred tax liability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Deductible temporary differences are expected to lead to the payment of",
+    "options": [
+      "less tax in the future and gives rise to a deferred tax asset",
+      "more tax in the future and gives rise to a deferred tax asset",
+      "more tax in the future and gives rise to a deferred tax liability",
+      "less tax in the future and gives rise to a deferred tax liability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Differences between the carrying amounts of an entity’s net assets determined under accounting standards and accrual accounting, and the tax bases of those net assets determined under the income Tax assessment act, are described as",
+    "options": [
+      "tax losses",
+      "permanent differences",
+      "temporary differences",
+      "the current income tax liability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Generally when considering the differences between the accounting treatment and the income tax treatment of a particular item the accounting treatment is based on",
+    "options": [
+      "cash flows",
+      "the income tax legislation",
+      "cash flows adjusted for depreciation charges",
+      "accrual accounting and is subject to the requirements of accounting standards"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Steveo Limited acquired an asset 'Goodwill' for $60 000. At balance date the Goodwill had a carrying value of $20 000. The tax base of this asset is zero. If the tax rate is 30%, what is the amount of the deferred tax item at balance date?",
+    "options": [
+      "$0",
+      "$6 000",
+      "$12 000",
+      "$18 000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Big Limited has an asset with a carrying value of $30 000 and a tax base of $50 000. The tax rate is 30%. Which of the following will be part of the balance date journal entries made to recognize tax effect accounting for this company?",
+    "options": [
+      "Cr Deferred tax liability $6 000",
+      "Dr Deferred tax asset $6 000",
+      "Dr Income tax expense $6 000",
+      "Cr Income tax liability $6 000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The tax base for an asset is determined using which of the following formula?",
+    "options": [
+      "Carrying amount – Future taxable amount + Future deductible amount",
+      "Carrying amount + Future taxable amount – Future deductible amount",
+      "Carrying amount – Future taxable amount – Future deductible amount",
+      "Carrying amount + Future taxable amount + Future deductible amount"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a transaction in which the entity issues share options or cash settled based on share price in return for the provision of goods and services?",
+    "options": [
+      "Share-based payment transaction",
+      "Cash-settled share based transaction",
+      "Employee benefits transaction",
+      "Pension benefits transaction"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following condition contains a performance target related to entity’s share price of a company?",
+    "options": [
+      "service condition",
+      "market performance condition",
+      "non market performance condition",
+      "non vesting condition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "On 1 January 2006, Company C grants a share option to an employee, subject to a three-year condition. What kind of condition is stated in the above share based payment transaction?",
+    "options": [
+      "service condition",
+      "non vesting condition",
+      "market performance condition",
+      "non market performance condition"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When was the grant date?",
+    "options": [
+      "31 December 2009",
+      "1 January 2006",
+      "31 December 2006",
+      "cannot be determined"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following accounting standards is governing accounting for biological assets?",
+    "options": [
+      "IAS 41",
+      "IFRS 2",
+      "IFRS 17",
+      "IAS 12"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an unexpected increase in the administrative costs associated with servicing a contract?",
+    "options": [
+      "insurance risk",
+      "expense risk",
+      "lapse risk",
+      "persistency risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An entity shall recognize a biological asset or agricultural produce when and only when",
+    "options": [
+      "The entity controls the asset as a result of past events.",
+      "The fair value or cost of the asset can be measured reliably.",
+      "It is probable that future economic benefits associated with the asset will flow to the entity.",
+      "All of the above are correct."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An entity grows grapevines, harvest the grapes and produce wine. To which of the following does IAS 41 apply?",
+    "options": [
+      "the grapevines",
+      "the grapes growing on the grapevines",
+      "the harvested grapes",
+      "the production of wine"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following would be considered as Bearer biological asset?",
+    "options": [
+      "livestock intended for the production of meat",
+      "livestock held for sale",
+      "livestock from which milk is produced",
+      "crops such as maize and wheat"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following events are in the scope of IFRS 2?",
+    "options": [
+      "Equity instruments issued in a business combination in exchange for control of the acquire.",
+      "Equity instruments granted to employees of the entity in their capacity as employees.",
+      "Cancellation, replacement or other modification of share-based payment arrangements because of a business combination or other equity restructuring.",
+      "Equity instruments granted to employees of the entity in their capacity as shareholder."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What value should be applied to cash-settled share-based payment schemes?",
+    "options": [
+      "fair value of the option at the grant date",
+      "fair value of share at the reporting date",
+      "intrinsic value of share option at exercise date",
+      "estimated fair value of the option at the vesting date"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following would be considered as biological assets?",
+    "options": [
+      "Elephants in an animal theme park.",
+      "Dogs used in rendering security services.",
+      "Plants displayed in entity’s administrative office.",
+      "Pigs used in production of carcasses."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How shall an entity recognize the services received in share-based payment transactions, which do not qualify for recognition as assets?",
+    "options": [
+      "as a liability",
+      "as expenses",
+      "as equity",
+      "as deferred assets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When shall an entity re-measure the liability for cash-settled transactions?",
+    "options": [
+      "at the liability grant date",
+      "at the liability vesting date",
+      "at the date of final settlement of the liability",
+      "at the end of each reporting period until the liability is settled"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "ABC limited grants 500 share options to each of its 20 employees. Each grant is conditional on the employee working for the company the next three years. The fair value of each option is estimated to be $6.00 at grant date and $8.00 at vesting date. What is the amount of expenses recorded by ABC Company in year 2?",
+    "options": [
+      "$40,000",
+      "$20,000",
+      "$60,000",
+      "$80,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "On 1 July 2018 XYZ Limited granted 200 share options to each of its 50 employees. Each grant is conditional on the employee working for the company for the next two years. The fair value of each option is estimated to be $8.00. XYZ estimates that 6% of its employees will leave during the two-year period and therefore forfeit their rights to the share options. During the year ended 30 June 2019 five employees left. At this time the company revised its estimate of total employee departures over the full two-year period to 10%. During the year ended 30 June 2020 further 4 employees left. What is the amount expense recorded by the company at year ended 30 June 2019?",
+    "options": [
+      "$36,000",
+      "$72,000",
+      "$40,000",
+      "$80,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "On January 1, 20X1, JP Co. agreed to issue 5000 shares to Rock Company in exchange for construction of a building. Ownership of the building was transferred on November 30, 20X1. However, the contract price was settled on January 01, 20X2. At which date should JP Co recognize the acquisition of building?",
+    "options": [
+      "January 01, 20X1",
+      "November 30, 20X1",
+      "January 01, 20X2",
+      "November 30, 20X2"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "As per IFRS 2 Share-based Payment, a/an ______ share-based payment transaction is the one in which the entity acquires goods or services by incurring liabilities to the suppliers for amounts that are based on the value of the entity’s shares or other equity instrument of the entity in the same group.",
+    "options": [
+      "equity settled",
+      "liability settled",
+      "cash settled",
+      "other"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A share-based payment transaction in which the entity receives goods or services as consideration for equity instruments of the entity is classified, in IFRS 2 Share-based Payment as",
+    "options": [
+      "an ‘other’ share-based payment transaction",
+      "a cash-settled share-based payment transaction",
+      "a liability-settled share-based payment transaction",
+      "an equity-settled share-based payment transaction"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "On January 01, 20X1, Gen Co. grants 10,000 share options to its employees. The share option entitles the employees to purchase Gen Co.'s shares at $110 per share. Gen Co.'s shares have a par value of $100 per share and a fair value of $120 per share. The share options have fair value of $15 per share. The shares vest immediately and the employees exercised the share option at July 01, 20X1. Which of the following is the correct journal entry at July 01, 20X1?",
+    "options": [
+      "Debit to cash of 1,100,000",
+      "Credit to cash of 1,100,000",
+      "Credit to share capital of 150,000",
+      "Debit to share premium of 150,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Dallol Company started running a farm that is involved in agricultural activity whereby it buys dairy producing cows. At the start of the financial year Dallol purchased 100 dairy cows, with an average of 2 years old, for $2,000,000. Dallol has the following data on fair values of agricultural activity. Fair value less point of sale costs: Two-year-old cows beginning of year $21,000, end of year $22,500; Three-year-old cows beginning of year $23,000, end of year $24,500. What amount of gain on change in fair value will be presented in the profit or loss statement?",
+    "options": [
+      "$200,000",
+      "$350,000",
+      "$150,000",
+      "$250,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What portion of the gain on change in fair value can be attributed to price change?",
+    "options": [
+      "$200,000",
+      "$100,000",
+      "$150,000",
+      "$250,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What portion of the gain on change in fair value can be attributed to physical change?",
+    "options": [
+      "$200,000",
+      "$100,000",
+      "$150,000",
+      "$250,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is the comparative analysis performed in the asset valuation approach focuses on similarities and differences among properties and transactions that affect value?",
+    "options": [
+      "Market approach",
+      "Cost approach",
+      "Income approach",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is the asset valuation method that measures value by dividing an income stream, in constant dollars, by a capitalization rate?",
+    "options": [
+      "sequential capitalization method",
+      "consequential capitalization method",
+      "direct capitalization method",
+      "all are correct"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the asset valuation method that measures the direct economic benefits derived from ownership of the asset?",
+    "options": [
+      "detailed method",
+      "trending method",
+      "cost to capacity method",
+      "discounted cash flow method"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "XYZ Company reported net income of $200,000 for the year. During the year, accounts receivable decreased by $10,000, inventory increased by $8,000, accounts payable increased by $6,000, depreciation expense of $10,000 was recorded, and land was purchased for $150,000 in cash. What is the amount of net cash provided by operating activities for the year?",
+    "options": [
+      "$218,000",
+      "$68,000",
+      "$214,000",
+      "$202,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Assume that Mango Corporation uses the indirect method to depict cash flows. Indicate where, if at all, land and building purchased with cash would be classified on the statement of cash flows.",
+    "options": [
+      "operating activities section",
+      "investing activities section",
+      "financing activities section",
+      "does not represent a cash flow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "On the statement of cash flows using the indirect method, patent amortization expense will be",
+    "options": [
+      "added to net income in the operating section",
+      "deducted from net income in the operating section",
+      "appeared as an inflow of cash in the investing section",
+      "appeared as an outflow of cash in the investing section"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Assume that the Quinn Corporation uses the indirect method to depict cash flows. Indicate where, if at all, stock issued for equipment would be classified on the statement of cash flows.",
+    "options": [
+      "operating activities section",
+      "investing activities section",
+      "financing activities section",
+      "does not represent a cash flow"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assume that the Longwood Corporation uses the indirect method to depict cash flows. Indicate where, if at all, a purchase of treasury stock with cash would be classified on the statement of cash flows.",
+    "options": [
+      "Operating activities section",
+      "Investing activities section",
+      "Financing activities section",
+      "Does not represent a cash flow"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary purpose of the statement of cash flows?",
+    "options": [
+      "Facilitates banking relationships.",
+      "Proves that revenues exceed expenses if there is a net income.",
+      "Provides information about the investing and financing activities during a period.",
+      "Provides information about the cash receipts and cash payments during a period."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Rent income obtained from the property $10,000,000 per year. Yield of the Property is 7%. What is the value of property? (round to the nearest dollar)",
+    "options": [
+      "$14.29",
+      "$700,000",
+      "$142,857,142.86",
+      "cannot be determined"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cost of a plant with a capacity of 20,000 tons per year is $2,300,000. What is the estimated cost of a plant with a capacity of 30,000 tons per year? Using a 0.67 factor (approximate to the nearest dollar).",
+    "options": [
+      "$6,900,000",
+      "$3,017,929",
+      "$3,450,000",
+      "$5,900,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An entity should apply IFRS 17 to which of the following?",
+    "options": [
+      "reinsurance contracts issued by the entity",
+      "contingent consideration receivable in business combination",
+      "product warranties issued by an entity which is manufacturer",
+      "employer’s asset and liabilities under employment benefit plans"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Deferred tax amounts that are related to specific assets or liabilities should be classified as current or noncurrent based on",
+    "options": [
+      "Their expected reversal dates.",
+      "Their debit or credit balance.",
+      "The length of time the deferred tax amounts will generate future tax deferral benefits.",
+      "The classification of the related asset or liability."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A taxable temporary difference is expected to lead to the payment of:",
+    "options": [
+      "Less tax in the future and gives rise to a deferred tax asset",
+      "More tax in the future and gives rise to a deferred tax asset",
+      "Less tax in the future and gives rise to a deferred tax liability",
+      "More tax in the future and gives rise to a deferred tax liability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The measurement of biological assets involved in agricultural activities should be based on",
+    "options": [
+      "Fair value approach",
+      "Net realizable value",
+      "Historical cost",
+      "Replacement cost"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Insurance contract can be, except one of this?",
+    "options": [
+      "Insurance against theft or damage",
+      "Credit-related guarantees",
+      "Insurance against product liability",
+      "Product warranties"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following condition is not considered as an example of a vesting condition in share-based payment arrangement?",
+    "options": [
+      "The total shareholder return needs to meet a specified percentage increase over a specified period.",
+      "The share price needs to increase by at least a specified percentage over a specified period of time.",
+      "The entity needs to decrease its error rate in a certain area.",
+      "The employee is required to hold a share for a specific period of time after vesting date."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "These are transactions in which entity receives goods or services as consideration of equity instruments of entity, including shares and share options.",
+    "options": [
+      "Equity settled share-based payment transactions",
+      "Cash settled share-based payment transactions",
+      "Equity payment transactions",
+      "Cash payment transactions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Under IFRS 4 insurance contract, fulfillment cash flow is",
+    "options": [
+      "Expected value of the present value of the future cash outflows less the present value of the future value cash inflows that will arise as entity fulfils insurance contract including a risk adjustment for non-financial risk and financial risk.",
+      "Cash flow from a component of the carrying amount of assets or liability for a group insurance contract",
+      "Cash flow from insurance contracts subject to similar risk and managed together.",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Insurance contract is",
+    "options": [
+      "It is a contract under which the issuer accepts significant insurance risk from the policyholder.",
+      "It is a contract under which the policyholder accepts significant insurance risk from issuer",
+      "It is the contract of certain event",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What was the tax base of the equipment for 2013 and 2014 respectively",
+    "options": [
+      "20,000 and 40,000",
+      "150,000 and 120,000",
+      "500,000 and 700,000",
+      "130,000 and 80,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the taxable temporary difference for 2013 and 2014 respectively",
+    "options": [
+      "30,000 and 40,000",
+      "160,000 and 120,000",
+      "50,000 and 80,000",
+      "20,000 and 40,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the taxable income for 2013 and 2014 respectively",
+    "options": [
+      "700,000 and 900,000",
+      "320,000 and 280,000",
+      "670,000 and 860,000",
+      "670,000 and 900,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the current tax expense for 2013 and 2014 respectively",
+    "options": [
+      "201,000 and 258,000",
+      "210,000 and 270,000",
+      "69,000 and 84,000",
+      "210,000 and 258,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the deferred tax liability for 2013 and 2014 respectively",
+    "options": [
+      "9,000 and 12,000",
+      "30,000 and 40,000",
+      "12,000 and 9,000",
+      "40,000 and 30,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Big Limited has an asset with a carrying value of $30 000 and a tax base of $50 000. The tax rate is 30%. Which of the following will be part of the balance date journal entries made to recognize tax effect accounting for this company?",
+    "options": [
+      "Cr. Deferred tax liability $6 000",
+      "Dr. Deferred tax asset $6 000",
+      "Dr. Income tax expense $6 000",
+      "Cr. Income tax liability $6 000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Income tax expense is calculated based upon ________.",
+    "options": [
+      "IFRS",
+      "Tax regulation",
+      "IPSAS",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "These are transactions in which entity receives goods or services as consideration of equity instruments of entity, including shares and share options.",
+    "options": [
+      "Equity settled share-based payment transactions",
+      "Cash settled share-based payment transactions",
+      "Equity payment transactions",
+      "Cash payment transactions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Under IFRS 4 insurance contract, fulfillment cash flow is",
+    "options": [
+      "Expected value of the present value of the future cash outflows less the present value of the future value cash inflows that will arise as entity fulfils insurance contract including a risk adjustment for non-financial risk and financial risk.",
+      "Cash flow from a component of the carrying amount of assets or liability for a group insurance contract",
+      "Cash flow from insurance contracts subject to similar risk and managed together.",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Insurance contract is",
+    "options": [
+      "It is a contract under which the issuer accepts significant insurance risk from the policyholder.",
+      "It is a contract under which the policyholder accepts significant insurance risk from issuer",
+      "It is the contract of certain event",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What was the tax base of the equipment for 2013 and 2014 respectively",
+    "options": [
+      "20,000 and 40,000",
+      "150,000 and 120,000",
+      "500,000 and 700,000",
+      "130,000 and 80,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the taxable temporary difference for 2013 and 2014 respectively",
+    "options": [
+      "30,000 and 40,000",
+      "160,000 and 120,000",
+      "50,000 and 80,000",
+      "20,000 and 40,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the taxable income for 2013 and 2014 respectively",
+    "options": [
+      "700,000 and 900,000",
+      "320,000 and 280,000",
+      "670,000 and 860,000",
+      "670,000 and 900,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the current tax expense for 2013 and 2014 respectively",
+    "options": [
+      "201,000 and 258,000",
+      "210,000 and 270,000",
+      "69,000 and 84,000",
+      "210,000 and 258,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the deferred tax liability for 2013 and 2014 respectively",
+    "options": [
+      "9,000 and 12,000",
+      "30,000 and 40,000",
+      "12,000 and 9,000",
+      "40,000 and 30,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Big Limited has an asset with a carrying value of $30 000 and a tax base of $50 000. The tax rate is 30%. Which of the following will be part of the balance date journal entries made to recognize tax effect accounting for this company?",
+    "options": [
+      "Cr. Deferred tax liability $6 000",
+      "Dr. Deferred tax asset $6 000",
+      "Dr. Income tax expense $6 000",
+      "Cr. Income tax liability $6 000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Income tax expense is calculated based upon ________.",
+    "options": [
+      "IFRS",
+      "Tax regulation",
+      "IPSAS",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the amount of pretax financial income in 2013?",
+    "options": [
+      "Br 300,000",
+      "Br 60,000",
+      "Br 70,000",
+      "Br 590,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the amount of taxable income under tax reporting in 2015?",
+    "options": [
+      "Br 10,000",
+      "Br 80,000",
+      "Br 340,000",
+      "Br 630,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the amount of income tax expense in 2013?",
+    "options": [
+      "Br 28,000",
+      "Br 70,000",
+      "Br 98,000",
+      "Br 300,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the amount of income tax payable in 2014?",
+    "options": [
+      "Br 28,000",
+      "Br 32,000",
+      "Br 16,000",
+      "Br 36,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the taxable income for 2014?",
+    "options": [
+      "250,000",
+      "214,000",
+      "230,000",
+      "286,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the income tax payable for 2014?",
+    "options": [
+      "69,000",
+      "64,200",
+      "75,000",
+      "85,800"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the deferred tax liability for 2014?",
+    "options": [
+      "75,000",
+      "8,400",
+      "2,400",
+      "69,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the deferred tax asset for 2014?",
+    "options": [
+      "75,000",
+      "8,400",
+      "2,400",
+      "69,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When the deferred tax assets probable that it will not realized:",
+    "options": [
+      "The Income tax expense become increases",
+      "The Deferred tax assets become increases",
+      "The Income tax expense become decreases",
+      "B and C"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The transaction results deductible amounts in future years is:",
+    "options": [
+      "Advance rental receipts.",
+      "Prepaid expenses that are deducted on the tax return in the period paid.",
+      "Fines and expenses resulting from a violation of law.",
+      "Charitable donations recognized as expense but sometimes not deductible for tax purposes."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Represents the increase in income taxes payable in future years as a result of taxable temporary differences existing at the end of the current year:",
+    "options": [
+      "Deferred tax revenue",
+      "Deferred tax liability",
+      "Deferred tax asset",
+      "Deferred tax expense"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Profit or loss for a period before deducting tax expense is",
+    "options": [
+      "Gross profit",
+      "Taxable profit",
+      "Accounting profit",
+      "Operating profit"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "ABC Co. accrues a loss and a related liability of birr 30,000 in 2015 for financial reporting purposes because of pending litigation. Assume tax rate is of 30% the company record at end of 2015",
+    "options": [
+      "Birr 9,000 Deferred tax liability",
+      "Birr 9,000 Income tax expense",
+      "Birr 9,000 Deferred tax asset",
+      "Birr 9,000 Income tax payable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is not correct about pretax financial income",
+    "options": [
+      "Net Income for book purposes",
+      "The amount used to compute income taxes payable",
+      "The amount used to compute income taxes expense",
+      "Determined according to IFRS"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following item can be considered as permanent difference",
+    "options": [
+      "Advanced rental receipt",
+      "Interest received on certain types of government obligation",
+      "Prepaid expenses",
+      "Depreciation expense"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Irili company reports account receivable of birr 500,000 in December 31, 2023, statement of financial position. Assume tax rate of 30%,the company record at the end of 2023:",
+    "options": [
+      "Birr 150,000 Deferred tax liability",
+      "Birr 150,000 Income tax expense",
+      "Birr 150,000 Deferred tax asset",
+      "Birr 150,000 Income taxes payable"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Assume that ABC Company experiences a net operating loss of birr 100,000 in 2015. Assuming that the enacted future tax rate is 30% the company elects the carryback option. To record this transaction, which entry is correct to record the benefits of the loss carryback",
+    "options": [
+      "Income tax refund receivable debited for birr 30,000",
+      "Benefit due to loss carryback debited for birr 30,000",
+      "Deferred tax asset debited for birr 30,000",
+      "Deferred tax liability credited for birr 30,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Company XYZ grants 100 share options to each of its 500 employees which can be exercised at any time over 3 years subject to a 2 year service condition. The fair value of each option is determined to be $20 at the grant date. At end of year 1 the estimated 75% of the 500 employees will complete the service condition required for receiving the option. The correct entry for the transaction would be:",
+    "options": [
+      "At end of year 1 the Expense must be debited by $750,000",
+      "At end of year 2 the Expense must be debited by $1000000",
+      "At end of year 1 the Equity must be debited by $750,000",
+      "At end of year 2 the Equity must be credited by $1000000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Red PLC granted 300 share appreciation rights to each of its 500 employees on 1 January 2022 Management believe that as at 31 December 2022, Red PLC’s year end, 80% of the awards will vest on 31 December 2023. The fair value of each share appreciation right on 31 December 2022 is $15.What is the fair value of the liability to be recorded in the financial statements for the year ended 31 December 2022?",
+    "options": [
+      "1,800,000",
+      "900,000",
+      "225,000",
+      "450,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company issued share option on 1 June 2016 to pay for the purchase of inventory. The inventory is eventually sold on 31 December 2018.The value of the inventory on 1 June 2016 was $6,000,000 and this value was unchanged up to the date of sale. The sale proceeds were $8,000,000.The shares issued have a market value of $6,300,000. How will this purchase of inventory be dealt with in the financial statements?",
+    "options": [
+      "Inventory increased by 8,000,000 and Equity increased by 8,000,000",
+      "Inventory increased by 6,000,000 and Equity increased by 6,000,000",
+      "Inventory increased by 6,300,000 and Equity increased by 6,300,000",
+      "Inventory increased by 2,000,000 and Equity increased by 2,000,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Except one all are the time the insurance contract is recognized",
+    "options": [
+      "Earliest of beginning of coverage period",
+      "Earliest of the date when first profit is earned",
+      "Earliest of date when first payment is due",
+      "Earliest of when a group of contract become onerous"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An Insurance contract issued by one Insurer to compensate another insurer for loss on one or more contract is:",
+    "options": [
+      "Insurance Contract",
+      "Re Insurance contract",
+      "Onerous contract",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If the expected present value of premium is 100,000 and the expected present value of expense is directly related to insurance contract is 60,000 and the risk adjustment is 10,000 what is the contractual service margin?",
+    "options": [
+      "30,000",
+      "40,000",
+      "50,000",
+      "90,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "To determine Net cash flow from the Operating Activity using Indirect method",
+    "options": [
+      "Use the cash receipt and cash payment",
+      "Use the cash flow from sale and purchase of non-current assets",
+      "Use the Net Income for the period and eliminate Non cash Revenue and Noncash Expense",
+      "Use the cash flow from Source of Finance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Choose the correct statement",
+    "options": [
+      "When the Accounts Receivable balance increases, cash receipts are lower than revenue earned under the accrual basis",
+      "When accounts payable increase during the year, expenses on an accrual basis exceed those on a cash basis.",
+      "When prepaid expenses increase during a period, expenses on an accrual-basis income statement are lower than they are on a cash-basis income statement.",
+      "All of the above are correct"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Sizen CO.’s share issued at:",
+    "options": [
+      "Premium",
+      "Discount",
+      "Fair value",
+      "Cost"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Sizen CO accounts for the transaction as:",
+    "options": [
+      "Equity- ordinary share capital debited by $44,000",
+      "Equity- ordinary share capital credited by $66,000",
+      "Asset(PPE) debited by $44,000",
+      "Asset(PPE) debited by $66,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Based on the above case, what will be the value of the service provided?",
+    "options": [
+      "The fair value of the service provided",
+      "Any agreed price",
+      "The fair value of the options granted",
+      "The price appraise by service providers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Based on the above case, what will be the amount to be recorded in staff expense?",
+    "options": [
+      "$96,000 on credit",
+      "$96,000 on debit",
+      "$285 on debit",
+      "$285 on credit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Net income during the period is 150,000 and Account receivable increased by 10,000, Account Payable decreased by 5,000 and depreciation expense increased by 8,000 what is the net cash flow from operating Activity?",
+    "options": [
+      "157,000",
+      "127,000",
+      "135,000",
+      "163,000"
+    ],
+    "correct": 1
+  }
+]
