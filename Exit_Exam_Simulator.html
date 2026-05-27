@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>EDU Exit Exam | Live Questions</title>
+  <title>EDU Exit Exam | Separate JSON per Course</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { background: #f0f4f8; font-family: 'Segoe UI', Roboto, system-ui, sans-serif; padding: 16px; color: #1e2a3e; }
@@ -38,7 +38,7 @@
 <div class="container">
   <div class="card">
     <h1>📘 Exit Exam Simulator</h1>
-    <div class="sub">Ethiopian Defence University – College of Business & Social Studies<br>Auto Timer: 1 min/question | Reports to department rep</div>
+    <div class="sub">Ethiopian Defence University – College of Business & Social Studies<br>Separate JSON per course | Auto timer: 1 min/question</div>
     <label>👤 Student Name</label>
     <input type="text" id="studentName" placeholder="Full name">
     <div class="flex-row">
@@ -85,9 +85,9 @@
 
   <div class="card admin-panel" id="adminPanelContainer" style="display: none;">
     <div id="adminPanelContent">
-      <div style="font-weight: bold; margin-bottom: 12px;">⚙️ Instructor Panel – Upload Questions</div>
+      <div style="font-weight: bold; margin-bottom: 12px;">⚙️ Instructor Panel</div>
       <div style="margin-top: 16px;">
-        <p style="font-size:0.85rem;">To update questions, edit the <strong>Exit_Exam_Questions.json</strong> file on the server and re-upload it.</p>
+        <p style="font-size:0.85rem;">To update questions, edit the corresponding JSON file in the <strong>questions/</strong> folder on the server.</p>
         <hr>
         <label>📤 Temporary upload (local only)</label>
         <div class="flex-row">
@@ -102,14 +102,14 @@
         </div>
         <input type="file" id="uploadQuestionsFile" accept=".json">
         <button id="uploadJsonBtn">📂 Replace questions (local only)</button>
-        <p style="font-size:0.75rem; margin-top:8px;">Changes made here only affect your current device. To make permanent changes, update the server's JSON file.</p>
+        <p style="font-size:0.75rem; margin-top:8px;">Changes here only affect your current device. For permanent changes, edit the server's JSON file for that course.</p>
       </div>
     </div>
   </div>
   <div style="text-align: center; margin-bottom: 20px;">
     <button id="unlockAdminBtn" class="outline">🔒 Show Instructor Panel (Admin Only)</button>
   </div>
-  <footer>✅ Questions are loaded live from Exit_Exam_Questions.json → always up to date.</footer>
+  <footer>✅ Questions loaded individually per course | Always up to date</footer>
 </div>
 
 <script>
@@ -133,10 +133,9 @@
   let submitted = false;
   let currentDepartment = "Management";
   let currentCourseName = "";
-  let googleScriptUrl = "https://script.google.com/macros/s/AKfycbxcfaHijXh6xhdWh1EG4Oj7be-k7K3uU8RLUFw-r0W0Qex-yLEFZR0Y0_3Q2zMjko4WUg/exec"; // REPLACE WITH YOUR SCRIPT URL
+  let googleScriptUrl = "https://script.google.com/macros/s/AKfycbxI_9svm19VPRENT_QttUBW4Uyx-T71U_1fVYvCEyvSFY0ru0S0Ykt0f8qMSqAdmH_m3A/exec"; // REPLACE WITH YOUR SCRIPT URL
 
-  let departmentCourses = {};
-  let masterQuestions = {}; // loaded from JSON
+  let departmentCourses = {}; // loaded from courses.json
 
   // DOM elements
   const departmentSelect = document.getElementById('departmentSelect');
@@ -164,46 +163,63 @@
   const adminContainer = document.getElementById('adminPanelContainer');
   const ADMIN_PASSWORD = "admin123";
 
-  // Load external JSON file
-  async function loadMasterQuestions() {
+  // Helper: generate filename for course JSON
+  function getQuestionFileName(dept, course) {
+    // Replace spaces with underscores, remove any special characters (keep letters/numbers/underscore)
+    const safeDept = dept.replace(/\s+/g, '_');
+    const safeCourse = course.replace(/\s+/g, '_');
+    return `questions/${safeDept}_${safeCourse}.json`;
+  }
+
+  // Load courses.json to get department course lists
+  async function loadCourseLists() {
     try {
-      const response = await fetch('Exit_Exam_Questions.json');
-      if (!response.ok) throw new Error('Failed to load Exit_Exam_Questions.json');
-      const data = await response.json();
-      masterQuestions = data.questions;
-      departmentCourses = data.courses;
+      const response = await fetch('courses.json');
+      if (!response.ok) throw new Error('Failed to load courses.json');
+      departmentCourses = await response.json();
+      // Populate course dropdown for initial department
       updateCourseDropdown();
-      loadCourseQuestionsAndReset();
+      // After loading course list, load questions for the first course
+      await loadQuestionsForCurrentCourse();
     } catch (err) {
       console.error(err);
-      singleContainer.innerHTML = `<div class="loading">⚠️ Could not load Exit_Exam_Questions.json. Make sure the file exists on the server.</div>`;
+      singleContainer.innerHTML = `<div class="loading">⚠️ Could not load courses.json. Make sure the file exists on the server.</div>`;
     }
   }
 
-  function getStorageKey(dept, course) { return `exam_${dept}_${course.replace(/\s/g, '_')}`; }
-  function getCurrentStorageKey() { return getStorageKey(currentDepartment, currentCourseName); }
-
-  function loadQuestionsForCurrentCourse() {
-    const key = getCurrentStorageKey();
-    const stored = localStorage.getItem(key);
-    if (stored) {
-      try {
-        const parsed = JSON.parse(stored);
+  // Load questions from the course-specific JSON file
+  async function loadQuestionsForCurrentCourse() {
+    if (!currentCourseName) return;
+    const fileName = getQuestionFileName(currentDepartment, currentCourseName);
+    try {
+      const response = await fetch(fileName);
+      if (!response.ok) {
+        // File not found – show a message
+        currentQuestions = [
+          { questionText: `No questions file found for this course. Expected: ${fileName}`, options: ["OK"], correct: 0 }
+        ];
+      } else {
+        const parsed = await response.json();
         if (Array.isArray(parsed) && parsed.length) {
           currentQuestions = parsed;
-          return;
+        } else {
+          currentQuestions = [
+            { questionText: `Invalid format in ${fileName}. Expected an array of questions.`, options: ["OK"], correct: 0 }
+          ];
         }
-      } catch(e) {}
-    }
-    const deptData = masterQuestions[currentDepartment];
-    if (deptData && deptData[currentCourseName] && deptData[currentCourseName].length) {
-      currentQuestions = JSON.parse(JSON.stringify(deptData[currentCourseName]));
-    } else {
+      }
+    } catch (err) {
+      console.error(err);
       currentQuestions = [
-        { questionText: "No questions for this course. Edit Exit_Exam_Questions.json to add questions.", options: ["OK"], correct: 0 }
+        { questionText: `Error loading ${fileName}. Check network or file existence.`, options: ["OK"], correct: 0 }
       ];
     }
-    localStorage.setItem(key, JSON.stringify(currentQuestions));
+    // Also store in localStorage for possible offline use? (optional)
+    const storageKey = `exam_${currentDepartment}_${currentCourseName.replace(/\s/g, '_')}`;
+    localStorage.setItem(storageKey, JSON.stringify(currentQuestions));
+    
+    resetExamState();
+    questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
   }
 
   function updateCourseDropdown() {
@@ -247,15 +263,14 @@
     examArea.style.display = "block";
   }
 
-  function loadCourseQuestionsAndReset() {
+  async function loadCourseQuestionsAndReset() {
     if (examActive) { if(timerInterval) clearInterval(timerInterval); examActive = false; }
     currentDepartment = departmentSelect.value;
     currentCourseName = courseSelect.value;
-    loadQuestionsForCurrentCourse();
+    await loadQuestionsForCurrentCourse();
     resetExamState();
     examActive = false;
     submitted = false;
-    questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
   }
 
   function renderCurrentQuestion() {
@@ -436,6 +451,7 @@
     examArea.style.display = "block";
   }
 
+  // Local upload (overwrites localStorage only, not the server file)
   function handleUploadJson() {
     const file = uploadFileInput.files[0];
     if (!file) { alert("Select JSON file."); return; }
@@ -449,11 +465,11 @@
         for (let q of parsed) {
           if (!q.questionText || !Array.isArray(q.options) || typeof q.correct !== 'number') throw new Error("Bad format");
         }
-        const storageKey = getStorageKey(targetDept, targetCourse);
+        const storageKey = `exam_${targetDept}_${targetCourse.replace(/\s/g, '_')}`;
         localStorage.setItem(storageKey, JSON.stringify(parsed));
-        alert(`Uploaded ${parsed.length} questions for ${targetDept} - ${targetCourse} (only on this device).`);
+        alert(`Uploaded ${parsed.length} questions for ${targetDept} - ${targetCourse} (only on this device). To make permanent, replace the corresponding JSON file on the server.`);
         if (targetDept === currentDepartment && targetCourse === currentCourseName) {
-          loadQuestionsForCurrentCourse();
+          currentQuestions = parsed;
           resetExamState();
           questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
         }
@@ -464,15 +480,24 @@
 
   function escapeHtml(str) { return str.replace(/[&<>]/g, function(m){ if(m==='&') return '&amp;'; if(m==='<') return '&lt;'; if(m==='>') return '&gt;'; return m;}); }
 
+  // Password protection
   unlockAdminBtn.addEventListener('click', () => {
     const pwd = prompt("Enter instructor password:");
     if (pwd === ADMIN_PASSWORD) { adminContainer.style.display = "block"; unlockAdminBtn.style.display = "none"; }
     else if (pwd !== null) alert("Wrong password.");
   });
 
-  departmentSelect.addEventListener('change', () => { if(examActive && confirm("Change department?")){ stopTimerAndLock(); submitted=false; examActive=false; } updateCourseDropdown(); loadCourseQuestionsAndReset(); });
-  courseSelect.addEventListener('change', () => { if(examActive && confirm("Change course?")){ stopTimerAndLock(); submitted=false; examActive=false; } loadCourseQuestionsAndReset(); });
-  loadCourseBtn.addEventListener('click', loadCourseQuestionsAndReset);
+  // Event listeners
+  departmentSelect.addEventListener('change', async () => { 
+    if(examActive && confirm("Change department?")){ stopTimerAndLock(); submitted=false; examActive=false; } 
+    updateCourseDropdown(); 
+    await loadQuestionsForCurrentCourse();
+  });
+  courseSelect.addEventListener('change', async () => { 
+    if(examActive && confirm("Change course?")){ stopTimerAndLock(); submitted=false; examActive=false; } 
+    await loadQuestionsForCurrentCourse();
+  });
+  loadCourseBtn.addEventListener('click', async () => { await loadQuestionsForCurrentCourse(); });
   startExamBtn.addEventListener('click', startExam);
   submitExamBtn.addEventListener('click', () => { if(examActive && !submitted) submitExamHandler(false); else alert("No active exam."); });
   prevBtn.addEventListener('click', prevQuestion);
@@ -482,8 +507,10 @@
   uploadJsonBtn.addEventListener('click', handleUploadJson);
   uploadDept.addEventListener('change', updateUploadCourseDropdown);
 
-  function init() {
-    loadMasterQuestions();
+  // Initialisation
+  async function init() {
+    await loadCourseLists();
+    updateUploadCourseDropdown();
   }
   init();
 </script>
