@@ -1,0 +1,1692 @@
+[
+  {
+    "questionText": "Entrepreneurship is best defined as:",
+    "options": [
+      "Managing an existing large corporation",
+      "Investing in government bonds",
+      "The process of starting, organizing, and managing a new venture with risk and initiative",
+      "Working as an employee in a family business"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An entrepreneur is someone who:",
+    "options": [
+      "Avoids all financial risk",
+      "Identifies opportunities and organizes resources to exploit them, accepting risk",
+      "Only works for government agencies",
+      "Never starts a business"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of successful entrepreneurs?",
+    "options": [
+      "Risk aversion and caution",
+      "Dependence on others for all decisions",
+      "Preference for stable, predictable environments",
+      "Opportunity recognition, proactiveness, and tolerance for ambiguity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The entrepreneurial mindset includes:",
+    "options": [
+      "Fixed thinking and resistance to change",
+      "Creativity, resilience, and the ability to learn from failure",
+      "Avoidance of any uncertainty",
+      "Reliance on others for innovation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A person who starts multiple businesses over time is called a(n):",
+    "options": [
+      "Intrapreneur",
+      "Social entrepreneur",
+      "Serial entrepreneur",
+      "Franchisee"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An intrapreneur is an employee who:",
+    "options": [
+      "Works in a government job",
+      "Never takes initiative",
+      "Only follows orders",
+      "Acts like an entrepreneur within an existing organization, developing new products or ventures"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Social entrepreneurship focuses on:",
+    "options": [
+      "Maximizing shareholder wealth only",
+      "Creating social value and addressing social problems through entrepreneurial methods",
+      "Avoiding all risk",
+      "Working exclusively for non-profits without any business model"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common motivation for becoming an entrepreneur?",
+    "options": [
+      "Desire for a guaranteed salary",
+      "Avoidance of responsibility",
+      "Independence, autonomy, and pursuit of passion",
+      "Preference for routine tasks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Entrepreneurial opportunities are:",
+    "options": [
+      "Always obvious and easy to see",
+      "Only available in high-tech industries",
+      "Irrelevant to business",
+      "Situations where new goods, services, or processes can be introduced to create value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The difference between an idea and an opportunity is that an opportunity:",
+    "options": [
+      "Has no market demand",
+      "Is never profitable",
+      "Is an idea that is viable, profitable, and feasible to pursue",
+      "Cannot be implemented"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Creativity in entrepreneurship refers to:",
+    "options": [
+      "Copying existing products exactly",
+      "Avoiding any new thinking",
+      "Using only traditional methods",
+      "Generating novel and useful ideas"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Innovation is the process of:",
+    "options": [
+      "Ignoring new ideas",
+      "Turning creative ideas into useful products, services, or processes",
+      "Eliminating all change",
+      "Only inventing new technologies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Incremental innovation involves:",
+    "options": [
+      "Radical breakthroughs that disrupt industries",
+      "Small, continuous improvements to existing products or processes",
+      "No change at all",
+      "Only cost cutting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Disruptive innovation:",
+    "options": [
+      "Maintains existing market structures",
+      "Is never successful",
+      "Only applies to software",
+      "Creates new markets by addressing overlooked segments or offering simpler, cheaper solutions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A business model describes:",
+    "options": [
+      "Only the product design",
+      "The company's office layout",
+      "How a company creates, delivers, and captures value (e.g., revenue model, cost structure)",
+      "The employee dress code"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The lean startup methodology emphasizes:",
+    "options": [
+      "Writing a 100-page business plan before starting",
+      "Build-Measure-Learn cycles and validated learning through minimum viable products (MVPs)",
+      "Avoiding customer feedback",
+      "Spending years on product development without testing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A minimum viable product (MVP) is:",
+    "options": [
+      "A finished, perfect product",
+      "A product that is never launched",
+      "The simplest version of a product that allows for testing of core hypotheses with real customers",
+      "A product with all features included"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Pivoting in lean startup means:",
+    "options": [
+      "Continuing with the original plan despite evidence",
+      "Giving up entirely",
+      "Ignoring customer feedback",
+      "Changing strategy or product direction based on validated learning"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The business plan is important primarily because it:",
+    "options": [
+      "Guarantees profit",
+      "Forces the entrepreneur to think through all aspects of the venture and communicate the strategy",
+      "Replaces the need for market research",
+      "Eliminates all risks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An executive summary in a business plan:",
+    "options": [
+      "Is the last section and very detailed",
+      "Is optional",
+      "Should be at least 20 pages",
+      "Briefly summarizes the key points of the plan (opportunity, solution, team, financials)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The company description section of a business plan includes:",
+    "options": [
+      "Only financial projections",
+      "Only competitor analysis",
+      "Mission statement, legal structure, location, and history",
+      "Only product specifications"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Market analysis in a business plan should include:",
+    "options": [
+      "Only total market size",
+      "Target market, market trends, customer needs, and competitive landscape",
+      "Only pricing strategy",
+      "Only distribution channels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The marketing and sales plan section describes:",
+    "options": [
+      "Only the product features",
+      "Only the budget",
+      "Only the management team",
+      "How the venture will reach customers, positioning, pricing, promotion, and sales process"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The operations plan describes:",
+    "options": [
+      "Only the office location",
+      "Day-to-day activities, facilities, technology, and processes to deliver the product",
+      "Only employee salaries",
+      "Only marketing tactics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The management team section of a business plan:",
+    "options": [
+      "Is unimportant",
+      "Only lists names without details",
+      "Highlights the qualifications, roles, and experience of key team members",
+      "Avoids mentioning any gaps"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Financial projections in a business plan typically include:",
+    "options": [
+      "Only historical data",
+      "Only the balance sheet",
+      "Sales forecast, profit & loss, cash flow statement, and break-even analysis",
+      "Only competitor financials"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A break-even analysis determines:",
+    "options": [
+      "The maximum profit possible",
+      "The amount of debt",
+      "The number of employees",
+      "The level of sales needed to cover all fixed and variable costs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A feasibility study is conducted:",
+    "options": [
+      "After launching the product",
+      "Before committing resources, to assess viability of the business concept",
+      "Only for non-profit ventures",
+      "Instead of a business plan"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Technical feasibility examines:",
+    "options": [
+      "Market demand",
+      "Whether the product can be produced with available technology and resources",
+      "Legal requirements only",
+      "Financial returns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Market feasibility examines:",
+    "options": [
+      "Production capability",
+      "Legal structure",
+      "Employee skills",
+      "Whether there is sufficient customer demand and a viable market"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Financial feasibility examines:",
+    "options": [
+      "Product design",
+      "Whether the venture can generate sufficient returns and manage cash flow",
+      "Office location",
+      "Supplier relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Legal feasibility examines:",
+    "options": [
+      "Production processes",
+      "Marketing tactics",
+      "Regulatory requirements, intellectual property, and potential legal barriers",
+      "Employee satisfaction"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A sole proprietorship is owned by:",
+    "options": [
+      "Multiple shareholders",
+      "A board of directors",
+      "The government",
+      "One person, who has unlimited liability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The main disadvantage of a sole proprietorship is:",
+    "options": [
+      "Double taxation",
+      "Unlimited personal liability for business debts",
+      "Complexity of formation",
+      "Inability to raise any capital"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A partnership involves:",
+    "options": [
+      "A single owner",
+      "Two or more owners sharing profits, losses, and liability (general partners have unlimited liability)",
+      "No liability for partners",
+      "Only limited partners managing the business"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a general partnership, each partner:",
+    "options": [
+      "Has no liability",
+      "Can only invest, not manage",
+      "Pays no taxes",
+      "Is personally liable for all business debts, including those caused by other partners"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A limited partner in a limited partnership:",
+    "options": [
+      "Manages the business daily",
+      "Contributes capital but has liability only up to their investment, and does not participate in management",
+      "Has unlimited liability",
+      "Is personally responsible for all debts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A corporation (C corp) is a legal entity:",
+    "options": [
+      "Without any liability protection",
+      "Separate from its owners, offering limited liability to shareholders",
+      "That cannot raise capital",
+      "That is not taxed separately"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Double taxation in a C corporation means:",
+    "options": [
+      "No taxes are paid",
+      "Only shareholders pay tax",
+      "Corporate profits are taxed, and dividends to shareholders are taxed again",
+      "Only the corporation pays tax"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An S corporation (or similar pass-through entity) avoids double taxation by:",
+    "options": [
+      "Paying no taxes",
+      "Passing profits and losses directly to shareholders' personal tax returns",
+      "Being tax-exempt",
+      "Not filing any tax returns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A limited liability company (LLC) combines:",
+    "options": [
+      "Unlimited liability of sole proprietorship and tax complexity of corporations",
+      "Double taxation and unlimited liability",
+      "No legal protection",
+      "Limited liability of a corporation with pass-through taxation of a partnership"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A cooperative (co-op) is owned and operated by:",
+    "options": [
+      "Outside investors only",
+      "Its members (customers, workers, or producers) who share benefits",
+      "The government",
+      "A single entrepreneur"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A franchise is a business model where:",
+    "options": [
+      "The entrepreneur creates an entirely new brand",
+      "The entrepreneur works as an employee",
+      "The entrepreneur buys the rights to operate a proven business system (franchisor's brand and methods)",
+      "There is no ongoing support from the franchisor"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An advantage of franchising for the franchisee is:",
+    "options": [
+      "Complete freedom to change the business model",
+      "Established brand, training, and support",
+      "No initial fees",
+      "No ongoing royalties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A disadvantage of franchising is:",
+    "options": [
+      "No brand recognition",
+      "No training provided",
+      "Guaranteed failure",
+      "Ongoing royalty payments and less operational autonomy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The entrepreneur's own savings, family, and friends are sources of:",
+    "options": [
+      "Debt financing from banks",
+      "Venture capital",
+      "Equity financing from \"love money\" (informal early funding)",
+      "Public stock offering"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Angel investors are:",
+    "options": [
+      "Government grant providers",
+      "Wealthy individuals who invest their own money in early-stage ventures in exchange for equity",
+      "Bank loan officers",
+      "Crowdfunding platforms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Venture capital (VC) firms typically invest:",
+    "options": [
+      "In very early, unproven ideas with no traction",
+      "Only in real estate",
+      "In high-growth potential ventures that have demonstrated some traction, in exchange for equity",
+      "Only in non-profit organizations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Crowdfunding raises small amounts of money from:",
+    "options": [
+      "A single bank",
+      "Government grants only",
+      "Family members only",
+      "A large number of people, typically via online platforms"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Debt financing for a startup includes:",
+    "options": [
+      "Selling shares of stock",
+      "Bank loans, lines of credit, and convertible notes that must be repaid",
+      "Donations",
+      "Grants that never need repayment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bootstrapping means:",
+    "options": [
+      "Raising large amounts of venture capital",
+      "Going public with an IPO",
+      "Starting and growing a business using personal savings and operating revenues without external investment",
+      "Filing for bankruptcy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A prototype is:",
+    "options": [
+      "The final, market-ready product",
+      "An early sample or model built to test a concept and gather feedback",
+      "A marketing brochure",
+      "A financial forecast"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Product/service development stages include:",
+    "options": [
+      "Only launch and production",
+      "Only pricing and distribution",
+      "Idea generation, concept testing, prototyping, and market testing",
+      "Only hiring staff"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of \"product-market fit\" means:",
+    "options": [
+      "The product is fully finished",
+      "The product is sold at a loss",
+      "The product has no competitors",
+      "The product meets a strong market demand and satisfies customer needs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Customer discovery is a process of:",
+    "options": [
+      "Avoiding customer contact",
+      "Getting out of the building to interview potential customers and validate assumptions",
+      "Writing a business plan in isolation",
+      "Only using surveys without interaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Value proposition refers to:",
+    "options": [
+      "The price of the product",
+      "The company's location",
+      "The unique benefit or solution that a venture offers to customers",
+      "The employee benefits package"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A unique selling proposition (USP) differentiates a product by:",
+    "options": [
+      "Being identical to competitors",
+      "Offering a distinctive benefit that competitors do not provide",
+      "Having the lowest quality",
+      "Avoiding any differentiation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Target market is defined as:",
+    "options": [
+      "Everyone in the world",
+      "Only the entrepreneur's friends",
+      "The specific group of customers a venture aims to serve",
+      "All competitors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Market segmentation in entrepreneurship involves:",
+    "options": [
+      "Selling to all customers with the same message",
+      "Dividing the market into distinct groups with similar needs to target effectively",
+      "Ignoring customer differences",
+      "Only using geographic segmentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An early adopter is a customer who:",
+    "options": [
+      "Buys products only when they are mature",
+      "Is willing to try new products early and provide feedback",
+      "Never buys anything new",
+      "Only buys from large corporations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A beachhead market is:",
+    "options": [
+      "The largest possible market",
+      "A market with no competition",
+      "An international market only",
+      "A small, focused market that the venture targets first to establish a foothold"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Guerrilla marketing for startups uses:",
+    "options": [
+      "Large television ad campaigns",
+      "Low-cost, unconventional, creative tactics to gain attention",
+      "No marketing at all",
+      "Only direct mail"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Growth hacking is a marketing approach focused on:",
+    "options": [
+      "Slow, steady growth through traditional advertising",
+      "Rapid experimentation and scalable growth tactics, often digital",
+      "Avoiding any metrics",
+      "Only offline methods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Content marketing for a startup involves:",
+    "options": [
+      "Only selling products directly",
+      "Avoiding online presence",
+      "Creating valuable content to attract and engage customers without direct selling",
+      "Only paid ads"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Pricing strategy for a new venture must consider:",
+    "options": [
+      "Only competitor prices",
+      "Costs, value to customer, competition, and market positioning",
+      "Only the entrepreneur's desired income",
+      "Only the cost of goods sold"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Penetration pricing for a startup:",
+    "options": [
+      "Sets a high initial price",
+      "Ignores market share",
+      "Prices above all competitors",
+      "Sets a low initial price to gain market share quickly"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Skimming pricing:",
+    "options": [
+      "Sets a low price",
+      "Sets a high initial price to capture early adopters willing to pay more, then lowers over time",
+      "Avoids any price changes",
+      "Prices at cost only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Freemium pricing offers:",
+    "options": [
+      "No free version",
+      "Free products without any paid option",
+      "Only one price for all",
+      "Basic service for free, paid premium features"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Distribution channels for a startup include:",
+    "options": [
+      "Only direct sales",
+      "Direct (own website, store) and indirect (retailers, distributors, online marketplaces)",
+      "Only wholesalers",
+      "Only physical stores"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An omnichannel strategy means:",
+    "options": [
+      "Selling through only one channel",
+      "Avoiding online sales",
+      "Integrating multiple channels (online, offline, mobile) for a seamless customer experience",
+      "Only using catalogs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"customer journey\" refers to:",
+    "options": [
+      "The shipping process",
+      "The employee hiring process",
+      "The product manufacturing process",
+      "The stages a customer goes through from awareness to purchase to loyalty"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Managing growth is critical for a startup because:",
+    "options": [
+      "Growth always leads to failure",
+      "Too rapid growth can strain resources, culture, and quality",
+      "Growth is irrelevant",
+      "Only slow growth is possible"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Scaling a business means:",
+    "options": [
+      "Reducing operations",
+      "Growing revenue and operations without proportional increase in costs, maintaining efficiency",
+      "Closing the business",
+      "Only hiring more employees without planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Challenges of rapid growth include:",
+    "options": [
+      "Decreasing complexity",
+      "Guaranteed success",
+      "No need for additional capital",
+      "Cash flow shortages, operational inefficiencies, and loss of company culture"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A growth strategy that involves selling existing products into new markets is called:",
+    "options": [
+      "Market penetration",
+      "Market development",
+      "Product development",
+      "Diversification"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A growth strategy that involves developing new products for existing markets is:",
+    "options": [
+      "Market penetration",
+      "Market development",
+      "Product development",
+      "Diversification"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Diversification as a growth strategy means:",
+    "options": [
+      "Staying in the same product and market",
+      "Entering new markets with new products",
+      "Reducing product lines",
+      "Only cutting costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A strategic pivot in growth management is:",
+    "options": [
+      "Sticking to the original plan regardless of evidence",
+      "A significant change in business model, target market, or product based on learning",
+      "Firing all employees",
+      "Ignoring customer feedback"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The transition from startup to established company requires:",
+    "options": [
+      "Continuing the same informal processes",
+      "Avoiding any structure",
+      "Eliminating all innovation",
+      "Professionalizing management, formalizing processes, and building scalable systems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Succession planning in an entrepreneurial venture involves:",
+    "options": [
+      "Firing all senior leaders",
+      "Preparing for leadership transition, whether to family, internal team, or external buyers",
+      "Avoiding any planning",
+      "Only selling the business at any price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An exit strategy for an entrepreneur includes:",
+    "options": [
+      "Staying in the business forever",
+      "Closing without any plan",
+      "Selling the business (acquisition), IPO, or passing it to family",
+      "Never leaving"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An initial public offering (IPO) is:",
+    "options": [
+      "Selling the company to a competitor",
+      "Selling shares of the company to the public for the first time",
+      "A private loan",
+      "A government grant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Acquisition as an exit means:",
+    "options": [
+      "The entrepreneur buys another company",
+      "The venture goes bankrupt",
+      "Another company purchases the entrepreneurial venture",
+      "The venture becomes a non-profit"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Family business succession often involves:",
+    "options": [
+      "Randomly choosing a successor",
+      "Avoiding any family involvement",
+      "Selling to outsiders without consideration",
+      "Planning for transfer of ownership and management to the next generation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Ethical responsibilities of an entrepreneur include:",
+    "options": [
+      "Maximizing profit at any cost",
+      "Honesty with stakeholders, fair treatment of employees, and compliance with laws",
+      "Exploiting legal loopholes",
+      "Ignoring environmental impact"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Corporate social responsibility (CSR) for an entrepreneurial venture:",
+    "options": [
+      "Is irrelevant for small businesses",
+      "Only applies to public companies",
+      "Involves voluntary actions to benefit society beyond legal requirements",
+      "Means avoiding any charitable activity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Environmental sustainability in entrepreneurship includes:",
+    "options": [
+      "Ignoring resource use",
+      "Minimizing waste, using renewable resources, and designing eco-friendly products",
+      "Maximizing pollution",
+      "Avoiding any green practices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social entrepreneurship differs from commercial entrepreneurship in that its primary goal is:",
+    "options": [
+      "Maximizing shareholder returns",
+      "Avoiding any revenue model",
+      "Working only for government",
+      "Creating positive social impact, with profit as a means to sustain the mission"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A B Corporation (Benefit Corporation) is a legal structure that requires:",
+    "options": [
+      "Profit maximization only",
+      "Consideration of stakeholder interests (social and environmental) alongside profit",
+      "No reporting",
+      "Non-profit status"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The triple bottom line measures performance in three areas: profit, people, and:",
+    "options": [
+      "Product",
+      "Planet",
+      "Process",
+      "Price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Intellectual property (IP) protection for entrepreneurs includes:",
+    "options": [
+      "Only trade secrets",
+      "Only trademarks",
+      "Only patents",
+      "Patents, trademarks, copyrights, and trade secrets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A patent protects:",
+    "options": [
+      "Brand names and logos",
+      "Creative works like books and music",
+      "Inventions, processes, or designs for a limited time",
+      "Confidential business information"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A trademark protects:",
+    "options": [
+      "An invention",
+      "A word, symbol, or design that identifies the source of goods",
+      "A secret recipe",
+      "A software code"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A copyright protects:",
+    "options": [
+      "Patents",
+      "Inventions",
+      "Business names",
+      "Original works of authorship (e.g., writing, music, software code)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A trade secret protects:",
+    "options": [
+      "Publicly known information",
+      "Confidential business information that provides a competitive advantage (e.g., formula)",
+      "Patented inventions",
+      "Trademarked logos"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Non-disclosure agreements (NDAs) are used to:",
+    "options": [
+      "Publicly share secrets",
+      "Register trademarks",
+      "Legally bind parties to keep confidential information secret",
+      "File patents"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An entrepreneur should conduct a competitor analysis to:",
+    "options": [
+      "Copy everything competitors do",
+      "Understand competitors' strengths, weaknesses, and market positions to find advantages",
+      "Ignore competition",
+      "Only compare prices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A SWOT analysis for a venture includes Strengths, Weaknesses, Opportunities, and:",
+    "options": [
+      "Threats",
+      "Tactics",
+      "Trends",
+      "Technology"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A PESTLE analysis examines Political, Economic, Social, Technological, Legal, and:",
+    "options": [
+      "Environmental",
+      "Ethical",
+      "Educational",
+      "Emotional"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The \"lean canvas\" is a one-page business model template that replaces:",
+    "options": [
+      "The entire business plan",
+      "A verbose business plan with key hypotheses",
+      "Financial projections",
+      "Market research"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Customer feedback loops are essential for:",
+    "options": [
+      "Ignoring customer needs",
+      "Avoiding product changes",
+      "Continuously improving the product based on actual usage and input",
+      "Only collecting positive reviews"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"Mom test\" in customer interviews refers to:",
+    "options": [
+      "Asking leading questions that get flattering answers",
+      "Interviewing only family members",
+      "Avoiding all customer contact",
+      "Asking questions that reveal real problems without leading the customer to say what they think you want to hear"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Resilience in entrepreneurship is the ability to:",
+    "options": [
+      "Never experience failure",
+      "Avoid all risks",
+      "Recover from setbacks, learn from mistakes, and persist",
+      "Give up at the first challenge"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Failure in entrepreneurship is often viewed in the lean startup model as:",
+    "options": [
+      "Something to hide",
+      "A learning opportunity to pivot or iterate",
+      "The end of all future attempts",
+      "Proof that entrepreneurship is not viable"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"fail fast, fail cheap\" means:",
+    "options": [
+      "Avoid failure at all costs",
+      "Delay testing as long as possible",
+      "Test hypotheses quickly with minimal resources to learn early without large losses",
+      "Spend all money before learning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An entrepreneurial ecosystem includes:",
+    "options": [
+      "Only the entrepreneur",
+      "Support systems such as mentors, investors, universities, accelerators, and government policies",
+      "Only competitors",
+      "Only customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A business incubator provides:",
+    "options": [
+      "Only office space",
+      "Only loans",
+      "Only legal services",
+      "Support, resources, mentoring, and sometimes funding to early-stage startups"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An accelerator program typically offers:",
+    "options": [
+      "Long-term, low-intensity support",
+      "No funding",
+      "Fixed-term, cohort-based, intensive mentoring and funding, ending in a demo day",
+      "Only online courses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A pitch deck is:",
+    "options": [
+      "A long, detailed business plan",
+      "A short presentation (10-15 slides) to investors summarizing the venture",
+      "A financial spreadsheet",
+      "A product prototype"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"elevator pitch\" is:",
+    "options": [
+      "A 2-hour presentation",
+      "A written report",
+      "A legal document",
+      "A brief, compelling summary of the venture (30-60 seconds)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Valuation of an early-stage startup is often based on:",
+    "options": [
+      "Historical profits",
+      "Future potential, comparable companies, and negotiation",
+      "Book value only",
+      "Fixed formula"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Convertible notes are a form of early-stage financing that:",
+    "options": [
+      "Are always repaid in cash",
+      "Convert into equity (shares) at a future financing round",
+      "Never convert",
+      "Are only for non-profits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Equity crowdfunding allows:",
+    "options": [
+      "Only accredited investors",
+      "No ownership rights",
+      "A large number of people to invest small amounts in exchange for equity",
+      "Only debt investment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Grants for entrepreneurs are:",
+    "options": [
+      "Funds that must be repaid with interest",
+      "Non-dilutive funds (no equity given) but often tied to specific conditions (e.g., research)",
+      "Always available for any business",
+      "The same as loans"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bootstrapping examples include:",
+    "options": [
+      "Raising venture capital",
+      "Using personal credit cards, savings, and revenue from early customers to fund growth",
+      "Winning a grant",
+      "Selling equity to strangers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"lean startup\" emphasizes that a business plan is:",
+    "options": [
+      "A static document that must be followed exactly",
+      "Unnecessary for any venture",
+      "Only for large companies",
+      "A hypothesis that should be tested and updated continuously"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Customer validation in lean startup means:",
+    "options": [
+      "Assuming customers will buy",
+      "Avoiding customer contact",
+      "Proving that customers will actually purchase the product through real sales or commitments",
+      "Only using surveys"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of \"continuous deployment\" in software entrepreneurship:",
+    "options": [
+      "Releases software once per year",
+      "Automatically and frequently releases small updates to get rapid feedback",
+      "Never releases updates",
+      "Only releases after perfect testing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A pivot can be a zoom-in pivot (focusing on a single feature), zoom-out pivot (expanding), or:",
+    "options": [
+      "No change pivot",
+      "Ignoring feedback pivot",
+      "Customer segment pivot (targeting different customers with same product)",
+      "Random pivot"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"business model canvas\" has nine building blocks including value proposition, customer segments, channels, revenue streams, and:",
+    "options": [
+      "Only cost structure",
+      "Key activities, key resources, key partnerships, and cost structure",
+      "Only marketing",
+      "Only finance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Key resources in a business model are:",
+    "options": [
+      "Only financial capital",
+      "Only employees",
+      "The assets (physical, intellectual, human, financial) needed to make the model work",
+      "Only patents"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Revenue streams describe:",
+    "options": [
+      "Costs of the business",
+      "How the venture generates income (e.g., sales, subscriptions, licensing)",
+      "Marketing channels",
+      "Employee salaries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cost structure describes:",
+    "options": [
+      "Revenue sources",
+      "Customer segments",
+      "Key partners",
+      "The most important costs incurred to operate the business model"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A \"freemium\" revenue model charges:",
+    "options": [
+      "All users upfront",
+      "Only premium users; basic service free",
+      "No one",
+      "Only advertisers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A subscription revenue model charges:",
+    "options": [
+      "One-time payment only",
+      "No payments",
+      "Recurring periodic payments (monthly, annual)",
+      "Only per-use fees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A marketplace business model connects:",
+    "options": [
+      "Buyers and sellers, taking a commission",
+      "Only buyers",
+      "Only sellers",
+      "No transactions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The \"agency\" or \"service\" business model sells:",
+    "options": [
+      "Physical products",
+      "Time and expertise (consulting, design, development)",
+      "Software licenses",
+      "Raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"product\" business model sells:",
+    "options": [
+      "Services",
+      "Subscriptions only",
+      "Physical or digital goods",
+      "Advertising space"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"platform\" business model creates value by:",
+    "options": [
+      "Manufacturing products",
+      "Selling directly only",
+      "Avoiding technology",
+      "Facilitating interactions between two or more interdependent groups (e.g., Uber, Airbnb)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Network effects occur when the value of a product increases as:",
+    "options": [
+      "Fewer people use it",
+      "More people use it",
+      "Price decreases",
+      "Price increases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"unicorn\" in entrepreneurship is a startup valued at:",
+    "options": [
+      "$1 million or more",
+      "$100 million or more",
+      "$10 billion or more",
+      "$1 billion or more"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"founder's dilemma\" often refers to:",
+    "options": [
+      "Whether to hire friends",
+      "Balancing control vs. bringing in outside investors and managers",
+      "Choosing a logo color",
+      "Picking office furniture"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Founder equity distribution should be based on:",
+    "options": [
+      "Equal shares for everyone regardless of contribution",
+      "Random allocation",
+      "Contributions (time, money, IP, role) and future commitments",
+      "Seniority only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Vesting schedules for founder shares:",
+    "options": [
+      "Give all shares immediately",
+      "Require founders to earn shares over time (e.g., 4 years) to ensure commitment",
+      "Are illegal",
+      "Apply only to employees, not founders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"zombie\" startup is one that:",
+    "options": [
+      "Grows rapidly",
+      "Exits successfully",
+      "Shuts down immediately",
+      "Is still operating but not growing or generating significant returns, burning cash slowly"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"side hustle\" phenomenon refers to:",
+    "options": [
+      "Quitting a job to start a business full-time",
+      "Starting a business while still employed elsewhere",
+      "Avoiding any work",
+      "Only investing in stocks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Entrepreneurial self-efficacy is the belief in:",
+    "options": [
+      "Luck determining success",
+      "External factors only",
+      "One's ability to successfully perform entrepreneurial tasks",
+      "Avoiding challenges"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The entrepreneurial orientation (EO) dimensions include innovativeness, proactiveness, and:",
+    "options": [
+      "Risk aversion",
+      "Risk taking",
+      "Caution",
+      "Stability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Proactiveness in EO means:",
+    "options": [
+      "Waiting for opportunities to come",
+      "Avoiding any action",
+      "Copying competitors",
+      "Anticipating and acting on future needs and opportunities ahead of competitors"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Risk taking in entrepreneurship involves:",
+    "options": [
+      "Avoiding all uncertain situations",
+      "Willingness to commit resources to uncertain ventures with potential for loss or gain",
+      "Gambling without analysis",
+      "Only low-risk opportunities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An \"opportunity recognition\" skill involves:",
+    "options": [
+      "Ignoring market changes",
+      "Only copying existing businesses",
+      "Avoiding any research",
+      "Seeing potential in unmet needs, technological trends, or inefficiencies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Effectuation is a decision-making logic where entrepreneurs:",
+    "options": [
+      "Focus on predicting the future and setting fixed goals",
+      "Use available means and set affordable loss, partnerships, and leverage contingencies",
+      "Avoid any planning",
+      "Only follow a business plan"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Causation logic (traditional) involves:",
+    "options": [
+      "Starting with available means",
+      "Starting with a predetermined goal and seeking means to achieve it",
+      "Ignoring goals",
+      "Random action"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"bird-in-hand\" principle of effectuation means:",
+    "options": [
+      "Waiting for perfect opportunities",
+      "Starting with who you are, what you know, and whom you know",
+      "Borrowing unlimited funds",
+      "Ignoring personal resources"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"affordable loss\" principle suggests:",
+    "options": [
+      "Invest all savings regardless of risk",
+      "Avoid any loss",
+      "Invest only what you are willing to lose",
+      "Borrow as much as possible"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"lemonade\" principle of effectuation:",
+    "options": [
+      "Avoid surprises",
+      "Leverage surprises as opportunities rather than obstacles",
+      "Ignore unexpected events",
+      "Only plan for expected events"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"pilot-in-the-plane\" principle means:",
+    "options": [
+      "The future is unpredictable, but entrepreneurs can shape it through action",
+      "The environment completely controls outcomes",
+      "Entrepreneurs are passive",
+      "Planning is useless"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Social capital for entrepreneurs includes:",
+    "options": [
+      "Financial assets only",
+      "Networks, relationships, and access to resources through social connections",
+      "Physical assets",
+      "Intellectual property only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mentors and advisors help entrepreneurs by:",
+    "options": [
+      "Making decisions for them",
+      "Taking equity without value",
+      "Avoiding involvement",
+      "Providing guidance, feedback, and connections"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"founder-market fit\" means:",
+    "options": [
+      "The founder has no experience in the industry",
+      "Any founder can succeed in any market",
+      "Market is irrelevant",
+      "The founder has passion, knowledge, and experience relevant to the venture's market"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A \"problem-solution fit\" exists when:",
+    "options": [
+      "The solution is expensive",
+      "There is no problem",
+      "The solution actually solves a meaningful customer problem",
+      "Customers are not interested"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"value proposition canvas\" includes customer jobs, pains, gains, and:",
+    "options": [
+      "Only pricing",
+      "Your product's pain relievers and gain creators",
+      "Only marketing",
+      "Only distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Customer journey mapping\" helps entrepreneurs:",
+    "options": [
+      "Ignore customer experience",
+      "Only focus on the sale",
+      "Visualize the steps customers take when interacting with the venture",
+      "Avoid service design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A \"landing page\" for a startup is used to:",
+    "options": [
+      "Ship products",
+      "Test customer interest and capture emails before product launch",
+      "Replace the product",
+      "Avoid online presence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Search engine optimization\" (SEO) for an entrepreneurial website:",
+    "options": [
+      "Has no effect",
+      "Requires paid ads only",
+      "Improves visibility in organic search results to attract customers",
+      "Is illegal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Pay-per-click\" (PPC) advertising charges:",
+    "options": [
+      "Per thousand impressions",
+      "A flat monthly fee",
+      "Per sale",
+      "Only when a user clicks on the ad"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"sales funnel\" stages include awareness, interest, decision, and:",
+    "options": [
+      "Action (purchase)",
+      "Refund",
+      "Complaint",
+      "Exit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Customer acquisition cost (CAC) is:",
+    "options": [
+      "The price of the product",
+      "The total cost of sales and marketing divided by number of new customers acquired",
+      "The cost of manufacturing",
+      "The employee salary"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Customer lifetime value (LTV) is:",
+    "options": [
+      "Revenue from one transaction",
+      "The cost to serve a customer once",
+      "The acquisition cost",
+      "The total profit expected from a customer over the entire relationship"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A healthy business model typically has LTV to CAC ratio of at least:",
+    "options": [
+      "0.5:1",
+      "3:1 or higher",
+      "1:1",
+      "10:1"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"churn rate\" for a subscription business is:",
+    "options": [
+      "Number of new customers",
+      "Total revenue",
+      "Percentage of customers who cancel or do not renew over a period",
+      "Number of employees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"net promoter score\" (NPS) measures:",
+    "options": [
+      "Stock price",
+      "Customer loyalty and likelihood to recommend",
+      "Employee satisfaction",
+      "Product cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"beta test\" involves:",
+    "options": [
+      "Launching to the entire market immediately",
+      "Releasing a product to a limited group of users for real-world testing before full launch",
+      "No testing at all",
+      "Only internal testing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"product-led growth\" means:",
+    "options": [
+      "Sales team drives all growth",
+      "Marketing drives all growth",
+      "Price cuts drive growth",
+      "The product itself is the primary driver of customer acquisition and retention"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A \"viral loop\" in growth occurs when:",
+    "options": [
+      "Customers get sick",
+      "Advertising is increased",
+      "Existing users naturally invite new users, creating exponential growth",
+      "Prices are lowered"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"strategic entrepreneur\" balances:",
+    "options": [
+      "Only opportunity seeking",
+      "Only risk avoidance",
+      "Only operational efficiency",
+      "Opportunity seeking and advantage seeking (exploration and exploitation)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Entrepreneurial finance differs from corporate finance in its emphasis on:",
+    "options": [
+      "Stable cash flows and historical data",
+      "Uncertainty, cash flow management, and valuation of early-stage ventures",
+      "Guaranteed returns",
+      "Debt over equity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"runway\" for a startup is:",
+    "options": [
+      "The physical office space",
+      "The product development time",
+      "The employee commute",
+      "The length of time the startup can operate before running out of cash at current burn rate"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"burn rate\" is:",
+    "options": [
+      "The revenue growth rate",
+      "The profit margin",
+      "The rate at which a startup spends its cash reserves (monthly negative cash flow)",
+      "The employee turnover rate"
+    ],
+    "correct": 2
+  }
+]
