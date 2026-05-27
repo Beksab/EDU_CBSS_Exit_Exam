@@ -1,0 +1,1062 @@
+[
+  {
+    "questionText": "XYZ Inc. changes its method of valuation of inventories from weighted-average method to first-in, first-out (FIFO) method. XYZ Inc. should account for this change as",
+    "options": [
+      "A change in estimate and account for it prospectively.",
+      "A change in accounting policy and account for it prospectively.",
+      "A change in accounting policy and account for it retrospectively.",
+      "Account for it as a correction of an error and account for it retrospectively."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "To account for sales with rights of return companies generally recognize all of the following except:",
+    "options": [
+      "Revenue net of revenue from the products expected to be returned.",
+      "A refund liability.",
+      "An asset for its right to recover inventory from the customer",
+      "An increase to cost of sales from the products expected to be returned"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the entry to record continuing franchise fee revenue?",
+    "options": [
+      "Debiting cash or receivables and crediting service revenue",
+      "Debiting unearned franchise fee revenue and crediting franchise fee revenue",
+      "A and B",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The appropriate method of accounting for uncollectable accounts when the amount of uncollectible is material:",
+    "options": [
+      "Direct write-off method",
+      "Allowance method",
+      "Bad debt expense",
+      "A and B"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Gains and losses that bypass net income but affect equity are referred to as",
+    "options": [
+      "Comprehensive income",
+      "Other comprehensive income",
+      "Prior period income",
+      "Unusual gains and losses",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "ABC Company sells 50 products for Br150 each to XYZ Inc. for cash. ABC allows XYZ to return any unused product within 30 days and receive a full refund. The cost of each product is Br 60. Using the most likely amount, ABC estimates that two products will be returned. What is the refund liability amount?",
+    "options": [
+      "Br 150",
+      "Br 300",
+      "Br 250",
+      "Br 120",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In bill-and-hold arrangement revenue should not be recognized when:",
+    "options": [
+      "The reason for the bill-and-hold arrangement must be substantive.",
+      "The product must be identified separately as belonging to buyer.",
+      "The product currently must be ready for physical transfer to buyer.",
+      "The seller can have the ability to use the product or to direct it to another customer.",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an appropriate reconciling item to the balance per bank in a bank reconciliation?",
+    "options": [
+      "Bank service charge",
+      "Deposit in transit",
+      "Bank interest",
+      "Chargeback for NSF check"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Income from continuing operations is:",
+    "options": [
+      "$194,800",
+      "$288,000",
+      "$201,600",
+      "$210,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Total net income is:",
+    "options": [
+      "$88,800",
+      "$177,600",
+      "$197,600",
+      "$240,000",
+      "$187,600"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Total comprehensive income is:",
+    "options": [
+      "$88,800",
+      "$177,600",
+      "$197,600",
+      "$240,000",
+      "$187,600"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not a step used to apply core principles of revenue recognition?",
+    "options": [
+      "Identify the performance obligations in the contract",
+      "Identify the contract with a customer",
+      "Ensure the sales price is fixed and determinable",
+      "Determine the transaction price"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If merchandise inventory at year-end is overstated by Br. 8000, the error will cause:",
+    "options": [
+      "Overstatement of cost of goods sold at year end by 8000",
+      "Understatement of gross profit of the year by 8000",
+      "Overstatement of net income of the year by 8000",
+      "Understatement of the net income of the year by 8000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The cost flow method that often parallels the actual physical flow of merchandise is the:",
+    "options": [
+      "FIFO method",
+      "Average cost method",
+      "Gross profit method",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When is an asset impaired?",
+    "options": [
+      "If the carrying amount exceeds the value in use",
+      "If the fair value less costs to sell exceeds carrying amount",
+      "If the value in use exceeds the fair value less costs to sell",
+      "If the carrying amount exceeds the recoverable amount"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hughes PLC has a debit balance of Birr 7,000 in its Allowance for Doubtful Accounts before adjustments. The firm estimates that Birr 59,000 of its receivables is uncollectible. The amount of bad debt expense which should be reported for the year is:",
+    "options": [
+      "Birr 52,000",
+      "Birr 66,000",
+      "Birr 59,000",
+      "Birr 7,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Company has sales of Br.100,000 and cost of goods available for sale of Br.145,000. If the gross profit rate is 42.9% on cost, the estimated cost of the ending inventory under the gross profit method is:",
+    "options": [
+      "Br.15,000",
+      "Br.30,000",
+      "Br.45,000",
+      "Br.75,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What amount should be determined as additional markup for the good?",
+    "options": [
+      "Zero",
+      "8",
+      "10",
+      "2"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a qualitative characteristic that enhance both relevance and faithful representation?",
+    "options": [
+      "Verifiability",
+      "Understandability",
+      "Timeliness",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is the ingredient of faithful representation?",
+    "options": [
+      "Materiality",
+      "Predictive value",
+      "Completeness",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "PPE have three important features that distinguish them from other types of assets. What are they?",
+    "options": [
+      "They have long lives, used in operations, and have physical substance",
+      "They are used in operations and have a useful life of more than one accounting period",
+      "They have long lives, used in operations and are expensive",
+      "They are tangible, have physical substance, and have a market value",
+      "They are used in operations, have long lives and have no physical substance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A business acquired land and two buildings for a single, lump-sum purchase price of $600,000. The land was assessed at $220,000 and the buildings at $100,000 and $80,000, respectively, for a total assessed value of $400,000. The land would be recorded at which cost?",
+    "options": [
+      "$600,000",
+      "$330,000",
+      "$300,000",
+      "$220,000",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which depreciation method does not use the salvage value in computing depreciation expense for the first year?",
+    "options": [
+      "Straight-line",
+      "Units of Production",
+      "Declining Balance",
+      "A and C",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An asset having a four-year service life and a salvage value of $15,000 was acquired for $135,000 cash on June 28. What will be the depreciation expense at the end of the first year, December 31?",
+    "options": [
+      "$30,000, using the straight-line method",
+      "$67,500, using the declining-balance method",
+      "$21,000, using the straight-line method",
+      "$33,750, using the declining-balance method",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An asset having a four-year service life and a salvage value of $15,000 was acquired for $135,000 cash on January 2 of Year One. What will be the depreciation expense for Year 2, ending December 31?",
+    "options": [
+      "$33,750, under the declining-balance method",
+      "$15,000, under the straight-line method",
+      "$33,750, under the straight-line method",
+      "$67,500, under the declining-balance method",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An asset having a four-year service life and a salvage value of $15,000 was acquired for $135,000 cash on April 5. Using straight-line depreciation, what will be the depreciation expense at the end of the first year, December 31?",
+    "options": [
+      "$30,000",
+      "$67,500",
+      "$15,000",
+      "$33,750",
+      "None of the above"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "Which of the following is expenditure whose economic benefits fully expire by the end of the period in which the expenditure is made?",
+    "options": [
+      "Revenue expenditure",
+      "Balance sheet expenditure",
+      "Long-term expenditure",
+      "Capital expenditure",
+      "Expenditure for a new building"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cost of equipment was $45,600. The accumulated depreciation is $45,600. The equipment was taken to a local disposal site and discarded. Which of the following is correct?",
+    "options": [
+      "There was a gain on disposal of $1,500",
+      "There was no gain or loss on disposal",
+      "There was a loss on disposal of $1,500",
+      "There was a gain on disposal of $1,500",
+      "There was a loss on disposal of $44,100"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The cost of equipment was $22,800. The carrying value of the equipment is $750. The equipment is sold for $900. Which of the following is correct?",
+    "options": [
+      "There was a loss on disposal of $22,050",
+      "There was a loss on disposal of $150",
+      "There was a gain on disposal of $150",
+      "There was a gain on disposal of $900",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A unit of equipment with a cost of $710,000 and accumulated depreciation of $641,000 was sold for $57,000. The journal entry to record the sale of this equipment would include all except which of the following?",
+    "options": [
+      "Loss on Disposal of Equipment, debit, $12,000",
+      "Gain on Disposal of Assets, credit, $12,000",
+      "Equipment, credit, $710,000",
+      "Cash, debit, $57,000",
+      "Accumulated Depreciation, Equipment, debit, $641,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Ophir Mining Company acquired an iron ore deposit for $6,000,000. The company's geologist estimated the deposit to contain 7,500,000 tons of iron ore. At the end of the first year, 900,000 tons had been extracted. The end-of-year journal entry to record the depletion of the iron ore would require which of the following?",
+    "options": [
+      "A credit to Iron Ore Deposit of $900,000",
+      "A debit to Depletion Expense of $900,000",
+      "A credit to Accumulated Depletion of $720,000",
+      "A debit to Accumulated Depletion of $720,000",
+      "None of the following"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Ophir Mining Company acquired an iron ore deposit for $6,000,000. The company's geologist estimated the deposit to contain 7,500,000 tons of iron ore. Extracting equipment with a 6-year service life and costing $850,000 was installed in the mine. At the end of the first year, 900,000 tons had been extracted. The end-of-year journal entry to record the depreciation of the extracting equipment would require which of the following?",
+    "options": [
+      "A credit to Accumulated Depreciation of $102,000",
+      "A debit to Accumulated Depletion of $102,000",
+      "A credit to Depreciation Expense of $102,000",
+      "A debit to Depletion Expense of $720,000",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A business paid Birr120,000 for two machines valued at current fair value of Birr90,000 and Birr60,000, respectively. The business will record these machines at:",
+    "options": [
+      "Birr90,000 and Birr60,000",
+      "Birr72,000 and Birr48,000",
+      "Birr60,000 each",
+      "Birr70,000 and Birr50,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following definitions fits depreciation?",
+    "options": [
+      "Allocation of the asset's fair value to expense over its useful life",
+      "Allocation of the asset's cost to expense over its useful life",
+      "Decrease in the asset's market value over its useful life",
+      "Increase in the fund set aside to replace the asset when it is worn out"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which depreciation method's amounts are not computed on the basis of time?",
+    "options": [
+      "Straight-line",
+      "Double-declining balance",
+      "Units of production",
+      "Sum-of-the-years-digits"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which depreciation method gives the largest amount of expense in the early years of using the asset and therefore is mostly best for income tax purpose?",
+    "options": [
+      "Straight line",
+      "Accelerated",
+      "Units of production",
+      "All are equal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company paid Birr450,000 for a building and depreciated it by the straight line method over a 40-year life with estimated residual value of Birr50,000. After 10 years, it became evident that the building's remaining useful life would be 40 years. Depreciation for the eleventh year is:",
+    "options": [
+      "Birr7,500",
+      "Birr10,000",
+      "Birr8,750",
+      "Birr12,500"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following items is revenue expenditure?",
+    "options": [
+      "Property tax paid on the land one year after it is acquired",
+      "Survey fee paid during the acquisition of the land",
+      "Legal fee paid to acquire the land",
+      "Building permit paid to construct a warehouse on the land"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not considered as part of cost of a new machine?",
+    "options": [
+      "Freight cost",
+      "Insurance cost for machine while in shipment",
+      "Maintenance cost to adjust the machine",
+      "Cost of installing the machine"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Land and building are purchased for Birr 150,000. Assuming the land is appraised at Birr 45,000 and the building at Birr 135,000, the cost of the land is:",
+    "options": [
+      "Birr 150,000",
+      "Birr 135,000",
+      "Birr 45,000",
+      "Birr 37,500"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements is wrong about disposal of plant asset by selling",
+    "options": [
+      "No gain should be recognized on disposal of plant Asset by selling",
+      "When selling price of the disposed asset is less than its carrying value, loss is recognized.",
+      "Gain is recognized when the selling price of the asset exceeds its carrying value.",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Amortization is computed in the same manner of which depreciation method?",
+    "options": [
+      "Straight line",
+      "Double declining balance",
+      "Units of production",
+      "Sum of years digits"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following payments is Not included in the cost of land?",
+    "options": [
+      "Removal of old building",
+      "Back property taxes paid",
+      "Legal fees",
+      "Cost of fencing and lighting with limited economic life"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "ABC Company sells to XY including the 10% sales tax rate Birr 10,000. What is the amount of sales tax payable recognized or recorded by ABC?",
+    "options": [
+      "Br. 1,000",
+      "Br. 900",
+      "Br. 909",
+      "Br. 9,000",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A typical provision is:",
+    "options": [
+      "Onerous contracts",
+      "Income tax payable",
+      "Pension payable",
+      "Account payable",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not part of current liabilities?",
+    "options": [
+      "Unearned revenue",
+      "Dividend payable",
+      "Warranty revenue",
+      "Environmental liability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A service type warranty is usually recorded during sells as:",
+    "options": [
+      "Debiting warranty expense and crediting warranty liability",
+      "Debiting earned service revenue and crediting unearned service revenue",
+      "Debiting cash and crediting unearned warranty liability",
+      "Debiting cash and crediting service warranty revenue",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following methods of amortization is normally used for intangible assets?",
+    "options": [
+      "Sum-of-the-years'-digits",
+      "Straight-line",
+      "Units of production",
+      "Double-declining-balance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not an intangible asset?",
+    "options": [
+      "Trade name",
+      "Research and development costs",
+      "Franchise",
+      "Copyrights"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The intangible asset goodwill may be",
+    "options": [
+      "Capitalized only when purchased.",
+      "Capitalized either when purchased or created internally.",
+      "Capitalized only when created internally.",
+      "Written off directly to retained earnings."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "R- Corporation purchased a limited-life intangible asset for $180,000 on May 1, 2006. It has a useful life of 10 years. What will be the amount of amortization expense that should be recorded on the intangible asset on December 31, 2008?",
+    "options": [
+      "$ -0-.",
+      "$36,000",
+      "$48,000",
+      "$18,000",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "X-company issued a 4 years term bond with a par value of 400,000, which pays 8% interest payable annually to yield 10% effective rate. The proceeds of this bond is",
+    "options": [
+      "Unrelated with par value",
+      "The same as the par value",
+      "Less than the par value",
+      "Greater than the par value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A typical provision is:",
+    "options": [
+      "Tax payable",
+      "Note payable",
+      "Cash",
+      "A lawsuits liability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In determining the amount of a provision, a company using IFRS should generally measure:",
+    "options": [
+      "Using the maximum amount of the loss in the range.",
+      "Using the midpoint of the range between the lowest possible loss and the highest possible loss.",
+      "Using the minimum amount of the loss in the range.",
+      "Using the weighted average of the single estimate."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements is false regarding investments in equity securities?",
+    "options": [
+      "The answer is not given",
+      "If the investor owns more than 50 percent of the outstanding voting common stock, the financial statements are consolidated",
+      "If the investor owns less than 20 percent of outstanding voting common stock, the equity method usually is used",
+      "If the investor owns less than 20 percent of outstanding voting common stock, the securities generally are reported at their fair value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When applying the equity method, an investor should report dividends from the investee as:",
+    "options": [
+      "A reduction in the investment account",
+      "An increase in the investment account",
+      "As other comprehensive income item",
+      "Dividend revenue"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not a current liability?",
+    "options": [
+      "Property tax payable",
+      "Income tax payable",
+      "Bond payable",
+      "Accounts Payable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Abebe Company issues Br. 2,500,000, 6%, 5-year bonds dated January 1, 2017. The bonds pay interest semiannually on July 1 and January 1. The bonds are issued to yield 6 %. What is the present value from the bond issue?",
+    "options": [
+      "Br. 2,150,000",
+      "Br. 2,500,000",
+      "Br. 2,608,600",
+      "Br. 2,609,400"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is ODD? The liability arises from",
+    "options": [
+      "Past experience",
+      "Law",
+      "Court decision",
+      "Contract"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A contract that evidences a claim to receive cash from other parties.",
+    "options": [
+      "A financial asset",
+      "Financial equity",
+      "Financial instrument",
+      "Financial liability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "X-company issued a 4 years term bond with a par value of 400,000, which pays 8% interest payable semi-annually to yield 10% effective rate. The proceeds of this bond is",
+    "options": [
+      "Unrelated with par value",
+      "The same as the par value",
+      "Less than the par value",
+      "Greater than the par value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Portion of bonds, mortgage notes, and other long-term indebtedness that matures within the next fiscal year is represented as:",
+    "options": [
+      "Account payable",
+      "Current maturity of long-term debt",
+      "Note payable",
+      "Refinancing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Calculate the right to use an asset?",
+    "options": [
+      "320,280",
+      "319,474",
+      "180,000",
+      "100,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How much is the initial balance of lease liability?",
+    "options": [
+      "145,250",
+      "146,296",
+      "154,296",
+      "158,493"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Calculate the interest expense for the end of the first year?",
+    "options": [
+      "19,947",
+      "19,629",
+      "15,849",
+      "14,525"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Calculate the balance of lease liability at the end of year one?",
+    "options": [
+      "124,342",
+      "132,285",
+      "162,358",
+      "192,365"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not a characteristic of the balance sheet?",
+    "options": [
+      "It is prepared for the time period.",
+      "The balance sheet provides information useful in assessing liquidity",
+      "The balance sheet reports the change in financial position",
+      "The major classifications of the balance sheet are assets, liabilities, and owners' equity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following statement is false regarding bank reconciliation?",
+    "options": [
+      "Deduct understatement of error during cash receipt.",
+      "Deduct Overstatement of error during cash receipt.",
+      "Deduct outstanding cheque.",
+      "Add Overstatement of error during cash payment."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following order is correct?",
+    "options": [
+      "Identifying the contract, identifying separate performance obligation, determining the transaction price, allocate the transaction price and recognize revenue.",
+      "Identifying the contract, determining the transaction price, identifying separate performance obligation, allocate the transaction price and recognize revenue.",
+      "Identifying the contract, allocate the transaction price, identifying separate performance obligation, determining the transaction price and recognize revenue.",
+      "Identifying the contract, identifying separate performance obligation, allocate the transaction price, recognize revenue and determining the transaction price."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In the statement of cash flows, payments to acquire debt instruments of other entities should be classified as cash out flows for;",
+    "options": [
+      "Operating activities",
+      "Investing activities",
+      "Financing activities",
+      "Both investment and financing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "ABC Co uses the percentage of completion method of accounting for its revenues from construction activities. In 2013, the company has a project in process with an estimated remaining cost of $300,000 on Dec 31, end of the fiscal year. The contract price was $1,000,000. Cost incurred to date (as of Dec 31, 2013) total $500,000. If the project was 50% complete as of Dec 31, 2012, what is the amount of revenues from construction to be recognized in 2013?",
+    "options": [
+      "$675,000",
+      "$625,000",
+      "$500,000",
+      "$125,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not an element of the profit or loss statement?",
+    "options": [
+      "Revaluation surplus",
+      "Realized gain on sale of building",
+      "Promotion expense",
+      "Office salaries expense"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Cash receipts from issuance of equity securities, bonds, and notes are referred to as:",
+    "options": [
+      "Cash inflow from investment activities",
+      "Cash inflow from financing activities",
+      "Cash out flow from financing activities",
+      "Cash inflow from operating"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is ODD? The liability arises from",
+    "options": [
+      "Contract",
+      "Law",
+      "Past experience",
+      "Court decision"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the accounting method that should be applied, If the business model is held to collect and sale and cash flow character is other than Solely principal and interest?",
+    "options": [
+      "Amortized cost",
+      "Fair value through OCI",
+      "Fair value through PL",
+      "Fair value through OCI or PL"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When applying the equity method, an investor should report dividends from the investee as:",
+    "options": [
+      "Dividend revenue",
+      "As other comprehensive income item",
+      "A reduction in the investment account",
+      "An increase in the investment account"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not a current liability?",
+    "options": [
+      "Property tax payable",
+      "Accounts Payable",
+      "Income tax payable",
+      "Bond payable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When a bond purchased at a Premium, Bond Interest income will be:",
+    "options": [
+      "Equal to the bond interest receipt.",
+      "Greater than the bond interest receipt.",
+      "Less than the bond interest receipt.",
+      "None of the above."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is not a criterion to consider an asset Held for sale asset.",
+    "options": [
+      "The asset must be available for immediate sale in its present condition.",
+      "An active program to locate a buyer must have been initiated",
+      "The sales should be expected to be completed within one year after the date of report.",
+      "The management must be committed to a plan to sell the asset."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An entity shall measure a non current asset (or disposal group) classified as held for sale",
+    "options": [
+      "Cost",
+      "Fair value less cost to sale",
+      "Lower of carrying amount and recoverable amount",
+      "Lower of carrying amount and fair value less cost to sale."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "East Africa Industries has a Br 1000 par value bond with an 8.5 coupon rate of interest outstanding. The bond has 10 years remaining to its maturity date. If the interest is paid annually and the required rate of return is 10%, which one of the following statement is correct?",
+    "options": [
+      "The bond is selling at its par value",
+      "The bond is selling at discount",
+      "The bond is selling at premium",
+      "All except A",
+      "None of them"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Nile Corporation declares and distributes a cash dividend that is a result of current earnings. How will the receipt of those dividends affect the investment account of the investor under each of the following accounting methods? Fair Value Method — Equity Method",
+    "options": [
+      "No effect — No effect",
+      "No effect — Decrease",
+      "Increase — Decrease",
+      "Decrease — No effect"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not among the main characteristics of plant assets",
+    "options": [
+      "Tangibility",
+      "Held for sale in the normal course of a business",
+      "Long lived",
+      "Used in the normal operations of a business",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ownership of 10% of the outstanding voting common stock of a company would usually result in",
+    "options": [
+      "The use of the equity method.",
+      "The use of the Fair Value method.",
+      "The use of the lower of cost or market method.",
+      "Consolidation of the subsidiary."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bonds that provide for payment of the principal in periodic installments are:",
+    "options": [
+      "Term bonds",
+      "Serial bonds",
+      "Junk bonds",
+      "Callable bonds",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The type of post-employment benefits applied in Ethiopia is:",
+    "options": [
+      "Defined contribution plans",
+      "Termination",
+      "Defined benefit plans",
+      "Short term employee benefits",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Actual interest costs’ capitalizing considers which of the following items?",
+    "options": [
+      "Amount to capitalize",
+      "Qualifying assets",
+      "Capitalization period",
+      "All of the above",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is not considered as part of cost of a new machine?",
+    "options": [
+      "Maintenance cost to adjust the machine",
+      "Freight cost",
+      "Insurance cost for machine while in shipment",
+      "Cost of installing the machine"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following definitions fits depreciation?",
+    "options": [
+      "Decrease in the asset's market value over its useful life",
+      "Allocation of the asset's fair value to expense over its useful life",
+      "Allocation of the asset's cost to expense over its useful life",
+      "Increase in the fund set aside to replace the asset when it is worn out"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A typical provision is:",
+    "options": [
+      "Cash",
+      "Tax payable",
+      "Note payable",
+      "A lawsuits liability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In determining the amount of a provision, a company using IFRS should generally measure:",
+    "options": [
+      "Using the minimum amount of the loss in the range.",
+      "Using the maximum amount of the loss in the range.",
+      "Using the midpoint of the range between the lowest possible loss and the highest possible loss.",
+      "Using the weighted average of the single estimate."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements is false regarding investments in equity securities?",
+    "options": [
+      "If the investor owns less than 20 percent of outstanding voting common stock, the equity method usually is used",
+      "The answer is not given",
+      "If the investor owns more than 50 percent of the outstanding voting common stock, the financial statements are consolidated",
+      "If the investor owns less than 20 percent of outstanding voting common stock, the securities generally are reported at their fair value"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When applying the equity method, an investor should report dividends from the investee as:",
+    "options": [
+      "As other comprehensive income item",
+      "A reduction in the investment account",
+      "An increase in the investment account",
+      "Dividend revenue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not a current liability?",
+    "options": [
+      "Property tax payable",
+      "Income tax payable",
+      "Bond payable",
+      "Accounts Payable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Abebe Company issues Br. 2,500,000, 6%, 5-year bonds dated January 1, 2017. The bonds pay interest semiannually on July 1 and January 1. The bonds are issued to yield 6 %. What is the present value from the bond issue?",
+    "options": [
+      "Br. 2,150,000",
+      "Br. 2,500,000",
+      "Br. 2,608,600",
+      "Br. 2,609,400"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A contract that evidences a claim to receive cash from other parties.",
+    "options": [
+      "A financial asset",
+      "Financial equity",
+      "Financial instrument",
+      "Financial liability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following about contingent liabilities is correct?",
+    "options": [
+      "They are a present obligation where the outflow of resources in the future is not probable.",
+      "They must be recognized in the statement of financial position.",
+      "They have the same accounting treatment as provisions.",
+      "They are a possible obligation where the outflow of resources in the future is probable."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the accounting method that should be applied, If the business model is held to collect and sale and cash flow character is other than Solely principal and interest?",
+    "options": [
+      "Fair value through OCI",
+      "Fair value through PL",
+      "Amortized cost",
+      "Fair value through OCI or PL"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the impairment loss on December 31, 2021 if the asset is impaired?",
+    "options": [
+      "The asset is not impaired",
+      "500,000",
+      "250,000",
+      "300,000",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How much depreciation will be recognizing on December 31,2022 on the book of the Company?",
+    "options": [
+      "500,000",
+      "250,000",
+      "1,000,000",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To report the equipment at fair value on December 31, 2020, ABC does:",
+    "options": [
+      "Records an Unrealized Loss on Revaluation—Equipment Br. 250,000",
+      "Reduces the Accumulated Depreciation—Equipment account by Br.600,000",
+      "Records an Unrealized Gain on Revaluation—Equipment Br. 150,000",
+      "Reduces the Equipment account by Br.75,000—it then is reported at its fair value of Br.2,400,000",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "PPE have three important features that distinguish them from other types of assets. What are they?",
+    "options": [
+      "They have long lives, used in operations and are expensive",
+      "They are tangible, have physical substance, and have a market value",
+      "They have long lives, used in operations, and have physical substance",
+      "They are used in operations and have a useful life of more than one accounting period",
+      "They are used in operations, have long lives and have no physical substance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A business acquired land and two buildings for a single, lump-sum purchase price of $600,000. The land was assessed at $220,000 and the buildings at $100,000 and $80,000, respectively, for a total assessed value of $400,000. The land would be recorded at which cost?",
+    "options": [
+      "$600,000",
+      "$330,000",
+      "$300,000",
+      "$220,000",
+      "None of the above"
+    ],
+    "correct": 1
+  }
+]
