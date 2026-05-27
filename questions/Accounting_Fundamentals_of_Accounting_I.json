@@ -1,0 +1,1004 @@
+[
+  {
+    "questionText": "Performing services on account will have the following effects on the components of the basic accounting equation:",
+    "options": [
+      "Increase assets and decrease equity.",
+      "Increase assets and increase equity.",
+      "Increase assets and increase liabilities.",
+      "Increase liabilities and increase equity."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about an account is true?",
+    "options": [
+      "The right side of an account is the debit or increase side.",
+      "An account is an individual accounting record of increases and decreases in specific asset, liability, and equity items.",
+      "There are separate accounts for specific assets and liabilities but only one account for equity items.",
+      "The left side of an account is the credit or decrease side."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The objective of financial reporting places most emphasis on:",
+    "options": [
+      "Reporting to capital providers.",
+      "Reporting on stewardship.",
+      "Providing specific guidance related to specific needs.",
+      "Providing information to individuals who are experts in the field."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If a machine whose original cost is 40,000 having accumulated depreciation 12,000, were sold for 34,000 then while preparing Cash Flow Statement its effect on cash flow will be:",
+    "options": [
+      "Cash flow from financing activities 34,000",
+      "Cash flow from financing activities 6,000",
+      "Cash flow from investing activities 34,000",
+      "Cash flow from investing activities 6,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The financial statement or statements that pertain to a stated period of time is (are) the:",
+    "options": [
+      "Balance sheet",
+      "Trial balance",
+      "Work sheet",
+      "Income statement"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "From legal point of view which one of the following has separate legal entity?",
+    "options": [
+      "Partnership",
+      "Sole proprietorship",
+      "Corporation",
+      "Manufacturing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an economic event or condition that directly changes an entity’s financial condition or directly affects its results of operations?",
+    "options": [
+      "Assets",
+      "Liabilities",
+      "Journaling",
+      "Business transaction"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements describe transactions that would be recorded in the accounting system?",
+    "options": [
+      "An exchange of an asset for a promise to pay.",
+      "An exchange of a promise for another promise.",
+      "An employee dismissed from the job.",
+      "A plan to sell machinery."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The users of financial information who want to assess the ability of the entity to continue in business to supply them with the necessary goods and services and to know their outstanding balances:",
+    "options": [
+      "Suppliers",
+      "Customers",
+      "Creditors",
+      "Consultants"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following events is not a business transaction?",
+    "options": [
+      "Investment of cash by the owner",
+      "Hired employees in the business",
+      "Incurred utility expenses for the month",
+      "Earned revenue from service provided"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements is incorrect?",
+    "options": [
+      "Accounting as a language of business can be viewed as an information system that provides essential information about economic activities of an entity to various individuals and groups.",
+      "It is the role of the accounting system to provide economic information for users on which to base their decisions concerning the allocation of scarce resources.",
+      "The goal of accounting is to identify, analyze, record, report, and interpret economic data for use by decision makers.",
+      "Management accounting is the accounting area that intends to serve information needs of external users."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements is incorrect:",
+    "options": [
+      "Revenue recognition principle requires that companies recognize revenue in the accounting period in which the performance obligation is satisfied.",
+      "Going concern assumption requires that the activities of the entity be kept separate and distinct from the activities of its owner and any other economic entities.",
+      "Selection of measurement principles generally relates to trade-offs between relevance and faithful representation.",
+      "The periodicity assumption implies that a company can divide its economic activities into artificial time periods."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements is false?",
+    "options": [
+      "Double-entry system records the dual effect of each transaction.",
+      "Normal balance of an account is the side where a decrease in the account is recorded.",
+      "Accrual-basis accounting records transactions in the periods in which the events occur.",
+      "An account is an individual accounting record of increases and decreases in specific items."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a resource that a business organization owns and possesses the capacity to provide future economic benefits?",
+    "options": [
+      "Capital",
+      "Assets",
+      "Liabilities",
+      "Equity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Desta opens a computer service company and invests €60,000 cash in exchange for ordinary shares. This transaction results in:",
+    "options": [
+      "Increase account receivable",
+      "Increase liability account",
+      "Increase equity account",
+      "Increase equipment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is incorrect?",
+    "options": [
+      "In order to ensure high-quality financial reporting, accountants present financial statements in conformity with accounting standards that are issued by standard setting bodies.",
+      "The fair value principle states that assets and liabilities should be reported at fair value (the price received to sell an asset or settle a liability).",
+      "Relevance and faithful representation are two primary qualities that make accounting information useful for decision-making.",
+      "Relevance means that the numbers and descriptions match what really existed or happened they are factual."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hello Company buys a $30,000 car on credit. The transaction will affect the statement;",
+    "options": [
+      "Income Statement",
+      "Statement of financial position",
+      "Owner’s equity statement",
+      "Cash flow statement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The accounting part that intends to serve accounting information needs of external users.",
+    "options": [
+      "Management Accounting",
+      "Cost Accounting",
+      "Financial Accounting",
+      "Tax Accounting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "International Financial Reporting Standards (IFRS) is considered to be more:",
+    "options": [
+      "Rule-based",
+      "Principle-based",
+      "The same to GAAP",
+      "Bases on guidelines"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements is false?",
+    "options": [
+      "A statement of cash flows summarizes information about the cash inflows (receipts) and outflows (payments) for a specific period of time.",
+      "A statement of financial position reports the assets, liabilities, and equity at a specific date.",
+      "A retained earnings statement summarizes the changes in retained earnings for a specific period of time.",
+      "An income statement presents the revenues, expenses, changes in equity, and resulting net income or net loss for a specific period of time."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is different",
+    "options": [
+      "Dividend",
+      "Share capital",
+      "Liabilities",
+      "Expenses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In Accounting Companies initially record transactions in chronological order. Here the phrase chronological order, implies?",
+    "options": [
+      "The order of transactions based on their transaction size.",
+      "The order in which business transactions occur.",
+      "The sequence in which financial statement items are presented.",
+      "The serially ordered number of records where transactions appear."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Determine the ending balance in cash for cash account of the general ledger after posting. The beginning balance on March 1 was ETB 6000; on March 4 debited cash for ETB 2580 from sales of services; on March 15 paid ETB 4000 for salaries and wages expense; on March 19 paid ETB 920 for utilities expense.",
+    "options": [
+      "ETB 8580",
+      "ETB 3660",
+      "ETB (2340)",
+      "ETB 13500"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A trial balance:",
+    "options": [
+      "Is the same under GAAP and IFRS",
+      "Proves that transactions are recorded correctly.",
+      "Proves that all transactions have been recorded.",
+      "Will not balance if a correct journal entry is posted twice."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The general policy for using proper currency signs (Birr, dollar, yen, pound, etc.) is the same for both GAAP and IFRS. This policy is:",
+    "options": [
+      "Currency signs only appear in ledgers and journal entries.",
+      "Currency signs are only shown in the trial balance.",
+      "Currency signs are shown for all compound journal entries.",
+      "Currency signs are shown in trial balances and financial statements."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The trial balance of CCC Corporation had accounts with the following normal balances: Cash $5,000, Service Revenue $85,000, Salaries and Wages Payable $4,000, Salaries and Wages Expense $40,000, Rent Expense $10,000, Share Capital— Ordinary $42,000, Dividends $15,000 and Equipment $61,000. In preparing a trial balance, the total in the debit column is:",
+    "options": [
+      "$131,000",
+      "$216,000",
+      "$91,000",
+      "$116,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One difference between GAAP and IFRS is that:",
+    "options": [
+      "IFRS uses accrual-concepts, and GAAP uses primarily the cash basis of accounting.",
+      "GAAP uses a different journal, ledger and posting process than IFRS.",
+      "IFRS uses more fair value measurements than GAAP.",
+      "The double-entry accounting system is different between GAAP and IFRS."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How much employee salary does TAT owes and pays in cash on Nov.?",
+    "options": [
+      "ETB 5,000",
+      "ETB 10,000",
+      "ETB 2,000",
+      "ETB 200"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When will be the second pay day?",
+    "options": [
+      "November – 19",
+      "November – 26",
+      "December – 3",
+      "December – 4"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How much is accrued salaries, assuming adjusting entries are dated November 30?",
+    "options": [
+      "ETB 10,000",
+      "ETB 1400",
+      "ETB 7,000",
+      "ETB 3,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Debits:",
+    "options": [
+      "Increase both assets and liabilities.",
+      "Decrease both assets and liabilities.",
+      "Increase assets and decrease liabilities.",
+      "Decrease assets and increase liabilities."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Accounts that normally have debit balances are:",
+    "options": [
+      "Assets, expenses, and revenues.",
+      "Assets, expenses, and owner’s capital.",
+      "Assets, liabilities, and owner’s drawings.",
+      "Assets, owner’s drawings, and expenses."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Adjustments for unearned revenues:",
+    "options": [
+      "Decrease liabilities and increase revenues.",
+      "Have an assets and revenues account relationship.",
+      "Increase assets and increase revenues.",
+      "Decrease revenues and decrease assets."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The receipt of cash from customers in payment of their accounts would be recorded by:",
+    "options": [
+      "A debit to Cash and a credit to Accounts Receivable.",
+      "A debit to Accounts Receivable and a credit to Cash.",
+      "A debit to Cash and a credit to Accounts Payable.",
+      "A debit to Accounts Payable and a credit to Cash."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statements about the accrual basis of accounting is false?",
+    "options": [
+      "Events that change a company’s financial position are recorded in the periods in which the events occur.",
+      "Revenue is recognized in the period in which services are performed.",
+      "The accrual basis is in accordance with IFRS.",
+      "Revenue and expense are recorded only when cash is received, or only when cash is paid."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An accrued expense is an expense",
+    "options": [
+      "Incurred but not paid",
+      "Paid but not incurred",
+      "Incurred and paid",
+      "Not reasonably estimable"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is correct statement about revenue recognition principle",
+    "options": [
+      "A company recognizes revenue when it agrees to perform a service or sell a product to a customer.",
+      "Requires that companies recognize revenue in the accounting period in which they receive cash.",
+      "Revenue shall be recognized in the accounting period in which the performance obligation is satisfied.",
+      "It is based on a simple rule, \"Let the revenue follow the expenses\""
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The purchase of supplies on account should result in:",
+    "options": [
+      "A debit to Accounts payable and a credit to Cash.",
+      "A debit to cash and a credit to Accounts Payable.",
+      "A debit to Supplies and a credit to Accounts Payable.",
+      "A debit to Supplies and a credit to Accounts Receivable."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In accordance with International Financial Reporting Standards, Revenue and Expense Recognition principles are defined, what does recognition implies in this context?",
+    "options": [
+      "To defer or accrue",
+      "To record or report",
+      "To enter in to a contract with a customer.",
+      "To reconcile"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Companies record transactions in the period in which the events occur.",
+    "options": [
+      "Time period assumption.",
+      "Accrual – basis accounting.",
+      "Cash – basis of accounting",
+      "Fiscal year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Expenses paid in cash before they are used or consumed.",
+    "options": [
+      "Unearned revenue",
+      "Accrued revenue",
+      "Prepaid expenses",
+      "Accrued expense"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify correct statement regarding periodicity assumption.",
+    "options": [
+      "An assumption requiring companies to use calendar year only",
+      "It is also called time period assumption",
+      "Company’s year-end shall not vary from year to year",
+      "Fiscal year only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which statement is incorrect concerning the adjusted trial balance?",
+    "options": [
+      "Proves equality of debits and credits",
+      "Basis for preparation of financial statements",
+      "Lists accounts segregated by assets and liabilities",
+      "Prepared after adjusting entries are posted"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Supplies adjustment entry.",
+    "options": [
+      "Debit Supplies 800; Credit Supplies Expense 800",
+      "Debit Supplies Expense 800; Credit Supplies 800",
+      "Debit Supplies 700; Credit Supplies Expense 700",
+      "Debit Supplies Expense 700; Credit Supplies 700"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Identify the incorrect statement.",
+    "options": [
+      "Closing entries produce zero balance in temporary accounts",
+      "More debits than credits in income statement columns means net loss",
+      "Post-closing trial balance includes permanent and temporary accounts",
+      "Errors should be corrected by correcting entries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Gross profit will result if:",
+    "options": [
+      "Operating expenses are less than net income",
+      "Sales revenues are greater than operating expenses",
+      "Sales revenues are greater than cost of goods sold",
+      "Operating expenses are greater than cost of goods sold"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under perpetual inventory system:",
+    "options": [
+      "Purchases debited to Merchandise Inventory",
+      "Purchases on account debited to Purchases",
+      "Purchase returns debited to Purchase Returns and Allowances",
+      "Freight costs debited to Freight-out"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Sales accounts with normal debit balance:",
+    "options": [
+      "Sales Discounts",
+      "Sales Returns and Allowances",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Payment in full after discount and return.",
+    "options": [
+      "700",
+      "686",
+      "685",
+      "650"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Account appearing in perpetual inventory system ledger:",
+    "options": [
+      "Purchases",
+      "Freight-in",
+      "Cost of Goods Sold",
+      "Purchase Discounts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sale of goods for cash in perpetual inventory system:",
+    "options": [
+      "One entry for COGS and inventory reduction",
+      "One entry for cash and sales revenue",
+      "Two entries needed",
+      "Two entries with inventory and sales revenue"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Accounting cycle differs because:",
+    "options": [
+      "Additional inventory adjustment may be needed",
+      "Closing entries not required",
+      "Post-closing trial balance not required",
+      "Multiple-step income statement required"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Multiple-step income statement shows all except:",
+    "options": [
+      "Gross profit",
+      "Cost of goods sold",
+      "Sales revenue section",
+      "Investing activities section"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under periodic inventory system:",
+    "options": [
+      "Purchases debited to Merchandise Inventory",
+      "Purchases debited to Purchases",
+      "Purchase returns debited to Purchase Returns and Allowances",
+      "Freight costs debited to Purchases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In determining cost of goods sold:",
+    "options": [
+      "Purchase discounts deducted from net purchases",
+      "Freight-out added to net purchases",
+      "Purchase returns deducted from net purchases",
+      "Freight-in added to net purchases"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Net sales equal:",
+    "options": [
+      "395,000",
+      "300,300",
+      "414,700",
+      "375,300",
+      "339,700"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Buyer informs seller of returns by issuing:",
+    "options": [
+      "Debit memorandum",
+      "Credit memorandum",
+      "Invoice",
+      "Bill"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Income statement deducting total expenses from total revenues:",
+    "options": [
+      "Multiple-step form",
+      "Account form",
+      "Single-step form",
+      "Report format"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Expense classified as other expense:",
+    "options": [
+      "Depreciation expense office equipment",
+      "Sales salaries expense",
+      "Insurance expense",
+      "Interest expense"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Inventory system updating records continuously:",
+    "options": [
+      "Periodic inventory system",
+      "Just in time inventory system",
+      "Perpetual inventory system",
+      "Economic order quantity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Seller granting price reduction for defective merchandise:",
+    "options": [
+      "Purchase discount",
+      "Purchase return",
+      "Purchase allowance",
+      "Freight out"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "FOB shipping point means:",
+    "options": [
+      "Ownership transfers on arrival",
+      "Buyer accepts ownership at shipment",
+      "Seller pays shipping costs",
+      "Goods remain seller inventory in transit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "True statement about merchandising expenses:",
+    "options": [
+      "Selling expenses include advertising and delivery",
+      "G&A expenses include HR and accounting",
+      "Other expenses do not include interest expense",
+      "Operating expenses separated into selling and G&A"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Not a basic element of accounting system:",
+    "options": [
+      "Input device",
+      "Information processor",
+      "Internet",
+      "Source documents"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Software controlling hardware:",
+    "options": [
+      "Application software",
+      "System software",
+      "Peachtree",
+      "Computer hardware"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Not accounting application software:",
+    "options": [
+      "QuickBooks",
+      "STATA",
+      "Peachtree",
+      "ACCPAC"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Not true regarding computerized accounting system:",
+    "options": [
+      "Performs processing manually",
+      "Increases efficiency",
+      "Handles complex transactions",
+      "Reduces record keeping cost"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Method recognizing revenue when earned and expense when incurred:",
+    "options": [
+      "Accrual basis",
+      "Cash basis",
+      "Real time posting",
+      "Batch posting"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Cannot be taken as difference between manual and computerized systems:",
+    "options": [
+      "Speed",
+      "Meaning",
+      "Backup",
+      "Source document"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "System that interprets and summarizes information:",
+    "options": [
+      "Input device",
+      "Information processor",
+      "Output device",
+      "Source documents"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Group of related accounts showing details of GL balances:",
+    "options": [
+      "General journal",
+      "Subsidiary ledger",
+      "Special journal",
+      "General ledger"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Saving data permanently means:",
+    "options": [
+      "Creating data",
+      "Maintaining data",
+      "Backup data",
+      "Restore data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Correct match:",
+    "options": [
+      "Sales Journal – recording credit sales",
+      "Purchase journal – recording cash purchase",
+      "Special Journal – recording detail balance",
+      "Payment Journal – recording credit purchase"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which is considered cash?",
+    "options": [
+      "Certificates of deposit",
+      "Money market checking accounts",
+      "Money market savings certificates",
+      "Postdated checks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cash Over and Short account:",
+    "options": [
+      "Not generally accepted",
+      "Debited when fund is over",
+      "Debited when fund is short",
+      "Contra account to cash"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Correct balance of cash after reconciliation:",
+    "options": [
+      "35,400",
+      "29,250",
+      "30,500",
+      "31,750"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Trade receivables include:",
+    "options": [
+      "Advances to employees",
+      "Income tax refunds",
+      "Insurance claims",
+      "None of these"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Bank credits are:",
+    "options": [
+      "Added to bank balance",
+      "Deducted from bank balance",
+      "Added to book balance",
+      "Deducted from book balance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Journal entries for bank reconciliation:",
+    "options": [
+      "Taken from bank section only",
+      "May debit Office Expense for service charges",
+      "May credit A/R for NSF check",
+      "May debit A/P for NSF check"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Deposit appears on bank statement as:",
+    "options": [
+      "Debit",
+      "Credit",
+      "Debit memorandum",
+      "Credit memorandum"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A bank statement:",
+    "options": [
+      "Shows bank financial position",
+      "Credit reference letter",
+      "Bill from bank",
+      "Shows account activity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Cash disbursement control more effective when:",
+    "options": [
+      "Bills paid in cash",
+      "AP clerk makes payments",
+      "Payments made by cheque",
+      "All purchases on credit"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Added to balance per books on reconciliation:",
+    "options": [
+      "Outstanding cheques",
+      "Deposits in transit",
+      "Notes collected by bank",
+      "Service charges"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Bank reconciliation should be prepared:",
+    "options": [
+      "When loan denied",
+      "When fraud suspected",
+      "To explain differences",
+      "By cheque signer"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cheque error treatment:",
+    "options": [
+      "Add 45 to bank balance",
+      "Add 45 to book balance",
+      "Deduct 45 from bank balance",
+      "Deduct 438 from book balance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Accounts receivable includes:",
+    "options": [
+      "Non-trade receivables",
+      "Amounts owed by customers",
+      "Interest receivable",
+      "Loans to officers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Written promise to pay:",
+    "options": [
+      "Accounts Receivable",
+      "Accounts Payable",
+      "Notes Receivable",
+      "Trade Receivable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Maturity value of note:",
+    "options": [
+      "8,000",
+      "10,000",
+      "10,300",
+      "11,200"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Discounted note receivable debited for:",
+    "options": [
+      "Face value",
+      "Maturity value",
+      "Maturity less accrued interest",
+      "Maturity plus accrued interest"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Not considered cash:",
+    "options": [
+      "Coins",
+      "Money orders",
+      "Currency",
+      "Post-dated cheques"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Not suggested for internal control:",
+    "options": [
+      "Anyone can sign cheques",
+      "Different people approve and pay",
+      "Blank cheques securely stored",
+      "Monthly bank reconciliation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Would not cause bank debit:",
+    "options": [
+      "Service charge",
+      "Collection of note receivable",
+      "EFT transfer",
+      "NSF cheques"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Accounts receivable includes:",
+    "options": [
+      "Non-trade receivables",
+      "Amounts owed by customers",
+      "Interest receivable",
+      "Loans to officers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Primary source of wholesaler revenue:",
+    "options": [
+      "Sale of fixed assets",
+      "Sale of merchandise",
+      "Service fees",
+      "Investment income"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "FOB Destination transportation costs covered by:",
+    "options": [
+      "Buyer",
+      "Seller",
+      "Both parties",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In “1/15, n/40”, 15 indicates:",
+    "options": [
+      "Discount rate",
+      "Net payment",
+      "Discount period",
+      "Credit period"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Credit service revenue transaction effect:",
+    "options": [
+      "Increase service revenue",
+      "Increase accounts payable",
+      "Decrease accounts receivable",
+      "Decrease capital"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Trial balance will not balance if:",
+    "options": [
+      "Correct entry posted twice",
+      "Supplies purchase credited to Cash",
+      "Withdrawal recorded 5,500 instead of 550",
+      "AP and Cash both recorded as 86 instead of 860"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Paying creditors on account results in:",
+    "options": [
+      "Increase cash",
+      "Increase accounts payable",
+      "Decrease accounts payable",
+      "Decrease accounts receivable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Correct statement about adjustments:",
+    "options": [
+      "Unearned revenue adjustment decreases liability and increases revenue",
+      "Prepaid expenses recorded as assets",
+      "Cash received before service creates liability",
+      "Accrued revenues may be unrecorded until completion",
+      "All of the above"
+    ],
+    "correct": 4
+  }
+]
