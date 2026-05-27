@@ -1,0 +1,1202 @@
+[
+  {
+    "questionText": "What is the goal of financial management?",
+    "options": [
+      "To maximize profits",
+      "To minimize losses",
+      "To maximize shareholder wealth",
+      "To minimize expenses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the difference between financial management and accounting?",
+    "options": [
+      "Financial management focuses on managing funds, while accounting focuses on tracking and reporting financial information",
+      "Financial management focuses on bookkeeping, while accounting focuses on budgeting",
+      "Financial management focuses on budgeting, while accounting focuses on managing funds",
+      "Financial management and accounting are the same thing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which financial decision involves determining how much money the company should borrow?",
+    "options": [
+      "Investment decision",
+      "Financing decision",
+      "Dividend decision",
+      "Working capital management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would an increase in interest rates affect a company's cost of borrowing?",
+    "options": [
+      "Increase the cost of borrowing",
+      "Decrease the cost of borrowing",
+      "No effect on the cost of borrowing",
+      "Cannot be determined"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following financial decisions is most important for the long-term success of the company?",
+    "options": [
+      "Investment decision",
+      "Financing decision",
+      "Dividend decision",
+      "Working capital management"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following financial decisions involves determining the appropriate mix of debt and equity to finance the company's operations?",
+    "options": [
+      "Investment decisions",
+      "Capital budgeting decisions",
+      "Financial decisions",
+      "Dividend decisions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an advantage of financing with equity?",
+    "options": [
+      "It is cheaper than debt financing",
+      "It provides a tax shield",
+      "It does not require repayment of principal or interest",
+      "It involves less risk than debt financing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Why is financial management important for businesses?",
+    "options": [
+      "It helps them increase profits",
+      "It helps them minimize costs",
+      "It helps them make better decisions regarding financing and investments",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following financial ratios measures a company's ability to meet its short-term obligations?",
+    "options": [
+      "Debt-to-equity ratio",
+      "Return on investment ratio",
+      "Asset turnover ratio",
+      "Current ratio"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How would you interpret a low return on assets (ROA) and a high return on equity (ROE)?",
+    "options": [
+      "The company is not profitable",
+      "The company is not efficient in utilizing its assets",
+      "The company has low debt-to-equity ratios",
+      "The company is profitable but relies heavily on debt"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What does the term \"financial market\" refer to?",
+    "options": [
+      "A marketplace where goods and services are traded",
+      "A marketplace where stocks and bonds are traded",
+      "A marketplace where real estate is bought and sold",
+      "A marketplace where gold and silver are traded"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the difference between primary and secondary financial markets?",
+    "options": [
+      "Primary markets deal with new securities, while secondary markets deal with already issued securities.",
+      "Primary markets deal with already issued securities, while secondary markets deal with new securities.",
+      "Primary markets deal with stocks, while secondary markets deal with bonds.",
+      "Primary markets deal with long-term securities, while secondary markets deal with short-term securities."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How do changes in interest rates affect the value of bonds?",
+    "options": [
+      "A decrease in interest rates causes bond prices to rise.",
+      "An increase in interest rates causes bond prices to rise.",
+      "A decrease in interest rates causes bond prices to fall.",
+      "An increase in interest rates causes bond prices to fall."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not a type of financial institution?",
+    "options": [
+      "Credit unions",
+      "Insurance companies",
+      "Commercial banks",
+      "Manufacturing companies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following financial markets is most important for the allocation of financial resources?",
+    "options": [
+      "Money market",
+      "Bond market",
+      "Stock market",
+      "Foreign exchange market"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which financial market is used for short-term borrowing and lending?",
+    "options": [
+      "Bond market",
+      "Equity market",
+      "Money market",
+      "Foreign exchange market"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is capital budgeting?",
+    "options": [
+      "Managing a company's daily cash flow",
+      "Selecting long-term investments that match corporate objectives",
+      "Funding short-term operations",
+      "Maximizing a firm's profits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the difference between debt financing and equity financing?",
+    "options": [
+      "Debt financing comes from investors, while equity financing comes from borrowing.",
+      "Debt financing is an investment in a company, while equity financing requires repayment.",
+      "Debt financing involves interest payments, while equity financing does not.",
+      "Debt financing is short-term, while equity financing is long-term."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How would you interpret a high debt-to-equity ratio?",
+    "options": [
+      "The company is at risk of bankruptcy.",
+      "The company is highly leveraged.",
+      "The company has a low risk of default.",
+      "The company has a high rate of return on investment."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors is not considered when making capital budgeting decisions?",
+    "options": [
+      "Cash flow analysis",
+      "Discount rate",
+      "Market trends",
+      "Expected rate of return"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is working capital management?",
+    "options": [
+      "Managing a company's long-term investments",
+      "Managing a company's debt",
+      "Managing a company's daily operations",
+      "Managing a company's fixed assets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the difference between net present value and internal rate of return?",
+    "options": [
+      "NPV is a measure of a project's profitability, while IRR takes into account the time value of money.",
+      "IRR is a measure of a project's profitability, while NPV takes into account the time value of money.",
+      "Both measure a project's profitability, but IRR is more commonly used.",
+      "Both measure a project's profitability, but NPV is more commonly used."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How does financial leverage affect a company's risk and return?",
+    "options": [
+      "Increases both risk and return",
+      "Decreases both risk and return",
+      "Increases risk and decreases return",
+      "Decreases risk and increases return"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the difference between shareholder wealth maximization and profit maximization?",
+    "options": [
+      "Shareholder wealth maximization focuses on long-term value creation, while profit maximization is concerned with short-term profits.",
+      "Shareholder wealth maximization does not consider the interests of stakeholders other than shareholders, while profit maximization does.",
+      "Shareholder wealth maximization is a more conservative approach than profit maximization.",
+      "Shareholder wealth maximization is concerned with revenue growth, while profit maximization only focuses on costs."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following would be an example of a decision that is in line with the goal of maximizing shareholder value?",
+    "options": [
+      "Making a large charitable donation to support a local organization",
+      "Reducing research and development spending to increase profits for the current year",
+      "Investing in a new technology that is expected to yield long-term benefits",
+      "Focusing on cost-cutting measures to reduce expenses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How does the goal of maximizing shareholder value align with the economic concept of efficient markets?",
+    "options": [
+      "The goal of maximizing shareholder value requires companies to engage in illegal insider trading to earn profits.",
+      "The goal of maximizing shareholder value is not related to efficient markets.",
+      "The goal of maximizing shareholder value aligns with the efficient markets hypothesis because it assumes that stock prices reflect all available information.",
+      "The goal of maximizing shareholder value aligns with the efficient markets hypothesis because it assumes that investors are irrational."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the difference between a partnership and a limited liability company (LLC)?",
+    "options": [
+      "A partnership has no liability protection for its owners, while an LLC does.",
+      "A partnership only has one owner, while an LLC can have multiple owners.",
+      "A partnership offers limited liability protection for its owners, while an LLC offers more extensive liability protection.",
+      "There is no difference between a partnership and an LLC."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following business forms would be most appropriate for a small business owner who wants to retain complete control over the business?",
+    "options": [
+      "Corporation",
+      "Sole proprietorship",
+      "Partnership",
+      "Limited liability company"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of financial analysis?",
+    "options": [
+      "To predict future financial performance",
+      "To understand the company's financial health and performance",
+      "To compare the company's performance to that of its competitors",
+      "To make investment decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does a trend analysis aim to do?",
+    "options": [
+      "Compare a company's financial performance to that of its competitors",
+      "Analyze a company's past financial statements to identify trends over time",
+      "Predict future financial performance based on past performance",
+      "Identify areas where cost-cutting measures can be implemented"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which financial ratio would be most useful for evaluating a company's liquidity?",
+    "options": [
+      "Debt to equity ratio",
+      "Return on investment ratio",
+      "Current ratio",
+      "Asset turnover ratio"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How would you use financial analysis to evaluate a company's profitability?",
+    "options": [
+      "By looking at the company's current ratio",
+      "By analyzing the company's operating margin",
+      "By analyzing the company's revenue growth rate",
+      "By comparing the company's financial ratios to those of its competitors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which financial analysis method would you use to identify potential areas for improvement in a company's financial performance?",
+    "options": [
+      "Ratio analysis",
+      "Trend analysis",
+      "Vertical analysis",
+      "Horizontal analysis"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the difference between a liquidity ratio and a profitability ratio?",
+    "options": [
+      "Liquidity ratios compare how much a company owes to how much it owns, while profitability ratios compare revenue to expenses.",
+      "Liquidity ratios are used to evaluate long-term financial stability, while profitability ratios focus on short-term profitability.",
+      "Liquidity ratios evaluate a company's ability to meet short-term obligations, while profitability ratios evaluate a company's earnings and ability to generate a profit.",
+      "Liquidity ratios focus on a company's income statement, while profitability ratios focus on its balance sheet."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following financial analyses could be used to identify potential investment opportunities in a particular market?",
+    "options": [
+      "Vertical analysis",
+      "Horizontal analysis",
+      "Ratio analysis",
+      "Comparative analysis"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How would you use trend analysis in financial analysis?",
+    "options": [
+      "To predict future financial performance",
+      "To estimate the company's valuation",
+      "To evaluate the company's historical financial performance",
+      "To identify potential competitors within the industry"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which financial analysis tool would be most helpful in evaluating a company's overall financial health?",
+    "options": [
+      "Ratio analysis",
+      "Trend analysis",
+      "Vertical analysis",
+      "Horizontal analysis"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the purpose of a financial ratio?",
+    "options": [
+      "To determine the market value of a company",
+      "To analyze a company's financial health and performance",
+      "To predict future trends in the industry",
+      "To calculate the company's outstanding debt"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the current ratio used for in financial ratio analysis?",
+    "options": [
+      "To measure the profitability of a company",
+      "To determine the liquidity of a company",
+      "To calculate the long-term solvency of a company",
+      "To evaluate the efficiency of a company"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If a company has a debt-to-equity ratio of 2.5, what does this mean?",
+    "options": [
+      "The company has more equity than debt",
+      "The company is highly leveraged",
+      "The company has a great potential for growth",
+      "The company is generating high profits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does a gross margin ratio measure?",
+    "options": [
+      "The profitability of a company",
+      "The liquidity of a company",
+      "The efficiency of a company's operations",
+      "The market value of a company"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What types of conclusions can be drawn from a trend analysis of a company's financial ratios?",
+    "options": [
+      "Future predictions of the company's financial performance",
+      "Identification of weaknesses and strengths in the company's financial health over time",
+      "Comparison of the company's financial ratios to those of competitors",
+      "Comparison of the company's financial ratios to those of other industries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a liquidity ratio in financial analysis?",
+    "options": [
+      "To evaluate a company's ability to generate a profit",
+      "To determine the amount of debt a company has",
+      "To assess a company's ability to meet its short-term obligations",
+      "To calculate the value of a company's stock"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the difference between the current ratio and the quick ratio?",
+    "options": [
+      "The current ratio includes inventory in its calculation, while the quick ratio does not.",
+      "The current ratio measures a company's ability to meet its short-term obligations, while the quick ratio measures its overall financial health.",
+      "The current ratio is a percentage, while the quick ratio is measured in dollars.",
+      "The current ratio and the quick ratio are the same thing."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you use the current ratio to evaluate a company's liquidity?",
+    "options": [
+      "By dividing its total liabilities by its total assets",
+      "By comparing its current assets to its current liabilities",
+      "By comparing its earnings to its expenses",
+      "By dividing its net income by its total assets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you interpret a current ratio of 1.5 for a company?",
+    "options": [
+      "The company has more liabilities than assets",
+      "The company is experiencing financial difficulties",
+      "The company has the ability to pay its short-term debts",
+      "The company is generating high profits"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How would you determine if a company's quick ratio is too low?",
+    "options": [
+      "By comparing it to the industry average",
+      "By dividing its total assets by its total liabilities",
+      "By analyzing its long-term solvency",
+      "By comparing it to the company's gross profits"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the current ratio used for in financial analysis?",
+    "options": [
+      "To evaluate a company's long-term debt",
+      "To assess a company's risk of defaulting on its loans",
+      "To measure a company's short-term liquidity",
+      "To determine a company's overall financial health"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a company has $100,000 in current assets and $50,000 in current liabilities, what is its current ratio?",
+    "options": [
+      "0.5",
+      "1.0",
+      "1.5",
+      "2.0"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the acid test ratio used for in financial analysis?",
+    "options": [
+      "To evaluate a company's long-term debt",
+      "To measure a company's short-term liquidity",
+      "To assess a company's profitability",
+      "To determine a company's overall financial health"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If a company has $100,000 in current assets, $30,000 in inventory, and $50,000 in current liabilities, what is its acid test ratio?",
+    "options": [
+      "1.4",
+      "2.0",
+      "2.3",
+      "3.3"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you interpret an acid test ratio of 0.8 for a company?",
+    "options": [
+      "The company has more liabilities than assets",
+      "The company is experiencing financial difficulties",
+      "The company has a low level of debt",
+      "The company is generating high profits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the difference between the inventory turnover ratio and the receivables turnover ratio?",
+    "options": [
+      "The inventory turnover ratio only measures inventory, while the receivables turnover ratio only measures receivables.",
+      "The inventory turnover ratio measures how quickly inventory is sold, while the receivables turnover ratio measures how quickly receivables are collected.",
+      "The inventory turnover ratio only includes current assets, while the receivables turnover ratio includes all assets.",
+      "The inventory turnover ratio measures a company's profitability, while the receivables turnover ratio measures its efficiency."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you use the asset turnover ratio to evaluate a company's efficiency?",
+    "options": [
+      "By dividing its net income by its total assets",
+      "By dividing its revenue by its total assets",
+      "By dividing its expenses by its total assets",
+      "By dividing its liabilities by its total assets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does a low receivables turnover ratio indicate for a company?",
+    "options": [
+      "The company is efficiently collecting its receivables from customers",
+      "The company has a high level of debt",
+      "The company is experiencing financial difficulties",
+      "The company has a high level of inventory on hand"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How would you determine if a company's inventory turnover ratio is too low?",
+    "options": [
+      "By comparing it to the industry average",
+      "By dividing its total assets by its total liabilities",
+      "By analyzing its long-term debt",
+      "By comparing it to the company's gross margin ratio"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the purpose of a leverage ratio in financial analysis?",
+    "options": [
+      "To evaluate a company's overall financial health",
+      "To assess a company's short-term liquidity",
+      "To measure a company's level of debt",
+      "To determine a company's profitability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the difference between the debt-to-assets ratio and the debt-to-equity ratio?",
+    "options": [
+      "The debt-to-assets ratio measures a company's level of debt, while the debt-to-equity ratio measures its ability to meet short-term obligations.",
+      "The debt-to-assets ratio measures a company's level of debt, while the debt-to-equity ratio measures its long-term solvency.",
+      "The debt-to-assets ratio includes all liabilities, while the debt-to-equity ratio only includes long-term debt.",
+      "The debt-to-assets ratio and the debt-to-equity ratio are the same thing."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you use the interest coverage ratio to evaluate a company's ability to service its debt?",
+    "options": [
+      "By dividing its net income by its total assets",
+      "By dividing its earnings before interest and taxes by its interest expense",
+      "By dividing its cash flow from operating activities by its total debt",
+      "By dividing its liabilities by its total assets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does a high debt-to-equity ratio indicate for a company?",
+    "options": [
+      "The company has a low level of debt",
+      "The company is generating high profits",
+      "The company is efficiently managing its assets",
+      "The company has a high level of financial risk"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How would you determine if a company's debt-to-assets ratio is too high?",
+    "options": [
+      "By comparing it to the industry average",
+      "By dividing its net income by its total assets",
+      "By analyzing its long-term solvency",
+      "By comparing it to the company's gross margin ratio"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the purpose of a profitability ratio in financial analysis?",
+    "options": [
+      "To assess a company's short-term liquidity",
+      "To measure a company's efficiency in using its assets",
+      "To evaluate the profitability of a company",
+      "To measure a company's level of debt"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the difference between return on assets (ROA) and return on equity (ROE)?",
+    "options": [
+      "ROA measures a company's efficiency, while ROE measures its profitability.",
+      "ROA measures a company's profitability, while ROE measures its efficiency.",
+      "ROA measures a company's overall financial health, while ROE measures its long-term solvency.",
+      "ROA and ROE are the same thing."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you use the gross profit margin to evaluate a company's profitability?",
+    "options": [
+      "By dividing its net income by its total assets",
+      "By dividing its revenue by its expenses",
+      "By dividing its gross profit by its revenue",
+      "By dividing its operating income by its net income"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What does a low net profit margin indicate for a company?",
+    "options": [
+      "The company is generating high profits",
+      "The company is inefficient in managing its costs",
+      "The company has a low level of debt",
+      "The company is experiencing financial difficulties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you determine if a company's return on investment (ROI) is too low?",
+    "options": [
+      "By comparing it to the industry average",
+      "By dividing its total assets by its total liabilities",
+      "By analyzing its long-term debt",
+      "By comparing it to the company's gross profit margin"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which profitability ratio measures how much net income a company generates relative to its revenue?",
+    "options": [
+      "Gross profit margin",
+      "Net profit margin",
+      "Return on assets",
+      "Return on equity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the difference between gross profit and net profit?",
+    "options": [
+      "Gross profit includes operating expenses, while net profit does not.",
+      "Gross profit includes the cost of goods sold, while net profit includes all expenses.",
+      "Gross profit measures a company's profitability, while net profit measures its ability to generate cash flow.",
+      "Gross profit and net profit are the same thing."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a market value ratio in financial analysis?",
+    "options": [
+      "To evaluate a company's overall financial health",
+      "To assess a company's short-term liquidity",
+      "To measure a company's level of debt",
+      "To assess a company's market value and investor confidence"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the difference between price-to-earnings (P/E) ratio and earnings-per-share (EPS)?",
+    "options": [
+      "P/E ratio measures the price of a stock relative to its earnings, while EPS measures the total earnings of a company.",
+      "P/E ratio measures the total earnings of a company, while EPS measures the price of a stock relative to its earnings.",
+      "P/E ratio measures the market value of a company, while EPS measures its book value.",
+      "P/E ratio and EPS are the same thing."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you use the price-to-book (P/B) ratio to evaluate a company's market value?",
+    "options": [
+      "By dividing its market capitalization by its book value",
+      "By dividing its net income by its total assets",
+      "By dividing its earnings per share by its stock price",
+      "By dividing its price-earnings ratio by its earnings per share"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What does a high price-to-sales (P/S) ratio indicate for a company?",
+    "options": [
+      "The company has a low level of profitability",
+      "The company is generating high profits",
+      "The company has a low level of debt",
+      "The company has a high level of financial risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you determine if a company's market capitalization is too high?",
+    "options": [
+      "By comparing it to the industry average",
+      "By dividing its net income by its total assets",
+      "By analyzing its long-term solvency",
+      "By comparing it to the company's gross profit margin"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What does a higher return on equity (ROE) indicate for a company?",
+    "options": [
+      "The company is generating more profits with less equity",
+      "The company is generating lower profits with more equity",
+      "The company is inefficient in using its assets to generate profits",
+      "The company has a low level of debt"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you use the debt-to-total assets ratio to evaluate a company's level of debt?",
+    "options": [
+      "By dividing its net income by its total assets",
+      "By dividing its total liabilities by its total assets",
+      "By dividing its total equity by its total assets",
+      "By dividing its earnings per share by its stock price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does a low gross profit margin suggest about a company's pricing strategy?",
+    "options": [
+      "The company is pricing its products too high",
+      "The company is pricing its products too low",
+      "The company is inefficient in managing its costs and expenses",
+      "The company is generating high profits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you determine whether a company's return on assets (ROA) is high or low compared to a similar company?",
+    "options": [
+      "By comparing it to the industry average",
+      "By dividing its revenue by its expenses",
+      "By analyzing its long-term solvency",
+      "By comparing it to the industry's net income"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the problem with using financial ratios to compare companies in different industries?",
+    "options": [
+      "Different industries have different accounting standards",
+      "Different industries have different levels of debt",
+      "Different industries have different levels of profitability",
+      "Financial ratios cannot be used to compare companies in different industries"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Why might a company's financial statements not reflect its true financial health?",
+    "options": [
+      "The company may manipulate its financial statements",
+      "The company may use different accounting methods than other companies",
+      "The company may have hidden liabilities or assets",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Why might financial ratios lead to incorrect conclusions about a company's financial health?",
+    "options": [
+      "Financial ratios may not reflect long-term trends",
+      "Financial ratios may focus on short-term metrics",
+      "Financial ratios may not account for differences between companies",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How does the time value of money affect investing?",
+    "options": [
+      "Investing allows money to grow over time due to compound interest",
+      "Investing is not affected by the time value of money",
+      "Investing only benefits investors in the short-term",
+      "Investing can lead to a loss of value over time"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you calculate the future value of a lump sum investment?",
+    "options": [
+      "By multiplying the present value by the interest rate and the number of periods",
+      "By dividing the present value by the interest rate and the number of periods",
+      "By adding the present value to the interest rate and the number of periods",
+      "By subtracting the present value from the interest rate and the number of periods"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What factors affect the present value of an investment?",
+    "options": [
+      "The time horizon, interest rate, and compounding frequency",
+      "The time horizon, asset class, and tax implications",
+      "The interest rate, asset class, and fees",
+      "The compounding frequency, tax implications, and fees"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you determine whether an investment with a high interest rate is a good investment?",
+    "options": [
+      "By comparing it to the industry standard for similar investments",
+      "By calculating the future value of the investment",
+      "By calculating the net present value of the investment",
+      "By comparing it to the historical rate of inflation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the future value of a single amount?",
+    "options": [
+      "The amount of money you will have in the future if you invest a single amount today",
+      "The amount of money you will owe in the future if you borrow a single amount today",
+      "The amount of money you currently have in your bank account",
+      "The amount of money you earned in the past"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the relationship between interest rates and the future value of a single amount?",
+    "options": [
+      "Higher interest rates lead to a higher future value",
+      "Higher interest rates lead to a lower future value",
+      "Interest rates have no impact on the future value",
+      "The relationship between interest rates and the future value is inverse"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you calculate the future value of a single amount with annual compounding?",
+    "options": [
+      "FV = PV x (1 + r/n) ^ nt",
+      "FV = PV x (1 + r) ^ t",
+      "FV = PV x r x t",
+      "FV = PV / (1 + r) ^ t"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would an increase in the time to maturity affect the future value of a single amount?",
+    "options": [
+      "An increase in the time to maturity would increase the future value",
+      "An increase in the time to maturity would decrease the future value",
+      "An increase in the time to maturity would have no impact on the future value",
+      "The impact of an increase in the time to maturity would depend on the interest rate"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you evaluate whether an investment with a high return is a better choice than one with a lower return in terms of future value?",
+    "options": [
+      "By calculating the net present value of each investment",
+      "By comparing the future values of each investment",
+      "By considering the tax implications of each investment",
+      "By comparing the historical performance of each investment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the present value of a single amount?",
+    "options": [
+      "The current value of a future amount of money",
+      "The amount of money you currently have in your bank account",
+      "The amount of money you need to pay in the future",
+      "The amount of money you earned in the past"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How does the discount rate affect the present value of a single amount?",
+    "options": [
+      "A higher discount rate leads to a higher present value",
+      "A higher discount rate leads to a lower present value",
+      "The discount rate has no impact on the present value",
+      "The impact of the discount rate on the present value is inverse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you calculate the present value of a single amount with monthly compounding?",
+    "options": [
+      "PV = FV / (1 + r) ^ n",
+      "PV = FV x (1 + r) ^ n",
+      "PV = FV / (1 + r/n) ^ nt",
+      "PV = FV x r x t"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How would a decrease in the interest rate affect the present value of a single amount?",
+    "options": [
+      "A decrease in the interest rate would increase the present value",
+      "A decrease in the interest rate would decrease the present value",
+      "A decrease in the interest rate would have no impact on the present value",
+      "The impact of a decrease in the interest rate would depend on the compounding frequency"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you evaluate whether it is better to receive a lump sum payment today or a series of payments in the future?",
+    "options": [
+      "By comparing the net present value of each option",
+      "By comparing the future value of each option",
+      "By comparing the tax implications of each option",
+      "By considering the historical performance of similar investments"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the future value of an annuity?",
+    "options": [
+      "The amount of money you will have in the future if you invest a series of equal payments today",
+      "The amount of money you will owe in the future if you borrow a series of equal payments today",
+      "The amount of money you currently have in your bank account",
+      "The amount of money you earned in the past"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Why is the future value of an annuity greater than the future value of a single amount?",
+    "options": [
+      "An annuity receives more interest over time than a single amount",
+      "An annuity is invested for a longer period of time than a single amount",
+      "An annuity compounds interest more frequently than a single amount",
+      "The future value of an annuity is not necessarily greater than the future value of a single amount"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you calculate the future value of an annuity with monthly payments?",
+    "options": [
+      "FV = PMT x [(1 + r) ^ n - 1] / r",
+      "FV = PMT x (1 + r) ^ n",
+      "FV = PMT x r x n",
+      "FV = PMT / (1 + r) ^ n"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would the length of the annuity affect the future value of an annuity?",
+    "options": [
+      "A longer annuity period would increase the future value",
+      "A longer annuity period would decrease the future value",
+      "The length of the annuity would have no impact on the future value",
+      "The impact of the length of the annuity would depend on the interest rate"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you evaluate whether a larger periodic payment or a longer annuity period is a better way to increase the future value of an annuity?",
+    "options": [
+      "By comparing the future values of each option",
+      "By considering the tax implications of each option",
+      "By comparing the historical performance of similar investments",
+      "By comparing the net present value of each option"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is an annuity?",
+    "options": [
+      "A series of equal payments made at irregular intervals",
+      "A series of unequal payments made at regular intervals",
+      "A series of equal payments made at regular intervals",
+      "A series of unequal payments made at irregular intervals"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the difference between a simple annuity and a deferred annuity?",
+    "options": [
+      "A simple annuity begins payments immediately, while a deferred annuity begins payments at a later date",
+      "A simple annuity makes irregular payments, while a deferred annuity makes equal payments at regular intervals",
+      "A simple annuity has a fixed interest rate, while a deferred annuity has a variable interest rate",
+      "There is no difference between a simple annuity and a deferred annuity"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would the interest rate affect the present value of an annuity?",
+    "options": [
+      "A higher interest rate would decrease the present value",
+      "A higher interest rate would increase the present value",
+      "The interest rate would have no impact on the present value",
+      "The impact of the interest rate would depend on the payment schedule"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is a perpetuity annuity?",
+    "options": [
+      "An annuity that pays equal payments for a specified period of time",
+      "An annuity that pays equal payments for the rest of one's life",
+      "An annuity that pays equal payments at irregular intervals",
+      "An annuity that increases payments over time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a deferred annuity?",
+    "options": [
+      "An annuity that begins payments immediately",
+      "An annuity that delays payments until a future date",
+      "An annuity that has a variable interest rate",
+      "An annuity that makes payments at irregular intervals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you calculate the present value of a perpetuity annuity?",
+    "options": [
+      "PV = PMT / r",
+      "PV = PMT x (1 / r)",
+      "PV = PMT x r",
+      "PV = PMT / (1 - r)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you determine whether a variable annuity or a fixed annuity is a better choice for an investor?",
+    "options": [
+      "By comparing the past performance of each option",
+      "By considering the tax implications of each option",
+      "By comparing the future values of each option",
+      "By evaluating the risk tolerance of the investor"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How would you evaluate whether a term certain annuity or a life annuity is a better choice for retirement income?",
+    "options": [
+      "By comparing the past performance of each option",
+      "By considering the tax implications of each option",
+      "By comparing the future values of each option",
+      "By evaluating the investor's life expectancy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the nominal rate?",
+    "options": [
+      "The annual interest rate quoted by a financial institution before factoring in compounding",
+      "The annual interest rate after factoring in compounding",
+      "The total amount of interest earned on an investment",
+      "The amount of money invested"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the effective annual rate?",
+    "options": [
+      "The annual interest rate after factoring in compounding",
+      "The annual interest rate quoted by a financial institution before factoring in compounding",
+      "The total amount of interest earned on an investment",
+      "The amount of money invested"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you calculate the effective annual rate from a quoted nominal rate with quarterly compounding?",
+    "options": [
+      "EAR = (1 + r) ^ n",
+      "EAR = (1 + r/n) ^ n – 1",
+      "EAR = (1 + r/4) ^ 4",
+      "EAR = r/4"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you compare two investments with different nominal rates and compounding frequencies?",
+    "options": [
+      "By comparing the total amount of interest earned on each investment",
+      "By comparing the future value of each investment",
+      "By comparing the present value of each investment",
+      "By comparing the effective annual rate of each investment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How would you evaluate whether a loan with a lower nominal rate and a higher frequency of compounding is better than a loan with a higher nominal rate and a lower frequency of compounding?",
+    "options": [
+      "By comparing the total amount of interest paid on each loan",
+      "By comparing the future value of each loan",
+      "By comparing the present value of each loan",
+      "By comparing the effective annual rate of each loan"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is financial risk?",
+    "options": [
+      "Losses due to negative market movements",
+      "Potential gains from positive market movements",
+      "Unexpected inflation",
+      "The absence of diversification"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is beta in finance?",
+    "options": [
+      "A measure of market risk",
+      "A measure of specific risk",
+      "A measure of inflation",
+      "A measure of interest rate risk"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the risk-return tradeoff?",
+    "options": [
+      "The higher the risk, the higher the potential return",
+      "The lower the risk, the higher the potential return",
+      "The higher the risk, the lower the potential return",
+      "The lower the risk, the lower the potential return"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How is expected return calculated?",
+    "options": [
+      "By multiplying the investment's potential returns by its probability of occurring",
+      "By dividing the investment's potential returns by its probability of occurring",
+      "By adding the investment's potential returns and dividing by the number of potential returns",
+      "By subtracting the investment's potential returns from its probability of occurring"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "How would you calculate the variance of an investment's returns?",
+    "options": [
+      "By subtracting the expected return from each potential return and squaring the differences",
+      "By dividing the sum of the squared differences between each potential return and the expected return by the number of potential returns minus one",
+      "By adding the squared differences between each potential return and the expected return and dividing by the number of potential returns minus one",
+      "By subtracting each potential return from the expected return and dividing the differences by the number of potential returns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How would you evaluate the risk of a portfolio of investments?",
+    "options": [
+      "By calculating the standard deviation of the portfolio's returns",
+      "By multiplying the returns of each investment in the portfolio by its beta",
+      "By adding the expected returns of each investment in the portfolio",
+      "By dividing the total value of the portfolio by the number of investments"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is a portfolio in finance?",
+    "options": [
+      "A collection of investments",
+      "A collection of debts",
+      "A collection of assets",
+      "A collection of expenses"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is diversification in portfolio management?",
+    "options": [
+      "Spreading investments across different asset classes",
+      "Spreading investments across different countries",
+      "Spreading investments across different industries",
+      "All of the above"
+    ],
+    "correct": 3
+  }
+]
