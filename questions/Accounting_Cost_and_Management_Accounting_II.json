@@ -1,0 +1,1022 @@
+[
+  {
+    "questionText": "Which of the following is true about CVP assumptions?",
+    "options": [
+      "Units manufactured equal to units sold.",
+      "All revenues and costs can be added and compared without taking into account the time value of money.",
+      "The unit selling price, unit variable costs, and fixed costs are known and constant.",
+      "All of the above.",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Break even sale in unit is:",
+    "options": [
+      "Quantity of output sold at which the operating income is zero.",
+      "Quantity of output sold that makes total revenue equals total cost.",
+      "Quantity of output sold that makes total revenue equals total cost plus operating income.",
+      "All of the above.",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following would not affect the break-even point?",
+    "options": [
+      "Number of units sold",
+      "Variable expense per unit",
+      "Total fixed expenses",
+      "Selling price per unit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The contribution margin ratio always increases when the:",
+    "options": [
+      "Break-even point increases.",
+      "Break-even point decreases.",
+      "Variable expenses as a percentage of net sales decrease.",
+      "Variable expenses as a percentage of net sales increase"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a company increases its selling price by Br 2 per unit due to an increase in its variable labor cost of Br 2 per unit, the break-even point in units will:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Not change.",
+      "Change but direction cannot be determined."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "As volume decreases,",
+    "options": [
+      "Variable cost per unit decreases.",
+      "Fixed cost in total decreases.",
+      "Variable cost in total remains the same.",
+      "Fixed cost per unit increases"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The break-even point in unit sales is found by dividing total fixed expenses by:",
+    "options": [
+      "The contribution margin ratio",
+      "The variable expenses per unit",
+      "The sales price per unit",
+      "The contribution margin per unit"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Bethlehem Shoe Company is a single product firm. Bethlehem is predicting that a price increase next year will not cause unit sales to decrease. What effect would this price increase have?",
+    "options": [
+      "Increase / Decrease",
+      "Decrease / Decrease",
+      "Increase / No effect",
+      "Decrease / No effect"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In evaluating different alternatives, it is useful to concentrate on",
+    "options": [
+      "Variable costs.",
+      "Fixed costs.",
+      "Total costs.",
+      "Relevant costs."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements describes variable costs?",
+    "options": [
+      "Costs that vary on a per-unit basis as the level of activity changes",
+      "Costs that vary in total in direct proportion to changes in the level of activity.",
+      "Costs that remain the same in total dollar amount as the level of activity changes.",
+      "Costs that vary on a per-unit basis but remain the same in total as the level of activity changes."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Given the sales and contribution margin ratios, the contribution margin ratio for the company as a whole would be:",
+    "options": [
+      "25%",
+      "75%",
+      "33.3%",
+      "It is impossible to determine from the given data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If ABC wants to generate net operating income of Br 12,000, what will its sales in birrs have to be?",
+    "options": [
+      "Br 132,000",
+      "Br 136,000",
+      "Br 168,000",
+      "Br 176,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Total sales during the year would have amounted to:",
+    "options": [
+      "Br 300,000",
+      "Br 420,000",
+      "Br 450,000",
+      "Br 475,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The break-even point in unit sales was:",
+    "options": [
+      "15,000",
+      "9,900",
+      "14,100",
+      "12,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Zumra’s break-even point next year in sales dollars:",
+    "options": [
+      "Br 72,000",
+      "Br 144,000",
+      "Br 192,000",
+      "Br 240,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Effect on break-even point and margin of safety:",
+    "options": [
+      "Increase / Increase",
+      "Increase / Decrease",
+      "Decrease / Decrease",
+      "Decrease / Increase"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which assumptions are commonly made?",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 3",
+      "1, 2, and 3"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The contribution margin per unit is:",
+    "options": [
+      "Br 7",
+      "Br 17",
+      "Br 22",
+      "Br 16"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Sales at the breakeven point:",
+    "options": [
+      "Br 250,000",
+      "Br 375,000",
+      "Br 600,000",
+      "Br 150,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a make-or-buy decision, relevant costs include:",
+    "options": [
+      "Unavoidable fixed costs",
+      "Avoidable fixed costs",
+      "Fixed factory overhead costs applied to products",
+      "Fixed selling and administrative expenses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In one-time-special order",
+    "options": [
+      "Relevant cost equals variable costs to make special order",
+      "The special order will be accepted if the incremental revenue exceeds the incremental costs",
+      "Manufacturers do not accept a special order if it has a negative impact on operating income",
+      "All of the above",
+      "B and C"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "Sunk costs",
+    "options": [
+      "Are relevant.",
+      "Are differential.",
+      "Have future implications.",
+      "Are ignored when evaluating alternatives"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Products should be ranked based on:",
+    "options": [
+      "Selling price per unit",
+      "Contribution margin per unit",
+      "Contribution margin per unit of the constraining resource",
+      "Unit sales volume"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If Product X is discontinued, overall company NOI should:",
+    "options": [
+      "Increase by $2,000 per year",
+      "Decrease by $2,000 per year",
+      "Increase by $38,000 per year",
+      "Decrease by $38,000 per year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Effect on Wroclaw's profit next year if Aluminum Division is dropped:",
+    "options": [
+      "Br 500,000 decrease",
+      "Br 800,000 increase",
+      "Br 1,000,000 increase",
+      "Br 1,200,000 increase"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Effect on net operating income if special order accepted:",
+    "options": [
+      "Br 120,000 decrease",
+      "Br 160,000 increase",
+      "Br 240,000 decrease",
+      "Br 280,000 increase"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To maximize total contribution margin, produce:",
+    "options": [
+      "2,000 X; 500 Y; 200 Z",
+      "0 X; 0 Y; 200 Z",
+      "0 X; 500 Y; 0 Z",
+      "1,000 X; 0 Y; 0 Z"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Effect on overall profit if processed further and sold:",
+    "options": [
+      "Br 16,000 more profit",
+      "Br 20,800 more profit",
+      "Br 40,800 less profit",
+      "Br 10,000 less profit"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Relevant cost of making component to compare with buying price:",
+    "options": [
+      "Br 15.55",
+      "Br 11.50",
+      "Br 19.15",
+      "Br 15.10"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is true?",
+    "options": [
+      "Quantities of various products constitute total unit sales.",
+      "There is no unique breakeven number for multiple products.",
+      "There is a unique breakeven number for multiple products.",
+      "A & B",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Feedback regarding previous actions may affect;",
+    "options": [
+      "Future predictions.",
+      "Implementation of the decision.",
+      "The decision model.",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The formal process of choosing between alternatives is known as",
+    "options": [
+      "A relevant model.",
+      "A decision model.",
+      "An alternative model.",
+      "A prediction model."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "For decision making, a listing of the relevant costs",
+    "options": [
+      "Will help the decision maker concentrate on the pertinent data.",
+      "Will only include future costs.",
+      "Will only include costs that differ among alternatives.",
+      "Should include all of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A computer system installed last year is an example of",
+    "options": [
+      "A sunk cost.",
+      "A relevant cost.",
+      "A differential cost.",
+      "An avoidable cost."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A budget is a plan of action expressed in:",
+    "options": [
+      "Financial terms",
+      "Non‐financial terms",
+      "Both A & B",
+      "Subjective matter"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The reason why people budget is:",
+    "options": [
+      "Scarcity of economic resources.",
+      "Periodic planning requires budgeting.",
+      "To think ahead of time.",
+      "To satisfy legal and contractual requirements."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is not a component of master budget?",
+    "options": [
+      "Operational budget.",
+      "Long range plan.",
+      "Financial budget.",
+      "Continuous budget.",
+      "Rolling budget."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An Unfavorable variance occurs when:",
+    "options": [
+      "Budgeted revenues exceed Actual revenues",
+      "Actual costs are less than budgeted costs",
+      "Actual costs exceed budgeted costs",
+      "A and B",
+      "A and C"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "The difference between flexible budget and static budget is known as",
+    "options": [
+      "Static budget variance.",
+      "Sales volume variance.",
+      "Flexible budget variance.",
+      "Quantity variance."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The flexible budget variance for revenues is known as:",
+    "options": [
+      "Price variance",
+      "Efficiency variance",
+      "Flexible budget variance",
+      "Sales price variance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the amount of the sales volume variance for the direct materials?",
+    "options": [
+      "4000U.",
+      "4000F.",
+      "5000U.",
+      "5000F."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the amount of the sales quantity variance?",
+    "options": [
+      "30,000F.",
+      "36,000F.",
+      "36,000U.",
+      "30,000U."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The sales price variance for the company is",
+    "options": [
+      "3,300F.",
+      "6,600F.",
+      "6,600U.",
+      "3,300U."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is not an operating budget?",
+    "options": [
+      "Cash budget.",
+      "Direct materials budget",
+      "Selling and administrative expense budget",
+      "Production budget."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "March production will be?",
+    "options": [
+      "10,900",
+      "11,800",
+      "12,200",
+      "14,600"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not a major benefit of budget?",
+    "options": [
+      "Compels planning",
+      "Eliminates innovation",
+      "Provides performance criteria",
+      "Promotes coordination and communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "All but one of the following is a financial budget",
+    "options": [
+      "Budgeted income statement",
+      "Cash budget",
+      "Budgeted balance sheet",
+      "Capital budgets",
+      "All except \"a\""
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "One of the following is not true about flexible budgets",
+    "options": [
+      "It is affected by the volume of an activity level",
+      "Prepared for ranges of volume of activity levels",
+      "Provides a dynamic basis for performance evaluation",
+      "Only prepared after actual operations",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is true about variances",
+    "options": [
+      "All variances ultimately affect operating income",
+      "If actual is greater than budget, the resulting variance is favorable",
+      "Favorable variances always indicate good performance",
+      "Variances arising from different level of efficiency are output variances",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The type of budget variance that measures operating performance by comparing an actual cost with budgeted costs for the actual level of activity is?",
+    "options": [
+      "Sales volume variance",
+      "Flexible budget variance",
+      "Static budget variance",
+      "Price variance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents the normal sequence in which the below budgets are prepared?",
+    "options": [
+      "Sales, Balance Sheet, Income Statement",
+      "Balance Sheet, Sales, Income Statement",
+      "Sales, Income Statement, Balance Sheet",
+      "Income Statement, Sales, Balance Sheet"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The budget method that maintains a constant twelve month planning horizon is called:",
+    "options": [
+      "An operating budget.",
+      "A capital budget.",
+      "A continuous budget.",
+      "A master budget."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "All the following are considered to be benefits of participative budgeting, except for:",
+    "options": [
+      "Individuals are recognized as part of a team",
+      "Budget estimates are prepared by those directly involved",
+      "Top management need not be concerned with profitability",
+      "Managers are held responsible for goals"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT an objective of the budgeting process?",
+    "options": [
+      "Communicate management's plans",
+      "Allocate resources effectively",
+      "Ensure company growth",
+      "Uncover bottlenecks before they occur"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Required production equals:",
+    "options": [
+      "Budgeted sales + beginning inventory + desired ending inventory",
+      "Budgeted sales - beginning inventory + desired ending inventory",
+      "Budgeted sales - beginning inventory - desired ending inventory",
+      "Budgeted sales + beginning inventory - desired ending inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Units to be purchased during the month:",
+    "options": [
+      "14,500",
+      "15,500",
+      "15,000",
+      "17,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A major disadvantage of static budgets is:",
+    "options": [
+      "Difficulty in development",
+      "Cost behavior of overhead",
+      "Comparing different activity levels",
+      "Length and complexity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Comparing actual results to a budget based on actual activity is possible with a:",
+    "options": [
+      "Monthly budget",
+      "Master budget",
+      "Flexible budget",
+      "Rolling budget"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A static budget is:",
+    "options": [
+      "A budget for a single level of activity",
+      "A budget that ignores inflation",
+      "Used only for fixed costs",
+      "Used when product mix does not change"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Opportunity cost in Hal’s decision:",
+    "options": [
+      "Cost of textbooks",
+      "Cost of cola",
+      "Hal's lost wages at Burger Breath",
+      "Both A and B above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a make-or-buy decision, relevant costs include:",
+    "options": [
+      "Unavoidable fixed costs",
+      "Avoidable fixed costs",
+      "Fixed factory overhead applied",
+      "Fixed selling and admin expense"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Products should be ranked based on:",
+    "options": [
+      "Selling price per unit",
+      "Contribution margin per unit",
+      "Contribution margin per unit of constraining resource",
+      "Unit sales volume"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A decision model involves a(n):",
+    "options": [
+      "Informal method using sensitivity analysis",
+      "Formal method using quantitative and qualitative analyses",
+      "Informal method discussed in reports",
+      "Formal lower-level management method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is NOT true regarding relevant costs and revenues?",
+    "options": [
+      "They are sunk costs and historical revenues",
+      "They are expected costs and revenues",
+      "They occur in the future",
+      "They differ among alternatives"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which statement is true regarding relevant information?",
+    "options": [
+      "Differences between expected future results are relevant",
+      "Historical costs are relevant",
+      "All future revenues and costs are relevant",
+      "Quantitative nonfinancial factors outweigh qualitative factors"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which statement is correct about relevant costs and revenues?",
+    "options": [
+      "The sunk cost is relevant",
+      "The projected revenues are relevant",
+      "Initial investment and all costs are relevant",
+      "Only costs are relevant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A relevant revenue is revenue that is a(n):",
+    "options": [
+      "Past revenue differing among alternatives",
+      "Future revenue differing among alternatives",
+      "In-hand revenue",
+      "Earned revenue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is true of special order pricing?",
+    "options": [
+      "It represents a short-run pricing decision",
+      "Special price should not be below regular price",
+      "It is a long-term pricing decision",
+      "Incremental revenue must cover fixed costs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "It makes sense to accept a one-time special order if",
+    "options": [
+      "Incremental revenues exceed incremental costs",
+      "Additional fixed costs are incurred",
+      "Customer is in same market segment",
+      "Incremental revenue equals operating income"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Dantley's Furniture manufactures rustic furniture. The cost accounting system estimates manufacturing costs to be $180 per table, consisting of 80% variable costs and 20% fixed costs. The company has surplus capacity available. It is Back Forrest's policy to add a 55% markup to full costs. Dantley's Furniture is invited to bid on a one-time-only special order to supply 120 rustic tables. What is the lowest price Dantley's Furniture should bid on this special order?",
+    "options": [
+      "$16,200",
+      "$17,280",
+      "$21,600",
+      "$29,160"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A ETB 2.00 increase in a product's variable expense per unit accompanied by a ETB 2.00 increase in its selling price per unit will:",
+    "options": [
+      "Decrease the degree of operating leverage.",
+      "Decrease the contribution margin.",
+      "Have no effect on the break-even volume.",
+      "Have no effect on the contribution margin ratio"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Carver Company produces a product which sells for ETB 40. Variable manufacturing costs are ETB 18 per unit. Fixed manufacturing costs are ETB 5 per unit based on the current level of activity, and fixed selling and administrative costs are ETB 4 per unit. A selling commission of 15% of the selling price is paid on each unit sold. The contribution margin per unit is:",
+    "options": [
+      "ETB 7",
+      "ETB 17",
+      "ETB 22",
+      "ETB 16"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The contribution margin ratio is equal to:",
+    "options": [
+      "Total manufacturing expenses/Sales.",
+      "(Sales - Variable expenses)/Sales.",
+      "1 - (Gross Margin/Sales).",
+      "1 - (Contribution Margin/Sales)."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Tice Company is a medium-sized manufacturer of lamps. During the year a new line called \"HOW\" was made available to Tice's customers. The break-even point for sales of HOW is ETB 200,000 with a contribution margin of 40%. Assuming that the profit for the HOW line during the year amounted to ETB 100,000, total sales during the year would have amounted to:",
+    "options": [
+      "ETB 300,000",
+      "ETB 420,000",
+      "ETB 450,000",
+      "ETB 475,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Candy Computer sells a product for ETB 10 per unit. The variable expenses are ETB 6 per unit, and the fixed expenses total ETB 35,000 per period. By how much will net operating income change if sales are expected to increase by ETB 40,000?",
+    "options": [
+      "ETB 16,000 increase",
+      "ETB 5,000 increase",
+      "ETB 24,000 increase",
+      "ETB 11,000 decrease"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "During last year, Azeb Diagnostic Lab supplied hospitals with a comprehensive diagnostic kit for ETB 120. At a volume of 80,000 kits, Azeb had fixed expenses of ETB 1,000,000 and net operating income of ETB 200,000. Because of an adverse legal decision, Azeb's liability insurance expenses this year will be ETB 1,200,000 more than they were last year. Assuming that the volume and other costs are unchanged, what should be the sales price this year if Azeb is to make the same ETB 200,000 net operating income?",
+    "options": [
+      "ETB 120",
+      "ETB 135",
+      "ETB 150",
+      "ETB 240"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is correct? The break-even point occurs on the CVP graph where:",
+    "options": [
+      "Total profit equals total expenses.",
+      "Total profit equals total fixed expenses.",
+      "Total contribution margin equals total fixed expenses",
+      "Total variable expenses equal total contribution margin."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The contribution margin ratio always increases when the:",
+    "options": [
+      "Break-even point increases.",
+      "Break-even point decreases.",
+      "Variable expenses as a percentage of net sales decrease.",
+      "Variable expenses as a percentage of net sales increase."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Break-even point in unit sales is found by dividing total fixed expenses by:",
+    "options": [
+      "The contribution margin ratio.",
+      "The variable expenses per unit.",
+      "The sales price per unit.",
+      "The contribution margin per unit"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following would not affect the break-even point?",
+    "options": [
+      "Number of units sold",
+      "Variable expense per unit",
+      "Total fixed expenses",
+      "Selling price per unit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If a company decreases its total fixed expenses while increasing the variable expense per unit, the total expense line relative to its previous position on a cost-volume-profit graph will:",
+    "options": [
+      "Shift upward and have a steeper slope.",
+      "Shift upward and have a flatter slope.",
+      "Shift downward and have a steeper slope.",
+      "Shift downward and have a flatter slope."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A $2.00 increase in a product's variable expense per unit accompanied by a $2.00 increase in its selling price per unit will:",
+    "options": [
+      "Decrease the degree of operating leverage.",
+      "Decrease the contribution margin.",
+      "Have no effect on the break-even volume.",
+      "Have no effect on the contribution margin ratio."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The break-even point in unit sales is found by dividing total fixed expenses by:",
+    "options": [
+      "The contribution margin ratio.",
+      "The variable expenses per unit.",
+      "The sales price per unit.",
+      "The contribution margin per unit."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Salinas Corporation has a degree of operating leverage of 8. This means that a 1% change in sales dollars at Salinas will generate an 8% change in:",
+    "options": [
+      "Variable expenses.",
+      "Fixed expenses.",
+      "Contribution margin.",
+      "Net operating income."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under absorption costing, fixed manufacturing overhead costs:",
+    "options": [
+      "Are deferred in inventory when production exceeds sales.",
+      "Are always treated as period costs.",
+      "Are released from inventory when production exceeds sales.",
+      "None of these."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Under variable costing:",
+    "options": [
+      "Net operating income will tend to move up and down in response to changes in levels of production.",
+      "Levels of production.",
+      "Inventory costs will be lower than under absorption costing.",
+      "Net operating income will tend to vary inversely with production changes.",
+      "Net operating income will always be higher than under absorption costing."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When production exceeds sales, the net operating income reported under absorption costing generally will be:",
+    "options": [
+      "Less than net operating income reported under variable costing.",
+      "Greater than net operating income reported under variable costing.",
+      "Equal to net operating income reported under variable costing.",
+      "Higher or lower because no generalization can be made."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When using a flexible budget, what will occur to fixed costs as the activity level increases within the relevant range?",
+    "options": [
+      "Fixed costs per unit will decrease.",
+      "Fixed costs per unit will remain unchanged.",
+      "Fixed costs per unit will increase.",
+      "Fixed costs are not considered in flexible budgeting"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Comparing actual results to a budget based on actual activity for the period is possible with the use of a:",
+    "options": [
+      "Monthly budget.",
+      "Master budget.",
+      "Flexible budget.",
+      "Rolling budget"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a standard cost system, overhead is applied to production on the basis of:",
+    "options": [
+      "The denominator hours chosen for the period.",
+      "The actual hours required to complete the output of the period.",
+      "The standard hours allowed to complete the output of the period.",
+      "None of these."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A fixed overhead volume variance based on standard direct labor-hours measures:",
+    "options": [
+      "Deviation from standard direct labor hour capacity.",
+      "Deviation from the denominator level of direct labor hours.",
+      "Fixed overhead efficiency.",
+      "Fixed overhead spending."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mcgahen Medical Clinic measures its activity in terms of patient-visits. In the clinic's flexible budget performance report for last month, what would have been the variance for the total overhead cost?",
+    "options": [
+      "$113 U",
+      "$297 F",
+      "$1,707 F",
+      "$2,004 F"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Sesareo Tile Installation Corporation measures its activity in terms of square feet installed. What would have been the variance for supply costs?",
+    "options": [
+      "$808 F",
+      "$938 F",
+      "$90 U",
+      "$130 U"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements concerning ideal standards is incorrect?",
+    "options": [
+      "Ideal standards generally do not provide the best motivation for workers.",
+      "Ideal standards do not make allowances for waste, spoilage, and machine breakdowns.",
+      "Ideal standards are better suited for cash budgeting than practical standards.",
+      "Ideal standards may be better than practical standards when managers seek continual improvement."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When computing standard cost variances, the difference between actual and standard price multiplied by actual quantity yields a(n):",
+    "options": [
+      "Combined price and quantity variance.",
+      "Efficiency variance.",
+      "Price variance.",
+      "Quantity variance."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When the actual price paid on credit for a raw material exceeds its standard price, the journal entry would include:",
+    "options": [
+      "Debit to Raw Materials; Credit to Materials Price Variance",
+      "Debit to Accounts Payable; Credit to Materials Price Variance",
+      "Debit to Raw Materials; Debit to Materials Price Variance",
+      "Debit to Accounts Payable; Debit to Materials Price Variance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When the actual price paid on credit for a raw material is less than its standard price, the journal entry would include:",
+    "options": [
+      "Credit to Raw Materials; Credit to Materials Price Variance",
+      "Credit to Accounts Payable; Credit to Materials Price Variance",
+      "Credit to Raw Materials; Debit to Materials Price Variance",
+      "Credit to Accounts Payable; Debit to Materials Price Variance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When the actual amount of a raw material used in production is less than the standard amount allowed for the actual output, the journal entry would include:",
+    "options": [
+      "Credit to Raw Materials; Credit to Materials Quantity Variance",
+      "Credit to Work-In-Process; Credit to Materials Quantity Variance",
+      "Credit to Raw Materials; Debit to Materials Quantity Variance",
+      "Credit to Work-In-Process; Debit to Materials Quantity Variance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following would produce a materials price variance?",
+    "options": [
+      "An excess quantity of materials used.",
+      "An excess number of direct labor-hours worked in completing a job.",
+      "Shipping materials to the plant by air freight rather than by truck.",
+      "Breakage of materials in production."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A labor efficiency debit balance indicates that:",
+    "options": [
+      "The wage rate paid to production workers was less the standard.",
+      "The wage rate paid to production workers was above the standard.",
+      "Less labor time was spent on production than was called for by the standard.",
+      "More labor time was spent on production than was called for by the standard."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Kahn Company produces and sells 8,000 units of Product X each year. Each unit of Product X sells for $10 and has a contribution margin of $6. It is estimated that if Product X is discontinued, $50,000 of the $60,000 in fixed costs charged to Product X could be eliminated. These data indicate that if Product X is discontinued, overall company net operating income should:",
+    "options": [
+      "Increase by $2,000 per year",
+      "Decrease by $2,000 per year",
+      "Increase by $38,000 per year",
+      "Decrease by $38,000 per year"
+    ],
+    "correct": 1
+  }
+]
