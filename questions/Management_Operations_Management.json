@@ -1,0 +1,1574 @@
+```json
+[
+  {
+    "questionText": "Operations management is defined as:",
+    "options": [
+      "The recruitment of employees",
+      "The management of financial assets",
+      "The design, operation, and improvement of the systems that create and deliver a firm's products or services",
+      "The marketing of products to customers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The transformation process in operations management converts:",
+    "options": [
+      "Outputs into inputs",
+      "Money into labor",
+      "Products into waste",
+      "Inputs into outputs (goods or services)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of an input in a manufacturing system?",
+    "options": [
+      "Finished goods",
+      "Revenue",
+      "Raw materials, labor, and energy",
+      "Customer satisfaction"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a characteristic of service operations compared to manufacturing?",
+    "options": [
+      "Ability to inventory output",
+      "High customer contact and simultaneity of production and consumption",
+      "Tangible output",
+      "Low variability in output"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The scope of operations management includes all of the following EXCEPT:",
+    "options": [
+      "Process design",
+      "Quality management",
+      "Capacity planning",
+      "Shareholder dividend policy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a key activity in operations management?",
+    "options": [
+      "Conducting market research",
+      "Developing advertising campaigns",
+      "Preparing financial statements",
+      "Managing inventory and supply chains"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Productivity is measured as:",
+    "options": [
+      "Output – Input",
+      "Output / Input",
+      "Output × Input",
+      "Input / Output"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An increase in productivity means:",
+    "options": [
+      "Input increases faster than output",
+      "Output remains constant while input increases",
+      "More output is produced per unit of input",
+      "More input is used per unit of output"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A firm that produces more goods with the same amount of labor has improved:",
+    "options": [
+      "Financial leverage",
+      "Customer service",
+      "Labor productivity",
+      "Marketing effectiveness"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Total factor productivity (multifactor productivity) considers:",
+    "options": [
+      "Only labor input",
+      "Only energy input",
+      "Only capital input",
+      "Multiple inputs (e.g., labor, capital, materials)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Operations strategy aligns operations capabilities with:",
+    "options": [
+      "The IT infrastructure only",
+      "The overall business strategy and market requirements",
+      "The finance department's budget",
+      "The human resources policies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Competitive priorities in operations strategy include cost, quality, time, and:",
+    "options": [
+      "Dividend yield",
+      "Advertising",
+      "Employee age",
+      "Flexibility"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company that emphasizes delivering products faster than competitors is focusing on which competitive priority?",
+    "options": [
+      "Flexibility",
+      "Cost",
+      "Time (speed)",
+      "Quality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The ability to change production volume or product mix quickly is known as:",
+    "options": [
+      "Cost efficiency",
+      "Sustainability",
+      "Flexibility",
+      "Quality consistency"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Order winners are characteristics that:",
+    "options": [
+      "Are irrelevant to competitiveness",
+      "Are expected by customers but do not necessarily win orders",
+      "Directly influence customer purchase decisions and differentiate the firm",
+      "Only affect internal processes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Order qualifiers are characteristics that:",
+    "options": [
+      "Only apply to services",
+      "Are minimum standards that a firm must meet to be considered by customers",
+      "Win orders directly",
+      "Are not important for competition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm's operations strategy should be based on:",
+    "options": [
+      "Maximizing all priorities simultaneously without compromise",
+      "Ignoring customer needs",
+      "Random choices",
+      "Trade‑offs between competitive priorities (e.g., cost vs. flexibility)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Productivity improvement in operations directly affects:",
+    "options": [
+      "Only employee morale",
+      "Cost competitiveness and profitability",
+      "Only marketing image",
+      "Only legal compliance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The service‑profit chain links:",
+    "options": [
+      "Advertising to sales",
+      "Product design to supplier quality",
+      "Manufacturing efficiency to inventory levels",
+      "Employee satisfaction to customer loyalty and profitability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A \"green\" operations strategy focuses on:",
+    "options": [
+      "Ignoring regulations",
+      "Maximizing waste",
+      "Environmental sustainability and reducing resource consumption",
+      "Increasing energy use"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Product and service design decisions impact:",
+    "options": [
+      "Only human resources",
+      "Operations processes, quality, cost, and customer satisfaction",
+      "Only finance",
+      "Only the marketing department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Design for manufacturability (DFM) means:",
+    "options": [
+      "Ignoring production constraints",
+      "Designing products that are easy and cost‑effective to manufacture",
+      "Designing products that are difficult to produce",
+      "Focusing only on aesthetics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Design for assembly (DFA) aims to:",
+    "options": [
+      "Increase labor hours",
+      "Make assembly impossible",
+      "Increase the number of parts",
+      "Reduce assembly time and cost by simplifying product structure"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Design for sustainability (ecodesign) considers:",
+    "options": [
+      "Only the disposal phase",
+      "Environmental impact throughout the product life cycle",
+      "Only the cost of raw materials",
+      "Only the product's packaging"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Robust design (Taguchi method) focuses on:",
+    "options": [
+      "Ignoring quality",
+      "Maximizing the number of components",
+      "Designing products that perform consistently despite variations in production or use",
+      "Creating products that are sensitive to environmental variations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Quality function deployment (QFD) translates:",
+    "options": [
+      "Marketing slogans into advertisements",
+      "Customer requirements into engineering and design specifications",
+      "Employee needs into compensation plans",
+      "Financial goals into production targets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"house of quality\" is a tool used in:",
+    "options": [
+      "Facility layout",
+      "Financial auditing",
+      "Inventory management",
+      "QFD to relate customer wants to design attributes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Value engineering (value analysis) aims to:",
+    "options": [
+      "Reduce quality to lower cost",
+      "Increase cost without changing function",
+      "Improve product or service value by analyzing function relative to cost",
+      "Eliminate all functions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Standardization in product design leads to:",
+    "options": [
+      "No impact on operations",
+      "Increased complexity",
+      "Lower variety, lower production cost, and easier maintenance",
+      "Higher variety and higher cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Modular design means:",
+    "options": [
+      "Making each product completely unique",
+      "Designing products using standardized subassemblies (modules) that can be combined in different ways",
+      "Designing products as a single, inseparable unit",
+      "Avoiding any reuse of components"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Process selection decisions determine:",
+    "options": [
+      "The product's color",
+      "The compensation system",
+      "How to advertise the product",
+      "The type of production process (e.g., job shop, batch, assembly line, continuous)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A job shop process is characterized by:",
+    "options": [
+      "No flexibility",
+      "Low volume, high variety, and skilled workers",
+      "Continuous production of one product",
+      "High volume, low variety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A batch process is used for:",
+    "options": [
+      "Continuous flow of liquids",
+      "Very high volume standardized products",
+      "Unique one‑of‑a‑kind products",
+      "Moderate volume, moderate variety, with production in lots"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An assembly line (repetitive process) is used for:",
+    "options": [
+      "Continuous liquids or chemicals",
+      "Custom projects",
+      "Low volume, high variety products",
+      "High volume, low variety, standardized products with discrete parts"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Continuous flow process is typical for:",
+    "options": [
+      "Custom furniture",
+      "Automobile assembly",
+      "Oil refining, chemicals, or beverages",
+      "Repair services"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Process mapping (flowcharting) is used to:",
+    "options": [
+      "Only design products",
+      "Visually document the steps in a process to identify waste and improvement opportunities",
+      "Replace all operations decisions",
+      "Hide process inefficiencies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Capacity planning determines:",
+    "options": [
+      "The marketing budget",
+      "The employee dress code",
+      "The maximum output rate of a facility or process",
+      "The product design specifications"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Design capacity is the:",
+    "options": [
+      "Output under normal operating conditions",
+      "Minimum possible output",
+      "Maximum theoretical output under ideal conditions",
+      "Actual output achieved"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Effective capacity is the:",
+    "options": [
+      "Theoretical maximum",
+      "Output after defects",
+      "Maximum output achievable under realistic conditions (allowing for normal downtime)",
+      "Output during a strike"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Efficiency is calculated as: (Actual output / Effective capacity) × 100. Utilization uses:",
+    "options": [
+      "Theoretical output in numerator",
+      "Actual output in denominator",
+      "Effective capacity in denominator",
+      "Design capacity in denominator"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A factory has design capacity of 200 units/day, effective capacity of 160 units/day, and actual output of 140 units/day. The efficiency is:",
+    "options": [
+      "60%",
+      "80%",
+      "87.5%",
+      "70%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The same factory's utilization is:",
+    "options": [
+      "87.5%",
+      "75%",
+      "80%",
+      "70%"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Capacity planning that adds capacity in small increments to match demand is called:",
+    "options": [
+      "Leading capacity strategy",
+      "Following capacity strategy",
+      "Lagging capacity strategy",
+      "Capacity cushion strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A leading capacity strategy adds capacity:",
+    "options": [
+      "Never",
+      "After demand exceeds current capacity",
+      "In anticipation of future demand increases",
+      "Only when equipment fails"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Economies of scale mean that as output increases:",
+    "options": [
+      "Total cost decreases",
+      "Average cost per unit decreases",
+      "Fixed costs become variable",
+      "Average cost per unit increases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Diseconomies of scale occur when:",
+    "options": [
+      "Fixed costs are zero",
+      "Output is very low",
+      "Output is at optimal level",
+      "The facility becomes too large and coordination costs increase, raising average cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The capacity cushion is:",
+    "options": [
+      "Output / Capacity",
+      "Demand / Capacity",
+      "Capacity – Actual output (or 1 – utilization)",
+      "(Capacity – Demand) / Demand"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A make‑or‑buy decision determines:",
+    "options": [
+      "The product design",
+      "Whether to produce a component internally or purchase it from an external supplier",
+      "The advertising campaign",
+      "The price of the product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Outsourcing is the practice of:",
+    "options": [
+      "Increasing vertical integration",
+      "Producing everything internally",
+      "Contracting with external suppliers for goods or services previously done internally",
+      "Ignoring suppliers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The theory of constraints (TOC) focuses on:",
+    "options": [
+      "Reducing all inventory to zero",
+      "Identifying and managing the bottleneck constraint that limits system throughput",
+      "Maximizing the capacity of all resources",
+      "Increasing batch sizes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In TOC, the bottleneck is the resource with:",
+    "options": [
+      "No impact on throughput",
+      "The fastest speed",
+      "The highest capacity",
+      "The lowest capacity in the system, limiting overall output"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "To increase system throughput, one should:",
+    "options": [
+      "Add more work before the bottleneck",
+      "Ignore the bottleneck",
+      "Improve the bottleneck's capacity or protect it from idle time",
+      "Work faster than the bottleneck"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Facility location decisions affect:",
+    "options": [
+      "Only marketing messages",
+      "Transportation costs, labor availability, and proximity to customers/suppliers",
+      "Only employee salaries",
+      "Only the building design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company locating a factory near raw material sources to reduce transportation cost is applying:",
+    "options": [
+      "Labor‑oriented location",
+      "Random location",
+      "Material‑oriented location",
+      "Market‑oriented location"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A service facility (e.g., restaurant) should typically be located:",
+    "options": [
+      "In a remote area",
+      "Near raw materials",
+      "Far from customers",
+      "Close to customers (market‑oriented)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Factor rating method for location decisions:",
+    "options": [
+      "Is based on break‑even analysis only",
+      "Uses only one factor",
+      "Assigns weights to multiple factors and scores potential locations",
+      "Ignores qualitative factors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Break‑even analysis for location compares:",
+    "options": [
+      "Only fixed costs",
+      "Total cost (fixed + variable) at different volumes for alternative locations",
+      "Only qualitative factors",
+      "Only variable costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The center‑of‑gravity method is used for:",
+    "options": [
+      "Quality control",
+      "Inventory management",
+      "Finding the optimal location to minimize transportation distance to multiple markets",
+      "Layout design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Transportation method (linear programming) optimizes:",
+    "options": [
+      "Employee schedules",
+      "Product design",
+      "Machine maintenance",
+      "Distribution of goods from multiple sources to multiple destinations at minimum cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A facility that is close to its customers reduces:",
+    "options": [
+      "Production volume",
+      "Product quality",
+      "Lead time and transportation costs",
+      "Employee satisfaction"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The trend of globalization has made location decisions:",
+    "options": [
+      "Only about domestic factors",
+      "Irrelevant",
+      "Simpler and less important",
+      "More complex, considering international factors (tariffs, labor, currency)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Facility layout refers to:",
+    "options": [
+      "The financial structure",
+      "The marketing plan",
+      "The physical arrangement of machines, workstations, and departments",
+      "The product design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A product layout (assembly line) arranges resources:",
+    "options": [
+      "With no fixed sequence",
+      "In a random order",
+      "By function (all lathes together)",
+      "In a sequence that follows the production path of the product"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A process layout (functional layout) arranges resources:",
+    "options": [
+      "In sequence of product steps",
+      "By similar processes or functions (e.g., all welding in one area)",
+      "With no grouping",
+      "Only for service operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A fixed‑position layout is used when:",
+    "options": [
+      "High volume of small products",
+      "Continuous flow of liquids",
+      "Product is too large or heavy to move (e.g., shipbuilding, construction)",
+      "Product moves along a conveyor"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A cellular layout groups dissimilar machines into work cells to produce a family of parts. This reduces:",
+    "options": [
+      "Worker skills",
+      "Quality",
+      "Material handling and work‑in‑process inventory",
+      "Flexibility"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The primary objective of layout design is to:",
+    "options": [
+      "Maximize employee travel time",
+      "Increase congestion",
+      "Maximize material handling distance",
+      "Minimize flow distance, improve efficiency, and reduce costs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A warehouse layout aims to:",
+    "options": [
+      "Maximize travel time for pickers",
+      "Balance storage density with accessibility and order picking efficiency",
+      "Ignore product demand",
+      "Minimize storage space utilization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Retail store layout (e.g., supermarket) uses:",
+    "options": [
+      "No planning",
+      "Only fixed‑position layout",
+      "Grid or free‑flow designs to influence customer traffic and maximize sales",
+      "Random product placement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Office layout focuses on:",
+    "options": [
+      "Machinery placement",
+      "Product assembly",
+      "Worker productivity, communication, and space utilization",
+      "Only aesthetics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"U‑shaped\" assembly line is often preferred because:",
+    "options": [
+      "It reduces flexibility",
+      "It increases walking distance",
+      "It allows easier communication and shared work among operators",
+      "It occupies more floor space"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Line balancing in assembly lines aims to:",
+    "options": [
+      "Increase idle time",
+      "Assign tasks to workstations to minimize idle time and balance workload",
+      "Reduce number of workers to zero",
+      "Increase cycle time indefinitely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cycle time in an assembly line is:",
+    "options": [
+      "The setup time",
+      "The total time to finish all products",
+      "The time to produce one unit (based on demand rate)",
+      "The idle time of the bottleneck"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Theoretical minimum number of workstations in line balancing is:",
+    "options": [
+      "Number of tasks",
+      "Cycle time / sum of task times",
+      "Idle time / cycle time",
+      "Sum of task times / cycle time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Quality is defined as:",
+    "options": [
+      "The highest possible cost",
+      "The lowest possible performance",
+      "The absence of any defects",
+      "The degree to which a product or service meets customer expectations and requirements"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Total Quality Management (TQM) is an approach that:",
+    "options": [
+      "Ignores employee involvement",
+      "Involves continuous improvement involving all employees, focusing on customer satisfaction",
+      "Only applies to manufacturing",
+      "Focuses on inspection after production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"cost of quality\" includes prevention costs, appraisal costs, internal failure costs, and:",
+    "options": [
+      "Shipping costs",
+      "R&D costs",
+      "External failure costs",
+      "Marketing costs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Prevention costs are incurred to:",
+    "options": [
+      "Handle customer complaints",
+      "Inspect finished goods",
+      "Fix defects after they occur",
+      "Prevent defects from occurring (e.g., training, design reviews)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Internal failure costs occur when defects are found:",
+    "options": [
+      "During employee recruitment",
+      "Before shipment (scrap, rework)",
+      "After shipment to customer",
+      "During marketing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "External failure costs occur when defects reach the customer, leading to:",
+    "options": [
+      "Higher appraisal costs",
+      "Lower prevention costs",
+      "No impact",
+      "Warranty claims, returns, and lost reputation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Deming Cycle (PDCA) stands for:",
+    "options": [
+      "Plan, Direct, Check, Act",
+      "Plan, Do, Check, Act",
+      "Prepare, Do, Correct, Adjust",
+      "Plan, Develop, Control, Analyze"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Statistical Process Control (SPC) uses:",
+    "options": [
+      "Only final inspection",
+      "No data collection",
+      "Subjective judgment only",
+      "Control charts to monitor process variation and detect assignable causes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A control chart has a center line (process mean), upper control limit (UCL), and:",
+    "options": [
+      "Defect limit",
+      "Lower control limit (LCL)",
+      "Specification limit",
+      "Lower quality limit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Control limits are typically set at ±3 standard deviations from the mean, which for a normal distribution corresponds to probability of a point outside by chance of about:",
+    "options": [
+      "0.001",
+      "0.01",
+      "0.0027",
+      "0.05"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A point outside control limits on a control chart indicates:",
+    "options": [
+      "The product is acceptable",
+      "No action needed",
+      "A special cause of variation likely exists (out of control)",
+      "The process is in control"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Common cause variation is inherent in the process and:",
+    "options": [
+      "Indicates an out‑of‑control process",
+      "Is random and predictable; requires process change to reduce",
+      "Is always desirable",
+      "Can be eliminated by management action only after process redesign"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Special cause variation is due to:",
+    "options": [
+      "No action",
+      "Natural process limits",
+      "Random, inherent factors",
+      "Specific, identifiable external factors; requires immediate investigation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An X̄ chart monitors the:",
+    "options": [
+      "Number of defects per unit",
+      "Proportion defective",
+      "Process mean",
+      "Process variability (range)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An R chart monitors the:",
+    "options": [
+      "Defects per unit",
+      "Fraction defective",
+      "Process mean",
+      "Process variability (range)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A p‑chart is used for:",
+    "options": [
+      "Individual measurements",
+      "Fraction defective (proportion of defective items)",
+      "Number of defects per unit",
+      "Continuous data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A c‑chart is used for:",
+    "options": [
+      "Process mean",
+      "Fraction defective",
+      "Number of defects per unit (constant sample size)",
+      "Process range"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The capability index Cp = (USL – LSL) / (6σ). A Cp of 1.0 means:",
+    "options": [
+      "Process is out of control",
+      "Process is highly capable",
+      "Process is not capable",
+      "Process spread equals specification width, assuming centered, marginally capable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Cpk accounts for process centering; a Cpk value less than 1.0 indicates:",
+    "options": [
+      "Perfect centering",
+      "The process is not capable (does not meet specifications)",
+      "No variation",
+      "The process is capable"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Six Sigma quality aims for defect rate of:",
+    "options": [
+      "1% defect rate",
+      "3.4 defects per million opportunities",
+      "1 defect per hundred",
+      "3.4 defects per thousand opportunities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The DMAIC cycle in Six Sigma stands for:",
+    "options": [
+      "Design, Model, Assess, Implement, Check",
+      "Develop, Measure, Apply, Integrate, Control",
+      "Define, Measure, Analyze, Improve, Control",
+      "Determine, Monitor, Adjust, Inspect, Correct"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "ISO 9000 is a set of international standards for:",
+    "options": [
+      "Environmental management",
+      "Information security",
+      "Quality management systems",
+      "Financial reporting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Kaizen is a Japanese term meaning:",
+    "options": [
+      "Continuous improvement involving all employees",
+      "Mass production",
+      "Inspection",
+      "Radical change"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The \"5S\" methodology includes Sort, Set in order, Shine, Standardize, and:",
+    "options": [
+      "Sample",
+      "Speed",
+      "Sustain",
+      "Safety"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Lean operations focus on:",
+    "options": [
+      "Maximizing setup times",
+      "Batch production and long lead times",
+      "Increasing inventory and waste",
+      "Eliminating waste (muda) and maximizing value from customer perspective"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Value in lean thinking is defined by:",
+    "options": [
+      "The accountant",
+      "The engineer",
+      "The customer",
+      "The producer"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The seven wastes (muda) include overproduction, waiting, transportation, processing, inventory, motion, and:",
+    "options": [
+      "Inspection",
+      "Quality",
+      "Defects (rework)",
+      "Setup"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Just‑in‑Time (JIT) production aims to:",
+    "options": [
+      "Maximize work‑in‑process",
+      "Hold large safety stocks",
+      "Increase batch sizes",
+      "Produce only what is needed, when it is needed, in the exact quantity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Kanban is a JIT tool that uses:",
+    "options": [
+      "Large batch production",
+      "No communication",
+      "Computerized scheduling only",
+      "Visual cards or signals to control production and inventory flow"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A pull system (vs. push) means:",
+    "options": [
+      "No production planning",
+      "Production is based on forecast, pushing goods downstream",
+      "Production is triggered by actual downstream demand (customer order or consumption)",
+      "Unlimited inventory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Setup time reduction (SMED) is critical for:",
+    "options": [
+      "Increasing changeover cost",
+      "Lowering machine utilization",
+      "Increasing batch sizes",
+      "Reducing economic order quantity and enabling small‑lot production"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Total Productive Maintenance (TPM) involves:",
+    "options": [
+      "Only maintenance department responsibility",
+      "Operator‑led maintenance and prevention to maximize equipment effectiveness",
+      "Reactive maintenance only",
+      "Ignoring machine breakdowns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Overall Equipment Effectiveness (OEE) measures availability, performance, and:",
+    "options": [
+      "Delivery",
+      "Safety",
+      "Cost",
+      "Quality"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Aggregate planning (sales and operations planning) determines:",
+    "options": [
+      "Daily employee schedules",
+      "Facility location",
+      "Product design specifications",
+      "Production, inventory, and workforce levels over an intermediate time horizon (3‑18 months)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The goal of aggregate planning is to:",
+    "options": [
+      "Produce at constant rate regardless of demand",
+      "Meet demand at minimum cost by adjusting production rates, workforce, and inventory",
+      "Ignore demand fluctuations",
+      "Maximize inventory at all times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A level production strategy maintains:",
+    "options": [
+      "No inventory",
+      "Varying workforce to match demand exactly",
+      "Constant workforce and production rate, using inventory to absorb demand fluctuations",
+      "Outsourcing all production"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A chase production strategy adjusts:",
+    "options": [
+      "Equipment layout",
+      "Inventory levels",
+      "Product design",
+      "Production rate and workforce to match demand (hire/layoff)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Aggregate planning decisions affect:",
+    "options": [
+      "Only product quality",
+      "Only marketing",
+      "Cost, customer service, and workforce stability",
+      "Only finance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A master production schedule (MPS) disaggregates the aggregate plan into:",
+    "options": [
+      "Employee schedules",
+      "Financial statements",
+      "Specific products, quantities, and due dates",
+      "Supplier contracts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Material Requirements Planning (MRP) uses the MPS, bill of materials (BOM), and inventory records to:",
+    "options": [
+      "Plan facility layout",
+      "Set compensation levels",
+      "Compute production schedules and material requirements",
+      "Determine product design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The bill of materials (BOM) lists:",
+    "options": [
+      "Machine maintenance schedules",
+      "Customer orders",
+      "Employee names",
+      "All components, subassemblies, and raw materials needed for a finished product"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "MRP explosion calculates:",
+    "options": [
+      "The quality defect rate",
+      "The total cost of production",
+      "Gross requirements for components by multiplying parent requirements by BOM quantities, offset by lead times",
+      "The optimal facility location"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Enterprise Resource Planning (ERP) integrates:",
+    "options": [
+      "Only production planning",
+      "All business functions (operations, finance, HR, sales) into a single system",
+      "Only inventory management",
+      "Only accounting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Gantt chart for production scheduling displays:",
+    "options": [
+      "Product design details",
+      "Supplier quality scores",
+      "Only financial data",
+      "Tasks, start and end times, and resource assignments over time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Sequencing rules (e.g., FCFS, EDD, SPT) are used to:",
+    "options": [
+      "Set prices",
+      "Determine the order in which jobs are processed on a machine",
+      "Design products",
+      "Hire employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The SPT (Shortest Processing Time) rule tends to:",
+    "options": [
+      "Always meet due dates",
+      "Ignore due dates",
+      "Maximize average flow time",
+      "Minimize average flow time and work‑in‑process"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The EDD (Earliest Due Date) rule aims to:",
+    "options": [
+      "Ignore due dates",
+      "Minimize maximum lateness (tardiness)",
+      "Always process longest jobs first",
+      "Maximize lateness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critical Ratio (CR) scheduling prioritizes jobs with the:",
+    "options": [
+      "Alphabetical order",
+      "Largest CR value (CR = due date – today / remaining processing time)",
+      "Smallest CR value (risk of being late)",
+      "Random order"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Johnson's rule is used for sequencing jobs on:",
+    "options": [
+      "No machines",
+      "Three or more machines",
+      "Two machines to minimize makespan",
+      "One machine"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The theory of constraints (TOC) drum‑buffer‑rope (DBR) method:",
+    "options": [
+      "Ignores bottlenecks",
+      "Maximizes work‑in‑process",
+      "Schedules the bottleneck (drum), protects it with a buffer, and releases materials (rope) based on bottleneck pace",
+      "Eliminates all buffers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Supply chain management (SCM) involves:",
+    "options": [
+      "Only transportation",
+      "Coordination of suppliers, manufacturers, distributors, and retailers to deliver products",
+      "Only the firm's internal operations",
+      "Only customer relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bullwhip effect in supply chains refers to:",
+    "options": [
+      "Smooth demand variation",
+      "Low inventory levels",
+      "Perfect information sharing",
+      "Demand variability amplification as orders move upstream"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Inventory management decisions include:",
+    "options": [
+      "Only pricing",
+      "Only advertising",
+      "How much to order (order quantity) and when to order (reorder point)",
+      "Only product design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Economic Order Quantity (EOQ) minimizes:",
+    "options": [
+      "Stockout cost only",
+      "Transportation cost",
+      "Purchase cost only",
+      "Total ordering and holding costs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "EOQ formula is: √(2DS / H), where D is demand, S is ordering cost, and H is:",
+    "options": [
+      "Selling price",
+      "Shortage cost",
+      "Lead time",
+      "Holding cost per unit per year"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Reorder point (ROP) with constant demand and lead time is:",
+    "options": [
+      "Safety stock × lead time",
+      "Maximum inventory",
+      "Demand during lead time (d × LT)",
+      "EOQ / 2"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Safety stock is held to protect against:",
+    "options": [
+      "High holding costs",
+      "Overproduction",
+      "Certainty in demand and lead time",
+      "Uncertainty in demand or lead time (stockout risk)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The newsvendor (single‑period) model is used for perishable products or seasonal items to balance:",
+    "options": [
+      "Setup and carrying costs",
+      "Overstock and understock costs",
+      "Ordering and holding costs",
+      "Production and inspection costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "ABC analysis classifies inventory based on:",
+    "options": [
+      "Age of inventory",
+      "Supplier location",
+      "Weight",
+      "Annual dollar value (usage × unit cost)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In ABC analysis, \"A\" items are typically:",
+    "options": [
+      "Obsolete items",
+      "Low volume, high value (tight control)",
+      "Medium value",
+      "High volume, low value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Vendor‑Managed Inventory (VMI) means:",
+    "options": [
+      "Customer manages supplier's inventory",
+      "Supplier manages customer's inventory and replenishes as needed",
+      "Both parties ignore inventory",
+      "No inventory management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Operations scheduling in services (e.g., appointment systems) aims to:",
+    "options": [
+      "Maximize customer wait time",
+      "Ignore demand",
+      "Balance customer waiting time with server idle time",
+      "Eliminate all appointments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Queuing theory (waiting line analysis) studies:",
+    "options": [
+      "Product design",
+      "Lines (queues) to optimize service levels and reduce waiting",
+      "Quality control",
+      "Facility layout"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A single‑server queue (M/M/1) assumes Poisson arrivals and exponential service times. The average number in system (L) is:",
+    "options": [
+      "(λ/μ)²",
+      "λ/μ",
+      "λ/(μ – λ)",
+      "μ/(μ – λ)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In queuing, utilization ρ = λ/μ must be less than 1 for stability. If λ = 5 customers/hour and μ = 10 customers/hour, ρ =:",
+    "options": [
+      "5",
+      "10",
+      "0.5",
+      "2"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A retail checkout with multiple parallel servers is an example of:",
+    "options": [
+      "G/G/1",
+      "M/M/c (multiple servers)",
+      "M/D/1",
+      "M/M/1"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The goal of operations management is to:",
+    "options": [
+      "Minimize customer satisfaction",
+      "Eliminate all processes",
+      "Efficiently transform inputs into outputs while meeting customer requirements",
+      "Maximize input usage"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Sustainability in operations includes:",
+    "options": [
+      "Maximizing resource consumption",
+      "Using only non‑renewable resources",
+      "Ignoring environmental impact",
+      "Reducing waste, energy use, and carbon footprint in production and supply chains"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Reverse logistics manages:",
+    "options": [
+      "Only raw material sourcing",
+      "Forward movement of goods to customers",
+      "Return of products from customers for recycling, repair, or disposal",
+      "Only packaging"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In manufacturing, cycle time is:",
+    "options": [
+      "The time between completing two consecutive units",
+      "Both A and B depending on context",
+      "Setup time",
+      "The time from raw material to finished product (throughput time)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Throughput (in TOC) is the rate at which the system generates money through sales, not just production. It is calculated as:",
+    "options": [
+      "Net profit",
+      "Total revenue – operating expenses",
+      "Sales – all variable costs",
+      "Sales – raw material costs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The five focusing steps of TOC are: identify the constraint, exploit the constraint, subordinate everything else, elevate the constraint, and:",
+    "options": [
+      "Outsource",
+      "Repeat (go back to step 1)",
+      "Stop",
+      "Increase inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Operations management decisions are strategic, tactical, and operational. Which is a strategic decision?",
+    "options": [
+      "Order picking sequence",
+      "Machine repair scheduling",
+      "Facility location and capacity planning",
+      "Daily staffing schedule"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"voice of the customer\" (VOC) in operations is gathered through:",
+    "options": [
+      "Only internal engineering opinion",
+      "Financial reports",
+      "Surveys, complaints, and feedback to understand customer needs",
+      "Ignoring customer feedback"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Operations managers use key performance indicators (KPIs) such as:",
+    "options": [
+      "Number of meetings",
+      "Employee birthday count",
+      "Office temperature",
+      "On‑time delivery, defect rate, and inventory turns"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company with high inventory turnover is likely:",
+    "options": [
+      "Facing stockouts",
+      "Slow in production",
+      "Holding excessive inventory",
+      "Efficient in managing inventory relative to sales"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The balanced scorecard in operations includes financial, customer, internal process, and:",
+    "options": [
+      "Environmental only",
+      "Supplier metrics",
+      "Competitor metrics",
+      "Learning and growth perspectives"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In service operations, \"front office\" refers to:",
+    "options": [
+      "Accounting department",
+      "Back‑end processes",
+      "Warehouse",
+      "High customer contact activities (e.g., service counter)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Service blueprinting is a tool to:",
+    "options": [
+      "Calculate inventory",
+      "Map service processes, including customer actions and back‑stage activities",
+      "Balance assembly lines",
+      "Design product features"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mass customization combines:",
+    "options": [
+      "Only custom products",
+      "Only mass production",
+      "Low cost (mass production efficiency) with high variety (customization)",
+      "High cost and low variety"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of \"operations frontier\" shows trade‑offs between:",
+    "options": [
+      "Sales and profit",
+      "Inventory and marketing",
+      "Cost and quality",
+      "Different competitive priorities (e.g., cost vs. flexibility)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A learning curve in operations means that:",
+    "options": [
+      "No improvement over time",
+      "Learning stops after first unit",
+      "Unit production time or cost decreases as cumulative output increases due to learning",
+      "Costs increase with cumulative production"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The ultimate responsibility of operations management is to:",
+    "options": [
+      "Ignore safety",
+      "Create value for customers while using resources efficiently",
+      "Maximize waste",
+      "Minimize product quality"
+    ],
+    "correct": 1
+  }
+]
+```
