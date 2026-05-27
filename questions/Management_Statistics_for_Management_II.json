@@ -1,0 +1,1842 @@
+[
+  {
+    "questionText": "The sampling distribution of a statistic is defined as:",
+    "options": [
+      "The distribution of errors in measurement",
+      "The distribution of the population values",
+      "The probability distribution of all possible values of a statistic for a given sample size",
+      "A single sample's frequency distribution"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The mean of the sampling distribution of the sample mean (μₓ̄) equals:",
+    "options": [
+      "The population mean",
+      "The sample mean",
+      "The population variance",
+      "The standard error"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The standard deviation of the sampling distribution of the sample mean is called:",
+    "options": [
+      "Population standard deviation",
+      "Sample variance",
+      "Margin of error",
+      "Standard error of the mean"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If random samples of size n are drawn from a population with mean μ and standard deviation σ, the standard error of the mean (σₓ̄) equals:",
+    "options": [
+      "σ² / n",
+      "σ / √n",
+      "√σ",
+      "σ / n"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Central Limit Theorem (CLT) states that for large n (typically n ≥ 30), the sampling distribution of the sample mean is approximately:",
+    "options": [
+      "Binomial",
+      "Exponential",
+      "Uniform",
+      "Normal, regardless of population distribution shape"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The CLT applies to the sampling distribution of the sample mean regardless of population shape as long as:",
+    "options": [
+      "Population variance is zero",
+      "Population is normal",
+      "Sample size is sufficiently large",
+      "Sample size is 1"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The standard error of the sample proportion (σ_p̂) is:",
+    "options": [
+      "p(1‑p)/n",
+      "Both √(p(1‑p)/n) where p is population proportion (population) and √(p̂(1‑p̂)/n) (estimated)",
+      "√(p̂(1‑p̂)/n)",
+      "√(p(1‑p)/n) where p is population proportion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When sampling without replacement from a finite population of size N, the standard error of the mean is multiplied by:",
+    "options": [
+      "(N‑1)/(N‑n)",
+      "(N‑n)/(N‑1)",
+      "√((N‑n)/(N‑1)) (finite population correction)",
+      "√((N‑1)/(N‑n))"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The finite population correction factor (FPC) is typically omitted when:",
+    "options": [
+      "Sampling is without replacement regardless",
+      "n/N ≤ 0.05",
+      "N is very small",
+      "n/N > 0.05"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The sampling distribution of the sample variance (s²) follows a chi‑square distribution when the population is:",
+    "options": [
+      "Poisson",
+      "Binomial",
+      "Normal",
+      "Uniform"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The number of degrees of freedom for the sampling distribution of the sample variance (using chi‑square) is:",
+    "options": [
+      "n – 2",
+      "2n",
+      "n",
+      "n – 1"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The sampling distribution of the difference between two independent sample means (x̄₁ – x̄₂) has variance equal to:",
+    "options": [
+      "(σ₁/n₁ + σ₂/n₂)",
+      "σ₁²/n₁ + σ₂²/n₂",
+      "σ₁² + σ₂²",
+      "(σ₁² + σ₂²)/n"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When population variances are unknown but assumed equal, the pooled variance estimator is used for:",
+    "options": [
+      "Chi‑square test",
+      "Confidence interval for a single mean",
+      "Two‑sample t‑test with equal variances",
+      "Correlation coefficient"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The standard error of the sample median (for large n from a normal population) is approximately:",
+    "options": [
+      "1.253 × σ / √n",
+      "σ / n",
+      "0",
+      "σ / √n"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Bootstrapping is a resampling technique used to:",
+    "options": [
+      "Replace hypothesis testing entirely",
+      "Compute population parameters exactly",
+      "Estimate the sampling distribution of a statistic without parametric assumptions",
+      "Eliminate sampling error"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Hypothesis testing is a procedure for:",
+    "options": [
+      "Calculating descriptive statistics",
+      "Making a decision about a population parameter based on sample evidence",
+      "Eliminating all uncertainty",
+      "Proving the null hypothesis is true"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The null hypothesis (H₀) typically states:",
+    "options": [
+      "The sample is biased",
+      "There is a significant effect or relationship",
+      "The alternative hypothesis is true",
+      "No effect, no difference, or no relationship"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The alternative hypothesis (H₁ or Hₐ) is:",
+    "options": [
+      "Never used in testing",
+      "The statement that will be accepted if the null is rejected",
+      "A statement of no effect",
+      "Always the same as the null"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A one‑tailed (directional) test is used when the alternative hypothesis specifies:",
+    "options": [
+      "No direction",
+      "Equality only",
+      "A direction (greater than or less than)",
+      "Inequality in any direction"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A two‑tailed (non‑directional) test is used when the alternative hypothesis specifies:",
+    "options": [
+      "A specific direction",
+      "That the parameter equals a specified value",
+      "No hypothesis",
+      "That the parameter is not equal to a specified value (≠)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The significance level α (alpha) is:",
+    "options": [
+      "The power of the test",
+      "The confidence level",
+      "The probability of rejecting a true null hypothesis (Type I error)",
+      "The probability of making a Type II error"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A Type I error occurs when:",
+    "options": [
+      "The p‑value is large",
+      "A true null hypothesis is rejected",
+      "The sample size is too small",
+      "A false null hypothesis is not rejected"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Type II error (β) occurs when:",
+    "options": [
+      "The null is accepted when it is true",
+      "The test is significant",
+      "A true null is rejected",
+      "A false null is not rejected"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The power of a statistical test is defined as:",
+    "options": [
+      "α + β",
+      "The p‑value",
+      "1 – β (probability of correctly rejecting a false null)",
+      "1 – α (confidence level)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Increasing sample size (n) has which effect on hypothesis testing?",
+    "options": [
+      "Increases α only",
+      "No effect on errors",
+      "Increases both Type I and Type II errors",
+      "Decreases Type II error (increases power) for a fixed α"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The p‑value is:",
+    "options": [
+      "The significance level set before the test",
+      "The probability of obtaining the observed results (or more extreme) if the null hypothesis is true",
+      "The probability of making a Type II error",
+      "The probability that the null hypothesis is true"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If the p‑value is less than α, we:",
+    "options": [
+      "Conclude the test is inconclusive",
+      "Increase the sample size",
+      "Reject the null hypothesis",
+      "Accept the null hypothesis"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If the p‑value is greater than α, we:",
+    "options": [
+      "Change the significance level",
+      "Fail to reject the null (do not reject H₀)",
+      "Accept the alternative",
+      "Reject the null"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A smaller p‑value provides:",
+    "options": [
+      "No evidence",
+      "Evidence that α is too small",
+      "Stronger evidence for the null hypothesis",
+      "Stronger evidence against the null hypothesis"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The t‑test for a single mean is used when:",
+    "options": [
+      "Data are categorical",
+      "Comparing more than two means",
+      "Population standard deviation is known",
+      "Population standard deviation is unknown and sample size is small (or large)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The test statistic for a one‑sample t‑test (mean) is: t = (x̄ – μ₀) / (s/√n). The degrees of freedom are:",
+    "options": [
+      "n – 1",
+      "n + 1",
+      "n – 2",
+      "n"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The one‑sample z‑test for a mean is used when:",
+    "options": [
+      "The sample size is less than 30",
+      "Population standard deviation is known (or sample large enough to approximate)",
+      "The data are not normal",
+      "Population standard deviation is unknown"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The independent two‑sample t‑test (equal variances assumed) has degrees of freedom:",
+    "options": [
+      "n₁ – 1",
+      "n₁ + n₂ – 2",
+      "n₁ + n₂",
+      "n₂ – 1"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Welch's t‑test is used when:",
+    "options": [
+      "Data are paired",
+      "Sample sizes are identical",
+      "Population variances are equal",
+      "Population variances are not assumed equal (unequal variance t‑test)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The paired t‑test is appropriate when:",
+    "options": [
+      "Sample sizes are large",
+      "The same subjects are measured twice (before/after) or matched pairs",
+      "Two independent samples are compared",
+      "Variances are known"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The degrees of freedom for a paired t‑test are:",
+    "options": [
+      "n – 2",
+      "n",
+      "n – 1 (where n = number of pairs)",
+      "n₁ + n₂ – 2"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A z‑test for a single proportion is appropriate when:",
+    "options": [
+      "Data are continuous",
+      "Sample size is small",
+      "np₀ ≥ 5 and n(1‑p₀) ≥ 5 (large sample)",
+      "Population proportion is unknown"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The test statistic for a single proportion is: z = (p̂ – p₀) / √(p₀(1‑p₀)/n). Under the null, p₀ is:",
+    "options": [
+      "The significance level",
+      "The sample proportion",
+      "The power",
+      "The hypothesized population proportion"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The two‑proportion z‑test compares:",
+    "options": [
+      "Two means",
+      "One proportion to a hypothesized value",
+      "Two independent proportions",
+      "Two variances"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a two‑proportion z‑test, the pooled proportion is calculated as:",
+    "options": [
+      "(p̂₁ + p̂₂) / 2",
+      "(x₁ + x₂) / (n₁ + n₂)",
+      "(n₁ + n₂) / (x₁ + x₂)",
+      "(x₁/n₁ + x₂/n₂) / 2"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The chi‑square goodness‑of‑fit test is used to:",
+    "options": [
+      "Compare two means",
+      "Test a single proportion",
+      "Test whether a sample distribution matches a hypothesized distribution",
+      "Test the relationship between two categorical variables"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The degrees of freedom for a chi‑square goodness‑of‑fit test with k categories are:",
+    "options": [
+      "n – 1",
+      "(r‑1)(c‑1)",
+      "k",
+      "k – 1"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The chi‑square test of independence is used to:",
+    "options": [
+      "Compare two variances",
+      "Test for normality",
+      "Test for association between two categorical variables in a contingency table",
+      "Test for equality of two proportions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "For a chi‑square test of independence with r rows and c columns, the degrees of freedom are:",
+    "options": [
+      "r + c – 1",
+      "(r – 1)(c – 1)",
+      "r × c – 1",
+      "r + c – 2"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The expected frequency for a cell in a contingency table under independence is:",
+    "options": [
+      "(row total + column total) / 2",
+      "(row total × column total) × grand total",
+      "(row total + column total) / grand total",
+      "(row total × column total) / grand total"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The chi‑square test statistic for independence is calculated as: Σ [(O – E)² / E]. A large value leads to:",
+    "options": [
+      "Accepting the null of perfect dependence",
+      "No conclusion",
+      "Rejecting independence (evidence of association)",
+      "Failing to reject independence (no association)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The chi‑square test requires that:",
+    "options": [
+      "Variables are continuous",
+      "All expected frequencies are at least 5 (or most)",
+      "Sample size is less than 30",
+      "Data are normally distributed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Yates' continuity correction is applied to chi‑square for:",
+    "options": [
+      "Goodness‑of‑fit tests",
+      "Tests with more than 5 degrees of freedom",
+      "Large sample sizes only",
+      "2×2 tables to approximate the discrete distribution better"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The chi‑square distribution is:",
+    "options": [
+      "Uniform",
+      "Symmetric and bell‑shaped",
+      "Positively skewed, with shape depending on degrees of freedom",
+      "Exponential"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The mean of a chi‑square distribution with df degrees of freedom is:",
+    "options": [
+      "df / 2",
+      "df",
+      "2df",
+      "√df"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The variance of a chi‑square distribution with df degrees of freedom is:",
+    "options": [
+      "df²",
+      "df",
+      "2df",
+      "√(2df)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Fisher's exact test is an alternative to chi‑square when:",
+    "options": [
+      "Variables are continuous",
+      "Data are normally distributed",
+      "Sample size is very large",
+      "Expected frequencies are small (<5) and 2×2 table"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The McNemar test is used for:",
+    "options": [
+      "Correlation between continuous variables",
+      "Comparing more than two means",
+      "Paired nominal data (e.g., before/after on same subjects)",
+      "Independent proportions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Covariance measures:",
+    "options": [
+      "The variability of a single variable",
+      "The causal effect",
+      "The strength of a linear relationship without units",
+      "The direction of linear relationship in original units"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The sample correlation coefficient (r) ranges between:",
+    "options": [
+      "–∞ and +∞",
+      "0 and 1",
+      "–1 and +1",
+      "–1 and 0"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A correlation of r = –0.8 indicates:",
+    "options": [
+      "No relationship",
+      "Strong negative linear relationship",
+      "Weak negative relationship",
+      "Strong positive linear relationship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The coefficient of determination (r²) represents:",
+    "options": [
+      "The standard error of estimate",
+      "The slope of the regression line",
+      "The correlation between X and Y",
+      "The proportion of variance in Y explained by X in a linear regression"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If r = 0.6, then r² = 0.36 means:",
+    "options": [
+      "60% of the variation is explained",
+      "36% of the variation in Y is explained by X",
+      "The correlation is weak",
+      "36% of the variation is unexplained"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The null hypothesis in a test of significance for correlation (ρ = 0) is that:",
+    "options": [
+      "The sample correlation is zero",
+      "The slope is not zero",
+      "The population correlation is not zero",
+      "The population correlation is zero (no linear relationship)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The test statistic for testing ρ = 0 is t = r√(n‑2)/√(1‑r²) with degrees of freedom:",
+    "options": [
+      "n – 3",
+      "n",
+      "n – 2",
+      "n – 1"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Simple linear regression models the relationship between:",
+    "options": [
+      "Multiple dependent variables and one independent",
+      "Two dependent variables",
+      "Categorical variables only",
+      "One dependent variable and one independent variable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The simple linear regression equation is ŷ = b₀ + b₁x, where b₁ is the:",
+    "options": [
+      "y‑intercept",
+      "Correlation coefficient",
+      "Slope (change in y for a one‑unit change in x)",
+      "Residual"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The slope (b₁) in least squares regression is calculated as:",
+    "options": [
+      "Cov(x,y) / Var(y)",
+      "Cov(x,y) × Var(x)",
+      "Var(y) / Cov(x,y)",
+      "Cov(x,y) / Var(x)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The y‑intercept (b₀) is computed as:",
+    "options": [
+      "ȳ – b₁x̄",
+      "x̄ – b₁ȳ",
+      "(Σy – b₁Σx)/n",
+      "ȳ + b₁x̄"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The least squares method minimizes:",
+    "options": [
+      "Sum of x values",
+      "Sum of squared residuals (errors)",
+      "Sum of absolute residuals",
+      "Sum of y values"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A residual is:",
+    "options": [
+      "The correlation coefficient",
+      "The slope of the regression line",
+      "The predicted value of y",
+      "The difference between observed y and predicted ŷ"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The assumption of homoscedasticity in regression means:",
+    "options": [
+      "The residuals have constant variance across all levels of X",
+      "The errors are independent",
+      "The residuals are normally distributed",
+      "The relationship is non‑linear"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If a residual plot shows a pattern (e.g., funnel shape), this indicates:",
+    "options": [
+      "No relationship",
+      "Perfect linear relationship",
+      "Homoscedasticity",
+      "Heteroscedasticity (violation of constant variance)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The standard error of the estimate (sₑ) measures:",
+    "options": [
+      "The correlation strength",
+      "The variability of the slope",
+      "The typical size of residuals (prediction error)",
+      "The intercept significance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The standard error of the slope (SE(b₁)) is: sₑ / √(Σ(x – x̄)²). This is used for:",
+    "options": [
+      "Testing correlation",
+      "Predicting new values",
+      "Confidence interval for the intercept",
+      "Hypothesis test for the slope (H₀: β₁ = 0)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A t‑test for the slope (H₀: β₁ = 0) has degrees of freedom:",
+    "options": [
+      "n – 3",
+      "n – 1",
+      "n – 2",
+      "n"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If the t‑test for slope is significant (p < α), we conclude:",
+    "options": [
+      "The correlation is zero",
+      "There is a statistically significant linear relationship between X and Y",
+      "There is no linear relationship",
+      "The intercept is zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A confidence interval for the slope β₁ that does not contain zero indicates:",
+    "options": [
+      "The intercept must be zero",
+      "The slope is significantly different from zero",
+      "There is no relationship",
+      "The slope is not significantly different from zero at that confidence level"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The coefficient of determination (R²) in simple regression is equal to:",
+    "options": [
+      "r (correlation)",
+      "Standard error",
+      "r² (square of correlation)",
+      "Adjusted R²"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Adjusted R² is used in multiple regression to:",
+    "options": [
+      "Replace R² entirely",
+      "Always equal R²",
+      "Increase R² artificially",
+      "Penalize for adding extra predictors that do not improve model"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Multiple linear regression includes:",
+    "options": [
+      "Only one dependent variable but multiple intercepts",
+      "Two or more independent variables",
+      "Only categorical independent variables",
+      "One independent variable"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The interpretation of a regression coefficient b₁ in multiple regression (holding other variables constant) is:",
+    "options": [
+      "The change in y for a one‑unit change in x₁, ignoring other variables",
+      "The correlation between x₁ and y",
+      "The change in y for a one‑unit change in x₁, holding other X's constant (partial effect)",
+      "The intercept term"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The F‑test in regression (overall test) tests the null hypothesis that:",
+    "options": [
+      "R² = 1",
+      "All intercepts are zero",
+      "Residuals are not normal",
+      "All slopes are zero (model has no explanatory power)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The F‑statistic for overall regression is calculated as: (MSR / MSE) where MSE is:",
+    "options": [
+      "Mean square of Y",
+      "Mean square total",
+      "Mean square error (residual)",
+      "Mean square of X"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Multicollinearity occurs when:",
+    "options": [
+      "The dependent variable is correlated with an independent variable",
+      "Residuals are correlated",
+      "Independent variables are highly correlated with each other",
+      "Sample size is too small"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A variance inflation factor (VIF) greater than 10 indicates:",
+    "options": [
+      "Perfect heteroscedasticity",
+      "No multicollinearity",
+      "Normality of residuals",
+      "Severe multicollinearity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Dummy variables are used in regression to:",
+    "options": [
+      "Eliminate intercept",
+      "Incorporate categorical independent variables (e.g., gender, region)",
+      "Reduce sample size",
+      "Replace continuous variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If a categorical variable has k categories, we create _____ dummy variables to avoid perfect multicollinearity.",
+    "options": [
+      "k + 1",
+      "2k",
+      "k – 1",
+      "k"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Interaction term (X₁ × X₂) in regression allows:",
+    "options": [
+      "The effect of X₁ on Y to depend on the value of X₂",
+      "Non‑linearity in one variable",
+      "Both variables to be excluded",
+      "Only main effects"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In logistic regression, the dependent variable is:",
+    "options": [
+      "Normally distributed",
+      "Always time‑series",
+      "Continuous",
+      "Binary (categorical with two categories)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The logit transformation in logistic regression models the:",
+    "options": [
+      "Linear probability without transformation",
+      "Log‑odds of the probability as a linear function of predictors",
+      "Odds ratio directly",
+      "Probability of success linearly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An odds ratio of 2.0 in logistic regression means:",
+    "options": [
+      "The probability is 2",
+      "No effect",
+      "The probability doubles",
+      "The odds of the event are twice as high for a one‑unit increase in X"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Akaike Information Criterion (AIC) is used for:",
+    "options": [
+      "Computing R²",
+      "Testing normality",
+      "Model selection (lower AIC indicates better fit with parsimony)",
+      "Hypothesis testing of slopes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Stepwise regression is a method to:",
+    "options": [
+      "Eliminate the intercept",
+      "Force all variables into the model",
+      "Automatically select predictors based on statistical criteria",
+      "Transform dependent variable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Residual analysis in regression includes checking for:",
+    "options": [
+      "Normality of Y alone",
+      "Normality of X variables",
+      "Correlation between Y and residuals",
+      "Normality, constant variance, and independence of errors"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A Q‑Q plot of residuals is used to assess:",
+    "options": [
+      "Independence",
+      "Normality of residuals",
+      "Homoscedasticity",
+      "Linearity of relationship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Durbin‑Watson statistic tests for:",
+    "options": [
+      "Heteroscedasticity",
+      "Normality",
+      "Autocorrelation (serial correlation) in residuals, especially for time series",
+      "Multicollinearity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A Durbin‑Watson value near 2 indicates:",
+    "options": [
+      "Negative autocorrelation",
+      "No autocorrelation",
+      "Positive autocorrelation",
+      "Perfect correlation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In time series regression, the presence of autocorrelation violates the assumption of:",
+    "options": [
+      "Normality of errors",
+      "Linearity",
+      "Independent errors",
+      "Constant variance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A partial F‑test is used to:",
+    "options": [
+      "Test the intercept",
+      "Test the overall model",
+      "Test a single slope",
+      "Test a subset of regression coefficients (e.g., a group of dummy variables)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Prediction interval for a new observation is wider than a confidence interval for the mean response because:",
+    "options": [
+      "Confidence interval includes more uncertainty",
+      "Prediction uses fewer degrees of freedom",
+      "They are the same",
+      "Prediction includes individual error variance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The hat matrix (leverage) in regression identifies:",
+    "options": [
+      "Outliers in Y",
+      "Normality",
+      "Influential observations in X space (high leverage points)",
+      "Multicollinearity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cook's distance measures:",
+    "options": [
+      "The significance of the slope",
+      "The overall model fit",
+      "The correlation between X and Y",
+      "The influence of each observation on the regression coefficients"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In hypothesis testing for two means (independent samples, equal variances), the pooled variance is:",
+    "options": [
+      "(s₁²/n₁ + s₂²/n₂)",
+      "(s₁² + s₂²)/2",
+      "((n₁‑1)s₁² + (n₂‑1)s₂²)/(n₁+n₂‑2)",
+      "(s₁² + s₂²)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "For a two‑sample t‑test with unequal variances (Welch), the degrees of freedom are computed using the:",
+    "options": [
+      "n₁ + n₂",
+      "Satterthwaite formula (approximate)",
+      "Smaller of n₁‑1 and n₂‑1",
+      "n₁ + n₂ – 2"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Power analysis before a study helps determine:",
+    "options": [
+      "The effect size after the study",
+      "The alpha level after data collection",
+      "The p‑value needed for significance",
+      "The minimum sample size required to detect an effect of a given size with desired power"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Effect size (e.g., Cohen's d) measures:",
+    "options": [
+      "The sample size",
+      "The p‑value",
+      "The magnitude of a difference or relationship, independent of sample size",
+      "The significance level"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Mann‑Whitney U test is a non‑parametric alternative to:",
+    "options": [
+      "ANOVA",
+      "One‑sample t‑test",
+      "Paired t‑test",
+      "Independent two‑sample t‑test"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Wilcoxon signed‑rank test is a non‑parametric alternative to:",
+    "options": [
+      "Chi‑square test",
+      "Paired t‑test",
+      "One‑way ANOVA",
+      "Independent t‑test"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Kruskal‑Wallis test is a non‑parametric alternative to:",
+    "options": [
+      "Chi‑square independence",
+      "Two‑way ANOVA",
+      "One‑way ANOVA",
+      "Paired t‑test"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Spearman rank correlation coefficient is used for:",
+    "options": [
+      "Binary outcomes",
+      "Categorical variables only",
+      "Continuous variables with linear relationship",
+      "Ordinal data or non‑linear monotonic relationships"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In hypothesis testing, the power of a test increases if:",
+    "options": [
+      "Effect size decreases",
+      "Population variance increases",
+      "Sample size increases",
+      "α decreases"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A confidence interval provides:",
+    "options": [
+      "The p‑value",
+      "The sample statistic only",
+      "The exact value of the parameter",
+      "A range of plausible values for the population parameter with a specified level of confidence"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If two confidence intervals for means do not overlap, we can generally conclude:",
+    "options": [
+      "The means are statistically significantly different at that confidence level",
+      "The variances are equal",
+      "The means are equal",
+      "The sample sizes are equal"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Bonferroni correction is used when:",
+    "options": [
+      "Calculating R²",
+      "Performing multiple comparisons to control family‑wise Type I error rate",
+      "Testing a single proportion",
+      "Performing a single test"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A one‑way ANOVA tests equality of means among:",
+    "options": [
+      "Two variables",
+      "Two groups",
+      "Three or more groups",
+      "One group"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The F‑statistic in one‑way ANOVA is calculated as:",
+    "options": [
+      "SST / SSB",
+      "MSW / MSB",
+      "SSB / SSW",
+      "MSB / MSW (between‑group variance / within‑group variance)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The total sum of squares (SST) in ANOVA is partitioned into:",
+    "options": [
+      "SSE and SSR",
+      "SSB (between) and SSW (within)",
+      "SSR and SST",
+      "SSB and SSE"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The null hypothesis in one‑way ANOVA is:",
+    "options": [
+      "All variances are equal",
+      "At least one group mean is different",
+      "All group means are equal",
+      "All sample sizes are equal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Post‑hoc tests (e.g., Tukey HSD) are conducted after ANOVA to:",
+    "options": [
+      "Determine which specific group means differ",
+      "Compute R²",
+      "Test the overall F‑test again",
+      "Test normality"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Two‑way ANOVA examines:",
+    "options": [
+      "Only the interaction effect",
+      "Only main effects without interaction",
+      "The effect of one independent variable",
+      "The effects of two independent variables and their interaction"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In two‑way ANOVA, a significant interaction means:",
+    "options": [
+      "The model is invalid",
+      "Residuals are not normal",
+      "The effect of one factor depends on the level of the other factor",
+      "Both main effects are significant"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "MANOVA (Multivariate Analysis of Variance) extends ANOVA to handle:",
+    "options": [
+      "Multiple dependent variables simultaneously",
+      "Categorical dependent variables",
+      "Non‑normal data",
+      "Multiple independent variables"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The assumption of normality in ANOVA applies to:",
+    "options": [
+      "The group means",
+      "The independent variables",
+      "The dependent variable raw scores",
+      "The residuals (errors) within each group"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Levene's test is used to check:",
+    "options": [
+      "Homogeneity of variances across groups",
+      "Linearity",
+      "Independence",
+      "Normality"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If Levene's test is significant (p < 0.05), we:",
+    "options": [
+      "Transform the independent variable",
+      "Cannot perform any test",
+      "Assume equal variances",
+      "Violate the equal variance assumption and may use Welch's ANOVA"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The square root of the Mean Square Error (MSE) in ANOVA is an estimate of:",
+    "options": [
+      "The standard deviation of the residuals (within‑group standard deviation)",
+      "The between‑group standard deviation",
+      "The F‑statistic",
+      "The standard error of the mean"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In regression, the assumption of independence of errors is most critical for:",
+    "options": [
+      "Normally distributed predictors",
+      "Large sample sizes",
+      "Time series data (autocorrelation)",
+      "Cross‑sectional data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Breusch‑Godfrey test is used to detect:",
+    "options": [
+      "Non‑linearity",
+      "Multicollinearity",
+      "Higher‑order autocorrelation",
+      "Heteroscedasticity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The White test is used to detect:",
+    "options": [
+      "Outliers",
+      "Heteroscedasticity (non‑constant error variance)",
+      "Normality",
+      "Autocorrelation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Robust standard errors (e.g., Huber‑White) are used to:",
+    "options": [
+      "Reduce sample size",
+      "Increase R²",
+      "Adjust for heteroscedasticity, providing valid inference",
+      "Adjust for non‑normality only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In logistic regression, the interpretation of a coefficient is in terms of:",
+    "options": [
+      "Change in Y directly",
+      "Correlation",
+      "Change in probability",
+      "Change in log‑odds; exponentiate to get odds ratio"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Hosmer‑Lemeshow test assesses:",
+    "options": [
+      "Linearity of logit",
+      "Goodness‑of‑fit for logistic regression",
+      "Normality of predictors",
+      "Multicollinearity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The area under the ROC curve (AUC) for a logistic model measures:",
+    "options": [
+      "The sample size",
+      "The significance of coefficients",
+      "Model calibration",
+      "Discriminative ability (classification performance)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An AUC of 0.5 indicates:",
+    "options": [
+      "Excellent model",
+      "Overfitting",
+      "No better than random chance",
+      "Perfect discrimination"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Principal component analysis (PCA) is a dimension reduction technique that:",
+    "options": [
+      "Performs clustering only",
+      "Tests hypotheses about means",
+      "Creates uncorrelated linear combinations of original variables to explain variance",
+      "Predicts a dependent variable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Factor analysis is used to:",
+    "options": [
+      "Compute correlations",
+      "Test differences between groups",
+      "Reduce many variables into a smaller number of latent factors",
+      "Perform regression"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cluster analysis is an unsupervised method that:",
+    "options": [
+      "Reduces dimensionality without grouping",
+      "Groups observations into clusters based on similarity",
+      "Tests a hypothesis",
+      "Predicts a target variable"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The elbow method is used in cluster analysis to:",
+    "options": [
+      "Compute cluster centers",
+      "Validate external criteria",
+      "Determine the number of clusters",
+      "Test cluster significance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Discriminant analysis is used to:",
+    "options": [
+      "Reduce dimensionality",
+      "Test correlation",
+      "Create clusters",
+      "Classify observations into known groups based on predictors"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The confusion matrix in classification evaluates:",
+    "options": [
+      "The eigenvalues",
+      "The factor loadings",
+      "True positives, false positives, etc., for predictive accuracy",
+      "The correlation matrix"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Precision in classification is:",
+    "options": [
+      "TN / (TN + FP)",
+      "(TP + TN) / total",
+      "TP / (TP + FN)",
+      "TP / (TP + FP)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Recall (sensitivity) is:",
+    "options": [
+      "TP / (TP + FP)",
+      "TP / (TP + FN)",
+      "(TP + TN) / total",
+      "TN / (TN + FP)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "F1 score is the harmonic mean of:",
+    "options": [
+      "Accuracy and error rate",
+      "True positive and true negative",
+      "Sensitivity and specificity",
+      "Precision and recall"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Cross‑validation (e.g., k‑fold) is used to:",
+    "options": [
+      "Test a single hypothesis",
+      "Assess model generalization performance and avoid overfitting",
+      "Compute p‑values",
+      "Increase sample size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Overfitting occurs when a model:",
+    "options": [
+      "Has low R²",
+      "Performs well on training data but poorly on new data",
+      "Has too few predictors",
+      "Performs equally on training and test data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bias‑variance tradeoff in machine learning means:",
+    "options": [
+      "Bias and variance always decrease together",
+      "Complex models have high bias and low variance",
+      "Simple models have high bias and low variance; complex models have low bias and high variance",
+      "There is no tradeoff"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The lasso (L1 regularization) can:",
+    "options": [
+      "Increase all coefficients",
+      "Only apply to logistic regression",
+      "Shrink some coefficients to zero, performing variable selection",
+      "Only shrink coefficients but not set to zero"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Ridge regression (L2 regularization) shrinks coefficients but:",
+    "options": [
+      "Removes all predictors",
+      "Does not set them to zero (keeps all variables)",
+      "Sets them to zero",
+      "Increases variance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A/B testing is a form of:",
+    "options": [
+      "Correlation analysis",
+      "Observational study",
+      "Survey research",
+      "Randomized experiment to compare two versions (A and B)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The null hypothesis in an A/B test typically states:",
+    "options": [
+      "Group B is better",
+      "Group A is better",
+      "No difference between the two groups (e.g., equal conversion rates)",
+      "There is a difference between group A and group B"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In an A/B test, random assignment helps:",
+    "options": [
+      "Guarantee large sample size",
+      "Increase bias",
+      "Eliminate all variability",
+      "Ensure comparability between groups and reduce confounding"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The concept of \"p‑hacking\" refers to:",
+    "options": [
+      "Using a large sample size",
+      "Correcting for multiple comparisons",
+      "Analyzing data with a pre‑registered plan",
+      "Performing multiple tests or manipulating data to obtain a significant p‑value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Pre‑registration of a study involves:",
+    "options": [
+      "Changing hypotheses after seeing results",
+      "Specifying hypothesis, analysis plan, and sample size before seeing data to reduce bias",
+      "No planning",
+      "Publishing results before data collection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A confidence interval for the difference between two proportions (p₁ – p₂) that does not include zero indicates:",
+    "options": [
+      "The proportions are equal",
+      "The variances are equal",
+      "The sample sizes are equal",
+      "There is a statistically significant difference at that confidence level"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The standard error for the difference between two independent proportions is:",
+    "options": [
+      "Neither",
+      "√(p̂₁(1‑p̂₁)/n₁ + p̂₂(1‑p̂₂)/n₂)",
+      "Both unpooled and pooled forms are correct in different contexts",
+      "√(p̂(1‑p̂)(1/n₁ + 1/n₂)) with pooled p̂"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The null hypothesis for a chi‑square test of homogeneity is:",
+    "options": [
+      "There is an association",
+      "The proportions of categories are the same across different populations",
+      "The sample sizes are equal",
+      "The populations are independent"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Relative risk (RR) is calculated as: (a/(a+b)) / (c/(c+d)) in a 2×2 table. It measures:",
+    "options": [
+      "The difference in proportions",
+      "The correlation coefficient",
+      "The ratio of probabilities (risk) in exposed vs. unexposed",
+      "The ratio of odds"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An odds ratio (OR) of 1.0 indicates:",
+    "options": [
+      "Decreased odds",
+      "Increased odds in exposed group",
+      "Perfect negative association",
+      "No association between exposure and outcome"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Number needed to treat (NNT) is: 1 / (risk difference). A smaller NNT indicates:",
+    "options": [
+      "No effect",
+      "Larger sample size needed",
+      "More effective treatment (fewer patients needed to prevent one event)",
+      "Less effective treatment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In survival analysis, the hazard ratio (HR) compares:",
+    "options": [
+      "Instantaneous risk of event between groups over time",
+      "Cumulative incidence",
+      "Median survival times",
+      "Correlation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Kaplan‑Meier estimator is used to:",
+    "options": [
+      "Test equality of means",
+      "Estimate survival function from time‑to‑event data, accounting for censoring",
+      "Compute chi‑square",
+      "Estimate regression coefficients"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The log‑rank test is used to compare:",
+    "options": [
+      "Two variances",
+      "Two proportions",
+      "Two or more survival curves",
+      "Two means"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Censoring in survival analysis occurs when:",
+    "options": [
+      "The data are complete",
+      "The sample is biased",
+      "The event of interest is observed for all subjects",
+      "The event has not occurred or the subject is lost to follow‑up before the event"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A statistical interaction (moderation) in regression means:",
+    "options": [
+      "The effect of X on Y is constant across levels of Z",
+      "There is multicollinearity",
+      "The effect of X on Y changes depending on the value of Z",
+      "The model is non‑linear"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Mediation analysis tests whether:",
+    "options": [
+      "X and Y are correlated",
+      "The effect of X on Y is explained by a third variable M (mediator)",
+      "The model is linear",
+      "The effect of X on Y changes at different levels of Z"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Sobel test is used to test:",
+    "options": [
+      "Main effects",
+      "Homogeneity of variance",
+      "Mediation (indirect effect) significance",
+      "Interaction effects"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Bootstrapping is often used in mediation to:",
+    "options": [
+      "Remove outliers",
+      "Obtain confidence intervals for indirect effects without normality assumption",
+      "Increase p‑values",
+      "Reduce sample size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In time series forecasting, the ARIMA model includes autoregressive (AR), integrated (I), and:",
+    "options": [
+      "Autocorrelation",
+      "Seasonal components only",
+      "Trend only",
+      "Moving average (MA) components"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Exponential smoothing is a forecasting method that:",
+    "options": [
+      "Uses no past data",
+      "Gives exponentially decreasing weights to older observations",
+      "Uses only the most recent observation",
+      "Gives equal weight to all past observations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mean Absolute Percentage Error (MAPE) is a measure of:",
+    "options": [
+      "Correlation",
+      "Variance",
+      "Model fit (R²)",
+      "Forecast accuracy in percentage terms"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Durbin‑Watson statistic is commonly used in regression with:",
+    "options": [
+      "Logistic regression",
+      "Cross‑sectional data",
+      "Time series data to detect first‑order autocorrelation",
+      "Experimental data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Granger causality test is used in time series to:",
+    "options": [
+      "Test for stationarity",
+      "Detect outliers",
+      "Prove true causality",
+      "Determine whether one time series predicts another, in a statistical sense"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A unit root test (e.g., Augmented Dickey‑Fuller) is used to test for:",
+    "options": [
+      "Normality",
+      "Stationarity in time series",
+      "Heteroscedasticity",
+      "Autocorrelation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cointegration analysis is used for:",
+    "options": [
+      "Cross‑sectional data",
+      "Binary outcomes",
+      "Stationary series with no relationship",
+      "Non‑stationary series that move together over time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In meta‑analysis, a forest plot displays:",
+    "options": [
+      "The raw data of each study",
+      "Effect sizes and confidence intervals from multiple studies and the pooled estimate",
+      "The p‑values only",
+      "The correlation matrix"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Publication bias in meta‑analysis refers to:",
+    "options": [
+      "High quality of all published studies",
+      "No bias",
+      "Tendency to publish only statistically significant results, which can bias the pooled estimate",
+      "Including all studies regardless of results"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A funnel plot is used in meta‑analysis to detect:",
+    "options": [
+      "Effect size magnitude",
+      "Sample size",
+      "Publication bias (asymmetry suggests bias)",
+      "Heterogeneity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The I² statistic in meta‑analysis measures:",
+    "options": [
+      "The number of studies",
+      "The effect size",
+      "The p‑value of the pooled effect",
+      "The percentage of total variation across studies due to heterogeneity rather than chance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Sensitivity analysis in statistics examines:",
+    "options": [
+      "The specificity",
+      "How sensitive the results are to changes in assumptions or inclusion/exclusion of studies",
+      "The sample size",
+      "The sensitivity of a test (true positive rate)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The purpose of statistical quality control (SQC) charts is to:",
+    "options": [
+      "Monitor process stability over time",
+      "Compute correlations",
+      "Test hypotheses about means",
+      "Analyze survey data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A control chart with points outside control limits indicates:",
+    "options": [
+      "Perfect quality",
+      "No variation",
+      "The process is in control",
+      "Special cause variation (out of control)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The central line in an X̄ chart is the:",
+    "options": [
+      "Lower control limit",
+      "Process mean (target)",
+      "Upper control limit",
+      "Range"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The R chart monitors:",
+    "options": [
+      "Number of defects",
+      "Proportion defective",
+      "Process mean",
+      "Process variability (range)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Capability indices (Cp, Cpk) measure:",
+    "options": [
+      "The mean shift",
+      "Whether the process is capable of meeting specification limits",
+      "The sample size",
+      "Whether the process is in control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Cp of 1.0 indicates:",
+    "options": [
+      "Excellent capability",
+      "Process is out of control",
+      "Process spread equals specification width, marginally capable (if centered)",
+      "Process is not capable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cpk accounts for both spread and:",
+    "options": [
+      "Outliers",
+      "Sample size",
+      "Control limits",
+      "Centering of the process mean relative to target"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Pareto principle (80/20 rule) suggests:",
+    "options": [
+      "80% of causes produce 20% of problems",
+      "No pattern",
+      "All causes are equally important",
+      "20% of causes produce 80% of problems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The ultimate goal of statistical inference is to:",
+    "options": [
+      "Collect all population data",
+      "Avoid uncertainty",
+      "Draw conclusions about a population based on sample data with a measure of uncertainty",
+      "Describe the sample"
+    ],
+    "correct": 2
+  }
+]
