@@ -1,0 +1,1622 @@
+[
+  {
+    "questionText": "A Management Information System (MIS) primarily supports:",
+    "options": [
+      "Decision‑making at middle and operational levels using internal data",
+      "Manual record keeping only",
+      "Strategic planning with external data only",
+      "Customer service calls"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The relationship between information and decision‑making is that:",
+    "options": [
+      "Information is irrelevant to decisions",
+      "More information always leads to better decisions",
+      "High‑quality information reduces uncertainty and improves decision quality",
+      "Only raw data, not processed information, is useful"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes the role of MIS in an organization?",
+    "options": [
+      "To replace all human managers",
+      "To provide timely, accurate, and relevant information to support managerial functions",
+      "To focus only on financial accounting",
+      "To eliminate the need for communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Data differs from information in that:",
+    "options": [
+      "Data is meaningful; information is raw",
+      "Data and information are identical",
+      "Information cannot be stored",
+      "Data are raw facts; information is data processed into a meaningful context"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of information, not raw data?",
+    "options": [
+      "100, 150, 200 (numbers without context)",
+      "Average monthly sales for each region calculated from transaction records",
+      "A list of employee IDs without names",
+      "A set of dates without labels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "From a managerial perspective, information is a basic resource because:",
+    "options": [
+      "It is free and unlimited",
+      "It replaces the need for physical resources",
+      "It is only useful for top executives",
+      "It helps managers make better decisions and achieve organizational goals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which characteristic of information ensures that it is free from errors and bias?",
+    "options": [
+      "Timeliness",
+      "Accuracy",
+      "Completeness",
+      "Relevance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Timeliness of information means that information should be:",
+    "options": [
+      "Extremely detailed",
+      "Perfectly accurate",
+      "Available when needed for decision‑making",
+      "From external sources only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Relevant information is information that:",
+    "options": [
+      "Is always historical",
+      "Is the same for all decisions",
+      "Comes only from top management",
+      "Relates directly to the decision at hand and changes the decision‑maker's actions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A decision support system (DSS) differs from MIS primarily by:",
+    "options": [
+      "Providing analytical models and tools for semi‑structured or unstructured decisions",
+      "Focusing only on structured decisions",
+      "Replacing the need for human judgment",
+      "Being used only by operational staff"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An Executive Support System (ESS) is designed for:",
+    "options": [
+      "Frontline workers",
+      "Middle managers only",
+      "Senior executives to monitor internal and external environment for strategic decisions",
+      "External auditors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Transaction Processing Systems (TPS) are used to:",
+    "options": [
+      "Support strategic planning",
+      "Analyze market trends",
+      "Replace all managers",
+      "Record and process routine business transactions (e.g., sales, payroll)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a typical output of a TPS?",
+    "options": [
+      "A strategic plan",
+      "A sales receipt or payroll check",
+      "A market research report",
+      "A 5‑year forecast"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Office Automation Systems (OAS) include:",
+    "options": [
+      "Only email",
+      "Only databases",
+      "Only accounting software",
+      "Word processing, spreadsheets, email, and calendaring"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A knowledge work system (KWS) supports:",
+    "options": [
+      "Manual labor",
+      "Professional and technical employees (e.g., engineers, scientists) in creating new knowledge",
+      "Only administrative assistants",
+      "Only customer service"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Customer Relationship Management (CRM) systems help manage:",
+    "options": [
+      "Internal financial transactions",
+      "Supplier relationships only",
+      "Interactions with customers to improve satisfaction and sales",
+      "Employee payroll"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Supply Chain Management (SCM) systems integrate:",
+    "options": [
+      "Only marketing activities",
+      "Only internal HR functions",
+      "Only financial reporting",
+      "Information and processes across suppliers, manufacturers, distributors, and customers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Enterprise Resource Planning (ERP) systems:",
+    "options": [
+      "Integrate all functional areas (finance, HR, operations, sales) into a single unified system",
+      "Focus only on accounting",
+      "Are used only by small businesses",
+      "Replace all employees"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A data warehouse is:",
+    "options": [
+      "A physical storage room for paper files",
+      "A real‑time transaction database",
+      "A large, centralized repository of historical data from multiple sources used for reporting and analysis",
+      "A backup system only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Business Intelligence (BI) refers to:",
+    "options": [
+      "Basic transaction processing",
+      "Technologies and processes for analyzing data to support decision‑making",
+      "Manual data entry",
+      "Customer service calls"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Data mining involves:",
+    "options": [
+      "Collecting paper forms",
+      "Deleting old data",
+      "Manually sorting records",
+      "Discovering patterns and relationships in large datasets using statistical and machine learning techniques"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of a data mining application?",
+    "options": [
+      "Printing a sales receipt",
+      "Recording employee attendance",
+      "Sending a mass email",
+      "Identifying that customers who buy diapers are also likely to buy baby wipes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "OLAP (Online Analytical Processing) enables users to:",
+    "options": [
+      "Perform multidimensional analysis of data (e.g., slice, dice, drill down)",
+      "Enter daily transactions",
+      "Process payroll",
+      "Manage inventory in real time"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A dashboard in MIS is a visual display that:",
+    "options": [
+      "Shows only raw data",
+      "Replaces all reports",
+      "Provides key performance indicators (KPIs) and metrics at a glance",
+      "Is only for IT staff"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Big data is characterized by volume, velocity, variety, and:",
+    "options": [
+      "Vagueness",
+      "Veracity",
+      "Volume only",
+      "Value (sometimes added as fifth V)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a source of big data?",
+    "options": [
+      "A single manual entry",
+      "A printed newspaper",
+      "Social media feeds, sensor data, and transaction logs",
+      "A handwritten note"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cloud computing provides:",
+    "options": [
+      "On‑premise servers only",
+      "No data storage",
+      "Only free services",
+      "On‑demand access to computing resources (servers, storage, databases) over the internet"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Software as a Service (SaaS) delivers:",
+    "options": [
+      "Physical hardware",
+      "Software applications over the internet on a subscription basis",
+      "Only operating systems",
+      "Database software installed on local computers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Platform as a Service (PaaS) provides:",
+    "options": [
+      "Only hardware",
+      "Only email services",
+      "Physical servers",
+      "A platform to develop, run, and manage applications without building infrastructure"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Infrastructure as a Service (IaaS) provides:",
+    "options": [
+      "Virtualized computing resources (servers, storage, networking) over the internet",
+      "Only software applications",
+      "Only development tools",
+      "Only customer support"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Knowledge Management (KM) is the process of:",
+    "options": [
+      "Deleting outdated information",
+      "Keeping all knowledge secret",
+      "Capturing, organizing, sharing, and leveraging organizational knowledge to improve performance",
+      "Avoiding documentation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Tacit knowledge refers to:",
+    "options": [
+      "Knowledge that is written in manuals",
+      "Publicly available information",
+      "Financial data",
+      "Personal, experience‑based knowledge that is difficult to articulate or write down"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Explicit knowledge refers to:",
+    "options": [
+      "Knowledge that can be codified, documented, and easily shared (e.g., procedures, reports)",
+      "Intuition and gut feeling",
+      "Unspoken rules",
+      "Cultural norms"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A knowledge management system (KMS) typically includes:",
+    "options": [
+      "Only a database",
+      "Repositories, collaboration tools, and search functions to capture and share knowledge",
+      "Only email",
+      "Only financial software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The primary goal of knowledge sharing in organizations is to:",
+    "options": [
+      "Hide information from competitors",
+      "Reduce employee collaboration",
+      "Avoid reinventing the wheel and leverage collective expertise",
+      "Eliminate training"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A community of practice (CoP) is:",
+    "options": [
+      "A formal department",
+      "A type of database",
+      "A legal entity",
+      "A group of people who share a common interest or profession and learn from each other"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A lessons‑learned system captures:",
+    "options": [
+      "Insights from past projects (both successes and failures) to guide future work",
+      "Only successes",
+      "Only financial data",
+      "Employee personal information"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Knowledge creation (SECI model) includes socialization, externalization, combination, and:",
+    "options": [
+      "Information",
+      "Internalization",
+      "Integration",
+      "Innovation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Socialization in the SECI model refers to:",
+    "options": [
+      "Writing down knowledge",
+      "Combining explicit knowledge",
+      "Sharing tacit knowledge through observation, imitation, and practice",
+      "Analyzing data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Externalization in the SECI model means:",
+    "options": [
+      "Keeping knowledge tacit",
+      "Deleting knowledge",
+      "Purchasing knowledge",
+      "Converting tacit knowledge into explicit knowledge (e.g., writing down best practices)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Combination in SECI involves:",
+    "options": [
+      "Individual reflection",
+      "Merging different sources of explicit knowledge into new explicit knowledge",
+      "Ignoring information",
+      "Only oral communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Internalization in SECI is:",
+    "options": [
+      "Sharing with others",
+      "Destroying knowledge",
+      "Outsourcing",
+      "Learning and internalizing explicit knowledge into tacit knowledge (learning by doing)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A key benefit of effective knowledge management is:",
+    "options": [
+      "Increased employee turnover",
+      "Higher operational costs",
+      "Improved innovation, efficiency, and reduced repeated mistakes",
+      "Information silos"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A knowledge repository might contain:",
+    "options": [
+      "Only employee salaries",
+      "Only customer complaints",
+      "Only competitor data",
+      "Best practices, project documentation, expert profiles, and FAQs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The role of a Chief Knowledge Officer (CKO) is to:",
+    "options": [
+      "Lead knowledge management strategy and initiatives",
+      "Maintain hardware",
+      "Handle payroll",
+      "Manage customer service"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Information ethics deals with:",
+    "options": [
+      "Ignoring moral issues",
+      "The moral principles governing the collection, storage, and use of information",
+      "Only legal compliance",
+      "Only financial audits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Privacy in information systems refers to:",
+    "options": [
+      "Making all data public",
+      "Sharing data without consent",
+      "The right of individuals to control access to their personal information",
+      "Ignoring data protection laws"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an ethical issue related to MIS?",
+    "options": [
+      "High speed of processing",
+      "Low storage costs",
+      "User‑friendly interfaces",
+      "Unauthorized access to personal data and surveillance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Data breach is defined as:",
+    "options": [
+      "Unauthorized access, disclosure, or theft of sensitive information",
+      "Routine data backup",
+      "Legal data sharing",
+      "Encrypting data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company that collects customer data without consent violates:",
+    "options": [
+      "No laws in any country",
+      "Privacy regulations (e.g., GDPR, CCPA) and ethical norms",
+      "Only internal policies",
+      "Only copyright laws"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The GDPR (General Data Protection Regulation) applies to:",
+    "options": [
+      "Only US companies",
+      "Only government agencies",
+      "Any organization handling data of EU citizens, regardless of location",
+      "Only non‑profit organizations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The right to be forgotten is a provision in GDPR that allows individuals to:",
+    "options": [
+      "Never delete data",
+      "Access all data without restriction",
+      "Sell their data",
+      "Request deletion of their personal data under certain conditions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Information security aims to protect confidentiality, integrity, and:",
+    "options": [
+      "Cost reduction",
+      "Availability of information",
+      "Speed of processing",
+      "Aesthetics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Confidentiality in information security ensures that:",
+    "options": [
+      "Data is accurate",
+      "Data is always available",
+      "Data is backed up",
+      "Data is accessible only to authorized users"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Integrity in information security means:",
+    "options": [
+      "Data is secret",
+      "Data is available 24/7",
+      "Data is accurate and has not been tampered with",
+      "Data is encrypted"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Availability in information security means:",
+    "options": [
+      "Data is secret",
+      "Authorized users can access data when needed",
+      "Data is always changed",
+      "Data is deleted"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Authentication is the process of:",
+    "options": [
+      "Encrypting data",
+      "Backing up files",
+      "Deleting logs",
+      "Verifying the identity of a user or system"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Authorization determines:",
+    "options": [
+      "What an authenticated user is allowed to access or do",
+      "The user's password",
+      "The user's email address",
+      "The user's physical location"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Encryption is used to:",
+    "options": [
+      "Speed up data transmission",
+      "Delete data permanently",
+      "Protect data confidentiality by converting it into an unreadable format without a key",
+      "Compress data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A firewall is a security system that:",
+    "options": [
+      "Physically protects computer hardware",
+      "Monitors and controls incoming/outgoing network traffic based on rules",
+      "Encrypts all data",
+      "Replaces antivirus software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Malware (malicious software) includes:",
+    "options": [
+      "Only viruses",
+      "Only adware",
+      "Only bugs",
+      "Viruses, worms, ransomware, spyware, and trojans"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Phishing is a cyberattack that:",
+    "options": [
+      "Physically steals hardware",
+      "Encrypts data for ransom",
+      "Tricks users into revealing sensitive information by posing as a legitimate entity",
+      "Deletes system files"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Ransomware attacks typically:",
+    "options": [
+      "Steal passwords",
+      "Slow down the computer",
+      "Display unwanted ads",
+      "Encrypt the victim's data and demand payment for decryption"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Social engineering exploits:",
+    "options": [
+      "Human psychology to gain unauthorized access or information",
+      "Software vulnerabilities only",
+      "Hardware failures",
+      "Network congestion"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A strong password policy includes:",
+    "options": [
+      "Using the word \"password\"",
+      "Long, complex, unique passwords and multi‑factor authentication",
+      "Sharing passwords with coworkers",
+      "Never changing passwords"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Multi‑factor authentication (MFA) requires:",
+    "options": [
+      "Only a password",
+      "Only a fingerprint",
+      "Two or more verification methods (e.g., password + code from phone)",
+      "Only a security question"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A Virtual Private Network (VPN) provides:",
+    "options": [
+      "Faster internet speed",
+      "Free cloud storage",
+      "Antivirus protection",
+      "Secure, encrypted connection over a public network"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An Intrusion Detection System (IDS) monitors network traffic for:",
+    "options": [
+      "Normal activity only",
+      "Suspicious activity and potential attacks, alerting administrators",
+      "Encryption only",
+      "Data backups"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A disaster recovery plan (DRP) includes:",
+    "options": [
+      "Only a list of employees",
+      "Marketing strategy",
+      "Procedures to restore IT systems and data after a major disruption",
+      "Product design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A business continuity plan (BCP) is broader than DRP because it:",
+    "options": [
+      "Only focuses on IT",
+      "Ignores data backup",
+      "Only covers fires",
+      "Ensures critical business functions can continue during and after a disaster"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Backup strategies include full, incremental, and:",
+    "options": [
+      "No backup",
+      "Differential backup",
+      "Manual copy only",
+      "Cloud only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an ethical principle related to IT use?",
+    "options": [
+      "Using pirated software to save money",
+      "Sharing confidential customer data for profit",
+      "Respecting intellectual property and not using unlicensed software",
+      "Hacking into competitor systems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Intellectual property in digital context includes:",
+    "options": [
+      "Only physical inventions",
+      "Only employee names",
+      "Only office furniture",
+      "Copyrights, patents, trademarks, and trade secrets for software and digital content"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Software piracy is:",
+    "options": [
+      "Unauthorized copying, distribution, or use of copyrighted software",
+      "Legal in some countries",
+      "Encouraged by software companies",
+      "Always allowed for educational purposes"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Digital rights management (DRM) technologies aim to:",
+    "options": [
+      "Make copying easier",
+      "Provide free content",
+      "Control access and use of digital content to prevent unauthorized distribution",
+      "Eliminate all copyright laws"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Acceptable Use Policy (AUP) defines:",
+    "options": [
+      "Employee salaries",
+      "Rules for appropriate use of organizational IT resources",
+      "Product pricing",
+      "Marketing campaigns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bring Your Own Device (BYOD) policies address:",
+    "options": [
+      "Prohibiting any personal devices",
+      "Giving free devices to employees",
+      "Only desktop computers",
+      "Security and privacy issues when employees use personal devices for work"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"digital divide\" refers to:",
+    "options": [
+      "A type of firewall",
+      "A gap in software features",
+      "The gap between those who have access to digital technology and those who do not",
+      "A backup method"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Green IT (sustainable computing) focuses on:",
+    "options": [
+      "Increasing energy consumption",
+      "Using only green colors",
+      "Ignoring waste",
+      "Reducing environmental impact of IT through energy efficiency and recycling"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An information system audit evaluates:",
+    "options": [
+      "The controls, security, and effectiveness of an organization's information systems",
+      "Only employee performance",
+      "Product quality",
+      "Customer satisfaction"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a component of an information system?",
+    "options": [
+      "Only hardware",
+      "Hardware, software, data, procedures, and people",
+      "Only software",
+      "Only data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Chief Information Officer (CIO) is responsible for:",
+    "options": [
+      "Cleaning office spaces",
+      "Only programming",
+      "Aligning IT strategy with business strategy and managing IT resources",
+      "Only customer service"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Legacy systems are:",
+    "options": [
+      "New, modern systems",
+      "Systems that run on mobile devices",
+      "Cloud‑based systems",
+      "Old, outdated systems that are often critical but difficult to replace"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "System development life cycle (SDLC) phases include:",
+    "options": [
+      "Planning, analysis, design, implementation, and maintenance",
+      "Only coding",
+      "Only testing",
+      "Only deployment"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Agile development methodology emphasizes:",
+    "options": [
+      "Rigid, long‑term plans with no changes",
+      "Iterative development, collaboration, and responding to change",
+      "No customer involvement",
+      "Documentation over working software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Outsourcing IT functions means:",
+    "options": [
+      "Doing everything in‑house",
+      "Hiring more internal IT staff",
+      "Contracting with external vendors to provide IT services or systems",
+      "Ignoring IT altogether"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A service level agreement (SLA) in IT outsourcing specifies:",
+    "options": [
+      "Employee vacation policy",
+      "Product pricing",
+      "Office lease terms",
+      "Performance metrics, responsibilities, and remedies between service provider and client"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Cloud computing risk includes:",
+    "options": [
+      "No risks at all",
+      "Data security, compliance, and vendor lock‑in",
+      "Guaranteed zero downtime",
+      "Unlimited free storage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Edge computing processes data:",
+    "options": [
+      "Only in a central cloud data center",
+      "Manually",
+      "On paper only",
+      "Near the source of data generation (e.g., IoT devices) to reduce latency"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Internet of Things (IoT) refers to:",
+    "options": [
+      "Only computers",
+      "Only smartphones",
+      "A network of physical devices (sensors, appliances) embedded with electronics to collect and exchange data",
+      "Only printers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Artificial intelligence (AI) in MIS can be used for:",
+    "options": [
+      "Predictive analytics, chatbots, and process automation",
+      "Manual data entry",
+      "Only printing reports",
+      "Only storing files"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Machine learning is a subset of AI that:",
+    "options": [
+      "Follows fixed rules without learning",
+      "Requires human intervention for every decision",
+      "Only works with structured data",
+      "Enables systems to learn from data and improve without explicit programming"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Robotic Process Automation (RPA) automates:",
+    "options": [
+      "Physical robots in factories",
+      "Repetitive, rule‑based digital tasks (e.g., data entry)",
+      "Strategic decision making",
+      "Creative design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Blockchain technology provides:",
+    "options": [
+      "Centralized control",
+      "Only cryptocurrency",
+      "A decentralized, tamper‑resistant distributed ledger",
+      "No security features"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A common application of blockchain in business is:",
+    "options": [
+      "Word processing",
+      "Email management",
+      "Graphic design",
+      "Supply chain tracking and smart contracts"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "MIS supports managerial decision‑making at three levels: operational, tactical (managerial), and:",
+    "options": [
+      "Informal",
+      "Strategic",
+      "Technical",
+      "Clerical"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Structured decisions are those that:",
+    "options": [
+      "Are unique and require judgment",
+      "Cannot be programmed",
+      "Are repetitive and can be handled by a standard procedure",
+      "Are made only by CEOs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Unstructured decisions are those that:",
+    "options": [
+      "Are routine",
+      "Are easily automated",
+      "Are made by front‑line workers",
+      "Have no standard procedure; require manager's judgment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Semi‑structured decisions fall between:",
+    "options": [
+      "Structured and unstructured; some elements can be automated, others require judgment",
+      "Good and bad",
+      "Fast and slow",
+      "High and low"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which level of management typically uses ESS?",
+    "options": [
+      "Operational",
+      "Strategic (executive)",
+      "Middle management only",
+      "All levels equally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which level of management typically uses MIS reports (e.g., sales summaries)?",
+    "options": [
+      "Operational",
+      "External auditors",
+      "Middle management",
+      "Strategic"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Transaction processing systems are used primarily at which level?",
+    "options": [
+      "Strategic",
+      "Operational",
+      "Executive",
+      "Policy making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A decision support system (DSS) is most useful for:",
+    "options": [
+      "Routine, daily transactions",
+      "Long‑term strategic planning only",
+      "Payroll processing",
+      "Semi‑structured problems where analysis of models and data helps"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A geographic information system (GIS) is a DSS that:",
+    "options": [
+      "Stores text documents",
+      "Integrates location data (maps) with other data for spatial analysis",
+      "Processes financial transactions",
+      "Manages email"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An expert system (ES) captures:",
+    "options": [
+      "Only raw data",
+      "General business news",
+      "Human expert knowledge in a specific domain as rules to solve problems",
+      "Employee schedules"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A neural network is an AI technique that:",
+    "options": [
+      "Uses simple if‑then rules",
+      "Only works with numbers",
+      "Cannot learn",
+      "Mimics the human brain's structure to recognize patterns"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The 5‑component model of information systems includes hardware, software, data, procedures, and:",
+    "options": [
+      "Network",
+      "People",
+      "Cloud",
+      "Security"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of high‑quality information?",
+    "options": [
+      "Ambiguity and inconsistency",
+      "Duplication and redundancy",
+      "Irrelevance",
+      "Accuracy, completeness, consistency, and timeliness"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Master data management (MDM) ensures:",
+    "options": [
+      "Data is deleted regularly",
+      "Only financial data is managed",
+      "Critical business data (customer, product, supplier) is consistent across systems",
+      "Data is not shared"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Data governance refers to:",
+    "options": [
+      "Ignoring data policies",
+      "Overall management of data availability, usability, integrity, and security",
+      "Only data storage",
+      "Only data deletion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"single source of truth\" means:",
+    "options": [
+      "There are many conflicting data sources",
+      "Data is never updated",
+      "Data is kept secret",
+      "Data is stored in one authoritative location to ensure consistency"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A data lake is:",
+    "options": [
+      "A physical storage room",
+      "A large repository that stores raw data in its native format until needed",
+      "A small database",
+      "A backup tape"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Data mart is a subset of a data warehouse focused on:",
+    "options": [
+      "All company data",
+      "Only external data",
+      "A specific business function or department",
+      "Only historical data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "ETL (Extract, Transform, Load) process is used in:",
+    "options": [
+      "Manual data entry",
+      "Printing reports",
+      "Sending emails",
+      "Populating data warehouses from source systems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Data visualization tools help:",
+    "options": [
+      "Hide patterns",
+      "Present data in graphical formats to facilitate understanding and insight",
+      "Slow down analysis",
+      "Replace all data with images"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A common ethical dilemma in MIS is:",
+    "options": [
+      "High processing speed",
+      "Low storage costs",
+      "Monitoring employee activity (privacy vs. security)",
+      "User training"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Whistleblowing in the context of IT ethics refers to:",
+    "options": [
+      "Reporting a coworker's personal social media use",
+      "Sharing confidential data publicly without reason",
+      "Asking for a raise",
+      "Reporting illegal or unethical practices within an organization (e.g., data misuse)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Corporate liability for data breaches may include:",
+    "options": [
+      "Legal fines, reputation damage, and customer compensation",
+      "No consequences",
+      "Only a warning",
+      "Reduced taxes"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A security policy should be:",
+    "options": [
+      "Written once and never updated",
+      "Reviewed and updated regularly, and communicated to all employees",
+      "Kept secret from employees",
+      "Very short and vague"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social media policies in organizations address:",
+    "options": [
+      "Only marketing",
+      "Only personal accounts",
+      "Appropriate use, disclosure of information, and professional behavior on social platforms",
+      "Only company accounts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"halo effect\" in information systems refers to:",
+    "options": [
+      "A security feature",
+      "A type of virus",
+      "A backup method",
+      "Cognitive bias where positive impression of one aspect influences perception of others"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"sunk cost fallacy\" in IT projects occurs when:",
+    "options": [
+      "Managers continue funding a failing project because of past investment",
+      "Projects are cancelled early",
+      "Projects are completed on time",
+      "No money is spent"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "IT project management includes:",
+    "options": [
+      "Only coding",
+      "Scope, time, cost, quality, risk, and communication management",
+      "Only hardware setup",
+      "Only user training"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The critical path in a project network is:",
+    "options": [
+      "The shortest sequence of activities",
+      "The easiest tasks",
+      "The optional tasks",
+      "The longest sequence of activities that determines the minimum project duration"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A Gantt chart is used for:",
+    "options": [
+      "Budgeting only",
+      "Employee evaluation",
+      "Visualizing project schedule and task dependencies",
+      "Data encryption"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "User acceptance testing (UAT) ensures:",
+    "options": [
+      "The system runs fast",
+      "The system has no bugs",
+      "Only IT staff approve the system",
+      "End users can perform required tasks and accept the system"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Change management in IT projects refers to:",
+    "options": [
+      "Managing the human and organizational aspects of transitioning to new systems",
+      "Changing software code only",
+      "Replacing hardware",
+      "Deleting old data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a common reason for IT project failure?",
+    "options": [
+      "Strong user involvement",
+      "Poor requirements definition and lack of management support",
+      "Adequate testing",
+      "Realistic timelines"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"post‑implementation review\" evaluates:",
+    "options": [
+      "Only the budget",
+      "Only the coding style",
+      "Whether the system meets objectives and delivers benefits after deployment",
+      "Only user satisfaction without metrics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "IT governance ensures that:",
+    "options": [
+      "IT operates independently of business goals",
+      "No one uses IT",
+      "Only cost reduction matters",
+      "IT investments align with business strategy and risks are managed"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The COBIT framework is used for:",
+    "options": [
+      "IT governance and management best practices",
+      "Software development only",
+      "Hardware manufacturing",
+      "Employee training"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "ITIL (Information Technology Infrastructure Library) focuses on:",
+    "options": [
+      "Only security",
+      "IT service management best practices",
+      "Only cloud computing",
+      "Only data mining"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The balanced scorecard can be applied to IT by measuring:",
+    "options": [
+      "Only financial outcomes",
+      "Only user satisfaction",
+      "Financial, customer, internal process, and learning/growth metrics for IT",
+      "Only system uptime"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Digital transformation refers to:",
+    "options": [
+      "Minor software updates",
+      "Replacing all humans with robots",
+      "Only using email",
+      "Fundamental changes in business processes, culture, and customer experiences using digital technologies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of digital transformation?",
+    "options": [
+      "Moving from manual inventory tracking to real‑time IoT sensors and AI forecasting",
+      "Using paper forms instead of online forms",
+      "Keeping legacy systems unchanged",
+      "Reducing internet speed"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Resistance to new information systems is often due to:",
+    "options": [
+      "Excitement about change",
+      "Fear of job loss, lack of training, and perceived complexity",
+      "High user involvement",
+      "Clear communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To increase user adoption of a new system, managers should:",
+    "options": [
+      "Force use without training",
+      "Ignore user feedback",
+      "Threaten termination",
+      "Involve users in design, provide training, and address concerns"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Technology Acceptance Model (TAM) posits that user adoption is determined by perceived usefulness and:",
+    "options": [
+      "Perceived cost",
+      "Perceived ease of use",
+      "Perceived risk",
+      "Perceived speed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Unified Theory of Acceptance and Use of Technology (UTAUT) includes performance expectancy, effort expectancy, social influence, and:",
+    "options": [
+      "Weather conditions",
+      "Hardware color",
+      "Facilitating conditions",
+      "Office location"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A help desk (service desk) provides:",
+    "options": [
+      "Only hardware repair",
+      "Only software development",
+      "Only network management",
+      "Support for users experiencing IT problems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "End‑user computing refers to:",
+    "options": [
+      "Outsourcing all IT",
+      "The ability of non‑IT users to develop their own applications (e.g., spreadsheets, databases)",
+      "Only mainframe computing",
+      "Eliminating user involvement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A risk of end‑user computing is:",
+    "options": [
+      "Increased IT control",
+      "Lower user productivity",
+      "Inconsistent data and security vulnerabilities",
+      "No risk at all"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Disaster recovery as a service (DRaaS) provides:",
+    "options": [
+      "No recovery options",
+      "Only backup of emails",
+      "Only physical security",
+      "Cloud‑based disaster recovery services"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"zero trust\" security model assumes:",
+    "options": [
+      "Everything inside the network is trusted",
+      "No user or device is trusted by default, even inside the network",
+      "Only external threats exist",
+      "Passwords are unnecessary"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An API (Application Programming Interface) allows:",
+    "options": [
+      "Only hardware communication",
+      "Manual data entry",
+      "Printing documents",
+      "Different software systems to communicate and share data"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Microservices architecture breaks applications into:",
+    "options": [
+      "Small, independent, loosely coupled services",
+      "One large monolithic block",
+      "Only frontend components",
+      "Only database components"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Open source software is:",
+    "options": [
+      "Always paid",
+      "Only for personal use",
+      "Software with source code available for modification and redistribution",
+      "Proprietary and secret"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Proprietary software requires:",
+    "options": [
+      "Free distribution",
+      "No copyright",
+      "Open modification",
+      "A license and typically restricts access to source code"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of an operating system?",
+    "options": [
+      "Microsoft Word",
+      "Windows or Linux",
+      "Google Chrome",
+      "Adobe Photoshop"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A database management system (DBMS) is used to:",
+    "options": [
+      "Create word documents",
+      "Send emails",
+      "Define, create, query, and manage databases",
+      "Browse the web"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "SQL (Structured Query Language) is used to:",
+    "options": [
+      "Design graphics",
+      "Write operating systems",
+      "Create spreadsheets",
+      "Query and manipulate relational databases"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A primary key in a database:",
+    "options": [
+      "Uniquely identifies each record in a table",
+      "Can be null",
+      "Is optional",
+      "Can be duplicate"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Normalization in database design reduces:",
+    "options": [
+      "Data integrity",
+      "Data redundancy and anomalies",
+      "Query speed (always)",
+      "Number of tables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A foreign key is:",
+    "options": [
+      "A password",
+      "An encryption key",
+      "A hardware component",
+      "A key from another table that establishes a relationship"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "NoSQL databases are designed for:",
+    "options": [
+      "Only structured, tabular data",
+      "Only financial transactions",
+      "Unstructured or semi‑structured data and high scalability",
+      "Only small datasets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An information system's success is measured by:",
+    "options": [
+      "Only cost",
+      "Only speed",
+      "Only number of features",
+      "User satisfaction, system usage, and improved decision‑making performance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "MIS supports competitive advantage through:",
+    "options": [
+      "Ignoring market trends",
+      "Improving operational efficiency, customer relationships, and innovation",
+      "Reducing information sharing",
+      "Manual processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The value chain model (Porter) identifies primary and support activities where IT can:",
+    "options": [
+      "Only increase costs",
+      "Reduce quality",
+      "Create value and competitive advantage",
+      "Eliminate all activities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A strategic information system is one that:",
+    "options": [
+      "Only processes payroll",
+      "Is used only by low‑level employees",
+      "Has no impact on strategy",
+      "Provides a competitive advantage by changing goals, products, or relationships"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of a strategic information system?",
+    "options": [
+      "An airline reservation system that gives competitive advantage",
+      "A payroll system",
+      "A simple spreadsheet",
+      "An email client"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The \"network effect\" in digital platforms means:",
+    "options": [
+      "Value decreases with more users",
+      "Value increases as more people use the platform",
+      "Only technical aspects matter",
+      "No effect on value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A digital platform (e.g., Uber, Airbnb) creates value by:",
+    "options": [
+      "Manufacturing products",
+      "Only providing hardware",
+      "Facilitating interactions between producers and consumers",
+      "Avoiding technology"
+    ],
+    "correct": 2
+  }
+]
