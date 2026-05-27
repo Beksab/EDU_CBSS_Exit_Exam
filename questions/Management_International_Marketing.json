@@ -1,0 +1,1392 @@
+[
+  {
+    "questionText": "International marketing differs from domestic marketing primarily because of:",
+    "options": [
+      "Differences in the external environment (cultural, legal, economic, political) across countries",
+      "Differences in product quality standards only",
+      "The need to use a different language in all communications",
+      "Higher transportation costs for all products"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following best defines international marketing?",
+    "options": [
+      "Planning and executing transactions across national borders to satisfy individual and organizational objectives",
+      "Exporting without any adaptation of the marketing mix",
+      "Selling products only to neighboring countries",
+      "Focusing solely on domestic production for local markets"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company that views the entire world as a single market and standardizes its marketing mix is following a:",
+    "options": [
+      "Multidomestic strategy",
+      "Transnational strategy",
+      "Localization strategy",
+      "Global strategy (globalization)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A multidomestic strategy adapts products and marketing to:",
+    "options": [
+      "A single global standard",
+      "Each country's unique conditions",
+      "Only the home country's conditions",
+      "No adaptation at all"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key driver for companies to engage in international marketing?",
+    "options": [
+      "Reducing the quality of products",
+      "Eliminating all competition",
+      "Saturation of domestic markets and seeking growth opportunities",
+      "Avoiding all forms of risk"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The trend of increasing interconnectedness of markets, production, and culture across countries is called:",
+    "options": [
+      "Globalization",
+      "Protectionism",
+      "Localization",
+      "Nationalization"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a major risk in international marketing?",
+    "options": [
+      "Political instability and currency fluctuations",
+      "Low transportation costs",
+      "Uniform legal systems",
+      "Standardized consumer preferences"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cultural environment in international marketing includes:",
+    "options": [
+      "Only language differences",
+      "Only economic factors",
+      "Values, beliefs, customs, language, religion, and social structures",
+      "Only legal systems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Hofstede's cultural dimension of \"power distance\" refers to:",
+    "options": [
+      "The extent to which less powerful members accept unequal power distribution",
+      "The physical distance between offices",
+      "The speed of internet connections",
+      "The number of products exported"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a high-context culture (e.g., Japan), communication tends to be:",
+    "options": [
+      "Implicit, relying on non-verbal cues and shared understanding",
+      "Written rather than spoken",
+      "Avoided entirely",
+      "Explicit and direct"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A low-context culture (e.g., Germany, USA) values:",
+    "options": [
+      "Clear, explicit, and direct verbal messages",
+      "Indirect communication and silence",
+      "Long pauses and non-verbal cues",
+      "Minimal information exchange"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which cultural dimension from Hofstede describes a society's preference for achievement, heroism, and material rewards versus cooperation and modesty?",
+    "options": [
+      "Individualism vs. collectivism",
+      "Uncertainty avoidance",
+      "Masculinity vs. femininity",
+      "Long-term vs. short-term orientation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A country with high uncertainty avoidance tends to have:",
+    "options": [
+      "Few rules and high tolerance for risk",
+      "No legal system",
+      "High acceptance of innovation",
+      "Many formal rules, low tolerance for ambiguity, and resistance to change"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The economic environment of a country includes:",
+    "options": [
+      "Only its population size",
+      "Income levels, purchasing power, inflation, and stage of economic development",
+      "Only its official language",
+      "Only its climate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The political environment that poses a risk of government takeover of foreign assets is called:",
+    "options": [
+      "Trade liberalization",
+      "Tariff reduction",
+      "Expropriation or nationalization",
+      "Foreign direct investment promotion"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A tariff is a:",
+    "options": [
+      "Quota on the quantity of imports",
+      "Subsidy to domestic producers",
+      "Voluntary export restraint",
+      "Tax on imported goods"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A non-tariff barrier to trade includes:",
+    "options": [
+      "Import duties",
+      "Export subsidies only",
+      "Quotas, embargoes, local content requirements, and bureaucratic red tape",
+      "Free trade agreements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A common market (e.g., EU in its advanced stage) allows for:",
+    "options": [
+      "Free movement of goods, services, capital, and labor among member countries",
+      "Only free movement of goods",
+      "Only free movement of capital",
+      "No movement of goods at all"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "NAFTA (now USMCA) is an example of a:",
+    "options": [
+      "Customs union",
+      "Free trade area",
+      "Political union",
+      "Common market without labor mobility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a major international trade theory that explains why countries benefit from specializing in goods they produce most efficiently?",
+    "options": [
+      "Comparative advantage (David Ricardo)",
+      "Product life cycle theory",
+      "Absolute advantage (Adam Smith)",
+      "Mercantilism"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The product life cycle theory of international trade (Vernon) suggests that:",
+    "options": [
+      "All products are produced only in the country of innovation forever",
+      "Products move from innovation in developed countries to production in developing countries as they mature",
+      "Products never cross borders",
+      "Only services are traded internationally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which market entry mode involves the least risk and investment?",
+    "options": [
+      "Joint venture",
+      "Wholly owned subsidiary",
+      "Indirect exporting",
+      "Licensing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Indirect exporting means:",
+    "options": [
+      "The company uses independent intermediaries located in its home country to export",
+      "The company sets up a foreign factory",
+      "The company buys foreign products",
+      "The company sells directly to foreign customers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Direct exporting involves:",
+    "options": [
+      "Using a domestic intermediary",
+      "The company itself handling export activities, possibly using foreign distributors or agents",
+      "No export activities",
+      "Only licensing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Licensing as an entry mode gives a foreign company the right to:",
+    "options": [
+      "Own the licensor's company",
+      "Acquire the licensor's shares",
+      "Use the licensor's intellectual property (patent, trademark, technology) in exchange for a fee",
+      "Sell only physical products without any rights"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Franchising is a form of licensing where the franchisor provides:",
+    "options": [
+      "A complete business system (brand, operating procedures, support) to the franchisee",
+      "Only the product formula",
+      "Only financial capital",
+      "Only the brand name"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A joint venture in international marketing is:",
+    "options": [
+      "A company exporting to another country",
+      "A partnership between a foreign company and a local company to create a new entity",
+      "A wholly owned subsidiary",
+      "A franchise agreement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an advantage of a joint venture?",
+    "options": [
+      "Complete control by the foreign partner",
+      "No sharing of profits",
+      "Avoidance of all local laws",
+      "Shared risk and access to local partner's knowledge and networks"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A wholly owned subsidiary gives the parent company:",
+    "options": [
+      "No control over operations",
+      "Full control and full share of profits, but with higher risk and investment",
+      "Only minority ownership",
+      "No decision-making authority"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which entry mode is most suitable when a company wants maximum control and has sufficient resources?",
+    "options": [
+      "Exporting",
+      "Licensing",
+      "Wholly owned subsidiary (greenfield or acquisition)",
+      "Franchising"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A greenfield investment means:",
+    "options": [
+      "Buying an existing local company",
+      "Licensing a foreign firm",
+      "Exporting to a foreign country",
+      "Building new facilities from scratch in a foreign country"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Strategic alliances in international marketing are:",
+    "options": [
+      "Short-term export contracts",
+      "Mergers that eliminate one partner",
+      "Cooperative agreements between firms from different countries to share resources and capabilities",
+      "Sole proprietorships"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a reason for forming an international strategic alliance?",
+    "options": [
+      "To avoid any new market entry",
+      "To share technology, reduce risk, and gain access to new markets",
+      "To eliminate all competition",
+      "To reduce product quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In international product policy, product standardization means:",
+    "options": [
+      "Adapting the product for each country",
+      "Creating a different product for each region",
+      "Eliminating all products",
+      "Offering the same product worldwide with minimal changes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Product adaptation in international marketing involves:",
+    "options": [
+      "Selling identical products everywhere",
+      "Modifying the product to meet local conditions, regulations, or preferences",
+      "Reducing the number of products",
+      "Increasing the price without changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following products is most likely to require adaptation for international markets?",
+    "options": [
+      "Industrial raw materials like coal",
+      "Basic office paper",
+      "Software code",
+      "Food products with taste and religious dietary requirements"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company that invents a new product specifically for a foreign market is using:",
+    "options": [
+      "Standardization",
+      "Straight extension",
+      "Product invention (backward or forward)",
+      "Product elimination"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Mandatory adaptation occurs when:",
+    "options": [
+      "The company voluntarily changes packaging",
+      "Local laws require changes (e.g., voltage, labeling, safety standards)",
+      "Customers prefer the original product",
+      "The product is already perfect"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A global brand is one that:",
+    "options": [
+      "Uses the same name and image worldwide with consistent positioning",
+      "Changes name in every country",
+      "Is not trademarked",
+      "Is sold only in one country"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Country-of-origin effect refers to:",
+    "options": [
+      "The cost of production in the home country",
+      "Consumer perceptions and attitudes about a product based on which country produced it",
+      "The legal origin of the trademark",
+      "The transportation cost from origin"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of the country-of-origin effect?",
+    "options": [
+      "French wine perceived as high quality",
+      "Consumers ignore origin information",
+      "Origin has no impact on purchase",
+      "All products from any country are perceived the same"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "International promotion strategy includes decisions about:",
+    "options": [
+      "Advertising, sales promotion, public relations, personal selling, and digital marketing across countries",
+      "Only pricing",
+      "Only distribution",
+      "Only product design"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Standardized international advertising uses:",
+    "options": [
+      "Different ads for each country",
+      "No advertising at all",
+      "The same advertising message and creative approach worldwide",
+      "Only print media"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Adapted international advertising modifies:",
+    "options": [
+      "The message, creative, or media to fit local culture and regulations",
+      "Only the price",
+      "Only the distribution channel",
+      "Only the product"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which promotional element is most sensitive to cultural differences (e.g., humor, values, symbols)?",
+    "options": [
+      "Packaging color",
+      "Transportation mode",
+      "Raw material sourcing",
+      "Advertising message and execution"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Sales promotion techniques (coupons, samples, contests) in international markets:",
+    "options": [
+      "Work exactly the same in all countries",
+      "May require adaptation due to legal restrictions and cultural acceptance",
+      "Are illegal everywhere",
+      "Are never used"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Public relations in international marketing includes:",
+    "options": [
+      "Managing relationships with local media, governments, and communities to build a positive image",
+      "Only paid advertisements",
+      "Only product recalls",
+      "Only shareholder meetings"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Personal selling across cultures requires:",
+    "options": [
+      "The same approach everywhere",
+      "Only using email",
+      "Understanding local negotiation styles, gift-giving norms, and relationship building",
+      "Avoiding any direct interaction"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Digital marketing (social media, SEO, online ads) in international contexts must consider:",
+    "options": [
+      "Language, internet penetration, platform popularity (e.g., WeChat in China)",
+      "Only the product color",
+      "Only the price",
+      "No differences across countries"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "International pricing decisions are complicated by:",
+    "options": [
+      "Uniform demand everywhere",
+      "Currency fluctuations, tariffs, transfer pricing, and different willingness to pay",
+      "No competition",
+      "No legal restrictions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Transfer pricing refers to the price charged when:",
+    "options": [
+      "Selling to final consumers",
+      "Buying raw materials locally",
+      "Selling goods or services between related entities (e.g., parent and subsidiary) across borders",
+      "Exporting to an unrelated distributor"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following can trigger dumping allegations?",
+    "options": [
+      "Selling at the same price in domestic and foreign markets",
+      "Selling only luxury goods",
+      "Selling in bulk quantities",
+      "Selling in a foreign market at a price lower than the domestic market or below cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Countertrade is an international pricing and payment arrangement where:",
+    "options": [
+      "Only cash is used",
+      "Goods are exchanged for other goods instead of or in addition to cash",
+      "Only services are traded",
+      "There is no transaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Types of countertrade include barter, counterpurchase, and:",
+    "options": [
+      "Cash in advance",
+      "Letter of credit",
+      "Open account",
+      "Buyback (compensation trade)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A letter of credit is a common payment method in international trade that:",
+    "options": [
+      "Guarantees payment from the buyer's bank to the seller upon presentation of documents",
+      "Requires no documentation",
+      "Is the same as cash on delivery",
+      "Is only used for domestic transactions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which payment term offers the least risk to the exporter?",
+    "options": [
+      "Open account",
+      "Consignment",
+      "Letter of credit (confirmed, irrevocable)",
+      "Cash in advance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which payment term offers the least risk to the importer?",
+    "options": [
+      "Cash in advance",
+      "Letter of credit",
+      "Open account (pay after receiving goods)",
+      "Consignment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "International distribution strategy (place) involves:",
+    "options": [
+      "Only transportation mode",
+      "Channel structure (direct vs. indirect), logistics, and intermediaries across borders",
+      "Only warehousing",
+      "Only pricing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A foreign distributor is typically:",
+    "options": [
+      "An employee of the exporting company",
+      "A government agency",
+      "A competitor",
+      "An independent local merchant who buys and resells the exporter's products"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A foreign agent (or representative) usually:",
+    "options": [
+      "Takes title to the goods",
+      "Does not take title but finds buyers and facilitates sales for a commission",
+      "Manufactures products",
+      "Provides only legal advice"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Choosing between a distributor and an agent depends on:",
+    "options": [
+      "Only the product color",
+      "Only the exchange rate",
+      "Only the language spoken",
+      "Level of control desired, market knowledge, and cost structure"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "International logistics includes:",
+    "options": [
+      "Only product design",
+      "Only advertising",
+      "Managing the flow of goods, information, and payments across borders, including freight forwarding, warehousing, and customs clearance",
+      "Only pricing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Incoterms (e.g., FOB, CIF) define:",
+    "options": [
+      "The product quality standard",
+      "The advertising message",
+      "The allocation of costs and risks between buyer and seller in international shipping",
+      "The packaging material"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "FOB (Free on Board) means:",
+    "options": [
+      "Seller pays for all transportation to the buyer's warehouse",
+      "Seller delivers goods onto a vessel; buyer assumes risk and cost from that point",
+      "Seller covers all insurance",
+      "Buyer pays before shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "CIF (Cost, Insurance, Freight) means:",
+    "options": [
+      "Seller pays for cost, insurance, and freight to the named port of destination",
+      "Buyer pays after inspection",
+      "Buyer arranges insurance and freight",
+      "Seller only pays for raw materials"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company uses parallel importing (gray market) when:",
+    "options": [
+      "It sells through authorized channels only",
+      "It stops exporting",
+      "It only sells domestically",
+      "Authorized distributors sell products outside their designated territory, often at lower prices"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Gray market goods are:",
+    "options": [
+      "Illegal counterfeits",
+      "Genuine products sold through unauthorized channels, often crossing borders",
+      "Products that are banned",
+      "Products with no brand name"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a challenge of international distribution?",
+    "options": [
+      "Uniform consumer preferences",
+      "No language barriers",
+      "Complex customs regulations, documentation, and port delays",
+      "Identical legal systems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company using a \"glocal\" approach to international marketing:",
+    "options": [
+      "Standardizes everything",
+      "Adapts everything",
+      "Exports only raw materials",
+      "Standardizes where possible, adapts where necessary (think global, act local)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Ethical issues in international marketing may include:",
+    "options": [
+      "Transparent labeling",
+      "Bribery, exploitation of labor, environmental degradation, and cultural insensitivity",
+      "Fair pricing",
+      "Respecting local laws"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Foreign Corrupt Practices Act (FCPA) in the U.S.:",
+    "options": [
+      "Encourages bribery",
+      "Only applies to domestic transactions",
+      "Legalizes all payments",
+      "Prohibits bribery of foreign officials to obtain business"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a cultural factor that affects international marketing of consumer goods?",
+    "options": [
+      "Tariff rates",
+      "Exchange rates",
+      "Color symbolism, gender roles, and religious taboos",
+      "Transportation infrastructure"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A product's package color that means \"purity\" in one culture may mean \"mourning\" in another. This illustrates the need for:",
+    "options": [
+      "No packaging",
+      "Higher tariffs",
+      "Lower prices",
+      "Cultural research and adaptation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Global market segmentation divides international markets into groups based on:",
+    "options": [
+      "Only geographic location",
+      "Only income level",
+      "Geographic, demographic, psychographic, behavioral, and cultural factors across countries",
+      "Only language"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Intermarket segmentation\" (cross-market segmentation) identifies segments with similar needs:",
+    "options": [
+      "Only within one country",
+      "Across different countries, regardless of national boundaries",
+      "Only in developing countries",
+      "Only in developed countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of intermarket segmentation?",
+    "options": [
+      "Global teens who share similar attitudes and digital behavior",
+      "French wine drinkers only",
+      "Japanese car buyers only",
+      "All coffee drinkers in the world"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Emerging markets (e.g., BRICS countries) are attractive to international marketers because:",
+    "options": [
+      "They have no competition",
+      "They have no legal systems",
+      "They reject all foreign products",
+      "They have growing middle classes, increasing disposable income, and market potential"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A multinational corporation (MNC) is defined as a company that:",
+    "options": [
+      "Operates only in its home country",
+      "Has operations and assets in multiple countries and manages production or services across borders",
+      "Exports occasionally",
+      "Only imports products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Born Global\" firm is one that:",
+    "options": [
+      "Takes many years to internationalize",
+      "Never exports",
+      "From inception, seeks to derive competitive advantage from using resources in multiple countries",
+      "Only sells domestically"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a challenge of international marketing research?",
+    "options": [
+      "Uniform data availability",
+      "No translation needed",
+      "Identical consumer behavior",
+      "Differences in research infrastructure, language, and response bias across countries"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Back translation in international research means:",
+    "options": [
+      "Translating from foreign to home language and then back to foreign to check accuracy",
+      "Not translating at all",
+      "Using only local researchers",
+      "Avoiding all translation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a source of secondary data for international marketing?",
+    "options": [
+      "Only internal company sales",
+      "Only social media",
+      "World Bank, IMF, UN, and national statistical offices",
+      "Only competitor websites"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company that engages in \"dumping\" may face:",
+    "options": [
+      "Subsidies from the importing country",
+      "Anti-dumping duties or tariffs",
+      "No legal consequences",
+      "Lower transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which pricing strategy sets the same price globally, adjusted only for shipping and taxes?",
+    "options": [
+      "Polycentric pricing",
+      "Geocentric pricing",
+      "Transfer pricing",
+      "Ethnocentric pricing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Polycentric pricing allows:",
+    "options": [
+      "The same price everywhere",
+      "Subsidiaries to set prices based on local market conditions",
+      "No price variations",
+      "Only cost-based pricing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Geocentric pricing (global pricing) aims for:",
+    "options": [
+      "Completely different prices in each country",
+      "Price based only on home country costs",
+      "An integrated approach that considers both local and global factors, often with standard price corridors",
+      "Price equal to zero"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "International product life cycle (PLC) stages in global markets:",
+    "options": [
+      "Are identical for all countries",
+      "Never change",
+      "Only apply to services",
+      "May differ; a product can be in maturity in one country and introduction in another"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a strategic option for international market expansion?",
+    "options": [
+      "Only exporting",
+      "Only joint ventures",
+      "Only wholly owned subsidiaries",
+      "Exporting, contractual agreements (licensing/franchising), strategic alliances, joint ventures, and wholly owned subsidiaries"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The decision to enter a foreign market should be based on:",
+    "options": [
+      "Analysis of market attractiveness, risk, fit with company's resources and objectives",
+      "Random choice",
+      "Only the CEO's preference",
+      "Only the exchange rate today"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following countries is likely to have a high power distance culture?",
+    "options": [
+      "Denmark",
+      "Sweden",
+      "Mexico",
+      "Israel"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a collectivist culture, advertising appeals often emphasize:",
+    "options": [
+      "Individual achievement and uniqueness",
+      "Low price only",
+      "Product features only",
+      "Family, group harmony, and belonging"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company adapting its product for a foreign market due to different voltage standards (110v vs 220v) is responding to:",
+    "options": [
+      "Cultural factors",
+      "Technical/environmental factors",
+      "Religious factors",
+      "Linguistic factors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Global account management (GAM) is used when:",
+    "options": [
+      "Customers are only local",
+      "All customers are identical",
+      "A multinational customer buys in multiple countries, requiring coordinated service",
+      "The company has no international presence"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a benefit of global branding?",
+    "options": [
+      "Economies of scale in marketing and consistent brand image",
+      "Confused consumers",
+      "Legal problems in every country",
+      "High adaptation costs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A potential disadvantage of global branding is:",
+    "options": [
+      "Lower recognition",
+      "No cost savings",
+      "Branding mistakes in one country may affect the brand globally",
+      "Reduced product quality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "International marketing control involves:",
+    "options": [
+      "No performance measurement",
+      "Monitoring and evaluating performance across countries using standardized and local metrics",
+      "Only financial audits",
+      "Only customer satisfaction surveys"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that uses a \"first-mover\" advantage in international marketing:",
+    "options": [
+      "Enters a market after competitors",
+      "Never enters any market",
+      "Only follows copycats",
+      "Enters a market early and gains advantages like brand recognition and customer loyalty"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a source of competitive advantage in international marketing?",
+    "options": [
+      "Ignoring local competition",
+      "Superior product adaptation, cost efficiency, or unique brand positioning across borders",
+      "Using the same approach as all competitors",
+      "Avoiding all innovation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "International marketing planning should include:",
+    "options": [
+      "Only the budget",
+      "Only the product description",
+      "Situation analysis (internal and external), objectives, strategies, tactics, implementation, and control",
+      "Only the price list"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A global marketing strategy that focuses on standardization of the marketing mix is most appropriate when:",
+    "options": [
+      "Customer needs and conditions are highly varied across countries",
+      "Legal requirements force adaptation",
+      "Tariffs are high",
+      "Customer needs are similar across countries and there are economies of scale"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A multidomestic strategy is most appropriate when:",
+    "options": [
+      "Customer preferences and conditions differ significantly across countries",
+      "There are strong scale economies",
+      "Costs of adaptation are extremely high",
+      "The product is a commodity"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A transnational strategy seeks to achieve both:",
+    "options": [
+      "Low cost and local responsiveness simultaneously",
+      "Only low cost",
+      "Only local responsiveness",
+      "No coordination"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Globalization of markets (Levitt) argues that:",
+    "options": [
+      "All markets are completely different",
+      "Technology and communication are creating a single global market for standardized products",
+      "Multidomestic strategies are always superior",
+      "Adaptation is always necessary"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A counterargument to Levitt's globalization thesis is that:",
+    "options": [
+      "All consumers are identical",
+      "Standardization always fails",
+      "Cultural and national differences persist, requiring adaptation",
+      "Only local products succeed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a global product (standardized)?",
+    "options": [
+      "Coca-Cola (original formula)",
+      "Handmade crafts",
+      "Regional beer",
+      "Local bread"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "International marketing research often uses \"emic\" vs \"etic\" approaches. Emic means:",
+    "options": [
+      "Studying from outside, using universal concepts",
+      "Ignoring culture",
+      "Studying from within a culture, using local concepts and measures",
+      "Using only quantitative methods"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Etic approach in cross-cultural research uses:",
+    "options": [
+      "Culture-specific measures",
+      "Universal concepts and measures that can be applied across cultures",
+      "Only qualitative methods",
+      "Only observation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common mistake in international marketing?",
+    "options": [
+      "Conducting thorough market research",
+      "Adapting to local regulations",
+      "Hiring local staff",
+      "Ethnocentrism (assuming home country practices are superior)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Ethnocentrism in international marketing can lead to:",
+    "options": [
+      "Product failures due to ignoring local differences",
+      "Successful adaptation",
+      "Lower costs",
+      "Better customer relationships"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company that successfully \"thinks globally but acts locally\" is demonstrating:",
+    "options": [
+      "Pure standardization",
+      "Pure adaptation",
+      "Glocalization",
+      "Isolationism"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key success factor for international marketers?",
+    "options": [
+      "Ignoring cultural differences",
+      "Rigid adherence to home country strategies",
+      "Avoiding local partnerships",
+      "Cross-cultural competence and flexibility"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The concept of \"liability of foreignness\" refers to:",
+    "options": [
+      "The advantage of being a local firm",
+      "The additional costs and risks faced by foreign firms compared to local firms",
+      "The benefit of being foreign",
+      "The elimination of all barriers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of liability of foreignness?",
+    "options": [
+      "Lack of local market knowledge and discrimination by local stakeholders",
+      "Lower transportation costs",
+      "Access to global financing",
+      "Familiarity with local language"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company can overcome liability of foreignness by:",
+    "options": [
+      "Forming joint ventures with local partners, hiring local managers, and adapting",
+      "Ignoring local laws",
+      "Reducing product quality",
+      "Increasing prices substantially"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The \"Uppsala model\" of internationalization suggests that firms:",
+    "options": [
+      "Enter all markets at once",
+      "Never internationalize",
+      "Only use acquisitions",
+      "Gradually increase commitment to foreign markets, starting with culturally close countries"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Network theory of internationalization emphasizes:",
+    "options": [
+      "Relationships and business networks as drivers of international expansion",
+      "Individual decisions only",
+      "Ignoring partners",
+      "Only internal resources"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A \"born global\" firm often uses:",
+    "options": [
+      "Slow, incremental entry",
+      "Only domestic sales",
+      "No innovation",
+      "Rapid internationalization from inception, leveraging technology and niche markets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following industries is most likely to have global standardization potential?",
+    "options": [
+      "Food with strong cultural preferences",
+      "Funeral services",
+      "Industrial electronics (semiconductors)",
+      "Local legal services"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "International marketing of services faces additional challenges because services are:",
+    "options": [
+      "Tangible and storable",
+      "Easy to transport",
+      "Always identical across countries",
+      "Intangible, perishable, and require local presence or adaptation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Mode of entry choice for a service firm (e.g., consulting) often involves:",
+    "options": [
+      "Only exporting",
+      "Foreign direct investment (subsidiaries) or contractual modes (franchising, licensing)",
+      "Only indirect exporting",
+      "Only countertrade"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a major trend in international marketing?",
+    "options": [
+      "Decreasing cross-border trade",
+      "Return to barter only",
+      "Growth of digital and e-commerce globalization, social media, and sustainability concerns",
+      "Elimination of all international trade"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "International marketing ethics require companies to:",
+    "options": [
+      "Ignore local labor laws",
+      "Use bribery when convenient",
+      "Maximize profit at any cost",
+      "Respect human rights, avoid child labor, and protect the environment while marketing globally"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company facing a boycott in a foreign country due to unethical practices should:",
+    "options": [
+      "Ignore the boycott",
+      "Investigate, apologize, and implement corrective actions transparently",
+      "Increase advertising",
+      "Leave the country without explanation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"corporate social responsibility\" (CSR) in international marketing includes:",
+    "options": [
+      "Only profit maximization",
+      "Avoiding all local engagement",
+      "Only legal compliance",
+      "Voluntary actions to address social, environmental, and ethical issues in host countries"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a potential benefit of international marketing to a country?",
+    "options": [
+      "Increased employment, technology transfer, and consumer choice",
+      "Loss of cultural identity",
+      "Decreased competition",
+      "Higher prices for all goods"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a potential negative effect of international marketing on local cultures?",
+    "options": [
+      "Improved infrastructure",
+      "Increased product variety",
+      "Cultural homogenization and erosion of local traditions",
+      "Lower prices"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A country's \"buy local\" campaigns aim to:",
+    "options": [
+      "Increase imports",
+      "Reduce consumer choice",
+      "Eliminate all marketing",
+      "Protect local industries and culture from foreign competition"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The World Trade Organization (WTO) primarily aims to:",
+    "options": [
+      "Promote free trade by reducing barriers and resolving disputes",
+      "Regulate product quality only",
+      "Eliminate all international marketing",
+      "Increase tariffs globally"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Regional economic integration (e.g., EU, ASEAN) affects international marketing by:",
+    "options": [
+      "Increasing trade barriers",
+      "Creating larger, more homogeneous markets with reduced internal barriers",
+      "Eliminating all competition",
+      "Standardizing all products automatically"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that standardizes its international packaging except for local language labeling is using:",
+    "options": [
+      "Full adaptation",
+      "No adaptation",
+      "Partial adaptation (packaging standardization with informational adaptation)",
+      "Full standardization without any changes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "International marketing of luxury goods often uses:",
+    "options": [
+      "Low prices everywhere",
+      "Global branding with premium positioning and some adaptation in distribution",
+      "No advertising",
+      "Only local raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration for international pricing of luxury goods?",
+    "options": [
+      "Price should be lower than domestic",
+      "Ignoring exchange rates",
+      "Setting the same price in every currency without adjustment",
+      "Avoiding gray market arbitrage and maintaining brand prestige"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"Diamond model\" of national competitive advantage (Porter) includes:",
+    "options": [
+      "Only labor costs",
+      "Only government policy",
+      "Factor conditions, demand conditions, related and supporting industries, and firm strategy/rivalry",
+      "Only natural resources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a factor condition in Porter's model?",
+    "options": [
+      "Strong domestic rivalry",
+      "Skilled labor and infrastructure in a country",
+      "Demand for sophisticated products",
+      "Presence of suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "International marketing success often depends on:",
+    "options": [
+      "Balancing global efficiency with local responsiveness",
+      "Only global standardization",
+      "Ignoring local adaptation",
+      "Only local adaptation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company that fails to consider local religious holidays in its international promotion schedule may:",
+    "options": [
+      "Gain more sales",
+      "Offend customers and lose sales",
+      "Have no effect",
+      "Improve brand image"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a socio-cultural adaptation in international marketing?",
+    "options": [
+      "Adjusting advertising to avoid taboo symbols",
+      "Changing voltage",
+      "Reducing price",
+      "Changing product size"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When entering a foreign market, a company should first:",
+    "options": [
+      "Launch the product immediately",
+      "Assume the home market strategy works",
+      "Conduct thorough market research and environmental scanning",
+      "Ignore legal requirements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The final step in developing an international marketing strategy is:",
+    "options": [
+      "Implementing, monitoring, and controlling the marketing mix across borders",
+      "Selecting the target market",
+      "Setting the price",
+      "Choosing the entry mode"
+    ],
+    "correct": 0
+  }
+]
