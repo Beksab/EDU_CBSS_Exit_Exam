@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>EDU Exit Exam | Live Questions</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #f0f4f8; font-family: 'Segoe UI', Roboto, system-ui, sans-serif; padding: 16px; color: #1e2a3e; }
+    .container { max-width: 800px; margin: 0 auto; }
+    .card { background: white; border-radius: 28px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); padding: 20px 18px; margin-bottom: 20px; }
+    h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 0.2rem; color: #0b3b5f; }
+    .sub { font-size: 0.85rem; color: #4b6f8e; margin-bottom: 16px; border-left: 3px solid #2c7da0; padding-left: 12px; }
+    label { font-weight: 600; font-size: 0.85rem; display: block; margin-top: 12px; margin-bottom: 5px; color: #1f5068; }
+    input, select, button { font-size: 1rem; border-radius: 40px; border: 1px solid #cbd5e1; padding: 10px 16px; width: 100%; background: white; }
+    button { background: #1e6f5c; color: white; font-weight: bold; border: none; cursor: pointer; margin-top: 8px; transition: 0.1s; }
+    button:active { transform: scale(0.97); background: #0e5a48; }
+    button.outline { background: white; border: 1px solid #2c7da0; color: #2c7da0; }
+    .timer-box { background: #0b3b5f; color: white; text-align: center; padding: 12px; border-radius: 60px; font-weight: bold; font-size: 2rem; font-family: monospace; }
+    .question-nav { display: flex; justify-content: space-between; gap: 12px; margin: 20px 0; }
+    .jump-dropdown { margin: 15px 0; }
+    .flag-btn { background: #f4a261; color: white; border: none; padding: 8px 16px; border-radius: 40px; cursor: pointer; margin-top: 10px; }
+    .flag-btn.active { background: #e76f51; }
+    .review-badge { margin-top: 8px; display: inline-block; padding: 4px 12px; border-radius: 40px; font-size: 0.8rem; }
+    .correct-badge { background: #c7f9cc; color: #14532d; }
+    .wrong-badge { background: #ffe0db; color: #a1220a; }
+    .result-summary { background: #e6f7f0; border-radius: 32px; padding: 16px; text-align: center; margin-bottom: 20px; }
+    .admin-panel { background: #f8fafc; border: 1px dashed #8ba9c2; }
+    .flex-row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+    footer { font-size: 0.7rem; text-align: center; margin: 20px; color: #5e7e9c; }
+    .option { display: flex; align-items: center; gap: 12px; background: #f9fafb; padding: 8px 12px; border-radius: 50px; margin-bottom: 8px; }
+    .option input { width: 20px; height: 20px; accent-color: #1e6f5c; }
+    .auto-timer-note { font-size: 0.75rem; background: #eef2fa; padding: 6px 12px; border-radius: 40px; text-align: center; margin-top: 8px; }
+    .loading { text-align: center; padding: 40px; font-style: italic; color: #5e7e9c; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="card">
+    <h1>📘 Exit Exam Simulator</h1>
+    <div class="sub">Ethiopian Defence University – College of Business & Social Studies<br>Auto Timer: 1 min/question | Reports to department rep</div>
+    <label>👤 Student Name</label>
+    <input type="text" id="studentName" placeholder="Full name">
+    <div class="flex-row">
+      <div style="flex:1"><label>🏛️ Department</label>
+        <select id="departmentSelect">
+          <option value="Management">Management Department</option>
+          <option value="Logistics">Logistics & Supply Chain Management</option>
+          <option value="Accounting">Accounting & Finance Department</option>
+          <option value="Law">Law Department</option>
+          <option value="Journalism">Journalism & Communications Department</option>
+        </select>
+      </div>
+      <div style="flex:2"><label>📖 Course</label>
+        <select id="courseSelect"></select>
+      </div>
+    </div>
+    <div class="flex-row">
+      <button id="loadCourseBtn" class="outline">⟳ Load Questions</button>
+      <button id="startExamBtn">▶ Start Exam</button>
+      <button id="submitExamBtn" style="background:#bc6c25;">✔ Submit & Finish</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="timer-box" id="timerDisplay">-- : --</div>
+    <div id="questionCounter" style="text-align:center; margin-top:8px;">Questions: 0</div>
+    <div class="auto-timer-note">⏱️ Timer = 1 minute per question</div>
+  </div>
+
+  <div id="examArea" class="card">
+    <div id="singleQuestionContainer"></div>
+    <div class="jump-dropdown" id="jumpDropdownContainer" style="display: none;">
+      <label>📋 Jump to question:</label>
+      <select id="jumpSelect"></select>
+    </div>
+    <div class="question-nav" id="navButtons" style="display: none;">
+      <button id="prevBtn" class="outline">◀ Previous</button>
+      <button id="flagBtn" class="flag-btn">🚩 Flag this question</button>
+      <button id="nextBtn" class="outline">Next ▶</button>
+    </div>
+  </div>
+
+  <div id="resultsPanel" class="card" style="display: none;"></div>
+
+  <div class="card admin-panel" id="adminPanelContainer" style="display: none;">
+    <div id="adminPanelContent">
+      <div style="font-weight: bold; margin-bottom: 12px;">⚙️ Instructor Panel – Upload Questions</div>
+      <div style="margin-top: 16px;">
+        <p style="font-size:0.85rem;">To update questions, edit the <strong>Exit_Exam_Questions.json</strong> file on the server and re-upload it.</p>
+        <hr>
+        <label>📤 Temporary upload (local only)</label>
+        <div class="flex-row">
+          <select id="uploadDept" class="inline-select">
+            <option value="Management">Management Dept</option>
+            <option value="Logistics">Logistics Dept</option>
+            <option value="Accounting">Accounting & Finance Dept</option>
+            <option value="Law">Law Dept</option>
+            <option value="Journalism">Journalism Dept</option>
+          </select>
+          <select id="uploadCourse" class="inline-select"></select>
+        </div>
+        <input type="file" id="uploadQuestionsFile" accept=".json">
+        <button id="uploadJsonBtn">📂 Replace questions (local only)</button>
+        <p style="font-size:0.75rem; margin-top:8px;">Changes made here only affect your current device. To make permanent changes, update the server's JSON file.</p>
+      </div>
+    </div>
+  </div>
+  <div style="text-align: center; margin-bottom: 20px;">
+    <button id="unlockAdminBtn" class="outline">🔒 Show Instructor Panel (Admin Only)</button>
+  </div>
+  <footer>✅ Questions are loaded live from Exit_Exam_Questions.json → always up to date.</footer>
+</div>
+
+<script>
+  // ========== HARDCODED DEPARTMENT EMAILS ==========
+  const departmentEmails = {
+    "Management": "beksabtsegi@gmail.com",
+    "Logistics": "bekabemay@gmail.com",
+    "Accounting": "lidiyajemal@gmail.com",
+    "Law": "getacher112@gmail.com",
+    "Journalism": "tesfayetariku192199@gmail.com"
+  };
+
+  // ========== GLOBAL STATE ==========
+  let currentQuestions = [];
+  let studentAnswers = [];
+  let flagged = [];
+  let currentIndex = 0;
+  let examActive = false;
+  let timerInterval = null;
+  let timeLeftSeconds = 0;
+  let submitted = false;
+  let currentDepartment = "Management";
+  let currentCourseName = "";
+  let googleScriptUrl = "https://script.google.com/macros/s/AKfycbyVX-8sYbhZdrtfK_bwoHDxUslI4VAmJ7SIpntmkeddKYCx_dz5fj85JTfdDQrlmUdgNw/exec"; // REPLACE WITH YOUR SCRIPT URL
+
+  let departmentCourses = {};
+  let masterQuestions = {}; // loaded from JSON
+
+  // DOM elements
+  const departmentSelect = document.getElementById('departmentSelect');
+  const courseSelect = document.getElementById('courseSelect');
+  const loadCourseBtn = document.getElementById('loadCourseBtn');
+  const startExamBtn = document.getElementById('startExamBtn');
+  const submitExamBtn = document.getElementById('submitExamBtn');
+  const examArea = document.getElementById('examArea');
+  const timerDisplay = document.getElementById('timerDisplay');
+  const resultsPanel = document.getElementById('resultsPanel');
+  const studentNameInput = document.getElementById('studentName');
+  const questionCounterSpan = document.getElementById('questionCounter');
+  const singleContainer = document.getElementById('singleQuestionContainer');
+  const jumpSelect = document.getElementById('jumpSelect');
+  const navButtons = document.getElementById('navButtons');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const flagBtn = document.getElementById('flagBtn');
+  const jumpContainer = document.getElementById('jumpDropdownContainer');
+  const uploadDept = document.getElementById('uploadDept');
+  const uploadCourse = document.getElementById('uploadCourse');
+  const uploadFileInput = document.getElementById('uploadQuestionsFile');
+  const uploadJsonBtn = document.getElementById('uploadJsonBtn');
+  const unlockAdminBtn = document.getElementById('unlockAdminBtn');
+  const adminContainer = document.getElementById('adminPanelContainer');
+  const ADMIN_PASSWORD = "admin123";
+
+  // Load external JSON file
+  async function loadMasterQuestions() {
+    try {
+      const response = await fetch('Exit_Exam_Questions.json');
+      if (!response.ok) throw new Error('Failed to load Exit_Exam_Questions.json');
+      const data = await response.json();
+      masterQuestions = data.questions;
+      departmentCourses = data.courses;
+      updateCourseDropdown();
+      loadCourseQuestionsAndReset();
+    } catch (err) {
+      console.error(err);
+      singleContainer.innerHTML = `<div class="loading">⚠️ Could not load Exit_Exam_Questions.json. Make sure the file exists on the server.</div>`;
+    }
+  }
+
+  function getStorageKey(dept, course) { return `exam_${dept}_${course.replace(/\s/g, '_')}`; }
+  function getCurrentStorageKey() { return getStorageKey(currentDepartment, currentCourseName); }
+
+  function loadQuestionsForCurrentCourse() {
+    const key = getCurrentStorageKey();
+    const stored = localStorage.getItem(key);
+    if (stored) {
+      try {
+        const parsed = JSON.parse(stored);
+        if (Array.isArray(parsed) && parsed.length) {
+          currentQuestions = parsed;
+          return;
+        }
+      } catch(e) {}
+    }
+    const deptData = masterQuestions[currentDepartment];
+    if (deptData && deptData[currentCourseName] && deptData[currentCourseName].length) {
+      currentQuestions = JSON.parse(JSON.stringify(deptData[currentCourseName]));
+    } else {
+      currentQuestions = [
+        { questionText: "No questions for this course. Edit Exit_Exam_Questions.json to add questions.", options: ["OK"], correct: 0 }
+      ];
+    }
+    localStorage.setItem(key, JSON.stringify(currentQuestions));
+  }
+
+  function updateCourseDropdown() {
+    const dept = departmentSelect.value;
+    const courses = departmentCourses[dept] || [];
+    courseSelect.innerHTML = "";
+    courses.forEach(course => {
+      const option = document.createElement("option");
+      option.value = course;
+      option.textContent = course;
+      courseSelect.appendChild(option);
+    });
+    currentCourseName = courses[0] || "";
+  }
+
+  function updateUploadCourseDropdown() {
+    const dept = uploadDept.value;
+    const courses = departmentCourses[dept] || [];
+    uploadCourse.innerHTML = "";
+    courses.forEach(course => {
+      const option = document.createElement("option");
+      option.value = course;
+      option.textContent = course;
+      uploadCourse.appendChild(option);
+    });
+  }
+
+  function resetExamState() {
+    if (timerInterval) clearInterval(timerInterval);
+    examActive = false;
+    submitted = false;
+    studentAnswers = new Array(currentQuestions.length).fill(null);
+    flagged = new Array(currentQuestions.length).fill(false);
+    currentIndex = 0;
+    renderCurrentQuestion();
+    if (jumpSelect) updateJumpDropdown();
+    navButtons.style.display = "none";
+    jumpContainer.style.display = "none";
+    timerDisplay.innerText = "-- : --";
+    resultsPanel.style.display = "none";
+    examArea.style.display = "block";
+  }
+
+  function loadCourseQuestionsAndReset() {
+    if (examActive) { if(timerInterval) clearInterval(timerInterval); examActive = false; }
+    currentDepartment = departmentSelect.value;
+    currentCourseName = courseSelect.value;
+    loadQuestionsForCurrentCourse();
+    resetExamState();
+    examActive = false;
+    submitted = false;
+    questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
+  }
+
+  function renderCurrentQuestion() {
+    if (!currentQuestions.length || !examActive || submitted) {
+      if (!examActive && !submitted && currentQuestions.length) {
+        singleContainer.innerHTML = `<p style="color:gray;">Press "Start Exam" to begin.</p>`;
+        jumpContainer.style.display = "none";
+        navButtons.style.display = "none";
+      }
+      return;
+    }
+    const q = currentQuestions[currentIndex];
+    const selectedIdx = studentAnswers[currentIndex] !== undefined ? studentAnswers[currentIndex] : null;
+    const isFlagged = flagged[currentIndex] || false;
+    let html = `<div class="question-item">
+      <div class="question-text"><strong>Question ${currentIndex+1} of ${currentQuestions.length}</strong><br>${escapeHtml(q.questionText)}</div>
+      <div class="options">`;
+    q.options.forEach((opt, optIdx) => {
+      const checked = (selectedIdx === optIdx) ? 'checked' : '';
+      html += `<div class="option">
+        <input type="radio" name="currentQ" value="${optIdx}" id="opt_${optIdx}" ${checked} ${!examActive || submitted ? 'disabled' : ''}>
+        <label for="opt_${optIdx}">${String.fromCharCode(65+optIdx)}. ${escapeHtml(opt)}</label>
+      </div>`;
+    });
+    html += `</div>`;
+    if (isFlagged) html += `<div style="margin-top:8px;"><span style="background:#ffdd99; padding:4px 12px; border-radius:20px;">🚩 Flagged for review</span></div>`;
+    singleContainer.innerHTML = html;
+    if (examActive && !submitted) {
+      const radios = document.querySelectorAll('input[name="currentQ"]');
+      radios.forEach(radio => {
+        radio.addEventListener('change', (e) => {
+          studentAnswers[currentIndex] = parseInt(e.target.value);
+          updateJumpDropdown();
+        });
+      });
+    }
+    if (flagBtn) {
+      if (isFlagged) flagBtn.classList.add('active');
+      else flagBtn.classList.remove('active');
+      flagBtn.textContent = isFlagged ? "🚩 Flagged (click to unflag)" : "🚩 Flag this question";
+    }
+  }
+
+  function updateJumpDropdown() {
+    if (!currentQuestions.length) return;
+    let options = '';
+    for (let i = 0; i < currentQuestions.length; i++) {
+      const answered = (studentAnswers[i] !== null && studentAnswers[i] !== undefined);
+      const flaggedMark = flagged[i] ? ' 🚩' : '';
+      const answeredMark = answered ? ' ✓' : '';
+      options += `<option value="${i}" ${i === currentIndex ? 'selected' : ''}>Q${i+1}${answeredMark}${flaggedMark}</option>`;
+    }
+    jumpSelect.innerHTML = options;
+    jumpSelect.disabled = (!examActive || submitted);
+  }
+
+  function goToQuestion(index) {
+    if (!examActive || submitted) return;
+    if (index < 0) index = 0;
+    if (index >= currentQuestions.length) index = currentQuestions.length - 1;
+    currentIndex = index;
+    renderCurrentQuestion();
+    updateJumpDropdown();
+  }
+
+  function nextQuestion() { goToQuestion(currentIndex + 1); }
+  function prevQuestion() { goToQuestion(currentIndex - 1); }
+  function toggleFlag() {
+    if (!examActive || submitted) return;
+    flagged[currentIndex] = !flagged[currentIndex];
+    renderCurrentQuestion();
+    updateJumpDropdown();
+  }
+
+  function startTimer() {
+    if (timerInterval) clearInterval(timerInterval);
+    const totalMinutes = currentQuestions.length;
+    timeLeftSeconds = totalMinutes * 60;
+    function updateDisplay() {
+      let mins = Math.floor(timeLeftSeconds / 60);
+      let secs = timeLeftSeconds % 60;
+      timerDisplay.innerText = `${mins.toString().padStart(2,'0')}:${secs.toString().padStart(2,'0')}`;
+    }
+    updateDisplay();
+    timerInterval = setInterval(() => {
+      if (!examActive || submitted) return;
+      if (timeLeftSeconds <= 1) {
+        timeLeftSeconds = 0;
+        updateDisplay();
+        stopTimerAndLock();
+        submitExamHandler(true);
+      } else {
+        timeLeftSeconds--;
+        updateDisplay();
+      }
+    }, 1000);
+  }
+
+  function stopTimerAndLock() { if (timerInterval) clearInterval(timerInterval); timerInterval = null; examActive = false; }
+
+  async function sendAutoEmail(recipientEmail, subject, body) {
+    if (!googleScriptUrl || googleScriptUrl === "") return false;
+    try {
+      const formData = new URLSearchParams();
+      formData.append("to", recipientEmail);
+      formData.append("subject", subject);
+      formData.append("body", body);
+      await fetch(googleScriptUrl, { method: "POST", mode: "no-cors", headers: { "Content-Type": "application/x-www-form-urlencoded" }, body: formData });
+      return true;
+    } catch(err) { return false; }
+  }
+
+  async function submitExamHandler(isAuto = false) {
+    if (submitted) return;
+    if (!examActive && !isAuto) { alert("Exam not active."); return; }
+    if (!currentQuestions.length) { alert("No questions."); return; }
+    if (!studentNameInput.value.trim()) { alert("Enter student name."); return; }
+    const selected = document.querySelector('input[name="currentQ"]:checked');
+    if (selected && examActive && !submitted) studentAnswers[currentIndex] = parseInt(selected.value);
+    stopTimerAndLock();
+    submitted = true;
+    examActive = false;
+    navButtons.style.display = "none";
+    jumpContainer.style.display = "none";
+
+    let correctCount = 0;
+    let reviewDetails = [];
+    for (let i = 0; i < currentQuestions.length; i++) {
+      const userAns = studentAnswers[i];
+      const correctIdx = currentQuestions[i].correct;
+      const isCorrect = (userAns !== null && userAns === correctIdx);
+      if (isCorrect) correctCount++;
+      const correctText = currentQuestions[i].options[correctIdx];
+      const userText = (userAns !== null) ? currentQuestions[i].options[userAns] : "Not answered";
+      reviewDetails.push({ index: i+1, question: currentQuestions[i].questionText, userAnswer: userText, correctAnswer: correctText, isCorrect: isCorrect });
+    }
+    const percentage = (correctCount / currentQuestions.length) * 100;
+    const student = studentNameInput.value.trim();
+    const deptName = (currentDepartment === "Management" ? "Management Department" :
+                     currentDepartment === "Logistics" ? "Logistics and Supply Chain Management Department" :
+                     currentDepartment === "Accounting" ? "Accounting and Finance Department" :
+                     currentDepartment === "Law" ? "Law Department" : "Journalism and Communications Department");
+    const course = currentCourseName;
+    const recipient = departmentEmails[currentDepartment];
+    const subject = `Exit Exam Report - ${student} (${deptName} - ${course}) - Score: ${correctCount}/${currentQuestions.length} (${percentage.toFixed(1)}%)`;
+    let body = `STUDENT: ${student}\nDEPARTMENT: ${deptName}\nCOURSE: ${course}\nDATE/TIME: ${new Date().toLocaleString()}\nSCORE: ${correctCount}/${currentQuestions.length}\nPERCENTAGE: ${percentage.toFixed(1)}%\n\nDETAILED ANSWERS:\n`;
+    for (let r of reviewDetails) {
+      body += `\nQ${r.index}: ${r.question}\n   Your answer: ${r.userAnswer}\n   Correct: ${r.correctAnswer} [${r.isCorrect ? 'CORRECT' : 'WRONG'}]\n`;
+    }
+    const emailSent = await sendAutoEmail(recipient, subject, body);
+    let reviewHtml = `<div class="result-summary"><strong>📊 Score: ${correctCount}/${currentQuestions.length}</strong><br>Percentage: ${percentage.toFixed(1)}%<br>${emailSent ? "✅ Report sent to department representative." : "⚠️ Email not sent (check URL)."}</div><h3>🔍 Detailed Review</h3>`;
+    for (let r of reviewDetails) {
+      const badgeClass = r.isCorrect ? "correct-badge" : "wrong-badge";
+      const mark = r.isCorrect ? "✅ Correct" : "❌ Wrong";
+      reviewHtml += `<div class="question-item"><div><strong>Q${r.index}:</strong> ${escapeHtml(r.question)}</div><div>📌 Your answer: ${escapeHtml(r.userAnswer)}</div><div>✔ Correct: ${escapeHtml(r.correctAnswer)}</div><div><span class="review-badge ${badgeClass}">${mark}</span></div></div>`;
+    }
+    resultsPanel.innerHTML = reviewHtml;
+    resultsPanel.style.display = "block";
+    examArea.style.display = "none";
+  }
+
+  function startExam() {
+    if (submitted) { alert("Exam already finished. Load questions again."); return; }
+    if (!currentQuestions.length) { alert("No questions for this course."); return; }
+    if (!studentNameInput.value.trim()) { alert("Enter student name."); return; }
+    if (examActive) { alert("Exam already in progress."); return; }
+    studentAnswers = new Array(currentQuestions.length).fill(null);
+    flagged = new Array(currentQuestions.length).fill(false);
+    currentIndex = 0;
+    submitted = false;
+    examActive = true;
+    startTimer();
+    navButtons.style.display = "flex";
+    jumpContainer.style.display = "block";
+    renderCurrentQuestion();
+    updateJumpDropdown();
+    resultsPanel.style.display = "none";
+    examArea.style.display = "block";
+  }
+
+  function handleUploadJson() {
+    const file = uploadFileInput.files[0];
+    if (!file) { alert("Select JSON file."); return; }
+    const targetDept = uploadDept.value;
+    const targetCourse = uploadCourse.value;
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const parsed = JSON.parse(e.target.result);
+        if (!Array.isArray(parsed) || !parsed.length) throw new Error("Invalid array");
+        for (let q of parsed) {
+          if (!q.questionText || !Array.isArray(q.options) || typeof q.correct !== 'number') throw new Error("Bad format");
+        }
+        const storageKey = getStorageKey(targetDept, targetCourse);
+        localStorage.setItem(storageKey, JSON.stringify(parsed));
+        alert(`Uploaded ${parsed.length} questions for ${targetDept} - ${targetCourse} (only on this device).`);
+        if (targetDept === currentDepartment && targetCourse === currentCourseName) {
+          loadQuestionsForCurrentCourse();
+          resetExamState();
+          questionCounterSpan.innerText = `Questions: ${currentQuestions.length}`;
+        }
+      } catch(err) { alert("Invalid JSON: " + err.message); }
+    };
+    reader.readAsText(file);
+  }
+
+  function escapeHtml(str) { return str.replace(/[&<>]/g, function(m){ if(m==='&') return '&amp;'; if(m==='<') return '&lt;'; if(m==='>') return '&gt;'; return m;}); }
+
+  unlockAdminBtn.addEventListener('click', () => {
+    const pwd = prompt("Enter instructor password:");
+    if (pwd === ADMIN_PASSWORD) { adminContainer.style.display = "block"; unlockAdminBtn.style.display = "none"; }
+    else if (pwd !== null) alert("Wrong password.");
+  });
+
+  departmentSelect.addEventListener('change', () => { if(examActive && confirm("Change department?")){ stopTimerAndLock(); submitted=false; examActive=false; } updateCourseDropdown(); loadCourseQuestionsAndReset(); });
+  courseSelect.addEventListener('change', () => { if(examActive && confirm("Change course?")){ stopTimerAndLock(); submitted=false; examActive=false; } loadCourseQuestionsAndReset(); });
+  loadCourseBtn.addEventListener('click', loadCourseQuestionsAndReset);
+  startExamBtn.addEventListener('click', startExam);
+  submitExamBtn.addEventListener('click', () => { if(examActive && !submitted) submitExamHandler(false); else alert("No active exam."); });
+  prevBtn.addEventListener('click', prevQuestion);
+  nextBtn.addEventListener('click', nextQuestion);
+  flagBtn.addEventListener('click', toggleFlag);
+  jumpSelect.addEventListener('change', (e) => { if(examActive && !submitted) goToQuestion(parseInt(e.target.value)); });
+  uploadJsonBtn.addEventListener('click', handleUploadJson);
+  uploadDept.addEventListener('change', updateUploadCourseDropdown);
+
+  function init() {
+    loadMasterQuestions();
+  }
+  init();
+</script>
+</body>
+</html>
