@@ -1,0 +1,52 @@
+{
+  "Management": [
+    "Introduction to Management", "Principles of Marketing", "International Marketing",
+    "Human Resource Management", "Organizational Behaviour", "Leadership and Change Management",
+    "Entrepreneurship", "Management Information System", "Strategic Management",
+    "Project Management", "Business Research Methods", "Statistics for Management I",
+    "Statistics for Management II", "Operations Management", "Financial Management",
+    "Operations Research", "Comprehensive Mock I", "Comprehensive Mock II",
+    "Comprehensive Mock III", "Comprehensive Mock IV"
+  ],
+  "Logistics": [
+    "Essentials of Supply Chain Management", "E-commerce and Supply Chain Information System",
+    "Strategic Supply chain Management", "Sustainable Supply Chain Management",
+    "Negotiation and Contract Management", "Government Procurement", "Foreign Procurement",
+    "Fundamentals of Logistics Management", "Transportation Management",
+    "Customs Clearing and Freight Forwarding Management", "Inventory Management",
+    "Operations Management", "Introduction to Mangement", "Organizational Behaviour",
+    "Research Methods in Logistics and Supply Chain Management", "Comprehensive Mock I",
+    "Comprehensive Mock II", "Comprehensive Mock III", "Comprehensive Mock IV"
+  ],
+  "Accounting": [
+    "Fundamentals of Accounting I", "Fundamentals of Accounting II",
+    "Intermediate Financial Accounting I", "Intermediate Financial Accounting II",
+    "Advanced Financial Accounting I", "Advanced Financial Accounting II",
+    "Cost and Management Accounting I", "Cost and Management Accounting II",
+    "Financial Management I", "Financial Management II",
+    "Financial Markets and Institution", "Auditing Principles and Practices I",
+    "Auditing Principles and Practices II", "Public Finance and Taxation",
+    "Accounting for Public Sector and Civil Society", "ACFN Comprehensive I",
+    "ACFN Comprehensive II", "ACFN Comprehensive III", "ACFN Comprehensive IV"
+  ],
+  "Law": [
+    "Law of Successions", "Family Law", "Law of Contract",
+    "Law of Extra-contractual Liabilities", "General Property Law",
+    "Law of Traders & Business Organization", "Constitutional Law",
+    "Criminal Law", "Tax Law", "Public International Law",
+    "Human Rights Law", "Law of Civil Procedure", "Law of Criminal Procedure",
+    "Law of Evidence", "Employment Law", "Legal Ethics", "Jurisprudence",
+    "Law Comprehensive I", "Law Comprehensive II", "Law Comprehensive III",
+    "Law Comprehensive IV"
+  ],
+  "Journalism": [
+    "Development Journalism", "Media and Information Literacy",
+    "News Writing and Reporting For Print", "Investigative Journalism",
+    "Feature Writing", "Broadcast News Writing and Reporting",
+    "Intercultural Communication", "Communication Theories",
+    "International Communication", "Communication and Conflict Management",
+    "Introduction to Public Relations", "Advertising and Social Marketing",
+    "Media Translation", "Media Law and Ethics", "JOCO Comprehensive I",
+    "JOCO Comprehensive II", "JOCO Comprehensive III", "JOCO Comprehensive IV"
+  ]
+}
