@@ -1,0 +1,1012 @@
+[
+  {
+    "questionText": "______________Confirmation is most likely to be a relevant form of evidence with regard to assertions about accounts receivable when the auditor has concerns about the receivables’",
+    "options": [
+      "Valuation",
+      "Classification",
+      "Existence",
+      "Completeness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "From the following which one is not the concerned account in auditing the sales and collection cycle?",
+    "options": [
+      "Cash",
+      "Accounts receivable",
+      "Allowance for doubtful accounts",
+      "Sales of Accounts Receivables"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The auditor's objectives for the sales and cash collections activities when the client is primarily an e-commerce business as compared to a \"bricks and mortar\" business are:",
+    "options": [
+      "Unchanged",
+      "Expanded",
+      "Mitigated",
+      "Decreased"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following best illustrates the concept of sampling risk?",
+    "options": [
+      "A randomly chosen sample may not be representative of the population as a whole on the characteristic of interest.",
+      "An auditor may select audit procedures that are not appropriate to achieve the specific objective.",
+      "An auditor may fail to recognize errors in the documents examined for the chosen sample.",
+      "The documents related to the chosen sample may not be available for inspection."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An advantage of using statistical over non-statistical sampling methods in tests of controls is that the statistical methods:",
+    "options": [
+      "Can more easily convert the sample into a dual-purpose test useful for substantive testing",
+      "Eliminate the need to use judgment in determining appropriate sample sizes.",
+      "Afford greater assurance than a non-statistical sample of equal size.",
+      "Provide an objective basis for quantitatively evaluating sample risk."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The objective of tests of details of transactions performed as tests of controls is to",
+    "options": [
+      "Monitor the design and use of entity documents such as pre numbered shipping forms.",
+      "Determine whether controls have been implemented.",
+      "Detect material misstatements in the account balances of the financial statements.",
+      "Evaluate whether controls operated effectively."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An auditor tests an entity’s policy of obtaining credit approval before shipping goods to customers in support of management’s financial statement assertion of",
+    "options": [
+      "Valuation or allocation.",
+      "Existence or occurrence.",
+      "Completeness.",
+      "Rights and obligation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following controls most likely would help ensure that all credit sales transactions of an entity are recorded?",
+    "options": [
+      "The billing department supervisor sends copies of approved sales orders to the credit department for comparison to authorized credit limits and current customer account balances.",
+      "The accounting department supervisor independently reconciles the accounts receivable subsidiary ledger to the accounts receivable control account monthly.",
+      "The accounting department supervisor controls the mailing of monthly statements to customers and investigates any differences reported by customers.",
+      "The billing department supervisor matches pre numbered shipping documents with entries in the sales journal."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following controls most likely would be effective in offsetting the tendency of sales personnel to maximize sales volume at the expense of high bad debt write-offs?",
+    "options": [
+      "Employees responsible for authorizing sales and bad debt write-offs are denied access to cash.",
+      "Shipping documents and sales invoices are matched by an employee who does not have authority to write off bad debts.",
+      "Employees involved in the credit-granting function are separated from the sales function.",
+      "Subsidiary accounts receivable records are reconciled to the control account by an employee independent of the authorization of credit."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is correct concerning an auditor’s required communication of significant deficiencies?",
+    "options": [
+      "Significant deficiency previously communicated during the prior year’s audit that remains uncorrected cause a scope limitation.",
+      "An auditor should perform tests of controls on significant deficiencies before communicating them to the client.",
+      "An auditor’s report on significant deficiencies should include a restriction on the distribution of the report.",
+      "An auditor should communicate significant deficiencies after tests of controls, but before commencing substantive tests."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not one of the five classes of transactions included in the sales and collection cycle?",
+    "options": [
+      "Sales returns and allowances",
+      "Write-off of uncollectible accounts",
+      "Bad debt expense",
+      "Interest Income"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What event initiates a transaction in the sales and collection cycle?",
+    "options": [
+      "Receipt of cash",
+      "Delivery of product to a customer",
+      "Identification of a new customer",
+      "Customer request for goods"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In many audits, no substantive tests of transactions are made for the ________ assertion on the grounds that understatement of sales is not a concern.",
+    "options": [
+      "Accuracy",
+      "Existence",
+      "Completeness",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A ________ is a document that indicates a request for merchandise by a customer.",
+    "options": [
+      "Sales invoice",
+      "Vendor invoice",
+      "Customer order",
+      "Sales order"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A ________ is a document that is matched with the customer order to assure that the correct quantity and type of goods are shipped.",
+    "options": [
+      "Sales order",
+      "Vendor invoice",
+      "Customer order",
+      "Sales invoice"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When sales invoices are automatically calculated and posted by a computer, the auditor may be able to reduce substantive tests of transactions for which, if any, assertion?",
+    "options": [
+      "Accuracy",
+      "Existence",
+      "Completeness",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If an auditor wants to audit the amount of a sale and payment due date, which document is used?",
+    "options": [
+      "Sales invoice",
+      "Bill of lading",
+      "Purchase order",
+      "Sales order"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Most companies recognize sales revenue when:",
+    "options": [
+      "Sales are invoiced.",
+      "Goods are received by the customer.",
+      "Goods are shipped.",
+      "Both B and C are correct, depending upon the company's revenue recognition policies."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not a business function within the \"Sales\" class of transactions?",
+    "options": [
+      "Processing customer orders",
+      "Granting credit",
+      "Processing and recording sales returns and allowances",
+      "Shipping goods"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The document that requires adjustments to the customers subsidiary ledger account is the:",
+    "options": [
+      "Bill of lading.",
+      "Sales invoice.",
+      "Credit memo.",
+      "Monthly statement."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In designing audit procedures for the sales returns and allowances account, the auditor would primarily rely on the following accounts, except for:",
+    "options": [
+      "Sales returns and allowances transaction file.",
+      "Accounts receivable master file.",
+      "Cash receipts journal.",
+      "Sales returns and allowances will be recorded in all of the above."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following statements is true? In deciding on substantive tests of transactions:",
+    "options": [
+      "Some procedures are commonly employed on every audit regardless of the circumstances.",
+      "All procedures are dependent on the adequacy of the controls and the results of the tests of controls.",
+      "Results obtained in the prior year's audit will not affect the procedures used this year.",
+      "The materiality of the item will not influence the choice of procedures used."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One key internal control to prevent fictitious transactions in the sales and collection cycle is:",
+    "options": [
+      "Assign a specific customer number for each customer in the computer files.",
+      "To account for the integrity of the numerical sequence of sales orders.",
+      "To include the sales price list of all products in the computer files.",
+      "Having bank reconciliations prepared by one who is independent of the treasury function."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following would least concern an auditor regarding the lack of a specific authorization to conduct the sales transaction?",
+    "options": [
+      "Granting of credit",
+      "Shipment of goods",
+      "Determination of discounts",
+      "Selling of goods for cash"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When designing audit procedures, tracing of source documents to the customers’ subsidiary ledger and subsequently to the general ledger is done to satisfy what assertion?",
+    "options": [
+      "Valuation",
+      "Cutoff",
+      "Completeness",
+      "Classification"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The auditor traces items from the source documents to the journals in order to accumulate audit evidence that will satisfy the:",
+    "options": [
+      "Existence objective.",
+      "Completeness objective.",
+      "Ownership objective.",
+      "Valuation objective."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In many audits of sales transactions substantive tests of transactions can be reduced in determining the completeness objective because:",
+    "options": [
+      "Understatements of assets and income are a greater concern than overstatements.",
+      "Overstatements of assets and income are a greater concern than understatements.",
+      "It doesn't matter if income is understated because the savings on income tax offsets the reduced revenue and net income is correct.",
+      "The unrecorded sales cause a reduction of accounts receivable; therefore, the ratios of the two financial statements will not be misleading."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "________: tests are for omitted transactions, while ________ tests are for nonexistent transactions.",
+    "options": [
+      "Tracing, vouching",
+      "Vouching, tracing",
+      "Verifying, tracking",
+      "Tracking, verifying"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The auditor would expect that an account receivable from a customer would be written off by the client when which of the following occurs:",
+    "options": [
+      "The customer files for bankruptcy.",
+      "The account is at least six months old.",
+      "A collection agency cannot inspire customer to pay the debt.",
+      "The client company concludes that an amount is no longer collectible."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The entire set of data about which the auditor wishes to draw conclusions is called",
+    "options": [
+      "Population.",
+      "Sampling frame.",
+      "Sample.",
+      "Sampling unit."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following constitutes audit sampling?",
+    "options": [
+      "Selecting and examining specific items to determine whether or not a particular procedure is being performed.",
+      "Examining items to obtain information about matters such as the client’s business, the nature of transactions, accounting and internal control systems.",
+      "Examining items whose values exceed a certain amount so as to verify a large proportion of the total amount of an account balance or class of transactions.",
+      "Applying audit procedures to less than 100% of items within an account balance or class of transactions such that all sampling units have a chance of selection."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Audit sampling is not involved in the following, except",
+    "options": [
+      "Performing a walkthrough test.",
+      "Performing analytical procedures",
+      "Selecting the sample without following a structured technique.",
+      "Testing controls that leave no audit trail."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The following situations will likely lead the auditor to use 100% testing, except",
+    "options": [
+      "When the population constitutes a small number of large value items.",
+      "When both inherent and control risks are high and other means do not provide sufficient appropriate audit evidence",
+      "When the repetitive nature of a calculation or other process performed by a computer information system makes a 100% examination cost effective.",
+      "When testing controls that leave audit trail."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Tests of controls provide reasonable assurance that controls are applied as prescribed. A sampling method that is useful when testing controls is:",
+    "options": [
+      "No statistical sampling",
+      "Discovery sampling",
+      "Attribute estimation sampling",
+      "Stratified random sampling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Statistical sampling may be applied to test controls when a client’s control procedures",
+    "options": [
+      "Depend primarily on segregation of duties.",
+      "Are carefully reduced to writing and are included in client accounting manuals.",
+      "Leave an audit trail as evidence of compliance.",
+      "Enable the detection of fraud."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A sample in which every possible combination of items in the population has an equal chance of constituting the sample is a",
+    "options": [
+      "Representative sample",
+      "Random sample",
+      "Statistical sample",
+      "Judgment sample"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is true about sampling and non-sampling risks?",
+    "options": [
+      "Sampling risk can be reduced by increasing sample size.",
+      "Sampling risk cannot be eliminated.",
+      "Non-sampling risk can be eliminated by proper engagement planning, supervision, and review.",
+      "Non-sampling risk arises from the possibility that the auditor’s conclusion, based on a sample may be different from the conclusion reached if the entire population were subjected to the same audit procedure."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statistical selection techniques is least desirable for use by an auditor?",
+    "options": [
+      "Systematic selection",
+      "Block selection",
+      "Stratified selection",
+      "Sequential selection"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following sampling methods is used to estimate a numerical measurement of a population, such as a dollar value?",
+    "options": [
+      "Attribute sampling.",
+      "Variables sampling.",
+      "Stop-or-go sampling.",
+      "Random-number sampling."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In applying variables sampling, an auditor attempts to",
+    "options": [
+      "Estimate a qualitative characteristic of interest.",
+      "Determine various rates of occurrence for specified attributes.",
+      "Discover at least one instance of a critical deviation.",
+      "Predict a monetary population value within a range of precision."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An auditor, planning an attribute sample from a large number of invoices, intends to estimate the actual rate of deviations. Which factor below is the most important for the auditor to consider?",
+    "options": [
+      "Audit objective",
+      "Population size",
+      "Desired confidence level",
+      "Population variance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In attribute estimation, which of the following must be known in order to appraise the results of the auditor’s sample?",
+    "options": [
+      "Estimated peso value of the population",
+      "Standard deviation of the values in the population",
+      "Actual occurrence rate of the attribute in the population",
+      "Sample size"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "For which of the following audit tests would an auditor most likely use attribute sampling?",
+    "options": [
+      "Making an independent estimate of the amount of a FIFO inventory.",
+      "Examining invoices in support of the valuation of fixed asset additions.",
+      "Selecting accounts receivable for confirmation of account balances.",
+      "Inspecting employee time cards for proper approval by supervisors."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements is false?",
+    "options": [
+      "The payroll cycle consists of one class of transactions.",
+      "Balance sheet accounts related to payroll are generally more significant than related transactions.",
+      "Internal controls over payroll are effective for most companies.",
+      "Small companies usually have effective controls over payroll."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not correct regarding controls over the processing of payroll?",
+    "options": [
+      "The person authorized to sign paychecks should not be otherwise involved in the preparation of the payroll.",
+      "A check-signing machine should not be used to replace a manual signature.",
+      "Distribution of pay checks should be performed by someone who is not involved in the other payroll functions.",
+      "Unclaimed paychecks should be immediately returned for redeposit."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following types of audit procedures is ordinarily emphasized the least when auditing payroll?",
+    "options": [
+      "Tests of controls",
+      "Tests of transactions",
+      "Analytical procedures",
+      "Tests of details of balances"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Who should maintain the perpetual inventory master files?",
+    "options": [
+      "Production personnel.",
+      "Inventory storeroom personnel.",
+      "Inventory receiving personnel.",
+      "Accounting department personnel."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Most systems of internal control for payroll are:",
+    "options": [
+      "Loosely structured but well controlled.",
+      "Loosely structured and loosely controlled.",
+      "Highly structured and well controlled.",
+      "Highly structured but loosely controlled."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The payroll and personnel cycle ends with which of the following events?",
+    "options": [
+      "Interviewing job candidates.",
+      "Hiring a new employee.",
+      "Existing employees submitting requests for payment for work performed.",
+      "Issuance of paychecks."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A ____________ includes all payroll transactions processed by the accounting system for a given period of time.",
+    "options": [
+      "Payroll journal",
+      "Payroll transaction file",
+      "Time report",
+      "Payroll summary"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When examining payroll transactions, an auditor is primarily concerned with the possibility of: medium",
+    "options": [
+      "Incorrect summaries of employee time records.",
+      "Overpayments and unauthorized payments.",
+      "Under withholding of amounts required to be withheld.",
+      "Posting of gross payroll amounts to incorrect salary expense accounts."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The file for recording each payroll transaction for each employee and maintaining total employee wages paid for the year to date is the:",
+    "options": [
+      "Payroll master file.",
+      "Summary payroll report.",
+      "Payroll journal.",
+      "Job time ticket."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The audit of ______ is often the most difficult and complex part of an audit.",
+    "options": [
+      "Property, plant and equipment",
+      "Cash",
+      "Inventory",
+      "Prepaid insurance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Inventory is a complex area to audit for all but which of the following reasons?",
+    "options": [
+      "Inventory is often in different locations.",
+      "There are several acceptable valuation methods and some entities use different methods for different types of inventory.",
+      "Inventory is often the largest account in working capital.",
+      "Inventory valuation includes few estimates."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When labor is a significant part of inventory, verifying the proper accounting of these costs should be tested in the:",
+    "options": [
+      "Inventory and warehousing cycle.",
+      "Payroll and personnel cycle.",
+      "Acquisitions and payments cycle.",
+      "Cash cycle."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "For retail and wholesale businesses, the most important inventory is:",
+    "options": [
+      "Merchandise available for sale.",
+      "Work-in-process.",
+      "Raw materials.",
+      "Inventory held on consignment"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In most manufacturing companies, the inventory and warehousing cycle begins with the:",
+    "options": [
+      "Receipt of a customer’s order.",
+      "Completion of production of a customer’s order.",
+      "Initiation of production of a customer’s order.",
+      "Acquisition of raw materials for production of an order"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The audit tests to verify that the client is using an inventory method which is generally accepted and to verify that physical counts were correctly summarized are performed during the audit of the:",
+    "options": [
+      "Acquisition and payments cycle.",
+      "Payroll and personnel cycle.",
+      "Inventory and warehousing cycle.",
+      "Sales and collection cycle."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Almost all companies need physical controls over their assets to prevent loss. Which of the following is not an example of such a control?",
+    "options": [
+      "Perpetual inventory master files.",
+      "Segregated, limited-access storage areas.",
+      "Custody of assets assigned to specific responsible individuals.",
+      "Approved prenumbered documents for authorizing movement of inventory."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Handling the receipt of ordered goods is a part of the ________ cycle.",
+    "options": [
+      "Purchasing",
+      "Acquisition and payment",
+      "Inventory",
+      "Inventory and warehousing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "There must be a periodic physical count by the client of the inventory items on hand:",
+    "options": [
+      "Only if the client uses the LIFO method.",
+      "Only if the client uses a lower-of-cost-or-market method.",
+      "Regardless of the client’s inventory valuation method.",
+      "Only if the client uses either the LIFO or FIFO method."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If the auditor concludes that physical controls over inventory are so inadequate that the inventory will be difficult to count, the auditor should ordinarily:",
+    "options": [
+      "Withdraw from the engagement.",
+      "Issue a qualified audit report.",
+      "Conduct expanded observation tests of physical inventory.",
+      "Hire a specialist to assist the auditor."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "From which of the following evidence-gathering audit procedures would an auditor obtain most assurance concerning the existence of inventories?",
+    "options": [
+      "Observation of physical inventory counts.",
+      "Written inventory representations from management.",
+      "Confirmation of inventories in a public warehouse.",
+      "Auditor’s re-computation of inventory extensions."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following control procedures would most likely be used to maintain accurate perpetual inventory records?",
+    "options": [
+      "Independent storeroom count of goods received.",
+      "Periodic independent comparison of records with goods on hand.",
+      "Periodic independent reconciliation of control and subsidiary records.",
+      "Independent matching of purchase orders, receiving reports, and vendors’ invoices."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not a generally recognized inventory method?",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "LOFO",
+      "Specific identification"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Auditors test the quantity of materials charged to work-in-process by tracing these quantities to:",
+    "options": [
+      "Cost ledgers.",
+      "Receiving reports.",
+      "Perpetual inventory records.",
+      "Material requisitions."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "After accounting for a sequence of inventory tags, an auditor traces a sample of tags to the physical inventory listing to obtain evidence that all items:",
+    "options": [
+      "Included in the listing have been counted.",
+      "Represented by inventory tags actually exist.",
+      "Represented by inventory tags are included in the listing.",
+      "Included in the listing are represented by inventory tags."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If the perpetual inventory master files show lower quantities of inventory than the physical count, an explanation of the difference might be unrecorded:",
+    "options": [
+      "Sales.",
+      "Purchases.",
+      "Sales discounts.",
+      "Purchase discounts."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Pricing manufactured inventory is difficult. Auditors must evaluate the method of allocating manufacturing overhead for all but which of the following?",
+    "options": [
+      "Reasonableness.",
+      "Computational correctness.",
+      "Adherence to FASB pronouncement",
+      "Consistency."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Tests of the perpetual inventory master files for the purpose of reducing the tests of physical inventory or changing their timing are done through the use of:",
+    "options": [
+      "Inquiry.",
+      "Observation.",
+      "Confirmation.",
+      "Documentation."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following procedures would not be appropriate for an auditor in discharging his responsibilities concerning the client’s physical inventories?",
+    "options": [
+      "Confirmation of goods in the hands of public warehouses.",
+      "Supervising the taking of the annual physical inventory.",
+      "Carrying out physical inventory procedures at an interim date.",
+      "Obtaining written representation from the client as to the existence, quality, and dollar amount of the inventory."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The test of details of balance procedure which requires the auditor to account for unused inventory tag numbers to make sure none have been deleted is associated with the audit objective of:",
+    "options": [
+      "Accuracy.",
+      "Existence.",
+      "Detail tie-in.",
+      "Completeness."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A well-designed computerized system of perpetual inventory master files includes information about the:",
+    "options": [
+      "Units of inventory purchased, sold, and on hand.",
+      "Unit costs of inventory purchased, sold, and on hand.",
+      "Units of raw materials, work-in-process, and finished goods.",
+      "Units and unit costs of inventory purchased, sold, and on hand."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All of the following are accounts that fall under the acquisition and payment cycle except:",
+    "options": [
+      "Property, plant, and equipment",
+      "Accounts payable",
+      "Prepaid expenses",
+      "Accounts receivable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An auditor can improve the efficiency and effectiveness of an audit of fixed assets by performing which of the following tests separately?",
+    "options": [
+      "Verification of current year sale of merchandise",
+      "Verification current year disposals",
+      "Verification of sales invoice",
+      "Verification of capital expenditures"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "To begin an audit of current year acquisitions, the auditor should request the client provide them with:",
+    "options": [
+      "Repair and maintenance logs",
+      "The property master file",
+      "General ledger",
+      "Vendor invoice"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The most important balance-related objectives for depreciation expense is:",
+    "options": [
+      "Cutoff",
+      "Completeness",
+      "Existence",
+      "Accuracy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An auditor should review the client's insurance policies to determine if:",
+    "options": [
+      "The client is over-paying for insurance",
+      "The client has rights to the policy",
+      "A and B only",
+      "The client has chosen the correct insurance provider"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following accounts is not part of the capital acquisition and repayment cycle?",
+    "options": [
+      "Contracts payable",
+      "Treasury stock",
+      "Accrued interest",
+      "Unearned revenue"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When reviewing controls over notes payable, an auditor should determine if:",
+    "options": [
+      "There is proper authorization for issuing of new notes",
+      "There are proper documents and records",
+      "There are adequate controls over the repayment of principle and interest",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The audit objective of existence for notes payable is tested by:",
+    "options": [
+      "Footing the notes payable account",
+      "Tracing the notes payable to the master file",
+      "Examining board of directors minutes",
+      "Tracing totals to the General Ledger"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the focus of an audit of cash for most companies?",
+    "options": [
+      "General cash account.",
+      "Payroll cash account.",
+      "Petty cash account.",
+      "Money market account."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following cycles does not affect cash in bank?",
+    "options": [
+      "Capital acquisitions cycle.",
+      "Inventory and warehousing.",
+      "Payroll and personnel cycle.",
+      "Acquisitions and disbursements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The general cash account is considered significant in almost all audits:",
+    "options": [
+      "Where the ending balance is material.",
+      "Even when the ending balance is immaterial.",
+      "Except those of not-for-profit organizations.",
+      "Where either the beginning or ending balance is material"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Because cash is the most desirable asset for people to steal, it has a higher:",
+    "options": [
+      "Control risk.",
+      "Inherent risk.",
+      "Detection risk.",
+      "Liquidity risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The most important balance-related audit objectives in the audit of cash include all but which of the following?",
+    "options": [
+      "Existence",
+      "Accuracy",
+      "Completeness",
+      "Occurrence"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following items would not normally appear on bank reconciliations?",
+    "options": [
+      "Balance per bank",
+      "List of deposits in transit",
+      "Outstanding deposits",
+      "Outstanding checks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concern in a monthly proof of cash is with:",
+    "options": [
+      "Adjusting account balances.",
+      "Reconciling the amounts per books and bank.",
+      "Determining the month-end balance.",
+      "Identifying cash transfers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A lawyer's refusal to respond to a letter of audit inquiry normally requires the auditor to issue a",
+    "options": [
+      "Unqualified opinion with an explanatory paragraph",
+      "Qualified or adverse opinion",
+      "Qualified opinion or a disclaimer or opinion",
+      "Standard three- paragraph unqualified opinion"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A representation letter issued by a client",
+    "options": [
+      "Is a substitute for testing",
+      "Does not reduce the auditor's responsibility",
+      "Reduces the auditor's responsibility only to the extent that it is relied upon",
+      "Is essential for the preparation of the audit program"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analytical procedures",
+    "options": [
+      "Are required to be performed in the planning phase of the audit",
+      "Are often done during the examination's testing stage",
+      "Are required to be done during the completion phase of the audit",
+      "All of the choices"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An auditor should obtain evidential matter relevant to each of the following factors concerning third-party litigation against a client except the",
+    "options": [
+      "Existence of a situation indicating uncertainty as to the possible loss",
+      "Jurisdiction in which the matter will be resolved",
+      "Period in which the underlying cause of legal action occurred",
+      "Probability of an unfavorable outcome"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If on the basis of the additional procedures carried out and the information obtained, including the effect of mitigating circumstances, the auditor's judgment is that the entity will not be able to continue as a going concern, the financial statements should be prepared using an appropriate basis; otherwise, the auditor will issue a",
+    "options": [
+      "Adverse opinion",
+      "Qualified opinion",
+      "Disclaimer of opinion",
+      "Unqualified opinion with emphasis of a matter paragraph"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which method of an analytical procedure is most useful because many expenses, such as the cost of goods sold, might be expected to bear a predictable relationship to net sales?",
+    "options": [
+      "Horizontal analysis",
+      "Vertical analysis",
+      "Reasonable analysis",
+      "Trend analysis"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following standards or group of standards is mostly affected by a computerized information system environment?",
+    "options": [
+      "General standards",
+      "Reporting standards",
+      "Second standard of field work",
+      "Standards of fieldwork"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "It relates to materiality of the financial statement assertions affected by the computer processing.",
+    "options": [
+      "Threshold",
+      "Relevance",
+      "Complexity",
+      "Significance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is the least likely characteristic of personal computers?",
+    "options": [
+      "They are small enough to be transportable.",
+      "They are relatively expensive.",
+      "They can be placed in operation quickly.",
+      "The operating system software is less comprehensive than that found in larger computer environments."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A collection of data that is shared and used by a number of different users for different purposes.",
+    "options": [
+      "Database",
+      "Information file",
+      "Master file",
+      "Transaction file"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The applications of auditing procedures using the computer as an audit tool refer to",
+    "options": [
+      "Integrated test facility",
+      "Auditing through the computer",
+      "Data-based management system",
+      "Computer assisted audit techniques"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Consists of generalized computer programs designed to perform common audit tasks or standardized data processing functions.",
+    "options": [
+      "Package or generalized audit software",
+      "Utility programs",
+      "Customized or purpose-written programs",
+      "System management programs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Audit automation least likely include",
+    "options": [
+      "Expert systems.",
+      "Tools to evaluate a client’s risk management procedures.",
+      "Manual working papers.",
+      "Corporate and financial modeling programs for use as predictive audit tests."
+    ],
+    "correct": 2
+  }
+]
