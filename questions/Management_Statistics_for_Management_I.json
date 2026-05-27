@@ -1,0 +1,2002 @@
+[
+  {
+    "questionText": "Statistics is defined as:",
+    "options": [
+      "The art of collecting random guesses",
+      "The science of collecting, organizing, analyzing, interpreting, and presenting data",
+      "A branch of literature",
+      "The study of historical events"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Business statistics helps managers to:",
+    "options": [
+      "Make decisions based on intuition alone",
+      "Avoid any numerical analysis",
+      "Make evidence‑based decisions under uncertainty",
+      "Eliminate all risks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Descriptive statistics are used to:",
+    "options": [
+      "Draw conclusions about populations from samples",
+      "Test hypotheses",
+      "Predict future values",
+      "Summarize and describe the main features of a dataset"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Inferential statistics are used to:",
+    "options": [
+      "Only describe the data at hand",
+      "Make predictions or inferences about a population based on a sample",
+      "Calculate means and medians only",
+      "Create charts and graphs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A population is:",
+    "options": [
+      "A subset of a sample",
+      "A single data point",
+      "The entire collection of all elements of interest in a study",
+      "A type of statistical test"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A sample is:",
+    "options": [
+      "The entire population",
+      "A subset of the population selected for study",
+      "Always larger than the population",
+      "Never representative"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A parameter is a numerical measure that describes:",
+    "options": [
+      "A sample",
+      "A variable",
+      "A frequency distribution",
+      "A population"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A statistic is a numerical measure that describes:",
+    "options": [
+      "A population",
+      "A sample",
+      "A parameter",
+      "A census"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The branch of statistics that involves collecting, organizing, and presenting data is called:",
+    "options": [
+      "Inferential statistics",
+      "Predictive analytics",
+      "Descriptive statistics",
+      "Prescriptive statistics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A frequency distribution is a table that shows:",
+    "options": [
+      "The raw data in order",
+      "How often each value or class of values occurs",
+      "Only the mean and median",
+      "The correlation between two variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A histogram is a graphical representation of:",
+    "options": [
+      "A pie chart",
+      "A scatter plot",
+      "A time series",
+      "A frequency distribution using adjacent bars"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A bar chart differs from a histogram in that a bar chart:",
+    "options": [
+      "Uses adjacent bars without gaps",
+      "Has gaps between bars and is used for categorical data",
+      "Can only show frequencies",
+      "Is only for continuous data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A pie chart is used to show:",
+    "options": [
+      "Trends over time",
+      "The relationship between two variables",
+      "Proportions or percentages of a whole",
+      "The distribution of a single continuous variable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An ogive (cumulative frequency polygon) shows:",
+    "options": [
+      "The frequency of each class",
+      "The mean of the data",
+      "Cumulative frequencies (less than or greater than)",
+      "The standard deviation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Data can be classified as qualitative (categorical) or:",
+    "options": [
+      "Random",
+      "Descriptive",
+      "Inferential",
+      "Quantitative (numerical)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Quantitative data can be further classified as discrete or:",
+    "options": [
+      "Categorical",
+      "Continuous",
+      "Nominal",
+      "Ordinal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Discrete data are:",
+    "options": [
+      "Measured on a continuous scale with fractions",
+      "Always qualitative",
+      "Countable (e.g., number of cars)",
+      "Never numerical"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Continuous data are:",
+    "options": [
+      "Countable integers",
+      "Always categorical",
+      "Non‑numeric",
+      "Measurable and can take any value within a range (e.g., weight, time)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Nominal scale measurement involves:",
+    "options": [
+      "Ordered categories with meaningful differences",
+      "Equal intervals and true zero",
+      "Categories with no natural order (e.g., gender, color)",
+      "Rank order without equal intervals"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Ordinal scale measurement involves:",
+    "options": [
+      "Categories with no order",
+      "Ordered categories (e.g., rankings) but unequal intervals",
+      "True zero point",
+      "Measurable differences with a meaningful zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Interval scale measurement has:",
+    "options": [
+      "Only categories",
+      "A true zero point",
+      "No order",
+      "Ordered categories with equal intervals but no true zero (e.g., temperature in Celsius)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Ratio scale measurement has:",
+    "options": [
+      "No true zero",
+      "Equal intervals, true zero, and meaningful ratios (e.g., height, weight)",
+      "Only rank order",
+      "Only nominal properties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The mean (arithmetic average) is calculated by:",
+    "options": [
+      "Ordering the data and picking the middle value",
+      "Identifying the most frequent value",
+      "Summing all values and dividing by the number of values",
+      "Subtracting the smallest from the largest"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The median is:",
+    "options": [
+      "The arithmetic average",
+      "The middle value when data are ordered",
+      "The most frequent value",
+      "The difference between maximum and minimum"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The mode is:",
+    "options": [
+      "The average",
+      "The middle value",
+      "The value that appears most frequently in a dataset",
+      "The range"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "For a perfectly symmetric (normal) distribution, the mean, median, and mode are:",
+    "options": [
+      "All different",
+      "Mean > median > mode",
+      "Mode > median > mean",
+      "All equal"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "For a positively skewed (right‑skewed) distribution, the relationship among mean, median, mode is typically:",
+    "options": [
+      "Mean < median < mode",
+      "Mean > median > mode",
+      "Mean = median = mode",
+      "Mode > mean > median"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "For a negatively skewed (left‑skewed) distribution, the mean is typically:",
+    "options": [
+      "Greater than the median",
+      "Equal to the median",
+      "Less than the median",
+      "Equal to the mode but not median"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The range is the difference between:",
+    "options": [
+      "The mean and median",
+      "The first and third quartiles",
+      "The mode and median",
+      "The maximum and minimum values"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The variance measures:",
+    "options": [
+      "The central tendency",
+      "The average squared deviation from the mean",
+      "The middle value",
+      "The most frequent value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The standard deviation is the:",
+    "options": [
+      "Square of the variance",
+      "Mean of the data",
+      "Square root of the variance",
+      "Range divided by 2"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A low standard deviation indicates that data points are:",
+    "options": [
+      "Widely spread from the mean",
+      "Clustered closely around the mean",
+      "All equal to zero",
+      "Highly variable"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The interquartile range (IQR) measures:",
+    "options": [
+      "The total range of data",
+      "The mean deviation",
+      "The variance",
+      "The spread of the middle 50% of data (Q3 – Q1)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Chebyshev's theorem states that for any dataset, at least (1 – 1/k²) of observations lie within k standard deviations of the mean. For k=2, this proportion is at least:",
+    "options": [
+      "75%",
+      "50%",
+      "89%",
+      "95%"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The empirical rule (68‑95‑99.7 rule) applies to:",
+    "options": [
+      "Skewed distributions",
+      "Approximately normal (bell‑shaped) distributions",
+      "Any distribution regardless of shape",
+      "Only uniform distributions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to the empirical rule, approximately what percentage of data falls within ±2 standard deviations of the mean for a normal distribution?",
+    "options": [
+      "68%",
+      "95%",
+      "99.7%",
+      "50%"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The coefficient of variation (CV) is:",
+    "options": [
+      "(Mean / Standard deviation) × 100",
+      "(Variance / Mean) × 100",
+      "(Range / Mean) × 100",
+      "(Standard deviation / Mean) × 100"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The coefficient of variation is useful for:",
+    "options": [
+      "Comparing variability of datasets with different units or means",
+      "Measuring central tendency",
+      "Calculating the mode",
+      "Determining skewness"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A z‑score (standard score) measures:",
+    "options": [
+      "The median of the data",
+      "The range of the data",
+      "How many standard deviations a value is from the mean",
+      "The variance of the data"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A positive z‑score indicates that the value is:",
+    "options": [
+      "Below the mean",
+      "Above the mean",
+      "Equal to the mean",
+      "Zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Probability is a number between:",
+    "options": [
+      "0 and 100",
+      "–1 and 1",
+      "0 and infinity",
+      "0 and 1 inclusive"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Classical (theoretical) probability is based on:",
+    "options": [
+      "Personal judgment",
+      "Equally likely outcomes (e.g., rolling a fair die)",
+      "Observed frequencies from past data",
+      "Subjective beliefs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Empirical (relative frequency) probability is based on:",
+    "options": [
+      "Theoretical symmetry",
+      "Personal opinion",
+      "Observed data from experiments or historical records",
+      "Axiomatic rules only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Subjective probability is based on:",
+    "options": [
+      "Long‑run frequencies",
+      "Personal judgment, experience, or intuition",
+      "Equally likely outcomes",
+      "Axioms of probability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The probability of an impossible event is:",
+    "options": [
+      "1",
+      "0",
+      "0.5",
+      "Undefined"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The probability of a certain event is:",
+    "options": [
+      "0",
+      "0.5",
+      "Between 0 and 1",
+      "1"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The complement rule states that P(A') =:",
+    "options": [
+      "1 + P(A)",
+      "1 – P(A)",
+      "P(A) – 1",
+      "P(A)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If events A and B are mutually exclusive (disjoint), then P(A ∪ B) =:",
+    "options": [
+      "P(A) × P(B)",
+      "P(A) + P(B)",
+      "P(A) + P(B) – P(A∩B)",
+      "P(A) / P(B)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If events A and B are not mutually exclusive, then P(A ∪ B) =:",
+    "options": [
+      "P(A) + P(B)",
+      "P(A) × P(B)",
+      "P(A) + P(B) – P(A∩B)",
+      "P(A|B)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The multiplication rule for independent events is: P(A ∩ B) =:",
+    "options": [
+      "P(A) + P(B)",
+      "P(A) × P(B)",
+      "P(A) – P(B)",
+      "P(A) / P(B)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Two events are independent if:",
+    "options": [
+      "P(A∩B) = P(A) + P(B)",
+      "P(A|B) = P(B)",
+      "P(A∩B) = 0",
+      "P(A|B) = P(A)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Conditional probability P(A|B) is defined as:",
+    "options": [
+      "P(A∩B) / P(A)",
+      "P(B) / P(A∩B)",
+      "P(A∩B) / P(B) for P(B) > 0",
+      "P(A) + P(B)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Bayes' theorem is used to:",
+    "options": [
+      "Calculate the mean of a distribution",
+      "Find the median",
+      "Update probabilities based on new evidence",
+      "Compute the variance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A random variable is a variable whose value is:",
+    "options": [
+      "Constant",
+      "Always negative",
+      "Never numerical",
+      "Determined by the outcome of a random experiment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A discrete random variable takes:",
+    "options": [
+      "Any value in an interval",
+      "A countable number of distinct values (e.g., 0,1,2,…)",
+      "Only continuous values",
+      "No values"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A continuous random variable takes:",
+    "options": [
+      "Countable values",
+      "Only integer values",
+      "An infinite number of possible values within an interval",
+      "Only categorical values"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A probability distribution for a discrete random variable lists:",
+    "options": [
+      "Only the mean",
+      "Only the variance",
+      "The cumulative distribution function only",
+      "All possible values and their probabilities (sum = 1)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The expected value (mean) of a discrete random variable is:",
+    "options": [
+      "Σ [x² × P(x)]",
+      "Σ [x × P(x)]",
+      "Σ P(x)",
+      "The median of the distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The variance of a discrete random variable is:",
+    "options": [
+      "Σ [x² × P(x)] – μ²",
+      "Σ [(x – μ)² × P(x)]",
+      "Both A and B are correct",
+      "Σ x × P(x)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The binomial distribution is appropriate for:",
+    "options": [
+      "Continuous outcomes",
+      "Fixed number of independent trials, each with two outcomes (success/failure) and constant probability",
+      "Rare events in a continuous interval",
+      "Normally distributed data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The binomial probability formula uses:",
+    "options": [
+      "Mean and standard deviation",
+      "n (trials), p (success probability), and x (number of successes)",
+      "λ (lambda)",
+      "z‑scores"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The mean (expected value) of a binomial distribution is:",
+    "options": [
+      "n × p × (1 – p)",
+      "n × p",
+      "√(n × p × (1 – p))",
+      "p"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The variance of a binomial distribution is:",
+    "options": [
+      "n × p",
+      "√(n × p × (1 – p))",
+      "n × p × (1 – p)",
+      "p × (1 – p)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Poisson distribution models:",
+    "options": [
+      "Number of successes in a fixed number of trials",
+      "Number of rare events occurring in a fixed interval of time or space",
+      "Continuous outcomes with a bell shape",
+      "Uniform outcomes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The mean and variance of a Poisson distribution are:",
+    "options": [
+      "Mean = λ, variance = λ²",
+      "Mean = λ², variance = λ",
+      "Equal (λ)",
+      "Mean = λ, variance = λ"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The normal distribution is characterized by:",
+    "options": [
+      "Skewness to the right",
+      "Only two possible outcomes",
+      "Bell shape, symmetric about the mean",
+      "A U‑shape"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The standard normal distribution has mean ____ and standard deviation ____.",
+    "options": [
+      "0, 1",
+      "1, 0",
+      "0, 0",
+      "1, 1"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The total area under the normal probability density curve is:",
+    "options": [
+      "0.5",
+      "1",
+      "0.95",
+      "100"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The z‑score for a value x from a normal distribution with mean μ and standard deviation σ is:",
+    "options": [
+      "(x – μ) × σ",
+      "(x – μ) / σ",
+      "(μ – x) / σ",
+      "(x – μ) / σ²"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a standard normal distribution, approximately 68% of values fall between:",
+    "options": [
+      "–1 and +1",
+      "–2 and +2",
+      "–3 and +3",
+      "0 and 1"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a standard normal distribution, approximately 95% of values fall between:",
+    "options": [
+      "–1 and +1",
+      "–2 and +2",
+      "–3 and +3",
+      "0 and 1.96"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a standard normal distribution, approximately 99.7% of values fall between:",
+    "options": [
+      "–1 and +1",
+      "–2 and +2",
+      "–3 and +3",
+      "–1.96 and +1.96"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Central Limit Theorem states that the sampling distribution of the sample mean approaches a normal distribution as:",
+    "options": [
+      "The population size increases",
+      "The population variance decreases",
+      "The sample size decreases",
+      "Sample size increases (n large, typically ≥30), regardless of population shape"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The standard error of the mean is:",
+    "options": [
+      "σ / √n",
+      "σ × √n",
+      "σ² / n",
+      "√(σ² / n)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A standard normal table gives probabilities for:",
+    "options": [
+      "Any normal distribution",
+      "The standard normal distribution (mean 0, sd 1)",
+      "Binomial distribution only",
+      "Poisson distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The probability density function of a continuous random variable:",
+    "options": [
+      "Gives probabilities directly as heights",
+      "Must integrate to 1 over the range, and probabilities are areas under the curve",
+      "Is always constant",
+      "Is the same as the cumulative distribution function"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The cumulative distribution function (CDF) F(x) gives:",
+    "options": [
+      "P(X = x)",
+      "P(X ≤ x)",
+      "P(X > x)",
+      "The probability density"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "For a continuous distribution, P(X = a) is:",
+    "options": [
+      "Positive",
+      "0.5",
+      "Zero",
+      "1"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The uniform distribution has:",
+    "options": [
+      "A bell shape",
+      "Constant probability density over an interval",
+      "A single peak",
+      "Changing density"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The exponential distribution is often used to model:",
+    "options": [
+      "Number of successes in trials",
+      "Waiting times or lifetimes",
+      "Symmetric data",
+      "Count data with equal mean and variance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The memoryless property is characteristic of:",
+    "options": [
+      "Normal distribution",
+      "Binomial distribution",
+      "Poisson distribution",
+      "Exponential distribution"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The coefficient of skewness measures:",
+    "options": [
+      "The peakedness of a distribution",
+      "The asymmetry of a distribution",
+      "The spread of data",
+      "The central tendency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A distribution with a long tail to the right is:",
+    "options": [
+      "Negatively skewed",
+      "Symmetric",
+      "Uniform",
+      "Positively skewed (right‑skewed)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Kurtosis measures:",
+    "options": [
+      "Skewness",
+      "The mean deviation",
+      "The peakedness or tail heaviness of a distribution",
+      "The range"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A leptokurtic distribution has:",
+    "options": [
+      "Thin tails and low peak",
+      "Heavy tails and a high, sharp peak",
+      "No peak",
+      "Perfect symmetry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A platykurtic distribution has:",
+    "options": [
+      "Heavy tails and high peak",
+      "Perfect symmetry",
+      "Light tails and a flatter peak",
+      "Zero variance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Percentiles divide data into:",
+    "options": [
+      "4 equal parts",
+      "100 equal parts",
+      "10 equal parts",
+      "2 equal parts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The 50th percentile is the same as the:",
+    "options": [
+      "Mean",
+      "Mode",
+      "First quartile",
+      "Median"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Quartiles divide data into:",
+    "options": [
+      "10 parts",
+      "4 equal parts",
+      "100 parts",
+      "3 parts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The first quartile (Q1) is the 25th percentile, and the third quartile (Q3) is the:",
+    "options": [
+      "50th percentile",
+      "75th percentile",
+      "100th percentile",
+      "90th percentile"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The five‑number summary consists of minimum, Q1, median, Q3, and:",
+    "options": [
+      "Mean",
+      "Mode",
+      "Maximum",
+      "Variance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A box plot (box‑and‑whisker plot) visually displays:",
+    "options": [
+      "Only the mean",
+      "The five‑number summary and potential outliers",
+      "The correlation between variables",
+      "The frequency distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Outliers are often defined as points that fall below Q1 – 1.5×IQR or above:",
+    "options": [
+      "Q3 + 1.5×IQR",
+      "Q3 + 1.0×IQR",
+      "Q3 + 2×IQR",
+      "Q3 + 3×IQR"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The law of large numbers states that:",
+    "options": [
+      "Small samples are always representative",
+      "As sample size increases, the sample mean approaches the population mean",
+      "The population mean approaches zero",
+      "The sample variance approaches zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A random sample is one where:",
+    "options": [
+      "Every member of the population has an equal chance of being selected, and selections are independent",
+      "The researcher chooses convenient participants",
+      "Only volunteers are included",
+      "The sample is the entire population"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Sampling without replacement means:",
+    "options": [
+      "Each selected item is returned to the population before the next draw",
+      "Each selected item is not returned, so the population decreases",
+      "Only one item is selected",
+      "Selection is random with equal probability each time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The finite population correction factor is used when:",
+    "options": [
+      "Sampling from an infinite population",
+      "Sampling without replacement from a small population (n/N > 0.05)",
+      "Sampling with replacement",
+      "The population is normal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A stem‑and‑leaf plot preserves:",
+    "options": [
+      "Only the frequencies",
+      "Only the mean",
+      "The original data values while showing distribution",
+      "Only the median"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A time series plot is used to:",
+    "options": [
+      "Compare categories",
+      "Display a frequency distribution",
+      "Show proportions of a whole",
+      "Show data values over time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A scatter plot is used to:",
+    "options": [
+      "Show a single variable distribution",
+      "Display the relationship between two numerical variables",
+      "Compare means of multiple groups",
+      "Show parts of a whole"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A contingency table (cross‑tabulation) displays:",
+    "options": [
+      "Correlation between two continuous variables",
+      "Time series data",
+      "The frequency distribution of two categorical variables together",
+      "A single variable's distribution"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Conditional distribution in a contingency table shows:",
+    "options": [
+      "The overall distribution of one variable",
+      "The distribution of one variable given a specific category of another variable",
+      "The marginal distribution",
+      "The correlation coefficient"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Marginal distribution in a contingency table is:",
+    "options": [
+      "The distribution of one variable ignoring the other (row or column totals)",
+      "The distribution within a specific cell",
+      "The joint distribution",
+      "The conditional distribution"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Simpson's paradox occurs when:",
+    "options": [
+      "A trend appears in several groups but disappears or reverses when the groups are combined",
+      "All data are normally distributed",
+      "The mean equals the median",
+      "There is no variability in data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The geometric mean is appropriate for:",
+    "options": [
+      "Arithmetic averages",
+      "Averaging rates of change or growth factors over time",
+      "Categorical data",
+      "The mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The harmonic mean is used for:",
+    "options": [
+      "Speeds or rates when averaging ratios",
+      "Simple arithmetic average",
+      "Most frequent value",
+      "Median of grouped data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A weighted mean is calculated when:",
+    "options": [
+      "All observations have equal importance",
+      "Some observations contribute more (different weights) than others",
+      "The data are categorical",
+      "The sample size is small"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The range is sensitive to:",
+    "options": [
+      "Middle values",
+      "The mean",
+      "Outliers (extreme values)",
+      "The mode"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The mean absolute deviation (MAD) uses absolute differences, while variance uses:",
+    "options": [
+      "Absolute differences as well",
+      "Squared differences",
+      "Cubed differences",
+      "No differences"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A frequency polygon is a line graph that:",
+    "options": [
+      "Uses bars like a histogram",
+      "Only shows cumulative frequencies",
+      "Is a pie chart",
+      "Connects midpoints of histogram bars"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The cumulative relative frequency is:",
+    "options": [
+      "The frequency of each class",
+      "The total number of observations",
+      "The running total of relative frequencies",
+      "The class width"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A ogive is a graph of:",
+    "options": [
+      "Simple frequencies",
+      "Cumulative frequencies (or cumulative relative frequencies)",
+      "Class midpoints",
+      "Percentages only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The class width in a frequency distribution is:",
+    "options": [
+      "(Range) / (Number of classes) approximate",
+      "The difference between consecutive lower class limits",
+      "Both A and B",
+      "The number of observations per class"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When constructing a histogram, the bars should:",
+    "options": [
+      "Touch each other (no gaps) for continuous data",
+      "Have gaps for discrete data",
+      "Both A and B depending on data type",
+      "Never touch"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A bimodal distribution has:",
+    "options": [
+      "One peak",
+      "Two peaks (modes)",
+      "No peaks",
+      "Constant frequency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A multimodal distribution has:",
+    "options": [
+      "No modes",
+      "Exactly one mode",
+      "Only one peak",
+      "More than two modes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A random experiment is:",
+    "options": [
+      "A process that produces a deterministic outcome",
+      "A survey",
+      "A census",
+      "A process that can result in different outcomes, and the outcome is not known with certainty beforehand"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The sample space is:",
+    "options": [
+      "The set of all possible outcomes of a random experiment",
+      "A subset of outcomes",
+      "The probability of an event",
+      "The complement of an event"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An event is:",
+    "options": [
+      "The sample space",
+      "A subset of the sample space",
+      "Always impossible",
+      "Always certain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The union of two events A and B is:",
+    "options": [
+      "Outcomes in A only",
+      "Outcomes in A and B simultaneously",
+      "Outcomes in neither A nor B",
+      "Outcomes in A or B or both"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The intersection of two events A and B is:",
+    "options": [
+      "Outcomes in A or B",
+      "Outcomes in both A and B",
+      "Outcomes in A only",
+      "Outcomes in B only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If events A and B are independent, then P(A|B) =:",
+    "options": [
+      "P(B)",
+      "P(A)",
+      "P(A∩B)",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If events A and B are mutually exclusive, then P(A∩B) =:",
+    "options": [
+      "1",
+      "0",
+      "P(A) × P(B)",
+      "P(A) + P(B)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The multiplication rule for dependent events is: P(A∩B) =:",
+    "options": [
+      "P(A) × P(B)",
+      "P(A) × P(B|A)",
+      "P(A) + P(B)",
+      "P(A) – P(B)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bayes' theorem formula is: P(A|B) = [P(B|A) × P(A)] / P(B). P(B) in the denominator is:",
+    "options": [
+      "P(B|A)",
+      "The total probability of B (marginal)",
+      "P(A)",
+      "1 – P(A)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a probability tree, the sum of probabilities from each node must equal:",
+    "options": [
+      "0",
+      "The number of branches",
+      "The probability of the previous event",
+      "1"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The expected value of a constant C is:",
+    "options": [
+      "0",
+      "C",
+      "1",
+      "C²"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The variance of a constant C is:",
+    "options": [
+      "C",
+      "1",
+      "C²",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If X and Y are independent random variables, then Var(X+Y) =:",
+    "options": [
+      "Var(X) + Var(Y)",
+      "Var(X) – Var(Y)",
+      "Var(X) × Var(Y)",
+      "Cov(X,Y)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If a and b are constants, E(aX + b) =:",
+    "options": [
+      "aE(X) + b",
+      "aE(X) – b",
+      "a + bE(X)",
+      "E(X) + b"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If a and b are constants, Var(aX + b) =:",
+    "options": [
+      "a² Var(X)",
+      "a Var(X) + b",
+      "Var(X) + b",
+      "a Var(X)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The covariance between two variables measures:",
+    "options": [
+      "The direction of linear relationship",
+      "The strength and direction of linear relationship (units dependent)",
+      "Only the strength, not direction",
+      "The causal effect"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Correlation coefficient ρ (or r) standardizes covariance to range:",
+    "options": [
+      "0 to 1",
+      "–1 to +1",
+      "–∞ to +∞",
+      "0 to ∞"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A correlation of 0 indicates:",
+    "options": [
+      "Perfect positive linear relationship",
+      "Perfect negative linear relationship",
+      "No linear relationship",
+      "A non‑linear relationship only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A correlation of +1 indicates:",
+    "options": [
+      "No relationship",
+      "Perfect positive linear relationship",
+      "Perfect negative linear relationship",
+      "Weak relationship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The law of total probability states: P(A) = Σ P(A|Bi) × P(Bi) where Bi are:",
+    "options": [
+      "Mutually exclusive and exhaustive events",
+      "Independent events",
+      "Any events",
+      "Complementary events"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A discrete probability distribution must satisfy:",
+    "options": [
+      "All probabilities are between 0 and 1 and sum to 1",
+      "All probabilities are between 0 and 100",
+      "The mean is zero",
+      "The variance is one"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cumulative distribution function (CDF) for a discrete random variable is:",
+    "options": [
+      "A step function",
+      "A smooth curve",
+      "Always increasing linearly",
+      "Constant"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Bernoulli distribution is a special case of the binomial distribution with n =:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "∞"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The hypergeometric distribution differs from binomial in that:",
+    "options": [
+      "Trials are independent",
+      "Sampling is without replacement from a finite population, so probability changes",
+      "It applies to continuous data",
+      "It has no parameters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The moment generating function (MGF) of a random variable, if it exists, uniquely determines:",
+    "options": [
+      "The sample size",
+      "The probability distribution",
+      "The range of the data",
+      "The median"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Chebyshev's inequality gives a lower bound for the proportion of data within k standard deviations for:",
+    "options": [
+      "Only normal distributions",
+      "Any distribution with finite variance",
+      "Only symmetric distributions",
+      "Only uniform distributions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "For a normal distribution, about 99.7% of data lies within ±3 standard deviations of the mean. Chebyshev's theorem for k=3 gives at least:",
+    "options": [
+      "99.7%",
+      "88.9% (1 – 1/9 ≈ 88.9%)",
+      "75%",
+      "95%"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The standard deviation squared is the:",
+    "options": [
+      "Standard error",
+      "Mean deviation",
+      "Variance",
+      "Range"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The deviation from the mean is:",
+    "options": [
+      "(x – median)",
+      "(x – mode)",
+      "(x – range)",
+      "(x – μ)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The sum of deviations from the mean is always:",
+    "options": [
+      "Positive",
+      "Zero",
+      "Negative",
+      "Equal to the variance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The sample variance formula divides by n–1 (not n) to obtain:",
+    "options": [
+      "A biased estimate of population variance",
+      "An unbiased estimate of population variance",
+      "A smaller value than the population variance",
+      "The standard deviation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The empirical rule for normal distributions states that approximately 68% of data falls within:",
+    "options": [
+      "±1 standard deviation",
+      "±2 standard deviations",
+      "±3 standard deviations",
+      "±0.5 standard deviations"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A standard normal variable Z has mean 0 and standard deviation 1. The probability P(Z > 1.96) is approximately:",
+    "options": [
+      "0.05 (two‑tailed, 0.025 each tail)",
+      "0.025",
+      "0.01",
+      "0.10"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The 95th percentile of the standard normal distribution is approximately:",
+    "options": [
+      "1.645",
+      "1.96",
+      "2.576",
+      "0.95"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The 97.5th percentile of standard normal is approximately:",
+    "options": [
+      "1.645",
+      "1.96",
+      "2.576",
+      "0.975"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a normal distribution, the mean, median, and mode are:",
+    "options": [
+      "All different if skewed",
+      "Mean > median > mode",
+      "All equal",
+      "Mode > median > mean"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A normal quantile plot (Q‑Q plot) is used to:",
+    "options": [
+      "Calculate the mean",
+      "Assess whether a dataset is approximately normally distributed",
+      "Compute the variance",
+      "Find the mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The lognormal distribution is:",
+    "options": [
+      "Symmetric",
+      "Positively skewed, often used for stock prices or times",
+      "Negatively skewed",
+      "Uniform"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Student's t‑distribution is similar to normal but with:",
+    "options": [
+      "Thicker tails, especially for small sample sizes",
+      "Thinner tails",
+      "No tails",
+      "Only positive values"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The chi‑square distribution is used for:",
+    "options": [
+      "Testing means",
+      "Testing variance and goodness‑of‑fit",
+      "Testing correlation",
+      "Normal distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The F‑distribution is used for:",
+    "options": [
+      "Comparing two variances",
+      "Comparing two means",
+      "Single mean tests",
+      "Proportions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The central limit theorem applies to the sampling distribution of:",
+    "options": [
+      "Any statistic, regardless of sample size",
+      "The sample mean, for sufficiently large n (typically n≥30)",
+      "The sample median",
+      "The sample mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The standard error of the proportion is:",
+    "options": [
+      "√(p̂(1‑p̂)/n)",
+      "√(π(1‑π)/n) where π is population proportion",
+      "Both A and B (p is sample proportion, π population)",
+      "p/n"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The continuity correction is used when approximating:",
+    "options": [
+      "Normal with uniform",
+      "Binomial with normal (discrete to continuous)",
+      "Poisson with binomial",
+      "Exponential with normal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Poisson distribution can approximate the binomial when:",
+    "options": [
+      "n is small and p is large",
+      "n is large, p is small (rare events) and λ = n·p is moderate",
+      "n is infinite",
+      "p = 0.5"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The hypergeometric distribution approaches the binomial when:",
+    "options": [
+      "Population is small",
+      "Population is large relative to sample (N large, n/N small)",
+      "Sample size equals population",
+      "Sampling with replacement is not allowed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The mean of the sampling distribution of the sample mean is:",
+    "options": [
+      "Population standard deviation",
+      "Sample mean",
+      "Zero",
+      "Population mean"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The variance of the sampling distribution of the sample mean (σ²ₓ̄) = σ²/n. This assumes:",
+    "options": [
+      "Sampling with replacement or from infinite population",
+      "Sampling without replacement from finite population (then finite population correction)",
+      "Both A and B are correct in different contexts",
+      "Neither"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The sampling distribution of the sample proportion is approximately normal if:",
+    "options": [
+      "nπ ≥ 10 and n(1‑π) ≥ 10 (some texts use 5)",
+      "n is any size",
+      "π = 0",
+      "π = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The standard normal table gives area to the left of a z‑value. The area to the right is:",
+    "options": [
+      "1 – area to the left",
+      "Area to the left – 1",
+      "2 – area to the left",
+      "Area to the left"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a standard normal distribution, the z‑score for the 90th percentile is approximately:",
+    "options": [
+      "1.28",
+      "1.645",
+      "1.96",
+      "2.33"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The sample mean is an unbiased estimator of the population mean because:",
+    "options": [
+      "Its expected value equals the population mean",
+      "Its variance is zero",
+      "It always equals the population mean",
+      "It is the only estimator available"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An estimator is consistent if:",
+    "options": [
+      "Its bias decreases as sample size increases",
+      "It converges in probability to the population parameter as sample size increases",
+      "It has minimum variance",
+      "It is unbiased"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The maximum likelihood estimator (MLE) chooses parameter values that:",
+    "options": [
+      "Minimize the sum of squared errors",
+      "Maximize the likelihood function (probability of observing the data)",
+      "Minimize the variance",
+      "Make the mean zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The method of moments estimator equates:",
+    "options": [
+      "Sample moments to theoretical moments",
+      "Sample mean to sample median",
+      "Population mean to population variance",
+      "Sample variance to zero"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A confidence interval for the population mean (σ known) uses the critical value:",
+    "options": [
+      "t from t‑distribution",
+      "z from standard normal",
+      "F from F‑distribution",
+      "χ²"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If the population standard deviation is unknown, a confidence interval for the mean uses:",
+    "options": [
+      "Normal distribution",
+      "t‑distribution with n–1 degrees of freedom",
+      "Chi‑square distribution",
+      "F‑distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A 95% confidence interval means that:",
+    "options": [
+      "The population parameter lies within the interval with probability 0.95",
+      "If we repeatedly sampled and constructed intervals, approximately 95% of them would contain the population parameter",
+      "The sample mean lies in the interval with probability 0.95",
+      "The interval contains 95% of the data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Increasing the confidence level (e.g., from 95% to 99%) will:",
+    "options": [
+      "Widen the confidence interval",
+      "Narrow the confidence interval",
+      "Have no effect on width",
+      "Make the interval zero"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Increasing the sample size will:",
+    "options": [
+      "Widen the confidence interval",
+      "Narrow the confidence interval",
+      "Have no effect on width",
+      "Double the width"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A point estimate is:",
+    "options": [
+      "A range of values",
+      "The population mean",
+      "A single value used to estimate a population parameter",
+      "The margin of error"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The margin of error in a confidence interval for the mean (σ known) is:",
+    "options": [
+      "z(σ/√n)",
+      "t(s/√n)",
+      "Both A and B depending on σ known/unknown",
+      "The sample mean"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The sample proportion p̂ is an unbiased estimator of the population proportion π because:",
+    "options": [
+      "E(p̂) = π",
+      "Var(p̂) = 0",
+      "p̂ = π always",
+      "It is the only estimator"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The standard error of the sample proportion is:",
+    "options": [
+      "√(p̂(1‑p̂)/n)",
+      "√(π(1‑π)/n)",
+      "Both A (estimates) and B (population)",
+      "p̂/n"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A 95% confidence interval for a proportion uses the critical value approximately:",
+    "options": [
+      "1.645",
+      "1.96",
+      "2.576",
+      "1.28"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The finite population correction factor (FPC) is √((N‑n)/(N‑1)). It is used when:",
+    "options": [
+      "n/N is small (<0.05)",
+      "n/N is large (>0.05) and sampling is without replacement",
+      "Population is infinite",
+      "Sampling with replacement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The central limit theorem for proportions states that the sampling distribution of p̂ is approximately normal if:",
+    "options": [
+      "nπ ≥ 5 and n(1‑π) ≥ 5 (some use 10)",
+      "Any n works",
+      "π = 0.5 only",
+      "n is less than 30"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The sample variance s² is an unbiased estimator of population variance σ². This means:",
+    "options": [
+      "E(s²) = σ²",
+      "s² = σ² for all samples",
+      "s² is always smaller than σ²",
+      "s² is always larger than σ²"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The standard deviation of the sampling distribution of a statistic is called the:",
+    "options": [
+      "Standard error",
+      "Margin of error",
+      "Confidence level",
+      "Parameter"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a left‑skewed distribution, the median is:",
+    "options": [
+      "Less than the mean",
+      "Greater than the mean",
+      "Equal to the mean",
+      "Equal to the mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A dataset has values: 2, 4, 6, 8, 10. The mean is 6. The sum of squared deviations from the mean is:",
+    "options": [
+      "40",
+      "20",
+      "10",
+      "30"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "For the same dataset (2,4,6,8,10), the variance (population formula) is:",
+    "options": [
+      "8",
+      "10",
+      "6",
+      "4"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "For the same dataset (2,4,6,8,10), the sample variance (n‑1 denominator) is:",
+    "options": [
+      "8",
+      "10",
+      "12.5",
+      "6"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The coefficient of variation for dataset with mean 10 and standard deviation 2 is:",
+    "options": [
+      "20%",
+      "5%",
+      "50%",
+      "2%"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A probability of 0.05 means:",
+    "options": [
+      "The event is certain",
+      "The event has a 5% chance of occurring",
+      "The event never occurs",
+      "The event occurs 95% of the time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The odds of an event with probability 0.8 are:",
+    "options": [
+      "4:1 (in favor)",
+      "1:4 (against)",
+      "8:2",
+      "0.2:0.8"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If P(A) = 0.4, P(B) = 0.5, and A and B are independent, then P(A∩B) =:",
+    "options": [
+      "0.9",
+      "0.2",
+      "0.1",
+      "0.0"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If P(A) = 0.6, P(B) = 0.3, and P(A∩B) = 0.1, then P(A ∪ B) =:",
+    "options": [
+      "0.9",
+      "0.8",
+      "0.7",
+      "0.4"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If P(A) = 0.7 and P(A∩B) = 0.2, then P(B|A) =:",
+    "options": [
+      "0.2/0.7 ≈ 0.2857",
+      "0.7/0.2 = 3.5",
+      "0.2 × 0.7 = 0.14",
+      "0.2 + 0.7 = 0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A binomial experiment with n=10, p=0.5. The mean is:",
+    "options": [
+      "5",
+      "2.5",
+      "10",
+      "0.5"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A Poisson distribution with λ=4. The variance is:",
+    "options": [
+      "2",
+      "4",
+      "16",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a normal distribution, the first quartile (25th percentile) has a z‑score approximately:",
+    "options": [
+      "–0.674",
+      "0.674",
+      "–1.96",
+      "1.96"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The median of a standard normal distribution is:",
+    "options": [
+      "0",
+      "1",
+      "–1",
+      "0.5"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The primary purpose of statistics for management is to:",
+    "options": [
+      "Complicate decision making",
+      "Provide tools for data‑driven decisions under uncertainty",
+      "Eliminate the need for human judgment",
+      "Focus only on past performance without forward looking"
+    ],
+    "correct": 1
+  }
+]
