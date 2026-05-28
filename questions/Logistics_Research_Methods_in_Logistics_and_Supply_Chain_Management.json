@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "What is the FIRST step in the scientific research process?",
+    "options": [
+      "Collecting data from respondents",
+      "Writing the research report",
+      "Identifying and defining the research problem",
+      "Selecting the statistical analysis method"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A well-defined research problem in logistics and supply chain management should be:",
+    "options": [
+      "As broad as possible to cover all areas of logistics",
+      "Specific, researchable, significant, and clearly stated",
+      "Based only on the researcher's personal experience",
+      "Identical to problems studied in previous research"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"research problem\"?",
+    "options": [
+      "A mathematical equation used to analyze supply chain data",
+      "A gap between what is known and what needs to known, or a situation requiring investigation",
+      "The list of references cited in a research report",
+      "A disagreement between two logistics managers about procurement procedures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, a \"research gap\" refers to:",
+    "options": [
+      "The time between data collection and report writing",
+      "An area where existing knowledge is insufficient, contradictory, or absent, warranting further investigation",
+      "The difference between planned and actual delivery times",
+      "The physical distance between a supplier and a buyer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a well-formulated research problem in supply chain management?",
+    "options": [
+      "\"Supply chains are important.\"",
+      "\"What is the effect of supplier relationship management on delivery performance of manufacturing firms in Ethiopia?\"",
+      "\"I want to study logistics.\"",
+      "\"Transportation is a problem.\""
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"background of the study\" section in a research proposal primarily serves to:",
+    "options": [
+      "List all the references the researcher plans to cite",
+      "Provide context by explaining the broader situation leading to the research problem",
+      "Present the detailed findings of the study",
+      "Describe the statistical tools to be used in data analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a characteristic of a good research problem?",
+    "options": [
+      "It is researchable using available methods",
+      "It contributes new knowledge to the field",
+      "It is vague and open to multiple interpretations",
+      "It is ethically acceptable to investigate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics researcher reviewing existing literature is primarily trying to:",
+    "options": [
+      "Copy findings from previous studies and present them as new",
+      "Identify what is already known, find gaps, and build a theoretical foundation for their study",
+      "Avoid spending time on original data collection",
+      "Fulfill a requirement to have a long reference list"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, a \"hypothesis\" is best defined as:",
+    "options": [
+      "A proven fact accepted by all researchers in the field",
+      "A tentative, testable statement predicting a relationship between two or more variables",
+      "The final conclusion of a completed research study",
+      "A question posed to research participants during an interview"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents a correctly stated research hypothesis for a supply chain study?",
+    "options": [
+      "\"Supply chain integration is good.\"",
+      "\"There is a significant positive relationship between supply chain integration and firm performance.\"",
+      "\"I think procurement is important.\"",
+      "\"Logistics managers should be trained.\""
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"null hypothesis\" (H₀) in research states that:",
+    "options": [
+      "There is a significant relationship between the variables being studied",
+      "There is no significant relationship or difference between the variables being studied",
+      "The research problem has no solution",
+      "The researcher has found evidence to support their prediction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"research objectives\" in a study?",
+    "options": [
+      "To list the references consulted during literature review",
+      "To specify what the researcher intends to achieve or investigate through the study",
+      "To describe the geographic location of the study",
+      "To summarize the findings before data collection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a SPECIFIC research objective in a logistics study?",
+    "options": [
+      "\"To study logistics.\"",
+      "\"To assess the effect of inventory management practices on customer service levels in Ethiopian manufacturing firms.\"",
+      "\"To generally improve supply chain management in Ethiopia.\"",
+      "\"To read about procurement.\""
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"conceptual framework\" in research is best described as:",
+    "options": [
+      "A physical diagram of the researcher's office layout",
+      "A visual or narrative representation of the relationships between key variables in the study, derived from theory and literature",
+      "A list of all statistical formulas to be used in the study",
+      "A summary of the research findings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research methodology, the term \"variable\" refers to:",
+    "options": [
+      "A fixed constant used in statistical calculations",
+      "A characteristic or attribute that can take different values and is subject to measurement or observation",
+      "A standard format used for writing research reports",
+      "A type of interview question used in qualitative research"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is an \"independent variable\" in a logistics research study?",
+    "options": [
+      "A variable that is affected or explained by other variables in the study",
+      "A variable that is manipulated or presumed to cause a change in another variable",
+      "A variable that remains constant throughout the research",
+      "A variable that cannot be measured quantitatively"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"dependent variable\" in a supply chain research study?",
+    "options": [
+      "The variable that the researcher manipulates to test its effect",
+      "The outcome or result variable that is influenced by the independent variable",
+      "A variable that is not included in the research framework",
+      "A control variable used to eliminate external influences"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In defining a research problem, \"scope of the study\" refers to:",
+    "options": [
+      "The number of pages the research report should contain",
+      "The boundaries of the study in terms of geographic area, time period, subject matter, and population covered",
+      "The sources of funding for the research project",
+      "The list of statistical tests to be applied"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of the \"significance of the study\" section in a research proposal?",
+    "options": [
+      "It lists all previous researchers who studied a similar topic",
+      "It justifies the importance of the research by explaining the potential contributions and beneficiaries of the study",
+      "It describes the researcher's academic qualifications",
+      "It summarizes the data analysis techniques to be used"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher conducts a study on inventory management in a single company. This approach is called:",
+    "options": [
+      "A cross-sectional survey",
+      "A case study",
+      "An experimental design",
+      "A systematic review"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, \"operationalization\" of a variable means:",
+    "options": [
+      "Conducting field operations during data collection",
+      "Defining a variable in specific, measurable terms so it can be observed and measured in the study",
+      "Operating statistical software to analyze data",
+      "Writing the operational section of the research report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following describes \"applied research\" in the context of logistics and supply chain management?",
+    "options": [
+      "Research conducted purely to advance theoretical knowledge without practical application",
+      "Research aimed at solving a specific, practical problem in logistics or supply chain operations",
+      "Research conducted exclusively in laboratory settings",
+      "Research that reviews and synthesizes existing studies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Basic research\" (also called pure research) differs from applied research in that:",
+    "options": [
+      "Basic research is always quantitative while applied research is always qualitative",
+      "Basic research aims to expand fundamental knowledge without immediate practical application",
+      "Basic research is faster and cheaper than applied research",
+      "Basic research is only conducted in developing countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain researcher wants to study the relationship between green procurement practices and environmental sustainability. The \"literature review\" section should:",
+    "options": [
+      "Present only the researcher's personal opinions on green procurement",
+      "Critically analyze existing theories, empirical studies, and debates on green procurement and sustainability to provide a foundation for the study",
+      "List only Ethiopian studies on green procurement",
+      "Describe the data collection instruments in detail"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In writing a research proposal for a logistics study, the \"statement of the problem\" should:",
+    "options": [
+      "Provide detailed statistical findings from previous studies",
+      "Clearly articulate the existing problem, its magnitude, and why it requires investigation",
+      "Describe only the methodology to be used in the study",
+      "List all the countries where similar studies have been conducted"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common source of research problems in logistics and supply chain management?",
+    "options": [
+      "Personal entertainment preferences of the researcher",
+      "Observed inefficiencies in supply chain operations, gaps in existing literature, or practical challenges faced by industry",
+      "The researcher's need to fulfill a course requirement only",
+      "Randomly selected topics from a textbook index"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A researcher studying transport management in Ethiopia reviews academic journals, government reports, and industry publications. This activity is part of:",
+    "options": [
+      "Data analysis",
+      "Literature review",
+      "Hypothesis testing",
+      "Report writing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, a \"research question\" differs from a \"hypothesis\" in that:",
+    "options": [
+      "A research question is always quantitative while a hypothesis is always qualitative",
+      "A research question is an open-ended inquiry guiding the study, while a hypothesis is a specific, testable prediction about the relationship between variables",
+      "A hypothesis is used only in case studies while a research question is used in surveys",
+      "A research question is written after data collection while a hypothesis is written before"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a good research question for a supply chain study in Ethiopia?",
+    "options": [
+      "\"Is supply chain management important?\"",
+      "\"To what extent does the adoption of e-procurement affect procurement efficiency in Ethiopian public institutions?\"",
+      "\"Should logistics managers be well paid?\"",
+      "\"Do companies use inventory management?\""
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An Ethiopian logistics researcher is conducting a study on the challenges of cold chain management for pharmaceutical distribution. The most appropriate research approach would be to:",
+    "options": [
+      "Conduct an experimental study in a laboratory setting",
+      "Use a mixed-methods approach combining surveys and in-depth interviews with pharmaceutical logistics managers",
+      "Review only international studies without any Ethiopian context",
+      "Conduct the research without defining the research problem"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, \"theoretical framework\" refers to:",
+    "options": [
+      "A physical structure used to organize research documents",
+      "A set of theories, models, or concepts that explain and guide the relationships between variables in the study",
+      "The financial budget allocated for the research project",
+      "A template used for writing the research report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher defines the research problem as \"the inefficiency of last-mile delivery in Addis Ababa.\" What additional step is needed before proceeding with data collection?",
+    "options": [
+      "Immediately begin collecting data from delivery companies",
+      "Narrow the problem further, develop clear research questions and objectives, and review existing literature on last-mile delivery challenges",
+      "Publish a preliminary report without data",
+      "Consult with a statistician only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, \"delimitations\" refer to:",
+    "options": [
+      "The limitations imposed on the researcher by external factors such as time and budget",
+      "The boundaries intentionally set by the researcher to define the scope of the study",
+      "The ethical constraints imposed by the institutional review board",
+      "The minimum sample size required for statistical validity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The difference between \"limitations\" and \"delimitations\" in a research study is:",
+    "options": [
+      "They are the same concept and can be used interchangeably",
+      "Limitations are factors beyond the researcher's control that may affect the study, while delimitations are boundaries the researcher consciously sets to define the scope",
+      "Limitations refer to financial constraints and delimitations refer to time constraints",
+      "Limitations are described in the conclusion and delimitations in the introduction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Why is it important for a logistics researcher to clearly define the research problem before designing the study?",
+    "options": [
+      "To ensure the research report is as long as possible",
+      "Because a clearly defined problem guides all subsequent research decisions including methodology, data collection, and analysis, ensuring the study is focused and valid",
+      "To impress the research supervisor with detailed writing",
+      "Because regulatory authorities require a defined problem before approving funding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research methodology, \"primary data\" refers to:",
+    "options": [
+      "Data collected from secondary sources such as books and journals",
+      "Original data collected by the researcher directly from the source for the specific purpose of the study",
+      "Data published by government statistical agencies",
+      "Data from previous research studies on the same topic"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a PRIMARY data source in logistics research?",
+    "options": [
+      "Published industry reports on supply chain performance",
+      "Direct interviews with procurement managers in Ethiopian manufacturing firms",
+      "Government statistics on import and export volumes",
+      "Academic journal articles on inventory management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Secondary data\" in research refers to:",
+    "options": [
+      "Data collected through direct observation of supply chain operations",
+      "Data that was previously collected by another researcher or organization for a different purpose but is used by the current researcher",
+      "Data obtained through structured questionnaires administered to respondents",
+      "Data collected during the pilot phase of the study"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of using secondary data in logistics research?",
+    "options": [
+      "It is always expensive and time-consuming to collect",
+      "It may not perfectly match the researcher's specific needs, may be outdated, or may have unknown reliability issues",
+      "It requires direct interaction with research participants",
+      "It cannot be used in quantitative research"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher distributes a structured questionnaire to 200 warehouse managers to collect data on inventory management practices. This is an example of which data collection method?",
+    "options": [
+      "In-depth interview",
+      "Survey method",
+      "Observation method",
+      "Secondary data analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following data collection methods is MOST appropriate for exploring the lived experiences of customs clearance agents in Ethiopia?",
+    "options": [
+      "Large-scale structured survey",
+      "In-depth interviews or focus group discussions",
+      "Analysis of government import statistics",
+      "Laboratory experiment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, a \"questionnaire\" is best defined as:",
+    "options": [
+      "An informal conversation between the researcher and respondent",
+      "A structured set of written questions designed to gather information from respondents",
+      "A tool used exclusively for quantitative research",
+      "A document used to record observations in the field"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of using questionnaires in logistics research?",
+    "options": [
+      "They allow the researcher to probe deeply into complex issues during data collection",
+      "They can collect data from a large number of respondents efficiently and at relatively low cost",
+      "They eliminate the possibility of respondent bias entirely",
+      "They are suitable only for small, homogeneous populations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a supply chain research study, \"structured interviews\" differ from \"unstructured interviews\" in that:",
+    "options": [
+      "Structured interviews are conducted in person while unstructured interviews are done by telephone",
+      "Structured interviews use a predetermined set of questions for all respondents, ensuring consistency and comparability",
+      "Unstructured interviews are always more reliable than structured interviews",
+      "Structured interviews are used only in qualitative research"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Focus group discussion\" as a data collection method involves:",
+    "options": [
+      "A one-on-one conversation between the researcher and a single expert",
+      "A guided discussion among a small group of participants sharing similar characteristics, used to gather diverse perspectives on a topic",
+      "A large survey distributed to hundreds of respondents",
+      "An observation of supply chain operations without participant interaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Observation\" as a research data collection method is MOST useful when:",
+    "options": [
+      "The researcher wants to collect data from a large, geographically dispersed population",
+      "The researcher wants to directly witness and record behaviors or processes as they naturally occur",
+      "The research topic is too sensitive for participants to discuss openly",
+      "The researcher needs to analyze large datasets of numerical data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, which of the following is a type of \"probability sampling\"?",
+    "options": [
+      "Purposive sampling",
+      "Snowball sampling",
+      "Convenience sampling",
+      "Stratified random sampling"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Simple random sampling\" ensures:",
+    "options": [
+      "Every member of the population has an unequal chance of being selected",
+      "Every member of the population has an equal and independent chance of being selected",
+      "The researcher selects participants based on their accessibility",
+      "Participants are selected based on their expert knowledge of the topic"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher divides the population of Ethiopian logistics companies into small, medium, and large firms, then randomly selects proportional samples from each group. This is an example of:",
+    "options": [
+      "Cluster sampling",
+      "Systematic sampling",
+      "Stratified random sampling",
+      "Snowball sampling"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In research, \"purposive sampling\" (judgmental sampling) means:",
+    "options": [
+      "The researcher selects participants randomly from a list",
+      "The researcher deliberately selects participants based on specific criteria relevant to the research objectives",
+      "Participants volunteer themselves for the study",
+      "Every nth person on a list is selected"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which sampling method is MOST appropriate for a logistics researcher studying a hard-to-reach population such as informal cross-border traders in Ethiopia?",
+    "options": [
+      "Simple random sampling",
+      "Stratified random sampling",
+      "Snowball sampling",
+      "Cluster sampling"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In research, \"sample size\" determination is important because:",
+    "options": [
+      "A larger sample always guarantees better research findings regardless of other factors",
+      "An adequate sample size ensures the findings are statistically representative and reliable for the target population",
+      "The sample size determines the length of the research report",
+      "Regulatory authorities always specify the exact sample size for logistics research"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration when designing a data collection instrument for logistics research?",
+    "options": [
+      "The instrument should use only closed-ended questions to avoid any ambiguity",
+      "The instrument should be valid, reliable, clearly worded, and appropriate for the target respondents",
+      "The instrument should be as long as possible to cover all possible topics",
+      "The instrument design should be based on the researcher's personal preferences"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Validity\" of a research instrument refers to:",
+    "options": [
+      "The consistency of measurements obtained using the instrument over repeated applications",
+      "The degree to which the instrument actually measures what it is intended to measure",
+      "The number of questions included in the instrument",
+      "The statistical significance of the results obtained"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Reliability\" of a research instrument in logistics research means:",
+    "options": [
+      "The instrument measures what it is supposed to measure accurately",
+      "The instrument produces consistent and stable results when applied repeatedly under the same conditions",
+      "The instrument is approved by an ethics committee",
+      "The instrument has been previously used in international studies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A pilot study (pre-test) in research is conducted primarily to:",
+    "options": [
+      "Finalize the research report before data collection",
+      "Test the clarity, validity, and reliability of data collection instruments before the main data collection exercise",
+      "Present preliminary findings to stakeholders",
+      "Select the final sample for the study"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In quantitative research on supply chain performance, a \"Likert scale\" is used to:",
+    "options": [
+      "Measure the physical dimensions of warehouses",
+      "Capture respondents' attitudes, opinions, or perceptions by asking them to rate their level of agreement or disagreement on a scale",
+      "Calculate statistical correlations between variables",
+      "Record observational data on transport routes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of quantitative data in logistics research?",
+    "options": [
+      "Descriptions of challenges faced by logistics managers in Ethiopia",
+      "The number of days taken to clear goods through Ethiopian customs",
+      "Narratives about the experiences of freight forwarders",
+      "Case studies of supply chain disruptions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of qualitative data in supply chain research?",
+    "options": [
+      "The average inventory turnover ratio of manufacturing firms",
+      "In-depth descriptions of procurement officers' experiences with supplier relationship management",
+      "The number of trucks operating in the Addis Ababa logistics corridor",
+      "Statistical data on Ethiopia's logistics performance index score"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A researcher in logistics management wants to use both questionnaires and in-depth interviews in a single study. This approach is called:",
+    "options": [
+      "Pure quantitative research",
+      "Pure qualitative research",
+      "Mixed-methods research",
+      "Experimental research"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Triangulation\" in research refers to:",
+    "options": [
+      "A statistical method for analyzing three variables simultaneously",
+      "The use of multiple data sources, methods, or theoretical perspectives to cross-check and validate research findings",
+      "A sampling technique that selects every third participant from a list",
+      "A diagram showing the relationships between three research variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a PRIMARY source of secondary data for a logistics researcher in Ethiopia?",
+    "options": [
+      "Field interviews with transport managers",
+      "Ethiopian Customs Commission import/export statistics, Central Statistical Agency reports, and National Bank of Ethiopia publications",
+      "Observation of loading and unloading activities at Modjo dry port",
+      "Focus group discussions with warehouse operators"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a logistics research study, \"census\" means:",
+    "options": [
+      "Collecting data from a randomly selected portion of the population",
+      "Collecting data from every member of the entire population under study",
+      "Conducting a survey using online questionnaires only",
+      "Using secondary data exclusively for the study"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A researcher wants to study how Ethiopian freight forwarders adapt to new customs regulations. The most appropriate data collection method would be:",
+    "options": [
+      "Using only published government statistics",
+      "Conducting semi-structured interviews with experienced freight forwarders combined with a review of relevant customs regulations and documents",
+      "Administering a purely closed-ended questionnaire to a large random sample",
+      "Observing only the physical movement of goods at the port"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of an \"interview guide\" in qualitative logistics research?",
+    "options": [
+      "To ensure that all respondents answer exactly the same questions word-for-word",
+      "To provide a flexible framework of key topics and prompts that the interviewer uses to guide the conversation while allowing for probing and exploration",
+      "To score respondents' answers on a numerical scale",
+      "To replace the need for a structured questionnaire entirely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, \"informed consent\" from participants means:",
+    "options": [
+      "The researcher informs participants of the results after data analysis",
+      "Participants are fully informed about the purpose, procedures, risks, and benefits of the study and voluntarily agree to participate",
+      "The research supervisor consents to the data collection plan",
+      "The ethics committee informs participants about the study on behalf of the researcher"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which ethical principle requires that logistics research participants' identities are not disclosed without their permission?",
+    "options": [
+      "Beneficence",
+      "Justice",
+      "Confidentiality and anonymity",
+      "Non-maleficence"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A supply chain researcher collecting data from employees of a company should ensure that:",
+    "options": [
+      "The employer's permission overrides the individual employees' right to refuse participation",
+      "Participation is voluntary, respondents are informed of the study's purpose, and their responses are kept confidential",
+      "Employees are required to participate as part of their job responsibilities",
+      "All responses are attributed to specific individuals for accuracy purposes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In quantitative research, \"sampling frame\" refers to:",
+    "options": [
+      "The physical framework used to organize data collection instruments",
+      "The complete list or source from which the sample is drawn, representing the accessible population",
+      "The statistical formula used to calculate the required sample size",
+      "The outline of the research report structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a step in the data collection process for a logistics research study?",
+    "options": [
+      "Designing the data collection instrument",
+      "Conducting a pilot test of the instrument",
+      "Analyzing the collected data using statistical software",
+      "Training data collectors on how to administer the instrument"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics researcher studying supply chain disruptions conducts site visits to observe actual operations at three manufacturing plants. This is an example of:",
+    "options": [
+      "Survey research",
+      "Systematic observation as a data collection method",
+      "Experimental research design",
+      "Secondary data analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics and supply chain research, which of the following best describes \"content validity\" of a research instrument?",
+    "options": [
+      "The extent to which the instrument produces consistent results over time",
+      "The degree to which the instrument's items adequately represent the full range of the concept being measured",
+      "The statistical correlation between two versions of the same instrument",
+      "The number of items in the instrument relative to the sample size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A researcher uses \"systematic sampling\" to select participants from a list of 500 logistics companies, choosing every 10th company. The starting point should be:",
+    "options": [
+      "Always the first company on the list",
+      "A randomly selected number between 1 and 10",
+      "The company with the highest revenue",
+      "The company most familiar to the researcher"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scenarios best demonstrates a VIOLATION of research ethics in logistics and supply chain research?",
+    "options": [
+      "Informing participants about the purpose of the study before data collection",
+      "Fabricating data to support a desired research outcome",
+      "Using a pilot test to refine the questionnaire",
+      "Acknowledging the limitations of the study in the report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain research, a \"case study\" design is most appropriate when:",
+    "options": [
+      "The researcher wants to generalize findings to a large population",
+      "The researcher wants to gain an in-depth understanding of a complex phenomenon within its real-life context",
+      "The researcher needs to test a hypothesis using large-scale survey data",
+      "The researcher wants to conduct a comparative analysis of multiple countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, \"data analysis\" refers to:",
+    "options": [
+      "The process of collecting data from research participants",
+      "The process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making",
+      "The process of writing the final research report",
+      "The process of selecting the sample for the study"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Before analyzing quantitative data, a researcher should first:",
+    "options": [
+      "Write the conclusion chapter of the report",
+      "Code, clean, and check the data for completeness, accuracy, and consistency",
+      "Select the theoretical framework for the study",
+      "Conduct interviews with additional participants"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In quantitative data analysis, \"descriptive statistics\" are used to:",
+    "options": [
+      "Determine causal relationships between independent and dependent variables",
+      "Summarize and describe the basic features of the data, such as frequencies, means, and standard deviations",
+      "Test hypotheses about population parameters",
+      "Establish the validity and reliability of research instruments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a measure of \"central tendency\" used in logistics research data analysis?",
+    "options": [
+      "Standard deviation",
+      "Variance",
+      "Mean",
+      "Range"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a measure of \"dispersion\" or variability in a dataset?",
+    "options": [
+      "Mode",
+      "Median",
+      "Mean",
+      "Standard deviation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In supply chain research, a researcher finds that the average delivery lead time is 5 days with a standard deviation of 0.5 days. This means:",
+    "options": [
+      "All deliveries take exactly 5 days",
+      "Most delivery times are clustered close to the 5-day average, with relatively low variability",
+      "Delivery times range from 0 to 10 days uniformly",
+      "The delivery process is highly unreliable and unpredictable"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Inferential statistics\" in research are used to:",
+    "options": [
+      "Describe the characteristics of the sample without making broader conclusions",
+      "Make inferences or generalizations about a population based on data collected from a sample",
+      "Calculate the mean and median of a dataset",
+      "Present data in tables and charts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statistical tests is used to examine the relationship between two continuous variables in logistics research?",
+    "options": [
+      "Chi-square test",
+      "T-test",
+      "Pearson correlation analysis",
+      "ANOVA"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In logistics research, \"regression analysis\" is used to:",
+    "options": [
+      "Compare the means of more than two groups",
+      "Examine the strength and direction of the relationship between two categorical variables",
+      "Predict the value of a dependent variable based on one or more independent variables",
+      "Test whether a sample is normally distributed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics researcher wants to determine whether there is a significant difference in supply chain performance between three groups of companies classified by ownership type. The MOST appropriate statistical test is:",
+    "options": [
+      "Simple linear regression",
+      "Pearson correlation",
+      "Analysis of Variance (ANOVA)",
+      "Chi-square test"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"Chi-square test\" in research is primarily used to:",
+    "options": [
+      "Compare the means of two groups",
+      "Examine whether there is a significant association between two categorical variables",
+      "Predict the value of a continuous dependent variable",
+      "Measure the strength of correlation between two continuous variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In qualitative data analysis, \"thematic analysis\" involves:",
+    "options": [
+      "Calculating the frequency of responses using statistical software",
+      "Identifying, analyzing, and reporting recurring patterns (themes) within qualitative data",
+      "Testing hypotheses using inferential statistics",
+      "Creating frequency distribution tables from interview transcripts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, data \"coding\" in qualitative analysis refers to:",
+    "options": [
+      "Using computer programming to enter data into a spreadsheet",
+      "The process of labeling and categorizing segments of qualitative data (text, observations) to identify patterns and themes",
+      "Converting numerical data into graphical form",
+      "Encrypting sensitive research data to protect participant confidentiality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain researcher uses SPSS software to analyze questionnaire data. \"SPSS\" stands for:",
+    "options": [
+      "Statistical Package for the Social Sciences",
+      "Supply and Procurement Statistical System",
+      "Standardized Procedure for Supply Chain Studies",
+      "Statistical Platform for Supply Chain Surveys"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "\"Content analysis\" in logistics research refers to:",
+    "options": [
+      "Analyzing the physical contents of a warehouse",
+      "A systematic method of analyzing and quantifying the content of communication materials (text, documents, interviews) to identify patterns, themes, or concepts",
+      "Reviewing the table of contents of research reports",
+      "Assessing the content validity of a research questionnaire"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In data analysis, a \"frequency distribution\" shows:",
+    "options": [
+      "The speed at which data was collected from respondents",
+      "The number of times each value or category appears in the dataset",
+      "The relationship between two continuous variables",
+      "The difference between the highest and lowest values in the dataset"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following graphical tools is MOST appropriate for showing the proportion of different transport modes used by Ethiopian exporters?",
+    "options": [
+      "Scatter plot",
+      "Histogram",
+      "Pie chart",
+      "Line graph"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A \"histogram\" in data analysis is used to:",
+    "options": [
+      "Show the relationship between two categorical variables",
+      "Display the frequency distribution of a continuous variable using bars",
+      "Compare the performance of multiple supply chain companies",
+      "Track changes in logistics costs over time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, a \"scatter plot\" is used to:",
+    "options": [
+      "Present the percentage share of each transport mode in a country",
+      "Visually display the relationship between two continuous variables",
+      "Show the frequency of different types of supply chain disruptions",
+      "Compare means across multiple groups"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A researcher calculates a Pearson correlation coefficient of r = 0.85 between procurement lead time and inventory costs. This result indicates:",
+    "options": [
+      "A weak negative relationship between procurement lead time and inventory costs",
+      "A strong positive relationship, suggesting that as procurement lead time increases, inventory costs also tend to increase",
+      "No relationship between procurement lead time and inventory costs",
+      "A perfect negative correlation between the two variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In hypothesis testing, a \"p-value\" represents:",
+    "options": [
+      "The percentage of respondents who answered a specific question positively",
+      "The probability of obtaining the observed results (or more extreme) if the null hypothesis were true",
+      "The proportion of variance explained by the regression model",
+      "The power of the statistical test used"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, if the p-value is less than the significance level (α = 0.05), the researcher should:",
+    "options": [
+      "Accept the null hypothesis",
+      "Reject the null hypothesis and conclude that the result is statistically significant",
+      "Collect more data before making a conclusion",
+      "Change the significance level to 0.10"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Cronbach's Alpha\" is a statistical measure used in logistics research to assess:",
+    "options": [
+      "The significance of the relationship between two variables",
+      "The internal consistency reliability of a multi-item scale or questionnaire",
+      "The normality of the data distribution",
+      "The effect size of the intervention being studied"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Cronbach's Alpha value of 0.85 for a logistics performance measurement scale indicates:",
+    "options": [
+      "The scale has poor reliability and should be discarded",
+      "The scale has acceptable to good internal consistency reliability",
+      "The scale measures too many different constructs",
+      "The scale should be reduced to fewer than 5 items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain research, \"factor analysis\" is used to:",
+    "options": [
+      "Compare the means of multiple groups using variance",
+      "Identify underlying dimensions or factors among a large set of variables, reducing data complexity",
+      "Calculate the percentage of missing data in the dataset",
+      "Test the significance of differences between two sample means"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In quantitative data analysis, \"missing data\" should be handled by:",
+    "options": [
+      "Ignoring missing values and proceeding with analysis as usual",
+      "Using appropriate techniques such as mean substitution, multiple imputation, or listwise deletion, depending on the pattern and extent of missing data",
+      "Adding fictitious values to complete the dataset",
+      "Excluding the entire study if more than one response is missing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher wants to determine whether procurement method (competitive bidding vs. direct procurement) has a significant effect on cost savings. The MOST appropriate statistical test is:",
+    "options": [
+      "Pearson correlation",
+      "Simple linear regression",
+      "Independent samples T-test or ANOVA",
+      "Cronbach's Alpha"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In qualitative research on supply chain challenges, \"member checking\" is used to:",
+    "options": [
+      "Verify the membership status of logistics association members",
+      "Validate research findings by sharing them with participants to confirm accuracy and credibility",
+      "Check whether survey questionnaires were completed by all sample members",
+      "Count the number of participants in each focus group"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Data saturation\" in qualitative research means:",
+    "options": [
+      "The researcher has collected more data than the analysis software can process",
+      "The point at which new data no longer produces new themes or insights, indicating sufficient data has been collected",
+      "All members of the population have been surveyed",
+      "The dataset contains the maximum number of variables allowed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain researcher uses multiple regression analysis and reports an R² value of 0.72. This means:",
+    "options": [
+      "72% of the independent variables are statistically significant",
+      "72% of the variance in the dependent variable is explained by the independent variables in the model",
+      "28% of respondents did not answer the survey questions",
+      "The regression model contains 72 variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, \"cross-tabulation\" is used to:",
+    "options": [
+      "Cross-check references cited in the literature review",
+      "Examine the relationship between two categorical variables by displaying their joint frequency distribution in a table",
+      "Compare means across multiple quantitative variables",
+      "Calculate the correlation coefficient between continuous variables"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"normality testing\" in quantitative data analysis?",
+    "options": [
+      "Testing whether research participants responded normally to the survey questions",
+      "Statistical testing (e.g., Shapiro-Wilk or Kolmogorov-Smirnov test) to determine whether the data follows a normal distribution, which is a prerequisite for many parametric tests",
+      "Verifying that the questionnaire items are written in normal language",
+      "Checking whether the sample size is within the normal range for the study"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research data analysis, what does \"outlier\" mean?",
+    "options": [
+      "A respondent who refuses to participate in the study",
+      "A data point that differs significantly from the rest of the dataset and may distort statistical analysis",
+      "A variable that is not included in the regression model",
+      "A research participant located outside the study area"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher collects data on annual procurement expenditure for 50 firms. The data contains one extreme value (ETB 500 million) while most firms spend ETB 5–20 million. What should the researcher do?",
+    "options": [
+      "Delete all data and start data collection again",
+      "Investigate the outlier to determine if it is valid; if so, consider using median instead of mean, or apply appropriate transformations",
+      "Replace the outlier with the mean value without investigation",
+      "Increase the sample size to 500 to reduce the impact of the outlier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In qualitative data analysis, \"Atlas.ti\" or \"NVivo\" are examples of:",
+    "options": [
+      "Statistical software for quantitative data analysis",
+      "Computer-assisted qualitative data analysis software (CAQDAS) used to organize and analyze qualitative data",
+      "Data collection platforms for online surveys",
+      "Referencing software for managing citations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the correct sequence for quantitative data analysis in a logistics research study?",
+    "options": [
+      "Hypothesis testing → Data entry → Data cleaning → Descriptive statistics",
+      "Data entry and coding → Data cleaning → Descriptive statistics → Inferential statistics → Interpretation",
+      "Data interpretation → Descriptive statistics → Hypothesis formulation → Data entry",
+      "Inferential statistics → Data collection → Data cleaning → Report writing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, \"grounded theory\" data analysis approach is used to:",
+    "options": [
+      "Apply existing theories to test specific hypotheses",
+      "Develop new theoretical explanations by systematically collecting and analyzing qualitative data, allowing theory to emerge from the data",
+      "Conduct statistical tests on large quantitative datasets",
+      "Analyze secondary data from government publications"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher uses a five-point Likert scale (1=Strongly Disagree to 5=Strongly Agree) to measure supplier satisfaction. A mean score of 4.2 indicates:",
+    "options": [
+      "Most respondents strongly disagreed with the statement",
+      "Respondents generally agreed with the statement, indicating relatively high supplier satisfaction",
+      "The scale was not properly validated",
+      "Exactly 42% of respondents agreed with the statement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, \"benchmarking\" data analysis involves:",
+    "options": [
+      "Measuring the physical dimensions of warehouse infrastructure",
+      "Comparing an organization's performance metrics against best-practice standards or competitors to identify improvement opportunities",
+      "Setting a baseline for future data collection",
+      "Marking the boundaries of the research study area on a map"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents the CORRECT interpretation of a negative correlation (r = -0.75) in a supply chain study?",
+    "options": [
+      "There is no relationship between the two variables studied",
+      "There is a strong negative relationship, meaning as one variable increases, the other tends to decrease",
+      "The research hypothesis has been proven wrong",
+      "The data contains errors that need to be corrected"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, \"interpretation of results\" refers to:",
+    "options": [
+      "The process of collecting data from respondents",
+      "The process of making sense of the findings by explaining what they mean in relation to the research questions, objectives, and existing literature",
+      "The process of selecting the appropriate statistical test",
+      "The process of formatting the research report according to institutional guidelines"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher finds that procurement cycle time has significantly decreased after the introduction of e-procurement. The researcher should interpret this finding by:",
+    "options": [
+      "Simply reporting the numerical result without any explanation",
+      "Explaining what the result means, linking it to the research objectives and existing theories on e-procurement, and discussing its practical implications for logistics management",
+      "Ignoring the finding because it was expected",
+      "Changing the hypothesis to match the finding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"discussion\" section of a research report in logistics should:",
+    "options": [
+      "Present raw data and statistical tables without explanation",
+      "Interpret the findings, compare them with previous studies, explain unexpected results, and highlight the implications for theory and practice",
+      "List only the research limitations without any analysis",
+      "Restate the research methodology in full detail"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research reporting, the \"abstract\" of a logistics study should include:",
+    "options": [
+      "The full literature review and theoretical framework",
+      "A concise summary of the study's purpose, methodology, key findings, and conclusions",
+      "Detailed statistical tables and raw data",
+      "The full reference list of sources cited"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"conclusion\" section of a logistics research report should:",
+    "options": [
+      "Introduce new literature not discussed elsewhere in the report",
+      "Summarize the key findings, answer the research questions or test hypotheses, and state the overall conclusions of the study",
+      "Present all the raw data collected from participants",
+      "Describe the data collection instruments in detail"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a logistics research report, \"recommendations\" should be:",
+    "options": [
+      "General statements applicable to all industries worldwide without specific context",
+      "Specific, actionable, and evidence-based suggestions for practitioners, policymakers, or future researchers derived from the study's findings",
+      "Personal opinions of the researcher not supported by data",
+      "A repetition of the literature review findings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the correct structure of a standard logistics research report?",
+    "options": [
+      "Data Analysis → Introduction → Literature Review → Conclusion → Methodology",
+      "Introduction → Literature Review → Methodology → Results → Discussion → Conclusion → References",
+      "Conclusion → Methodology → Results → Introduction → Literature Review",
+      "References → Introduction → Methodology → Results → Literature Review → Discussion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research reporting, \"APA style\" refers to:",
+    "options": [
+      "A method of data analysis developed by the American Procurement Association",
+      "A standardized citation and referencing format developed by the American Psychological Association, widely used in social science research",
+      "A report formatting guideline used exclusively for logistics and supply chain studies",
+      "A statistical software package for analyzing research data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of good academic writing in a logistics research report?",
+    "options": [
+      "Using complex, technical jargon to demonstrate expertise on every page",
+      "Writing clearly, concisely, and objectively, with ideas logically organized and supported by evidence",
+      "Using first-person narrative throughout the report without any citations",
+      "Avoiding any reference to previous studies to maintain originality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research reporting, \"plagiarism\" is defined as:",
+    "options": [
+      "Using statistical software to analyze data without proper training",
+      "Presenting another person's ideas, words, or work as one's own without proper acknowledgment or citation",
+      "Citing too many sources in the reference list",
+      "Using secondary data without collecting primary data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher presents findings showing that supplier reliability positively impacts supply chain performance, a result that contradicts a previous major study. How should this be handled in the discussion section?",
+    "options": [
+      "Ignore the contradictory finding and report only results that confirm existing literature",
+      "Acknowledge the contradiction, explore possible reasons for the divergence (such as contextual differences), and suggest further research to resolve the discrepancy",
+      "Change the data to align with the previous study's findings",
+      "Delete the contradictory result from the report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT an appropriate component of a logistics research proposal?",
+    "options": [
+      "Statement of the problem",
+      "Research methodology",
+      "Final conclusions and recommendations of the study",
+      "Literature review"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a logistics research report, \"tables\" and \"figures\" are used to:",
+    "options": [
+      "Replace the written text in the results section entirely",
+      "Present data in a clear, organized, and visually accessible manner that complements the written narrative",
+      "Fulfill a minimum page-count requirement for the report",
+      "Present the researcher's opinions on the findings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A research report on customs clearance challenges in Ethiopia is submitted to the Ministry of Trade. The executive summary should be written:",
+    "options": [
+      "In the most technical language possible to demonstrate academic rigor",
+      "In clear, non-technical language that allows decision-makers to quickly understand the problem, findings, and key recommendations",
+      "As a copy of the abstract used in the academic version of the report",
+      "After the appendices and reference list"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics research, \"generalizability\" of findings refers to:",
+    "options": [
+      "The extent to which research findings can be presented in general terms without specific data",
+      "The degree to which the findings from the study sample can be extended or applied to the broader population or other contexts",
+      "The ability of the researcher to conduct research in multiple countries simultaneously",
+      "The use of general language in the research report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a hallmark of a well-written \"results\" section in a quantitative logistics research report?",
+    "options": [
+      "The researcher interprets and discusses findings extensively in this section",
+      "Findings are presented objectively using tables, figures, and statistical values without subjective interpretation, which is reserved for the discussion section",
+      "The section includes a full repetition of the methodology",
+      "The researcher recommends solutions to the problem in this section"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"appendices\" in a logistics research report?",
+    "options": [
+      "To present the main findings of the study in summary form",
+      "To include supplementary materials (such as questionnaires, interview guides, or raw data) that support the report but are too detailed to include in the main text",
+      "To list all the researchers who reviewed the report before submission",
+      "To provide additional literature that could not fit in the literature review chapter"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain researcher is writing up their findings but realizes some results do not support the original hypothesis. The ethical response is to:",
+    "options": [
+      "Report only the results that support the hypothesis and omit the others",
+      "Report all findings transparently, including those that do not support the hypothesis, and provide a balanced discussion of what the results collectively indicate",
+      "Change the hypothesis after seeing the data to match the results",
+      "Collect additional data only from respondents whose answers support the hypothesis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In qualitative research reporting, \"thick description\" refers to:",
+    "options": [
+      "Writing a very long and repetitive report to demonstrate thoroughness",
+      "Providing rich, detailed, and contextualized accounts of phenomena that allow readers to assess the applicability of findings to other settings",
+      "Using large fonts and wide margins in the report",
+      "Adding many footnotes and endnotes to the report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"reflexivity\" in qualitative logistics research reporting?",
+    "options": [
+      "The ability of the researcher to quickly revise the report after peer review",
+      "The researcher's critical reflection on how their own background, assumptions, and position may have influenced the research process and findings",
+      "The process of asking participants to reflect on their own experiences during data collection",
+      "The use of reflective writing style in the abstract and conclusion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In logistics and supply chain research, what is meant by \"implications for practice\"?",
+    "options": [
+      "The theoretical contributions the study makes to academic literature",
+      "The practical applications of the research findings for logistics managers, organizations, or policymakers",
+      "The implications of the study for future academic research",
+      "The financial implications of conducting the research project"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When reporting statistical results in a logistics research paper, a researcher should include:",
+    "options": [
+      "Only the p-value without reporting the test statistic or effect size",
+      "The test statistic, degrees of freedom, p-value, and effect size to give a complete picture of the findings",
+      "Only a verbal description of the direction of the relationship without any numerical values",
+      "Raw data from all respondents in the body of the report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher wants to communicate research findings to a non-academic audience such as supply chain managers. The MOST effective approach is to:",
+    "options": [
+      "Submit the full academic report with all technical statistical details",
+      "Prepare a concise, jargon-free policy brief or executive summary with clear visuals highlighting the most relevant findings and practical recommendations",
+      "Present all the raw data in spreadsheet form without interpretation",
+      "Conduct another study specifically for the non-academic audience"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"limitation\" that should be acknowledged in a logistics research report?",
+    "options": [
+      "The researcher used a well-validated questionnaire to collect data",
+      "The study was limited to Addis Ababa-based logistics firms, which may limit the generalizability of findings to other regions of Ethiopia",
+      "The study achieved a high response rate of 85%",
+      "The researcher had extensive prior experience in logistics management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In academic research on logistics, proper \"citation\" of sources is important because:",
+    "options": [
+      "It increases the length of the research report",
+      "It gives credit to original authors, demonstrates the breadth of the researcher's reading, and allows readers to verify and consult the original sources",
+      "It is required only for direct quotations but not for paraphrased ideas",
+      "It is mandatory only for journal articles but not for government reports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics researcher presents a paper at a conference and receives feedback suggesting that the data analysis was flawed. The appropriate response is to:",
+    "options": [
+      "Ignore the feedback and publish the paper without changes",
+      "Critically evaluate the feedback, acknowledge any genuine flaws, revise the analysis if necessary, and update the findings and conclusions accordingly",
+      "Defend every aspect of the paper without considering the validity of the criticism",
+      "Withdraw the paper from publication permanently"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain research, what is the purpose of \"recommendations for future research\"?",
+    "options": [
+      "To suggest topics the researcher personally finds interesting",
+      "To identify research gaps, unresolved questions, or areas suggested by the study's limitations that future researchers should address",
+      "To advise future researchers to replicate the study exactly",
+      "To criticize the methodology of previous studies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which section of a logistics research report would include a detailed explanation of how data was collected and why specific methods were chosen?",
+    "options": [
+      "Literature review",
+      "Results and findings",
+      "Research methodology",
+      "Discussion"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In quantitative logistics research, \"statistical significance\" means:",
+    "options": [
+      "The finding is practically important and has a major impact on logistics operations",
+      "The result is unlikely to have occurred by chance alone, given the data, at a specified significance level",
+      "The sample size was sufficiently large for the study",
+      "The research instrument was properly validated"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A researcher reports statistically significant results but notes that the effect size is very small. What should be communicated in the report?",
+    "options": [
+      "The finding is very important and should be widely publicized",
+      "While the result is statistically significant, the practical significance may be limited due to the small effect size, and this distinction should be clearly explained to readers",
+      "The small effect size invalidates the statistical significance entirely",
+      "Effect size is irrelevant in logistics research and should not be reported"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, the \"reference list\" differs from a \"bibliography\" in that:",
+    "options": [
+      "A reference list includes only sources cited in the text, while a bibliography may include all sources consulted",
+      "A bibliography includes only journal articles while a reference list includes all source types",
+      "A reference list is placed at the beginning of the report and a bibliography at the end",
+      "A bibliography is used only in qualitative research and a reference list only in quantitative research"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A logistics student submits a research report that contains extensive sections copied verbatim from published articles without citation. This is a serious violation of:",
+    "options": [
+      "Statistical analysis protocols",
+      "Academic integrity and research ethics, constituting plagiarism",
+      "Data collection standards",
+      "Report formatting guidelines"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST demonstrates the link between data analysis and decision-making in logistics and supply chain management research?",
+    "options": [
+      "Collecting as much data as possible without a clear analytical plan",
+      "Using rigorous data analysis to generate evidence-based insights that logistics managers can use to improve supply chain operations, reduce costs, and enhance performance",
+      "Publishing research findings only in academic journals without sharing them with industry",
+      "Relying solely on intuition and experience rather than data analysis for logistics decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An Ethiopian logistics researcher completes a study showing that poor road infrastructure significantly increases distribution costs. The MOST impactful way to communicate this finding for policy action is to:",
+    "options": [
+      "Publish only in a highly specialized academic journal with limited readership",
+      "Present the findings to relevant government ministries, publish in accessible formats, and engage with media to reach policymakers and the public",
+      "Keep the findings confidential to protect competitive business information",
+      "Wait until the infrastructure problem is resolved before publishing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the overall value of research methods skills for a logistics and supply chain management professional in Ethiopia?",
+    "options": [
+      "Research skills are only useful for academics and have no relevance to professional logistics practice",
+      "Mastering research methods enables logistics professionals to systematically investigate problems, generate evidence-based solutions, make informed decisions, and contribute to the improvement of Ethiopia's logistics sector",
+      "Research methods are primarily useful for writing grant proposals and have limited practical application",
+      "Only senior managers need research skills; junior logistics staff do not require them"
+    ],
+    "correct": 1
+  }
+]
