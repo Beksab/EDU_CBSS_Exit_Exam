@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which of the following best defines transportation management?",
+    "options": [
+      "The process of storing goods in warehouses before distribution",
+      "The planning, execution, and optimization of the physical movement of goods between locations",
+      "The process of managing supplier relationships in a supply chain",
+      "The process of forecasting demand for transportation services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the primary advantage of rail transportation over road transportation?",
+    "options": [
+      "Greater flexibility in reaching remote destinations",
+      "Lower cost per ton-mile for bulk cargo over long distances",
+      "Faster delivery times for urgent shipments",
+      "No requirement for infrastructure investment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company needs to ship perishable goods internationally within 24 hours. Which transportation mode is most appropriate?",
+    "options": [
+      "Sea freight",
+      "Rail freight",
+      "Air freight",
+      "Road freight"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes \"intermodal transportation\"?",
+    "options": [
+      "Using only one transportation mode for the entire journey",
+      "Using two or more transportation modes with goods in the same container throughout the journey",
+      "Transporting goods using only domestic carriers",
+      "A transportation method reserved for hazardous materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary factor that makes road transportation the most widely used mode for domestic freight?",
+    "options": [
+      "It has the lowest cost per ton-mile of all transportation modes",
+      "It offers door-to-door delivery flexibility and accessibility to almost all locations",
+      "It is the fastest mode for long-distance shipments",
+      "It has the highest weight capacity of all transportation modes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of pipeline transportation?",
+    "options": [
+      "It is the most flexible transportation mode for diverse cargo types",
+      "It provides continuous, low-cost movement of liquid or gaseous products with minimal labor involvement",
+      "It requires the highest initial capital investment of all modes",
+      "It is primarily used for international trade between neighboring countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"ton-mile\" measure in transportation economics?",
+    "options": [
+      "The weight of goods per unit distance traveled",
+      "One ton of freight transported one mile, used as a standard unit for measuring transportation output",
+      "The fuel consumption per mile for each ton of cargo",
+      "The revenue generated per mile of transportation route"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics manager is evaluating transportation modes for shipping automotive parts. Which factor most favors rail over road for this decision?",
+    "options": [
+      "The need for door-to-door delivery at each assembly plant",
+      "The high volume and weight of shipments over long distances making rail cost-effective",
+      "The urgency of just-in-time deliveries to the production line",
+      "The requirement for temperature-controlled transport"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a primary risk in international sea freight transportation?",
+    "options": [
+      "High cost compared to air freight",
+      "Cargo loss or damage due to rough seas, piracy, or improper stowage",
+      "Excessive speed causing damage to fragile goods",
+      "Limited capacity for large volume shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"bill of lading\" in transportation management?",
+    "options": [
+      "To authorize customs clearance of goods at the destination port",
+      "To serve as a receipt for goods, a contract of carriage, and a document of title in sea freight",
+      "To specify the Incoterm applicable to the shipment",
+      "To guarantee payment to the carrier after goods are delivered"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"freight consolidation\" in transportation management?",
+    "options": [
+      "Reducing the weight of shipments by repacking goods",
+      "Combining multiple smaller shipments from different shippers into a single full load to reduce transportation costs",
+      "Splitting a large shipment into smaller deliveries for multiple customers",
+      "Storing goods in a central warehouse before dispatch"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary economic principle behind \"economies of scale\" in transportation?",
+    "options": [
+      "Shipping smaller quantities more frequently to reduce inventory",
+      "Reducing the per-unit transportation cost by increasing shipment size and volume",
+      "Using premium transportation modes for all shipments",
+      "Maximizing the number of transportation providers used"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of air freight transportation?",
+    "options": [
+      "Limited geographic reach compared to sea freight",
+      "High cost per kilogram, making it unsuitable for low-value or heavy cargo",
+      "Inability to transport urgent or time-sensitive goods",
+      "Lack of infrastructure in major international airports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"shipper-carrier negotiation\" primarily concerned with in transportation management?",
+    "options": [
+      "Negotiating the design of transportation vehicles",
+      "Reaching mutually acceptable agreements on freight rates, service levels, transit times, and contract terms",
+      "Negotiating the customs duties applicable to shipments",
+      "Determining the Incoterm for international shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following transportation modes has the highest fixed costs but the lowest variable costs per unit?",
+    "options": [
+      "Road transport",
+      "Air transport",
+      "Pipeline transport",
+      "Sea transport"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the key purpose of \"transportation network design\"?",
+    "options": [
+      "To design the physical appearance of transportation vehicles",
+      "To determine the optimal routes, modes, and facilities for moving goods efficiently across a distribution network",
+      "To create marketing materials for transportation service providers",
+      "To set the pricing strategy for transportation services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in selecting a transportation mode?",
+    "options": [
+      "The personal preference of the logistics manager",
+      "Cost, transit time, reliability, cargo characteristics, and infrastructure availability",
+      "The number of transportation providers operating in the market",
+      "The geographic location of the company's head office"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"freight rate\" in transportation?",
+    "options": [
+      "The speed at which freight moves between two points",
+      "The price charged by a carrier for transporting goods between two points",
+      "The weight-to-volume ratio of a shipment",
+      "The insurance premium paid for cargo in transit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company ships goods internationally using a combination of road transport to the port and sea freight to the destination. What type of transportation arrangement is this?",
+    "options": [
+      "Unimodal transportation",
+      "Multimodal transportation",
+      "Domestic transportation only",
+      "Pipeline transportation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of sea freight for international trade?",
+    "options": [
+      "It is the fastest mode for urgent shipments",
+      "It offers the highest capacity at the lowest cost per unit for large volume cargo over long distances",
+      "It provides door-to-door delivery without additional handling",
+      "It is unaffected by weather conditions during transit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"carrier selection\" in transportation management?",
+    "options": [
+      "Choosing the type of goods to transport",
+      "The process of evaluating and choosing transportation providers based on cost, service quality, reliability, and capacity",
+      "Selecting the route for a specific shipment",
+      "Determining the mode of transport for each shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk associated with road transportation?",
+    "options": [
+      "Limited geographic reach in domestic markets",
+      "Traffic congestion, road accidents, theft, and vulnerability to fuel price fluctuations",
+      "Inability to transport perishable goods",
+      "High fixed costs making it unsuitable for small shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"transportation insurance\" in shipment management?",
+    "options": [
+      "To pay the carrier's operational costs during transit",
+      "To protect the cargo owner against financial loss due to damage, theft, or loss of goods during transportation",
+      "To guarantee delivery within the agreed transit time",
+      "To cover the cost of customs duties on international shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"load factor\" in transportation economics?",
+    "options": [
+      "The weight of goods carried per vehicle trip",
+      "The ratio of actual freight carried to the maximum capacity of the transportation vehicle",
+      "The number of trips a vehicle makes per day",
+      "The cost of loading and unloading goods at terminals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"transit time\" in transportation management?",
+    "options": [
+      "The time a transportation vehicle spends at a terminal waiting to be loaded",
+      "The total time from when goods are dispatched to when they arrive at their destination",
+      "The time required to process customs documentation",
+      "The time taken to negotiate a transportation contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary challenge in international transportation management?",
+    "options": [
+      "Declining global trade volumes reducing transportation demand",
+      "Port congestion, geopolitical tensions, rising fuel costs, and increasing sustainability pressures",
+      "Oversupply of international shipping capacity reducing service quality",
+      "Reduction in the complexity of international customs procedures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of a \"transportation management system (TMS)\"?",
+    "options": [
+      "To replace all transportation staff with automated systems",
+      "To plan, execute, and optimize the movement of goods, providing visibility and improving carrier management",
+      "To manage the financial accounts of a transportation company",
+      "To design transportation infrastructure such as roads and ports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"dead weight tonnage (DWT)\" in sea freight?",
+    "options": [
+      "The weight of the empty vessel",
+      "The maximum total weight a vessel can carry, including cargo, fuel, and crew",
+      "The weight of cargo lost during a voyage",
+      "The total weight of the vessel when fully loaded with water ballast"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"freight brokers\" in transportation management?",
+    "options": [
+      "To physically transport goods between locations",
+      "To act as intermediaries connecting shippers with carriers, negotiating rates and arranging transportation",
+      "To insure cargo against transportation risks",
+      "To manage customs clearance for international shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in transportation risk management?",
+    "options": [
+      "Maximizing the number of transportation providers used",
+      "Identifying potential disruptions such as route risks, carrier reliability, and regulatory changes, and implementing mitigation strategies",
+      "Reducing the frequency of shipments to minimize exposure",
+      "Using only one transportation mode to simplify risk management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"backhaul\" mean in transportation management?",
+    "options": [
+      "Moving goods in the opposite direction of the primary freight flow, often at reduced rates to avoid empty return trips",
+      "The process of loading goods at the back of a vehicle",
+      "A penalty charged to carriers for returning vehicles empty",
+      "A transportation method for reverse logistics"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a key advantage of using a \"transportation management system (TMS)\"?",
+    "options": [
+      "It eliminates the need for carrier contracts",
+      "It improves route planning, reduces transportation costs, enhances visibility, and streamlines carrier management",
+      "It replaces all manual logistics processes",
+      "It guarantees the lowest freight rates in the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"freight equalization\" in transportation pricing?",
+    "options": [
+      "Setting the same freight rate for all carriers regardless of service quality",
+      "A pricing strategy where the seller adjusts prices to offset transportation cost differences for customers at varying distances",
+      "Distributing freight costs equally among all supply chain members",
+      "Equalizing transportation costs across different modes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of \"just-in-time\" transportation?",
+    "options": [
+      "Shipping goods in large batches to reduce transportation frequency",
+      "Delivering goods at precisely the time they are needed, reducing inventory and synchronizing with production or consumption schedules",
+      "Using the slowest transportation mode to reduce costs",
+      "Storing goods near the customer to enable rapid delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"shipment tracking\" in transportation management?",
+    "options": [
+      "To monitor the performance of transportation staff",
+      "To provide real-time visibility of the location and status of goods in transit",
+      "To calculate the customs duties applicable to international shipments",
+      "To determine the optimal route for future shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key economic characteristic of air transportation?",
+    "options": [
+      "Low fixed costs and high variable costs",
+      "High fixed costs and high variable costs, resulting in high freight rates suitable mainly for high-value, time-sensitive goods",
+      "Low fixed costs and low variable costs",
+      "High fixed costs and low variable costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"route planning\" in transportation management?",
+    "options": [
+      "To design new road infrastructure for logistics operations",
+      "To determine the most efficient delivery routes to minimize cost, time, and fuel consumption while meeting service requirements",
+      "To negotiate freight rates with carriers",
+      "To assign transportation staff to specific delivery areas"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk in using a single-carrier strategy for transportation?",
+    "options": [
+      "Excessive competition among carriers reducing service quality",
+      "Over-dependence on one carrier, creating vulnerability to service disruptions, price increases, and capacity shortages",
+      "Difficulty in managing multiple carrier contracts",
+      "Inability to use intermodal transportation options"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"demurrage\" in the context of sea freight transportation?",
+    "options": [
+      "A fee charged for storing goods in a warehouse beyond the agreed period",
+      "A charge imposed when a vessel or container is held beyond the agreed free time at a port, resulting in additional detention costs",
+      "A penalty for late payment of freight charges",
+      "A surcharge for transporting hazardous materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"sustainable transportation\"?",
+    "options": [
+      "Maximizing transportation speed regardless of environmental impact",
+      "Reducing greenhouse gas emissions, fuel consumption, and environmental damage through more efficient transportation practices and technologies",
+      "Using the cheapest transportation mode regardless of its environmental footprint",
+      "Eliminating all international transportation to reduce carbon emissions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"cargo classification\" in transportation pricing?",
+    "options": [
+      "It determines the insurance premium for each type of cargo",
+      "It categorizes goods based on their characteristics — density, value, fragility, and hazard — to determine appropriate freight rates",
+      "It sets the customs duty rate for each type of imported goods",
+      "It specifies the Incoterm applicable to each cargo category"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor driving the growth of multimodal transportation globally?",
+    "options": [
+      "Declining international trade volumes",
+      "Containerization enabling seamless transfer of goods between modes, reducing handling costs and transit times",
+      "Reduction in the number of international shipping routes",
+      "Declining investment in transportation infrastructure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"vehicle routing problem (VRP)\" in transportation management?",
+    "options": [
+      "A problem caused by poor vehicle maintenance leading to breakdowns",
+      "An optimization problem of determining the most efficient set of routes for a fleet of vehicles to deliver goods to a set of customers",
+      "A challenge related to driver shortage in transportation companies",
+      "A regulatory issue affecting vehicle licensing in transport operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration in international transportation risk management?",
+    "options": [
+      "Selecting the most expensive insurance policy available",
+      "Assessing risks such as political instability, infrastructure quality, regulatory compliance, and carrier reliability in transit countries",
+      "Using only domestic carriers for all international shipments",
+      "Avoiding sea freight to reduce international transportation risks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"freight all kinds (FAK)\" rate mean in transportation pricing?",
+    "options": [
+      "A rate charged for transporting hazardous materials of all types",
+      "A single freight rate applied to all types of cargo regardless of their classification, simplifying billing",
+      "A rate that covers all modes of transportation in a single contract",
+      "A rate applying to all shipments below a minimum weight threshold"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the concept of \"carrier liability\" in transportation?",
+    "options": [
+      "The carrier's responsibility for paying customs duties on transported goods",
+      "The legal obligation of the carrier to compensate for loss or damage to goods during transportation",
+      "The carrier's obligation to deliver goods on time regardless of circumstances",
+      "The financial responsibility of the carrier for fuel costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"load planning\" in transportation management?",
+    "options": [
+      "To determine the annual transportation budget",
+      "To optimize the loading of goods onto transportation vehicles to maximize capacity utilization and minimize costs",
+      "To plan the maintenance schedule for transportation vehicles",
+      "To assign drivers to specific transportation routes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in managing transportation in landlocked countries like Ethiopia?",
+    "options": [
+      "Excessive number of transportation modes available",
+      "Dependence on transit corridors through neighboring countries, higher logistics costs, and longer lead times for international trade",
+      "Over-investment in road transportation infrastructure",
+      "Too many competing carriers reducing service quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"freight forwarding\" in transportation management?",
+    "options": [
+      "The physical transportation of goods by road carriers",
+      "The service of organizing and coordinating all aspects of international shipments on behalf of the shipper, including documentation, customs, and carrier booking",
+      "The inspection of goods at the port of loading",
+      "The process of consolidating small shipments into full container loads"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key economic advantage of sea freight over air freight?",
+    "options": [
+      "Sea freight is faster for urgent shipments",
+      "Sea freight offers significantly lower cost per unit for heavy or bulky cargo over long distances",
+      "Sea freight provides better cargo tracking and visibility",
+      "Sea freight is unaffected by weather and seasonal fluctuations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"shipper's letter of instruction\" in international transportation?",
+    "options": [
+      "A document authorizing the carrier to select the best route",
+      "A document prepared by the shipper providing detailed instructions to the freight forwarder on how to handle, ship, and document the shipment",
+      "A customs declaration form submitted by the importer",
+      "A letter confirming payment terms between buyer and seller"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"dedicated contract carriage\" in transportation?",
+    "options": [
+      "Using multiple carriers to maximize competition on price",
+      "Having a carrier exclusively committed to serving one customer's needs, providing consistent service, reliability, and customization",
+      "Eliminating the need for transportation contracts",
+      "Using spot market rates for all transportation needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"transportation auditing\"?",
+    "options": [
+      "To evaluate the performance of transportation staff",
+      "To review freight invoices, carrier performance, and transportation processes to identify billing errors and cost-saving opportunities",
+      "To certify vehicles for roadworthiness",
+      "To assess the environmental impact of transportation operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"carrier performance evaluation\"?",
+    "options": [
+      "The carrier's fleet size and vehicle age",
+      "On-time delivery rate, cargo damage rate, billing accuracy, and responsiveness to service issues",
+      "The geographic coverage of the carrier's network",
+      "The number of years the carrier has been in business"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"transportation corridor\" in logistics?",
+    "options": [
+      "A dedicated lane for emergency vehicles on highways",
+      "A defined transportation route connecting major origins and destinations, often supported by infrastructure investment and policy frameworks",
+      "A restricted area where only government vehicles can operate",
+      "A pipeline route for transporting liquid cargo"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"contract carriage\" over \"common carriage\"?",
+    "options": [
+      "Common carriage provides more customized service",
+      "Contract carriage offers customized pricing, dedicated capacity, and tailored service levels negotiated between shipper and carrier",
+      "Contract carriage eliminates the need for written agreements",
+      "Common carriage provides lower rates than contract carriage in all cases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"container standardization\" in international transportation?",
+    "options": [
+      "It limits the types of goods that can be shipped internationally",
+      "It enables seamless transfer of cargo between ships, trains, and trucks, reducing handling costs and transit times",
+      "It sets the maximum weight for international shipments",
+      "It determines the insurance rate for containerized cargo"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"transportation demand management\"?",
+    "options": [
+      "Maximizing the number of vehicles in the logistics fleet",
+      "Managing transportation demand through consolidation, mode shift, and scheduling to reduce costs and environmental impact",
+      "Increasing the frequency of shipments to improve customer service",
+      "Using only premium transportation modes for all shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"continuous move\" strategy in transportation management?",
+    "options": [
+      "A strategy where vehicles travel continuously without stopping for loading",
+      "Designing transportation routes where vehicles move continuously from one delivery to the next without returning empty, maximizing utilization",
+      "A strategy for continuous improvement in transportation operations",
+      "A transportation approach that avoids all intermediate stops"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary issue in transportation related to technology?",
+    "options": [
+      "Declining use of GPS tracking in transportation operations",
+      "Integration of autonomous vehicles, digital freight platforms, and IoT-enabled tracking transforming transportation efficiency and visibility",
+      "Reduction in the use of transportation management systems",
+      "Shift back to paper-based transportation documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"freight rate negotiation\" in transportation management?",
+    "options": [
+      "To determine the Incoterm applicable to each shipment",
+      "To secure favorable pricing, capacity, and service commitments from carriers through structured negotiation",
+      "To set the customs duty rate for imported goods",
+      "To determine the insurance premium for cargo in transit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk in air cargo transportation?",
+    "options": [
+      "Inability to transport time-sensitive goods internationally",
+      "High cost, limited weight capacity per flight, and vulnerability to weather-related disruptions and air traffic control delays",
+      "Limited geographic reach compared to sea freight",
+      "Inability to transport goods between landlocked countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"liner shipping\" in sea freight?",
+    "options": [
+      "Ships that travel in a straight line between two ports",
+      "Regular, scheduled shipping services operating on fixed routes and timetables, regardless of whether the vessel is full",
+      "A shipping service reserved for bulk commodities",
+      "A transportation method using inland waterways"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"transportation cost management\"?",
+    "options": [
+      "Using the most expensive carriers to ensure quality",
+      "Optimizing load factors, consolidating shipments, negotiating competitive rates, and selecting the most cost-effective modes",
+      "Increasing transportation frequency to improve service",
+      "Maintaining a large dedicated fleet regardless of utilization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"port of lading\" in international transportation?",
+    "options": [
+      "The final destination port where goods are delivered",
+      "The port where goods are loaded onto a vessel for international shipment",
+      "A port that provides customs inspection services",
+      "The port closest to the buyer's location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration in managing \"dangerous goods\" transportation?",
+    "options": [
+      "Using the cheapest transportation mode available",
+      "Compliance with international regulations such as IMDG, ICAO, and ADR governing the classification, packaging, labeling, and documentation of hazardous materials",
+      "Avoiding all documentation requirements for speed",
+      "Using only road transport for all dangerous goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"cross-border transportation management\"?",
+    "options": [
+      "To avoid customs inspections at international borders",
+      "To coordinate the efficient movement of goods across national borders, managing documentation, regulatory compliance, and transit times",
+      "To restrict the movement of goods between countries",
+      "To eliminate the need for freight forwarding services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"transportation safety management\"?",
+    "options": [
+      "Maximizing vehicle speed to reduce transit time",
+      "Implementing systematic processes to prevent accidents, protect cargo, ensure driver wellbeing, and comply with safety regulations",
+      "Reducing the number of safety inspections to cut costs",
+      "Avoiding the use of safety equipment to reduce vehicle weight"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"chartering\" in sea freight transportation?",
+    "options": [
+      "The process of registering a vessel with a flag state",
+      "Hiring an entire vessel or part of its capacity for a specific voyage or period under a charter party agreement",
+      "The process of issuing a bill of lading for a shipment",
+      "A type of insurance covering the entire cargo of a vessel"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"rail freight\" for Ethiopia's logistics system?",
+    "options": [
+      "It provides door-to-door delivery to all locations",
+      "The Addis Ababa-Djibouti railway offers high-capacity, lower-cost movement of goods to the key port corridor",
+      "It is the fastest mode for time-sensitive imports",
+      "It eliminates the need for road transportation entirely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"consignment note\" in road transportation?",
+    "options": [
+      "A document authorizing payment to the carrier",
+      "A document issued by the carrier acknowledging receipt of goods for transportation by road",
+      "A customs declaration for road freight",
+      "An insurance certificate for road cargo"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in managing \"last-mile transportation\" in Ethiopia?",
+    "options": [
+      "Excessive supply of delivery vehicles in urban areas",
+      "Poor road conditions, traffic congestion, and limited addressing systems making efficient delivery to end customers difficult",
+      "Over-investment in last-mile logistics technology",
+      "Too many last-mile delivery providers competing for market share"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"spot market\" in transportation?",
+    "options": [
+      "A market where transportation vehicles are bought and sold",
+      "A market where transportation capacity is bought and sold on a short-term, transaction-by-transaction basis at current market rates",
+      "A geographic location where multiple carriers consolidate cargo",
+      "A market where transportation insurance is purchased"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"international air freight management\"?",
+    "options": [
+      "Selecting the cheapest airline regardless of service quality",
+      "Coordinating documentation, customs requirements, transit routing, and compliance with IATA regulations to ensure timely and compliant delivery",
+      "Using air freight for all international shipments regardless of value or urgency",
+      "Avoiding the use of freight forwarders to reduce costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"carrier diversification\" in transportation risk management?",
+    "options": [
+      "To increase transportation costs through competition",
+      "To reduce dependence on a single carrier by using multiple providers, ensuring service continuity if one carrier fails or has capacity constraints",
+      "To use different transportation modes for the same shipment",
+      "To negotiate lower rates by concentrating all business with one carrier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"tramp shipping\" in sea freight?",
+    "options": [
+      "Scheduled shipping services on fixed routes",
+      "Non-scheduled shipping where vessels operate without fixed routes or timetables, seeking cargo wherever it is available",
+      "A shipping service for small parcels and packages",
+      "A specialized service for transporting live animals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"Djibouti port\" for Ethiopian transportation management?",
+    "options": [
+      "It is an Ethiopian-owned port providing duty-free access to international markets",
+      "As Ethiopia is landlocked, Djibouti port serves as the primary gateway for the majority of Ethiopia's international trade, making its efficiency critical to Ethiopian logistics costs",
+      "It provides direct sea access for Ethiopian exporters",
+      "It serves exclusively as a transit point for goods destined for neighboring countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"green transportation\"?",
+    "options": [
+      "Painting all transportation vehicles green to promote environmental awareness",
+      "Reducing emissions, fuel consumption, and environmental damage through mode shift, fuel-efficient vehicles, load optimization, and alternative energy sources",
+      "Planting trees to offset all transportation carbon emissions",
+      "Using electric vehicles exclusively for all logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"freight ton\" as used in transportation measurement?",
+    "options": [
+      "The actual weight of goods being transported",
+      "A unit of measurement that may represent either weight or volume, using whichever gives the greater chargeable amount",
+      "The weight of the transportation vehicle when empty",
+      "The total weight of goods and packaging combined"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"direct shipment\" in transportation?",
+    "options": [
+      "It is always cheaper than consolidated shipment",
+      "It reduces transit time and handling by moving goods directly from origin to destination without intermediate stops",
+      "It maximizes vehicle utilization on all routes",
+      "It eliminates the need for transportation documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"transportation pooling\"?",
+    "options": [
+      "A system where multiple carriers share the same route",
+      "Sharing transportation capacity among multiple shippers to reduce costs and improve vehicle utilization",
+      "Combining multiple shipments from one shipper into a full load",
+      "A government system for managing public transportation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"shipment management\" in transportation?",
+    "options": [
+      "Designing transportation vehicles for specific cargo types",
+      "Coordinating all aspects of a shipment from booking carrier capacity through to delivery, including documentation, tracking, and exception management",
+      "Negotiating insurance rates for international cargo",
+      "Designing the packaging for goods to be transported"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"transportation performance metrics\"?",
+    "options": [
+      "To determine the salary of transportation staff",
+      "To measure and evaluate transportation activities against targets, enabling management to identify improvement opportunities and hold carriers accountable",
+      "To set freight rates for all transportation contracts",
+      "To determine the number of transportation vehicles needed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk associated with \"single-mode transportation\"?",
+    "options": [
+      "Excessive cost compared to multimodal transportation",
+      "Vulnerability to mode-specific disruptions such as road closures, port strikes, or rail infrastructure failures",
+      "Inability to transport goods to international destinations",
+      "Over-reliance on multiple carriers reducing service consistency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"free time\" in port and container management?",
+    "options": [
+      "The period when port workers take breaks during operations",
+      "The agreed period during which a container can remain at a port or with the consignee before detention charges begin",
+      "The time during which freight rates are negotiated",
+      "The period between booking a shipment and its departure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"LCL (Less than Container Load)\" shipping?",
+    "options": [
+      "Shipping goods that fill an entire container",
+      "Shipping goods that do not fill a full container, consolidated with other shippers' cargo in the same container",
+      "Shipping lightweight goods at a discounted rate",
+      "A shipping method reserved for hazardous materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"transportation lane analysis\" in supply chain optimization?",
+    "options": [
+      "To design road lanes for logistics vehicles",
+      "To analyze freight volumes, costs, and carrier performance on specific origin-destination pairs to identify optimization opportunities",
+      "To determine the number of transport corridors in a country",
+      "To negotiate lane-specific rates with road authorities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"mode selection\" for transportation?",
+    "options": [
+      "The personal experience of the logistics manager with each mode",
+      "Total cost, transit time, reliability, cargo characteristics, service requirements, and infrastructure availability",
+      "The availability of transportation vehicles owned by the company",
+      "The geographic distance between origin and destination only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"terminal handling charges (THC)\" in sea freight?",
+    "options": [
+      "Charges imposed by customs authorities for inspecting containers",
+      "Fees charged by port terminals for handling containers, covering loading, unloading, and storage within the terminal",
+      "Charges for handling dangerous goods at sea terminals",
+      "Fees charged by freight forwarders for managing terminal operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in \"cold chain transportation management\"?",
+    "options": [
+      "Excessive availability of refrigerated vehicles in the market",
+      "Maintaining required temperature ranges throughout the journey, managing equipment reliability, and ensuring regulatory compliance for perishable and pharmaceutical goods",
+      "Declining demand for temperature-controlled logistics",
+      "Over-investment in cold chain infrastructure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"transportation security management\"?",
+    "options": [
+      "To reduce transportation costs through security technology",
+      "To protect goods, vehicles, drivers, and infrastructure from theft, terrorism, and other security threats during transportation",
+      "To ensure all drivers have valid licenses and certifications",
+      "To manage insurance claims for stolen cargo"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"real-time transportation visibility\"?",
+    "options": [
+      "It eliminates the need for transportation planning",
+      "It enables proactive management of delays and exceptions, improves customer communication, and enhances supply chain agility",
+      "It automatically reroutes all delayed shipments",
+      "It replaces the need for transportation management systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"cabotage\" in transportation regulation?",
+    "options": [
+      "The right of foreign carriers to operate freely within a country's domestic market",
+      "The restriction that limits domestic transportation operations to carriers registered in that country",
+      "A fee charged for transporting goods across international borders",
+      "A transportation mode involving river or inland waterway vessels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"international transportation compliance\"?",
+    "options": [
+      "Using the cheapest international carrier regardless of compliance status",
+      "Adhering to international regulations, customs requirements, trade sanctions, and documentation standards applicable to cross-border movements",
+      "Avoiding the use of freight forwarders to maintain direct control",
+      "Using only domestic carriers for the origin and destination legs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"transport impact assessment\" in project planning?",
+    "options": [
+      "To evaluate the financial performance of transportation companies",
+      "To assess the effects of a new development or logistics operation on transportation infrastructure, traffic, and environment",
+      "To determine the number of vehicles needed for a project",
+      "To calculate the customs duties for project-related imports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key driver of transportation cost in Ethiopia?",
+    "options": [
+      "Excessive competition reducing carrier profitability",
+      "High fuel costs, poor road conditions, limited competition in transport markets, and dependence on Djibouti corridor",
+      "Over-investment in transportation infrastructure",
+      "Surplus of transportation capacity in the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"freight payment and audit\" in transportation management?",
+    "options": [
+      "Paying all freight invoices immediately upon receipt",
+      "The process of verifying freight invoices for accuracy, ensuring charges match contracted rates, and identifying billing errors before payment",
+      "Auditing the financial statements of transportation providers",
+      "Setting the annual freight budget for logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"sea freight\" for Ethiopian importers?",
+    "options": [
+      "It is the fastest mode for time-sensitive goods",
+      "It offers the lowest cost per unit for large volume shipments, critical for Ethiopia's import-heavy trade",
+      "It provides direct port access eliminating transit through Djibouti",
+      "It is unaffected by port congestion and handling delays"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"transportation master planning\"?",
+    "options": [
+      "To create daily schedules for transportation drivers",
+      "To develop a long-term strategic plan for transportation network, capacity, mode mix, and carrier relationships aligned with business objectives",
+      "To set annual transportation budgets",
+      "To determine vehicle maintenance schedules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"ethical transportation management\"?",
+    "options": [
+      "Maximizing carrier profits at the expense of service quality",
+      "Operating transportation activities with integrity, safety compliance, environmental responsibility, and fair treatment of all stakeholders including drivers",
+      "Selecting carriers based on personal relationships rather than performance",
+      "Avoiding safety regulations to reduce operational costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"containerization\" in modern transportation management?",
+    "options": [
+      "It limits the types of goods that can be transported internationally",
+      "It revolutionized global trade by standardizing cargo units, enabling seamless multimodal transfer, reducing handling costs, and improving cargo security",
+      "It increased transportation costs by requiring specialized handling equipment",
+      "It restricted sea freight to a smaller number of ports worldwide"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"dedicated fleet management\"?",
+    "options": [
+      "Managing a fleet of vehicles shared among multiple companies",
+      "Operating a fleet exclusively assigned to serve one company's transportation needs, providing control, consistency, and customization",
+      "A fleet management approach using only leased vehicles",
+      "Managing government-owned transportation vehicles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key purpose of \"freight network optimization\"?",
+    "options": [
+      "To maximize the number of carriers in a transportation network",
+      "To configure freight flows, modes, and routes to minimize total transportation cost while meeting service requirements",
+      "To standardize all transportation contracts across the network",
+      "To increase the frequency of shipments throughout the network"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk management strategy for international transportation?",
+    "options": [
+      "Using a single international carrier to simplify management",
+      "Diversifying carrier relationships, using appropriate Incoterms, securing comprehensive cargo insurance, and monitoring geopolitical risks in transit countries",
+      "Avoiding all international transportation during periods of uncertainty",
+      "Paying all freight charges in advance to secure priority service"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"weight break\" in air freight pricing?",
+    "options": [
+      "A penalty charge for exceeding the weight limit",
+      "A pricing threshold at which the per-kilogram rate decreases as shipment weight increases, incentivizing larger shipments",
+      "The maximum weight allowance for a single air freight shipment",
+      "A discount for lightweight goods with high volume"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"transportation visibility technology\" for supply chain management?",
+    "options": [
+      "It eliminates the need for carrier contracts",
+      "It provides real-time tracking data enabling proactive exception management, improved customer service, and better carrier accountability",
+      "It automatically resolves all transportation delays",
+      "It replaces the need for freight forwarding services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"load optimization\" in transportation management?",
+    "options": [
+      "To maximize the speed of each vehicle trip",
+      "To maximize the utilization of vehicle capacity by efficiently arranging goods to reduce the number of trips and transportation costs",
+      "To determine the maintenance schedule for the vehicle fleet",
+      "To negotiate lower fuel prices with energy suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in managing \"perishable goods transportation\"?",
+    "options": [
+      "Using the cheapest transportation mode available",
+      "Maintaining appropriate temperature, humidity, and handling conditions throughout the supply chain to preserve product quality and meet regulatory requirements",
+      "Maximizing shipment size to reduce per-unit transportation costs",
+      "Using only road transport for perishable goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"transport poverty\" in the context of logistics development?",
+    "options": [
+      "The financial losses experienced by transportation companies",
+      "The lack of adequate, affordable, and reliable transportation access experienced by communities or economic actors, limiting their participation in markets",
+      "The poverty of transportation infrastructure in rural areas only",
+      "The financial burden of transportation costs on logistics companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"electronic freight documentation\"?",
+    "options": [
+      "It eliminates the need for customs clearance",
+      "It reduces paperwork, speeds up processing, minimizes errors, and improves information sharing among supply chain partners",
+      "It replaces all physical inspection requirements",
+      "It guarantees faster customs clearance in all countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"transport accessibility\" in logistics planning?",
+    "options": [
+      "The ease with which transportation vehicles can be maintained",
+      "The degree to which locations are reachable by transportation networks, affecting logistics costs and market participation",
+      "The ability of customers to access transportation booking systems online",
+      "The physical security of transportation routes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in managing \"Ethiopia-Djibouti corridor\" transportation?",
+    "options": [
+      "Excessive number of competing transportation corridors",
+      "Congestion at Djibouti port, high transit costs, coordination challenges between Ethiopian and Djiboutian logistics systems, and limited multimodal integration",
+      "Over-investment in the corridor reducing logistics costs",
+      "Too many Ethiopian transporters competing on the corridor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"carrier scorecards\" in transportation management?",
+    "options": [
+      "To determine the salary increases for transportation staff",
+      "To systematically evaluate and communicate carrier performance against agreed key performance indicators",
+      "To set freight rates for future transportation contracts",
+      "To rank transportation modes by cost efficiency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"freight consolidation centers\"?",
+    "options": [
+      "They eliminate the need for warehousing in logistics networks",
+      "They enable smaller shipments to be combined into full loads, reducing per-unit transportation costs and improving vehicle utilization",
+      "They provide customs clearance services for international shipments",
+      "They guarantee faster delivery than direct shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"air cargo community system\"?",
+    "options": [
+      "A cooperative of airlines sharing cargo capacity",
+      "A shared information platform connecting airlines, freight forwarders, ground handlers, and customs at an airport to coordinate cargo operations efficiently",
+      "A government system managing air freight regulations",
+      "A community of air freight customers negotiating collective rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"driver management\" in transportation?",
+    "options": [
+      "Maximizing driver working hours to improve productivity",
+      "Ensuring driver safety, compliance with hours-of-service regulations, regular training, and fair treatment to maintain performance and legal compliance",
+      "Reducing driver wages to minimize transportation costs",
+      "Using only contract drivers to avoid employment obligations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"co-loading\" in sea freight?",
+    "options": [
+      "Loading cargo onto two different vessels simultaneously",
+      "Combining cargo from multiple shippers into a single container or vessel to share transportation costs",
+      "Loading heavy goods at the bottom of a container for stability",
+      "A method of loading dangerous goods on the same vessel as general cargo"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"transportation contract management\"?",
+    "options": [
+      "Negotiating verbal agreements with carriers to maintain flexibility",
+      "Clearly defining service requirements, performance standards, pricing, liability, and dispute resolution in written carrier agreements",
+      "Avoiding long-term contracts to maintain maximum flexibility",
+      "Delegating all contract management to freight brokers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"gray market\" in transportation?",
+    "options": [
+      "A market for used transportation vehicles",
+      "Unofficial or informal transportation services operating outside the regulated market, often at lower cost but with higher risk and lower service standards",
+      "A market for carbon credits from transportation companies",
+      "A secondary market for unused freight capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"supply chain transportation integration\"?",
+    "options": [
+      "Each function independently managing its transportation to maximize control",
+      "Aligning transportation decisions with inventory, warehousing, and demand planning to optimize total supply chain cost and service performance",
+      "Centralizing all transportation decisions in one department",
+      "Using a single transportation provider for all supply chain activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"Incoterms\" in transportation risk allocation?",
+    "options": [
+      "They determine the customs duty applicable to each shipment",
+      "They define the point at which transportation risk transfers from seller to buyer, clarifying which party is responsible for insuring and managing risk during each stage",
+      "They set the freight rate applicable to international shipments",
+      "They specify the documentation required for customs clearance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in \"humanitarian transportation management\"?",
+    "options": [
+      "Excessive supply of transportation resources in disaster areas",
+      "Rapidly changing demand, damaged infrastructure, security risks, and the need to coordinate multiple organizations under time pressure",
+      "Over-investment in humanitarian logistics infrastructure",
+      "Too many transportation providers competing for humanitarian contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"transportation mode shift\" as a sustainability strategy?",
+    "options": [
+      "To change the destination of shipments to reduce distance",
+      "To move freight from higher-emission modes such as road and air to lower-emission modes such as rail and sea to reduce the carbon footprint of logistics",
+      "To replace all fuel-powered vehicles with electric alternatives",
+      "To eliminate transportation by localizing all production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"road transportation\" for distribution in Ethiopia?",
+    "options": [
+      "It has the lowest fuel costs of all transportation modes",
+      "It provides the most flexible and accessible service, reaching rural and urban areas where other modes are unavailable",
+      "It has the highest capacity for bulk commodity transport",
+      "It is unaffected by seasonal road conditions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"milk run\" in transportation management?",
+    "options": [
+      "A cold chain service for dairy products",
+      "A scheduled route where a vehicle picks up goods from multiple suppliers and delivers them to a central location in one trip, reducing transportation costs",
+      "A transportation service operating only at night",
+      "A direct delivery service from a single supplier to a single customer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"transportation procurement\"?",
+    "options": [
+      "Purchasing transportation vehicles for the company fleet",
+      "Identifying, evaluating, and contracting transportation service providers through a structured process that balances cost, service quality, and risk",
+      "Procuring fuel for the company's transportation fleet",
+      "Buying transportation insurance for all company shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"origin and destination (O&D) analysis\" in transportation planning?",
+    "options": [
+      "To determine the customs requirements for each trade lane",
+      "To analyze freight flow patterns between origins and destinations to inform network design, mode selection, and carrier negotiations",
+      "To identify the cheapest route for each individual shipment",
+      "To plan driver schedules for transportation operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"transportation digitalization\" for Ethiopian logistics?",
+    "options": [
+      "It eliminates the need for physical transportation infrastructure",
+      "It improves transparency, reduces manual errors, enables better carrier management, and provides visibility in an environment where traditional systems are limited",
+      "It automatically resolves all transportation challenges",
+      "It replaces the need for government transport regulation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"multi-stop truckload\" in transportation?",
+    "options": [
+      "A truck that carries multiple types of cargo simultaneously",
+      "A full truckload delivery that makes multiple stops to deliver portions of the cargo to different customers along a route",
+      "A transportation method where multiple trucks share one driver",
+      "A truck leasing arrangement involving multiple companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"transportation cost allocation\"?",
+    "options": [
+      "Charging all transportation costs to the marketing department",
+      "Assigning transportation costs to products, customers, or business units based on their actual use of transportation resources to enable accurate profitability analysis",
+      "Distributing transportation costs equally across all products regardless of shipment size",
+      "Absorbing all transportation costs into the general overhead budget"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"transport infrastructure quality\" for logistics competitiveness?",
+    "options": [
+      "It determines the number of transportation companies that can operate in a market",
+      "High-quality infrastructure reduces transportation costs, improves reliability, shortens transit times, and enhances a country's or company's logistics competitiveness",
+      "It sets the standard for vehicle maintenance requirements",
+      "It determines the import duty rates for transportation equipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in \"urban freight transportation\"?",
+    "options": [
+      "Declining e-commerce demand reducing urban delivery volumes",
+      "Traffic congestion, emission regulations, restricted delivery windows, limited loading zones, and the high cost of last-mile delivery in dense urban areas",
+      "Oversupply of urban delivery vehicles reducing service quality",
+      "Reduction in the number of urban customers requiring delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"pre-carriage\" in international transportation?",
+    "options": [
+      "The main sea or air freight leg of an international shipment",
+      "The transportation of goods from the shipper's premises to the port or airport of departure for an international shipment",
+      "The delivery of goods from the destination port to the consignee",
+      "The insurance coverage for goods during the main carriage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"rail freight\" over road freight for bulk commodities?",
+    "options": [
+      "It provides more flexible routing options",
+      "It offers lower cost per ton-mile, higher capacity, lower emissions, and greater energy efficiency for large volumes over long distances",
+      "It enables door-to-door delivery without additional transportation",
+      "It is unaffected by weather and seasonal conditions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"carrier relationship management\" in transportation?",
+    "options": [
+      "To minimize the number of carriers used in the network",
+      "To build collaborative, performance-based relationships with key carriers to ensure service quality, capacity availability, and continuous improvement",
+      "To negotiate the lowest possible rates regardless of service impact",
+      "To transfer all transportation risks to the carrier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"shipment documentation management\"?",
+    "options": [
+      "Keeping all documentation confidential from customs authorities",
+      "Preparing, verifying, and managing all required documents — such as bill of lading, packing list, and customs declarations — to ensure compliance and smooth clearance",
+      "Using only electronic documentation for all shipments",
+      "Delegating all documentation responsibility to the carrier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"transport emissions trading\" as a sustainability tool?",
+    "options": [
+      "Trading transportation vehicles between companies to reduce costs",
+      "A market-based mechanism where companies buy and sell permits to emit greenhouse gases, incentivizing emission reduction in transportation",
+      "A system for exchanging transportation capacity between competitors",
+      "A government program subsidizing low-emission transportation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"collaborative transportation management\"?",
+    "options": [
+      "Giving one company exclusive control over all transportation resources",
+      "Sharing transportation information and resources among supply chain partners to improve planning, reduce empty miles, and lower costs",
+      "Eliminating competition among transportation providers",
+      "Centralizing all transportation decisions in one organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"freight demand forecasting\" in transportation planning?",
+    "options": [
+      "To set the annual transportation budget",
+      "To predict future transportation volumes to enable proactive capacity planning, carrier management, and cost control",
+      "To determine the number of transportation staff needed",
+      "To negotiate freight rates with carriers based on expected volumes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary issue in transportation related to Ethiopia's trade?",
+    "options": [
+      "Over-reliance on air freight for all international trade",
+      "Heavy dependence on the Djibouti corridor, exposure to port disruptions, and the need to develop alternative trade corridors through Berbera and Mombasa",
+      "Excessive investment in sea freight infrastructure",
+      "Too many competing international transportation corridors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"freight rate index\" in transportation markets?",
+    "options": [
+      "A ranking of freight carriers by service quality",
+      "A benchmark measuring the level and trend of freight rates in transportation markets, providing a reference for pricing and contract negotiations",
+      "A government-set maximum rate for domestic transportation",
+      "A rating system for transportation vehicles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"transportation outsourcing\" for a manufacturing company?",
+    "options": [
+      "It gives the company full control over all transportation decisions",
+      "It enables the company to focus on core competencies while leveraging the expertise, network, and technology of specialized logistics providers",
+      "It eliminates all transportation costs",
+      "It guarantees the lowest possible freight rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"customs transit procedures\" in international transportation?",
+    "options": [
+      "They eliminate customs duties on all transit goods",
+      "They allow goods to move through a country under customs control without paying full import duties, facilitating efficient movement along international trade corridors",
+      "They replace the need for cargo insurance during transit",
+      "They authorize carriers to operate in foreign countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"transportation flexibility\"?",
+    "options": [
+      "Using only one transportation mode to simplify operations",
+      "Building the capability to adapt transportation operations to changing demand patterns, disruptions, and customer requirements",
+      "Maintaining fixed transportation schedules regardless of demand",
+      "Using only long-term contracts to guarantee carrier capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"fuel surcharges\" in transportation pricing?",
+    "options": [
+      "To penalize carriers for excessive fuel consumption",
+      "To allow carriers to recover fuel cost increases beyond a base level, adjusting the effective freight rate to reflect fuel market fluctuations",
+      "To provide a subsidy to carriers operating in remote areas",
+      "To cover the cost of fuel inspections by regulatory authorities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of using \"third-party logistics (3PL) providers\" for transportation management?",
+    "options": [
+      "The company retains full control over all transportation assets",
+      "Access to established carrier networks, technology, expertise, and economies of scale without requiring significant capital investment",
+      "It eliminates the need for transportation contracts",
+      "It guarantees the lowest transportation rates available"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"inland container depot (ICD)\" or dry port in transportation?",
+    "options": [
+      "A facility exclusively for storing empty containers",
+      "An inland facility connected to a seaport that performs customs clearance and offers container handling services, reducing congestion at ports and extending port services inland",
+      "A container yard located at a seaport for overflow storage",
+      "A facility for repairing damaged containers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration in \"carrier contract negotiation\"?",
+    "options": [
+      "Negotiating the highest possible service standards regardless of cost",
+      "Balancing rate, capacity commitments, service levels, liability terms, and performance incentives to create a mutually beneficial long-term relationship",
+      "Avoiding written contracts to maintain flexibility",
+      "Focusing exclusively on reducing freight rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"transportation exception management\"?",
+    "options": [
+      "To handle unusual customs requests from importers",
+      "To identify, monitor, and resolve deviations from planned transportation activities such as delays, damage, and routing errors before they impact customers",
+      "To manage exceptions to transportation safety regulations",
+      "To approve exceptions to standard freight rate structures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best summarizes the strategic importance of transportation management in modern supply chains?",
+    "options": [
+      "Transportation is primarily a cost to be minimized with no strategic value",
+      "Effective transportation management is a critical driver of customer service, supply chain efficiency, competitive advantage, and sustainability performance",
+      "Transportation management is relevant only for companies with their own fleets",
+      "Transportation is a purely operational function with no connection to business strategy"
+    ],
+    "correct": 1
+  }
+]
