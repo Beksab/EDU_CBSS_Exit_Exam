@@ -1,0 +1,1372 @@
+[
+  {
+    "questionText": "Which of the following best defines operations management?",
+    "options": [
+      "The process of marketing and selling products to customers",
+      "The administration of processes that transform inputs into valued outputs",
+      "The management of financial resources and investments",
+      "The coordination of human resource activities only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A factory produces 500 units per day using 20 workers working 8 hours each. What is the labor productivity per labor-hour?",
+    "options": [
+      "3.125 units",
+      "2.5 units",
+      "6.25 units",
+      "25 units"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A student observes an experienced machine operator setting up a CNC machine, then attempts to replicate the exact sequence of button presses and tool changes. This learning activity is primarily at which level of the psychomotor domain?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company is deciding between two locations using factor rating. Site A has weighted score 85, Site B has 92. If the weights and ratings are correct, what should the manager conclude?",
+    "options": [
+      "Site A is better because it has lower score",
+      "Site B is better because it has higher total weighted score",
+      "Both sites are equally good",
+      "The decision requires additional financial analysis only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A design engineer is comparing two product concepts: one uses modular components, the other uses fully integrated parts. She analyzes the trade-offs in manufacturing cost, repair ease, and product variety. This analysis is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Analyzing",
+      "Creating"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A trainee in a warehouse is learning how to operate a pallet jack. The trainer demonstrates the proper hand placement and steering technique, and then the trainee mimics the movements. This is an example of which psychomotor level?",
+    "options": [
+      "Origination",
+      "Imitation",
+      "Precision",
+      "Articulation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In aggregate planning, what is the primary goal of a chase demand strategy?",
+    "options": [
+      "Maintain constant workforce and use inventory to absorb demand fluctuations",
+      "Vary workforce size by hiring and layoffs to match demand exactly",
+      "Keep production at peak levels year-round",
+      "Subcontract all production to avoid internal adjustments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A production planner is evaluating whether to use level production or chase demand for the next six months. She calculates the total costs of each strategy including hiring, layoff, inventory holding, and overtime. This requires which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Evaluating"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A junior scheduler is given a list of five jobs with their processing times and due dates. She is asked to sequence them using the Shortest Processing Time (SPT) rule. She manually sorts the jobs by processing time and writes the sequence. This activity demonstrates which psychomotor level?",
+    "options": [
+      "Perception",
+      "Imitation",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the formula for productivity growth from one period to the next?",
+    "options": [
+      "(Current productivity - Previous productivity) / Current productivity",
+      "(Current productivity - Previous productivity) / Previous productivity",
+      "(Previous productivity - Current productivity) / Current productivity",
+      "(Current productivity + Previous productivity) / Previous productivity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a product layout (assembly line)?",
+    "options": [
+      "General-purpose equipment and high flexibility",
+      "High customer contact and low volume",
+      "Special-purpose equipment and continuous material flow",
+      "Fixed position of the product being made"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company has design capacity of 200 units per day, effective capacity of 150 units per day, and actual output of 120 units per day. What is the efficiency?",
+    "options": [
+      "60%",
+      "75%",
+      "80%",
+      "90%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT a typical step in the product design process?",
+    "options": [
+      "Idea generation",
+      "Product screening",
+      "Mass production launch without testing",
+      "Preliminary design and testing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A manufacturing firm is considering a capacity lead strategy. Which of the following best describes this approach?",
+    "options": [
+      "Capacity is expanded after demand increase is documented",
+      "Capacity is expanded in anticipation of demand growth",
+      "Capacity is kept constant regardless of demand",
+      "Capacity is reduced during low demand periods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of using modular design in product development?",
+    "options": [
+      "It eliminates the need for any standardization",
+      "It allows high product variety with low component variety",
+      "It reduces the need for quality control",
+      "It makes all products identical"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of operations strategy, what is an order winner?",
+    "options": [
+      "A characteristic that is the minimum standard to be considered for purchase",
+      "A characteristic that causes a product to be perceived as better than competitors",
+      "A cost reduction technique",
+      "A government regulation for product quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a difference between manufacturing and service operations?",
+    "options": [
+      "Services have high ability to inventory output",
+      "Manufacturing has high customer contact",
+      "Services produce intangible products that cannot be inventoried",
+      "Manufacturing has low uniformity of input"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics analyst is calculating the center of gravity for a new warehouse using coordinates and shipment volumes. She applies the formula Cx = Σ(xi*Vi)/ΣVi and Cy = Σ(yi*Vi)/ΣVi. This computation is an example of which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Analyzing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A new employee is being trained to read a control chart. The trainer points to a point outside the control limits and asks the employee to identify it. The employee correctly points to the out-of-control point. This skill is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the primary purpose of Material Requirements Planning (MRP)?",
+    "options": [
+      "To calculate the selling price of finished goods",
+      "To calculate the materials and components needed to manufacture products based on master production schedule",
+      "To manage customer complaints",
+      "To design new product features"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common priority rule for operations scheduling that sequences jobs with the smallest processing time first?",
+    "options": [
+      "First come, first served (FCFS)",
+      "Earliest due date (EDD)",
+      "Shortest processing time (SPT)",
+      "Longest processing time (LPT)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A factory has fixed costs of Br. 500,000, variable cost of Br. 20 per unit, and selling price of Br. 40 per unit. What is the break-even quantity?",
+    "options": [
+      "12,500 units",
+      "25,000 units",
+      "50,000 units",
+      "100,000 units"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of the chase demand strategy?",
+    "options": [
+      "High inventory carrying costs",
+      "Frequent hiring and layoffs can be costly and demoralizing",
+      "Requires large amounts of storage space",
+      "Cannot be used with seasonal demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does the term \"disaggregation\" refer to in operations planning?",
+    "options": [
+      "Combining individual product forecasts into an aggregate plan",
+      "Breaking the aggregate plan into greater detail, resulting in a master production schedule",
+      "Reducing workforce during low demand periods",
+      "Increasing inventory levels to meet unexpected demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A student is learning to operate a drill press. The instructor demonstrates the correct feed rate and hand positioning, then the student attempts the same action while the instructor provides verbal corrections. This is an example of which psychomotor level?",
+    "options": [
+      "Imitation",
+      "Guided response",
+      "Mechanism",
+      "Complex overt response"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT one of the four broad categories of competitive priorities?",
+    "options": [
+      "Cost",
+      "Quality",
+      "Advertising",
+      "Flexibility"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main difference between design capacity and effective capacity?",
+    "options": [
+      "Design capacity is actual output; effective capacity is theoretical maximum",
+      "Design capacity is maximum under ideal conditions; effective capacity is maximum under normal conditions considering planned constraints",
+      "Design capacity includes breakdowns; effective capacity excludes them",
+      "There is no difference"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In factor rating method for location selection, what is the correct procedure after assigning weights and ratings?",
+    "options": [
+      "Sum the weights without multiplying",
+      "Multiply each factor's score by its weight and sum the weighted scores",
+      "Choose the location with the lowest total weighted score",
+      "Average the ratings and select the highest average"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company experiences that as it increases production volume beyond its best operating level, the average cost per unit begins to rise. This phenomenon is called:",
+    "options": [
+      "Economies of scale",
+      "Diseconomies of scale",
+      "Constant returns to scale",
+      "Capacity cushion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of fixed-position layout?",
+    "options": [
+      "The product moves along a conveyor belt",
+      "Workers, materials, and equipment are brought to the product location",
+      "Similar machines are grouped together",
+      "High volume of identical products are made"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the typical time horizon for aggregate planning?",
+    "options": [
+      "Less than one week",
+      "2 to 12 months",
+      "5 to 10 years",
+      "1 to 2 days"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A production manager is analyzing the trade-off between holding inventory and using overtime to meet seasonal demand. She compares the total costs of both options and chooses the lower-cost alternative. This decision-making process is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Analyzing",
+      "Evaluating"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an input measure of capacity for a hospital?",
+    "options": [
+      "Number of patients treated per week",
+      "Number of beds available",
+      "Number of surgeries performed",
+      "Revenue per patient"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of Quality Function Deployment (QFD)?",
+    "options": [
+      "To reduce the number of product features",
+      "To translate customer desires into target design specifications (House of Quality)",
+      "To eliminate all quality control checks",
+      "To outsource production to low-cost countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A trainee is learning to calculate utilization using the formula: Utilization = Actual Output / Design Capacity. Given actual output 45 units and design capacity 60 units, the trainee computes 0.75 and expresses it as 75%. This computational skill is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an advantage of concurrent engineering?",
+    "options": [
+      "It takes longer to develop products",
+      "It brings people together early to design product and process simultaneously, saving time",
+      "It eliminates the need for cross-functional teams",
+      "It only focuses on marketing requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the product life cycle, during which stage does product design begin to stabilize and sales start to rise rapidly?",
+    "options": [
+      "Introduction",
+      "Growth",
+      "Maturity",
+      "Decline"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary objective of aggregate planning?",
+    "options": [
+      "To maximize inventory at all costs",
+      "To meet forecast demand while minimizing cost over the planning period",
+      "To eliminate all overtime work",
+      "To produce only custom products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a pure strategy for adjusting capacity in aggregate planning?",
+    "options": [
+      "Using both overtime and subcontracting simultaneously",
+      "Level production (constant workforce, inventory absorbs fluctuations)",
+      "Combining hiring and pricing changes",
+      "Using part-time workers and backorders together"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A warehouse supervisor is teaching a new employee how to arrange pallets in a product layout sequence. The supervisor shows the order: cutting, sanding, painting, packaging. The new employee then arranges the pallets in that same order without assistance. This is an example of which psychomotor level?",
+    "options": [
+      "Imitation",
+      "Guided response",
+      "Precision",
+      "Articulation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the formula for efficiency in capacity management?",
+    "options": [
+      "Actual Output / Design Capacity",
+      "Actual Output / Effective Capacity",
+      "Effective Capacity / Design Capacity",
+      "Design Capacity / Actual Output"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of Material Requirements Planning (MRP)?",
+    "options": [
+      "It reduces customer lead times",
+      "It requires high data integrity and lacks flexibility",
+      "It increases inventory costs",
+      "It cannot handle dependent demand items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In scheduling, what does the Critical Ratio (CR) rule use to prioritize jobs?",
+    "options": [
+      "The time since order was received",
+      "The ratio of time remaining until due date to remaining processing time",
+      "The length of the processing time",
+      "The alphabetical order of customer names"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company uses a capacity lag strategy. Which statement best describes its approach?",
+    "options": [
+      "It expands capacity before demand increases to capture market share",
+      "It expands capacity after demand increase has been documented, which may risk losing customers",
+      "It expands capacity exactly at the same rate as demand",
+      "It never expands capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main difference between order qualifiers and order winners?",
+    "options": [
+      "Order qualifiers are long-term; order winners are short-term",
+      "Order qualifiers are minimum standards to enter a market; order winners are characteristics that beat competitors",
+      "Order qualifiers relate to cost; order winners relate to quality only",
+      "There is no difference"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of process layout (job shop)?",
+    "options": [
+      "High volume and low variety",
+      "General-purpose equipment and high flexibility",
+      "Continuous material flow with little handling",
+      "Low labor intensity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain analyst is comparing two location alternatives using break-even analysis. She sets up total cost equations, solves for the crossover points, and identifies the range of output where each location is superior. This analysis is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Analyzing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a valid source of new product ideas from outside the company?",
+    "options": [
+      "Sales personnel",
+      "Research and development department",
+      "Customers",
+      "Company executives"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the purpose of a master production schedule (MPS)?",
+    "options": [
+      "To forecast long-term market trends",
+      "To specify what finished products are to be made and when",
+      "To calculate employee payroll",
+      "To design new production equipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A junior planner is given the task of calculating the expected output using the formula: Expected Output = Effective Capacity × Efficiency. If effective capacity is 200 units and efficiency is 85%, the planner computes 170 units. This demonstrates which psychomotor level?",
+    "options": [
+      "Perception",
+      "Imitation",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is NOT a factor that affects productivity?",
+    "options": [
+      "Standardizing processes",
+      "New workers and labor turnover",
+      "Advertising budget",
+      "Scrap rates and safety"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the definition of \"robust design\"?",
+    "options": [
+      "A design that is very expensive to produce",
+      "A design that results in products that can function over a broad range of conditions",
+      "A design that cannot be modified",
+      "A design that only works in ideal conditions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of service design, what is \"service blueprinting\"?",
+    "options": [
+      "A financial statement for service costs",
+      "A method to conceptualize and describe a proposed service design",
+      "A legal document for service contracts",
+      "A list of service employee names"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of level production strategy?",
+    "options": [
+      "Workforce size varies with demand",
+      "Production is set at a fixed rate and inventory absorbs demand variations",
+      "Overtime is used exclusively",
+      "Production is outsourced entirely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A factory has three potential locations with the following total cost equations: Location A: TC = 100,000 + 10Q; Location B: TC = 150,000 + 8Q; Location C: TC = 200,000 + 6Q. At Q = 30,000 units, which location has the lowest total cost?",
+    "options": [
+      "Location A",
+      "Location B",
+      "Location C",
+      "All have equal cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary advantage of using computer-aided design (CAD)?",
+    "options": [
+      "It eliminates the need for physical prototypes entirely",
+      "It increases designer productivity by 3 to 10 times and enables simulations",
+      "It reduces the need for marketing research",
+      "It automatically manufactures products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a demand strategy in aggregate planning?",
+    "options": [
+      "Overtime",
+      "Subcontracting",
+      "Pricing differentials to shift demand from peak to off-peak periods",
+      "Hiring additional workers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A production supervisor is teaching a new operator how to read a bill of materials (BOM). The supervisor points to a subassembly and asks, \"What raw materials are needed for this?\" The new operator traces the BOM tree and lists the required components. This is an example of which psychomotor level?",
+    "options": [
+      "Perception",
+      "Guided response",
+      "Mechanism",
+      "Complex overt response"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the formula for utilization in capacity management?",
+    "options": [
+      "Actual Output / Design Capacity",
+      "Actual Output / Effective Capacity",
+      "Effective Capacity / Design Capacity",
+      "Design Capacity / Actual Output"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a characteristic of service operations compared to manufacturing?",
+    "options": [
+      "Output can be easily inventoried",
+      "High degree of customer contact",
+      "Long response time is typical",
+      "Capital intensive with high automation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is deciding between two locations using break-even analysis. The crossover point between Location X (FC=200, VC=5) and Location Y (FC=300, VC=3) is 50 units. At 60 units, which location is better?",
+    "options": [
+      "Location X",
+      "Location Y",
+      "Both are equal",
+      "Cannot be determined"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"delayed differentiation\" in mass customization?",
+    "options": [
+      "To produce completely different products for each customer",
+      "To postpone finishing the product until customer preferences are known",
+      "To standardize all products without any variation",
+      "To eliminate all inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a pure strategy for adjusting capacity?",
+    "options": [
+      "Using overtime and part-time workers together",
+      "Chase demand by hiring and laying off workers",
+      "Combining backorders and pricing changes",
+      "Using subcontracting and inventory together"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics manager is evaluating the total cost of ownership for two alternative locations using factor rating. She assigns weights based on strategic importance and then multiplies each location's ratings by the weights. This process is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Analyzing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT a characteristic of product layouts?",
+    "options": [
+      "Special-purpose equipment",
+      "High material handling costs",
+      "Relatively low in-process inventory",
+      "Continuous material flow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of Early Supplier Involvement (ESI) in product design?",
+    "options": [
+      "To replace the need for internal R&D",
+      "To involve suppliers in the early stages of product design for better manufacturability",
+      "To eliminate all supplier relationships",
+      "To delay supplier input until after production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of capacity expansion, what is a \"one-step expansion\"?",
+    "options": [
+      "Expanding capacity gradually over time",
+      "Making a radical change in capacity in a single project",
+      "Never expanding capacity",
+      "Reducing capacity by closing facilities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A quality control trainee is learning to use a sampling plan. The instructor gives a lot of 1000 items and a sampling plan of n=50, accept=2. The trainee randomly selects 50 items, inspects them, finds 1 defective, and correctly decides to accept the lot. This decision-making skill is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Guided response",
+      "Mechanism",
+      "Complex overt response"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a hybrid (mixed) layout?",
+    "options": [
+      "A hospital with separate departments for cardiology and radiology",
+      "A factory where departments are arranged by process but products flow through on a product layout",
+      "A construction site where materials are brought to the building",
+      "An assembly line for a single product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"remanufacturing\"?",
+    "options": [
+      "Disposing of old products in landfills",
+      "Using components of old products in the production of new ones",
+      "Recycling only packaging materials",
+      "Manufacturing products from virgin materials only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of using part-time workers in aggregate planning?",
+    "options": [
+      "They are less flexible than full-time workers",
+      "They may be less costly but may lack full commitment and training",
+      "They always increase total labor cost",
+      "They cannot be used for unskilled jobs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company has a backlog of customer orders. Which aggregate planning strategy directly addresses this by adding backlog to next period's requirements?",
+    "options": [
+      "Level production",
+      "Chase demand",
+      "Backordering",
+      "Peak demand maintenance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a correct statement about independent and dependent demand?",
+    "options": [
+      "Finished goods are dependent demand items",
+      "Raw materials are independent demand items",
+      "Dependent demand items are components needed to make finished products",
+      "Independent demand is calculated from the bill of materials"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A maintenance trainee is learning to perform a preventive maintenance checklist on a conveyor system. The trainer demonstrates the sequence: check belt tension, lubricate bearings, inspect rollers. The trainee then performs the same steps in order without prompting. This is an example of which psychomotor level?",
+    "options": [
+      "Imitation",
+      "Guided response",
+      "Precision",
+      "Articulation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main objective of scheduling in operations?",
+    "options": [
+      "To maximize work-in-process inventory",
+      "To allocate workloads to specific work centers and determine the sequence of operations",
+      "To eliminate all machine downtime",
+      "To reduce product variety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a factor to consider when selecting a location for a service firm rather than a manufacturing firm?",
+    "options": [
+      "Minimizing transportation costs only",
+      "Maximizing revenue based on purchasing power and demographic environment",
+      "Minimizing fixed costs only",
+      "Access to raw materials only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"House of Quality\"?",
+    "options": [
+      "To design residential buildings",
+      "To translate customer requirements into technical design specifications in QFD",
+      "To calculate production costs",
+      "To schedule employee shifts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is analyzing two aggregate planning strategies: level production and chase demand. She compares the total costs including hiring, layoff, inventory, and overtime, then selects the strategy with lower total cost. This decision is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Evaluating"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of a physical model used in operations decision making?",
+    "options": [
+      "A mathematical formula",
+      "A toy car representing a real vehicle",
+      "A balance sheet",
+      "A regression equation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the meaning of \"backorder\" in aggregate planning?",
+    "options": [
+      "An order that is shipped immediately",
+      "An order that a firm accepts but is unable to fill at the moment, to be fulfilled later",
+      "An order that is cancelled by the customer",
+      "An order that is produced in excess of demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the product design process, what happens during the \"product screening\" stage?",
+    "options": [
+      "Prototypes are built and tested",
+      "The product idea is evaluated for likelihood of success by considering operations, marketing, and finance",
+      "The product is launched to the market",
+      "Final specifications are translated into processing instructions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contribution of Frederick W. Taylor to operations management?",
+    "options": [
+      "Linear programming",
+      "Scientific management, time study, and dividing planning and doing of work",
+      "Quality control charts",
+      "Computer-aided design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A trainee is learning to calculate the break-even quantity using the formula BEP = Fixed Cost / (Selling Price - Variable Cost). Given FC=10,000, P=50, VC=30, the trainee computes 500 units. This computational skill is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the main advantage of using a product layout?",
+    "options": [
+      "High flexibility to produce different products",
+      "High degree of labor and equipment utilization for high-volume products",
+      "Low capital investment",
+      "Easy to customize each unit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of the maturity stage of the product life cycle?",
+    "options": [
+      "High expenses for research and development",
+      "Product design begins to stabilize and sales rise",
+      "Few or no design changes, high volume production",
+      "Demand declines and product is terminated"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the purpose of a \"service guarantee\" in service design?",
+    "options": [
+      "To allow customers to return the service for a refund",
+      "To build customer confidence in service quality",
+      "To eliminate all service failures",
+      "To reduce the cost of service delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common priority rule that sequences jobs with the earliest due date first?",
+    "options": [
+      "FCFS",
+      "SPT",
+      "EDD",
+      "LPT"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company has the following data: Output = 1,000 units, Labor input = 200 hours, Material input = 500 kg at $2/kg, Energy = 1,000 kWh at $0.10/kWh. What is the multifactor productivity using labor and material only (in units per dollar)?",
+    "options": [
+      "0.5 units/dollar",
+      "1.0 units/dollar",
+      "0.67 units/dollar",
+      "2.0 units/dollar"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT a benefit of concurrent engineering?",
+    "options": [
+      "It creates a team atmosphere",
+      "It is efficient and time-saving compared to the over-the-wall approach",
+      "It delays bringing manufacturing people into design until after production",
+      "It brings together multiple functions early in design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the definition of \"plant location\"?",
+    "options": [
+      "The process of designing factory layout",
+      "The choice of region and selection of a particular site for setting up a business or factory",
+      "The method of transporting finished goods",
+      "The strategy for hiring plant workers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the center of gravity method, what does the formula Cx = Σ(xi*Vi)/ΣVi calculate?",
+    "options": [
+      "The total transportation cost",
+      "The X-coordinate of the facility location that minimizes weighted distance",
+      "The average shipment volume",
+      "The Y-coordinate of the existing facilities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of fixed-position layout?",
+    "options": [
+      "High volume production of small items",
+      "Used in shipbuilding, bridge construction, and large aircraft manufacture",
+      "Continuous movement of product on a conveyor",
+      "Similar machines grouped together"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A production scheduler is training a new employee to use the earliest due date (EDD) rule. The trainer gives a list of jobs with due dates, and the new employee sorts them from earliest to latest due date. This sorting activity is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Imitation",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main disadvantage of modular design?",
+    "options": [
+      "It requires high component variety",
+      "Limited ability to repair a faulty module; the entire module may need to be scrapped",
+      "It reduces product variety",
+      "It makes manufacturing more complex"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a correct statement about the historical development of operations management?",
+    "options": [
+      "Adam Smith advocated breaking jobs into subtasks (division of labor) in 1776",
+      "Eli Whitney developed scientific management",
+      "W.E. Deming contributed to the industrial revolution in the 1700s",
+      "Henry Gantt invented linear programming"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the purpose of \"reverse engineering\" in product design?",
+    "options": [
+      "To dismantle a competitor's product to look for design features to incorporate",
+      "To destroy old products",
+      "To reduce the number of product features",
+      "To outsource engineering to other countries"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a characteristic of process layout?",
+    "options": [
+      "Used for high-volume, low-variety products",
+      "Material handling costs are lower than product layout",
+      "Resources are general purpose and flexible",
+      "Production time for a unit is relatively short"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company has a best operating level (BOL) of 10,000 units per month. Currently it produces 8,000 units. If it increases production to 12,000 units, what is likely to happen to average unit cost?",
+    "options": [
+      "It will decrease due to economies of scale",
+      "It will increase due to diseconomies of scale beyond BOL",
+      "It will remain constant",
+      "It will first increase then decrease"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"manufacturability\"?",
+    "options": [
+      "The ease with which a product can be made, important for cost, productivity, and quality",
+      "The ability of a product to be marketed effectively",
+      "The process of manufacturing only custom products",
+      "The total cost of raw materials"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In the context of service design, what is a \"service package\"?",
+    "options": [
+      "The physical packaging used to deliver service",
+      "A mixture of physical items, sensual benefits, and psychological benefits",
+      "The price list of services",
+      "The employee uniform"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of subcontracting as a capacity adjustment strategy?",
+    "options": [
+      "It increases control over production",
+      "Reduced profits and potential future competitor",
+      "It eliminates the need for quality control",
+      "It is always more expensive than in-house production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A quality assurance trainee is learning to use a control chart. The instructor shows a chart with points within limits and one point outside. The trainee correctly identifies the out-of-control point and states that the process is out of control. This diagnostic skill is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Guided response",
+      "Mechanism",
+      "Complex overt response"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of a schematic model?",
+    "options": [
+      "A prototype of a new car",
+      "A graph or chart showing sales trends",
+      "A mathematical equation for break-even",
+      "A full-scale building"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary difference between design capacity and actual output?",
+    "options": [
+      "Design capacity is achieved under ideal conditions; actual output includes unplanned losses like breakdowns",
+      "Design capacity is always lower than actual output",
+      "Actual output is theoretical maximum",
+      "There is no difference"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a valid reason for companies to design new products and services?",
+    "options": [
+      "To avoid downsizing and achieve cost reductions",
+      "To increase business growth and profits",
+      "To address customers' specific requirements",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the \"cradle-to-grave assessment\" in sustainable design?",
+    "options": [
+      "Assessing the product only at the end of its life",
+      "Life-cycle assessment of environmental impact from raw material extraction to disposal",
+      "A financial audit of product costs",
+      "A marketing study of product appeal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A production planner is comparing two aggregate planning strategies using the following data: Level production cost = $1.2M, Chase demand cost = $1.5M. Which strategy should be selected based on cost minimization?",
+    "options": [
+      "Level production",
+      "Chase demand",
+      "Both are equal",
+      "Neither is acceptable"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a well-designed service system according to the text?",
+    "options": [
+      "Inconsistent with firm's strategic focus",
+      "Difficult to sustain",
+      "User friendly and cost effective",
+      "Having multiple conflicting themes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the formula for labor productivity in units per labor-hour?",
+    "options": [
+      "Total output / Number of workers",
+      "Total output / Total labor-hours",
+      "Total output / Total machine hours",
+      "Total labor cost / Total output"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a contribution of W. Edwards Deming to operations management?",
+    "options": [
+      "Economic lot sizes for inventory control",
+      "Quality and productivity applications from Japan",
+      "Linear programming",
+      "Digital computer invention"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A trainee in a factory is learning to set up a work cell in a product layout. The trainer explains that the sequence of operations is A → B → C → D. The trainee then arranges the machines in that exact order and tests the flow. This arrangement skill is at which psychomotor level?",
+    "options": [
+      "Imitation",
+      "Guided response",
+      "Precision",
+      "Articulation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT one of the three basic functions of a business organization?",
+    "options": [
+      "Finance",
+      "Operations",
+      "Marketing",
+      "Human Resources (as a separate basic function from the three listed in the file)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the definition of \"efficiency\" in capacity management?",
+    "options": [
+      "Actual output divided by design capacity",
+      "How well a machine or worker performs compared to a standard output level",
+      "The percentage of available working time that a worker actually works",
+      "Actual output divided by effective capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a quantitative approach used in operations management?",
+    "options": [
+      "Gut feeling of the manager",
+      "Linear programming",
+      "Company culture analysis",
+      "Employee satisfaction survey"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of the \"systems approach\" in operations management?",
+    "options": [
+      "To focus on efficiency within individual subsystems only",
+      "To emphasize that the whole is greater than the sum of its parts and overall objectives take precedence",
+      "To eliminate all trade-offs",
+      "To ignore interrelationships between subsystems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics planner is using the factor rating method to select a warehouse location. She assigns weights to factors such as proximity to customers, labor cost, and taxes. She then multiplies each location's rating by the weight and sums. This calculation is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Analyzing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a characteristic of the introduction stage of the product life cycle?",
+    "options": [
+      "High volume production",
+      "Products are well-defined and market is certain",
+      "High expenses for research and product development",
+      "No design changes occur"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the definition of \"capacity\" in operations management?",
+    "options": [
+      "The total amount of inventory stored",
+      "The maximum output rate that can be achieved by a facility over a period of time",
+      "The number of employees in a factory",
+      "The total cost of production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of level production strategy?",
+    "options": [
+      "It requires frequent hiring and firing",
+      "It leads to high inventory carrying costs during low demand periods",
+      "It cannot be used with seasonal demand",
+      "It requires subcontracting all production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A junior operations analyst is learning to compute multifactor productivity. Given output of 500 units, labor cost of $1,000, material cost of $500, energy cost of $100, the analyst calculates output / (labor+material+energy) = 500 / 1600 = 0.3125 units per dollar. This computation is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a valid source of product ideas from competitors?",
+    "options": [
+      "Customer surveys",
+      "Benchmarking and reverse engineering",
+      "Warranty claims",
+      "R&D department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main objective of the transportation method in location analysis?",
+    "options": [
+      "To maximize customer satisfaction",
+      "To determine the minimum transportation cost between multiple origins and destinations",
+      "To select the site with the highest factor rating",
+      "To calculate the center of gravity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a pure strategy in aggregate planning?",
+    "options": [
+      "Using a combination of hiring and overtime",
+      "Selecting only one capacity adjustment method (e.g., only level production or only chase demand)",
+      "Using both demand and capacity strategies together",
+      "Outsourcing all production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company uses a capacity lead strategy. What is a potential advantage of this approach?",
+    "options": [
+      "Lower risk of overcapacity",
+      "Ability to lure customers from competitors who are capacity constrained",
+      "Higher return on investment than lag strategy",
+      "No inventory holding costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a mathematical model?",
+    "options": [
+      "A blueprint of a building",
+      "A formula for break-even quantity",
+      "A toy car",
+      "A photograph of a factory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"Design for Manufacture\" (DFM) in concurrent engineering?",
+    "options": [
+      "To design products that are impossible to manufacture",
+      "To consider the effectiveness with which an item can be made during initial development",
+      "To delay manufacturing decisions until after product launch",
+      "To outsource all manufacturing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A production scheduler is training a new employee to use the critical ratio (CR) rule. The trainer provides a job with time remaining = 10 days and remaining processing time = 5 days. The new employee calculates CR = 10/5 = 2.0. This calculation is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Imitation",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a key difference between manufacturing and service operations?",
+    "options": [
+      "Manufacturing has high customer contact, service has low",
+      "Manufacturing output can be inventoried, service output cannot",
+      "Manufacturing is labor intensive, service is capital intensive",
+      "Manufacturing has short response time, service has long"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"productivity\"?",
+    "options": [
+      "The total output produced",
+      "A measure of effective use of resources, expressed as ratio of output to input",
+      "The total cost of production",
+      "The number of workers employed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a step in developing an aggregate plan?",
+    "options": [
+      "Identify the aggregate plan that matches company objectives",
+      "Determine the aggregate production rate",
+      "Calculate the size of the workforce",
+      "Immediately launch production without testing the plan"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A facility has design capacity of 500 units/day, effective capacity of 400 units/day, and actual output of 360 units/day. What is the utilization?",
+    "options": [
+      "72%",
+      "80%",
+      "90%",
+      "100%"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a contribution of Henry Gantt to operations management?",
+    "options": [
+      "Scientific management",
+      "Scheduling techniques for employees, machines, and jobs in manufacturing",
+      "Quality control charts",
+      "Linear programming"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A trainee is learning to use the factor rating method. The instructor gives a table of weights and ratings for two locations. The trainee correctly multiplies each rating by its weight, sums the weighted scores, and identifies the location with the higher total score. This multi-step process is at which psychomotor level?",
+    "options": [
+      "Imitation",
+      "Guided response",
+      "Mechanism",
+      "Complex overt response"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the purpose of \"perceptual maps\" in product design?",
+    "options": [
+      "To draw the physical layout of a factory",
+      "To compare customer perceptions of a company's products with competitors' products",
+      "To calculate production costs",
+      "To design computer software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a pure chase demand strategy?",
+    "options": [
+      "Constant workforce and inventory absorption",
+      "Varying workforce size to exactly match demand with no inventory accumulation",
+      "Maintaining peak resources at all times",
+      "Using only part-time workers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of using CAD (computer-aided design)?",
+    "options": [
+      "It eliminates the need for physical products",
+      "It allows designers to manipulate geometric shapes, perform simulations, and reduce time to market",
+      "It automatically manufactures products without human input",
+      "It replaces all marketing functions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is evaluating two locations using break-even analysis. Location A has fixed cost $50,000 and variable cost $10/unit. Location B has fixed cost $80,000 and variable cost $8/unit. At what quantity are total costs equal?",
+    "options": [
+      "10,000 units",
+      "15,000 units",
+      "20,000 units",
+      "30,000 units"
+    ],
+    "correct": 1
+  }
+]
