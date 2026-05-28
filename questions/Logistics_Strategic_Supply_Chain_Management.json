@@ -1,0 +1,3412 @@
+[
+  {
+    "questionText": "Which of the following best describes the purpose of environmental analysis in strategic supply chain management?",
+    "options": [
+      "To eliminate all external factors affecting the organization",
+      "To identify and assess internal and external factors that could affect organizational performance",
+      "To focus only on internal financial metrics",
+      "To replace the need for strategic planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain analyst is comparing the bargaining power of two different supplier groups. She notes that one group has few suppliers and high switching costs, while the other has many suppliers and low switching costs. She concludes that the first group poses a greater threat to profitability. This analytical process is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Analyzing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A company is evaluating the threat of new entrants in its industry. It finds that regulatory hurdles and proprietary technology create high barriers to entry. The analyst determines that existing companies are well-protected from new competitors. This conclusion requires which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Analyzing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A trainee supply chain designer is learning to identify different network models. She is shown a diagram where goods are shipped directly from the manufacturer to the customer without intermediate warehouses. She correctly identifies this as \"producer direct shipping\" (drop-shipping). This recognition skill is an example of which psychomotor level?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A logistics student practices creating a distribution network design on a computer simulation. She follows a step-by-step tutorial to place warehouses, assign customers, and select transportation modes. After several attempts, she completes the design without referring to the instructions. This skill development is at which psychomotor level?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the definition of a core competency in strategic supply chain management?",
+    "options": [
+      "A financial metric used to measure profitability",
+      "Unique strengths, skills, technologies, or processes that give a competitive edge and are difficult to replicate",
+      "Any activity that can be outsourced to reduce costs",
+      "A legal requirement for doing business internationally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is deciding whether to outsource logistics to a 3PL. She calculates the total cost of in-house operations versus the 3PL quote, considers the potential loss of control, and evaluates the 3PL's reliability. She then makes a recommendation to outsource based on cost savings and capacity flexibility. This decision-making process is at which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Applying",
+      "Analyzing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary goal of Collaborative Planning, Forecasting, and Replenishment (CPFR) in supply chain integration?",
+    "options": [
+      "To eliminate all inventory from the supply chain",
+      "To improve customer service and increase inventory efficiency by aligning supply and demand forecasts through shared planning",
+      "To replace all human planners with automated systems",
+      "To focus only on reducing transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A warehouse associate is learning to use a vendor-managed inventory (VMI) system. He watches a video demonstrating how to monitor the retailer's inventory levels and trigger replenishment orders. He then practices on a simulator by checking stock levels and placing orders when inventory falls below a threshold. This initial attempt with guidance is an example of which psychomotor level?",
+    "options": [
+      "Perception",
+      "Set",
+      "Guided response",
+      "Mechanism"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a tangible resource in internal environment analysis?",
+    "options": [
+      "Brand reputation",
+      "Corporate culture",
+      "Manufacturing facilities and distribution networks",
+      "Patents and intellectual property"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In PESTEL analysis, which factor includes exchange rates, inflation rates, and consumer spending power?",
+    "options": [
+      "Political factors",
+      "Economic factors",
+      "Social factors",
+      "Technological factors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to Porter's Five Forces, high supplier concentration and high switching costs lead to which outcome?",
+    "options": [
+      "Low bargaining power of suppliers",
+      "High bargaining power of suppliers",
+      "High threat of new entrants",
+      "Low rivalry among competitors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a cost leadership strategy?",
+    "options": [
+      "Offering unique products with premium pricing",
+      "Achieving cost efficiencies through economies of scale and efficient supply chain management",
+      "Focusing on a specific niche market with customized products",
+      "Emphasizing product innovation over cost control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of using a \"direct shipping\" network model (drop-shipping)?",
+    "options": [
+      "Fast delivery times",
+      "Low inventory costs for the retailer",
+      "High customer satisfaction",
+      "Easy returns management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of outsourcing?",
+    "options": [
+      "Increased focus on core business",
+      "Access to specialized expertise",
+      "Reduced innovation and knowledge leakage",
+      "Cost savings from labor arbitrage"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What does the term \"4PL\" (Fourth-Party Logistics) refer to?",
+    "options": [
+      "A single transportation carrier",
+      "An external provider that manages the entire supply chain process, including multiple 3PLs",
+      "A type of warehouse management system",
+      "A government logistics agency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a major obstacle to supply chain coordination?",
+    "options": [
+      "Shared information systems",
+      "Collaborative planning",
+      "Incentive obstacles (conflicting goals among partners)",
+      "Vendor-managed inventory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In SWOT analysis, which component focuses on external factors that could harm the organization's performance?",
+    "options": [
+      "Strengths",
+      "Weaknesses",
+      "Opportunities",
+      "Threats"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of a differentiation strategy?",
+    "options": [
+      "Walmart leveraging large scale to negotiate low prices",
+      "Apple creating innovative products like the iPhone",
+      "Rolls-Royce focusing on the luxury car market",
+      "A local grocery store offering only generic brands"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of the \"Monitoring\" step in environmental analysis?",
+    "options": [
+      "Identifying early indicators of potential changes",
+      "Tracking and analyzing environmental changes to detect significant emerging patterns",
+      "Predicting future developments based on observed trends",
+      "Evaluating the timing and impact of changes on strategic decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in the \"Threat of Substitutes\" force?",
+    "options": [
+      "High initial investment required to enter the industry",
+      "Availability of substitutes and their relative quality",
+      "Number of suppliers and their concentration",
+      "Industry growth rate and exit barriers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of supply chain network design, what is the main trade-off in transportation decisions?",
+    "options": [
+      "Inventory cost vs. production cost",
+      "Cost vs. speed, and consolidation vs. frequency",
+      "Centralization vs. decentralization",
+      "Own vs. outsource"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"focus strategy\"?",
+    "options": [
+      "A company that offers the lowest prices in the mass market",
+      "A company that produces innovative products for all consumer segments",
+      "A company that tailors its products exclusively to the luxury car market",
+      "A company that outsources all its production to low-cost countries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the definition of \"competitive capabilities\"?",
+    "options": [
+      "The theoretical maximum output of a production facility",
+      "The actual strengths a company can deliver in practice, such as low cost, high quality, or quick delivery",
+      "The financial resources available for investment",
+      "The number of competitors in the industry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of using a 3PL (Third-Party Logistics) provider?",
+    "options": [
+      "Complete control over logistics operations",
+      "Reduction in supply chain surplus",
+      "Access to specialized expertise and cost savings",
+      "Elimination of all supply chain risks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What does \"local optimization\" refer to as a cause of supply chain variability?",
+    "options": [
+      "Optimizing the entire supply chain for global efficiency",
+      "Prioritizing the performance of sub-parts over the whole supply chain",
+      "Using local suppliers exclusively",
+      "Optimizing transportation routes for each region"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a typical component of the \"Internal Environment\" in strategic analysis?",
+    "options": [
+      "Market trends and competitive forces",
+      "Regulatory and economic factors",
+      "Company resources, capabilities, and core competencies",
+      "Technological changes and innovation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the context of supply chain integration, what is the main limitation of traditional Electronic Data Interchange (EDI)?",
+    "options": [
+      "It is too fast for most applications",
+      "High development and setup costs, and incompatibility between systems",
+      "It cannot share order information",
+      "It requires no internet connection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"Vendor-Managed Inventory (VMI)\"?",
+    "options": [
+      "The customer manages all inventory levels",
+      "The supplier monitors sales and inventory and triggers replenishment orders",
+      "A third-party logistics company handles all warehousing",
+      "Inventory is eliminated entirely from the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of the \"Assessing\" step in environmental analysis?",
+    "options": [
+      "Identifying early indicators of change",
+      "Tracking emerging patterns",
+      "Predicting future developments",
+      "Evaluating the timing and impact of changes on strategic decision-making"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a fragmented industry structure?",
+    "options": [
+      "Dominated by a few large players",
+      "Numerous small players with no clear market leader",
+      "A single firm controls the entire market",
+      "High barriers to entry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary driver for using a \"last-mile delivery\" model?",
+    "options": [
+      "Lower cost than warehouse pickup",
+      "Better customer experience despite higher cost",
+      "Elimination of retail stores",
+      "Reduction in transportation complexity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of resources and capabilities, what is an intangible resource?",
+    "options": [
+      "Manufacturing facilities",
+      "Distribution centers",
+      "Brand reputation and patents",
+      "Machinery and equipment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a potential risk of using a 3PL?",
+    "options": [
+      "Increased focus on core business",
+      "Loss of control and potential data security issues",
+      "Guaranteed lower transportation costs",
+      "Elimination of all inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does the \"Scanning\" step in environmental analysis involve?",
+    "options": [
+      "Tracking changes over time",
+      "Predicting future developments",
+      "Identifying early indicators of potential changes and emerging trends",
+      "Evaluating the impact of changes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Quick Response (QR)\" strategy in supply chain integration?",
+    "options": [
+      "Holding large amounts of safety stock",
+      "Applying just-in-time and lean thinking to logistics to align capabilities with end customer demand",
+      "Outsourcing all production to overseas suppliers",
+      "Using only one transportation mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main challenge of achieving internal integration in a supply chain?",
+    "options": [
+      "Lack of external suppliers",
+      "Functional barriers such as purchasing focusing on low cost while manufacturing focuses on high batch sizes",
+      "Too much information sharing",
+      "Excessive use of technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of the \"Efficient Consumer Response (ECR)\" initiative?",
+    "options": [
+      "Eliminating all promotions and advertising",
+      "Coordinating product assortment, promotions, new product development, and replenishment to fulfill changing customer demands",
+      "Increasing inventory levels at retail stores",
+      "Reducing the number of suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"supply chain surplus\"?",
+    "options": [
+      "Total value created across the supply chain",
+      "The profit of a single company",
+      "The amount of inventory held in warehouses",
+      "The cost of transportation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a characteristic of the \"Level 3: Collaborative Planning\" in electronic integration?",
+    "options": [
+      "One partner shares information without feedback",
+      "Joint efforts in new product planning, demand forecasting, and replenishment planning",
+      "Only transactional document exchanges",
+      "No use of technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of using a \"retail store pickup\" network model?",
+    "options": [
+      "Lowest cost for the retailer",
+      "Customer can pick up at a physical store, combining online convenience with existing retail presence",
+      "Eliminates the need for inventory",
+      "Fastest delivery method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in the \"Bargaining Power of Buyers\"?",
+    "options": [
+      "Number of suppliers and switching costs",
+      "Buyer concentration, price sensitivity, and buyer power",
+      "Availability of substitute products",
+      "Industry growth rate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary goal of \"Continuous Replenishment\" in supply chain management?",
+    "options": [
+      "To hold as much inventory as possible",
+      "To enhance inventory efficiency by linking all stages of replenishment from supplier to end-consumer",
+      "To replace all human planners with AI",
+      "To eliminate all transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a competitive trade-off in supply chain strategy?",
+    "options": [
+      "Improving both flexibility and efficiency simultaneously",
+      "Reducing inventory while also reducing stockouts without cost",
+      "More inventory increases responsiveness but raises holding costs",
+      "Decreasing transportation cost while also decreasing delivery time"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the context of supply chain design, what does \"stochastic models\" help to plan for?",
+    "options": [
+      "Certain demand and fixed costs",
+      "Uncertainties in demand, freight costs, and exchange rates",
+      "The exact number of facilities needed",
+      "The color of packaging"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of the \"Focus\" strategy?",
+    "options": [
+      "Serving a broad market with low prices",
+      "Excelling in serving a specific market segment exceptionally well with deep understanding and customization",
+      "Offering unique products to all customers",
+      "Competing on cost alone"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main disadvantage of using a \"direct shipping\" model for the customer?",
+    "options": [
+      "High inventory cost for the retailer",
+      "Long delivery times",
+      "Complex returns process",
+      "High shipping cost for the manufacturer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of \"internal integration\" in a supply chain?",
+    "options": [
+      "Reduced interdepartmental communication",
+      "Higher logistics performance, customer satisfaction, and agility in meeting needs",
+      "Increased functional barriers",
+      "Lower priority on customer needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does the term \"in-transit merge\" refer to in network design?",
+    "options": [
+      "Goods shipped directly from manufacturer to customer",
+      "Items from multiple sources merged during transit, and customer receives one consolidated package",
+      "Customer picks up order at a warehouse",
+      "Retailer delivers goods directly to customer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of the \"Operational obstacles\" to supply chain coordination?",
+    "options": [
+      "Conflicting goals among partners",
+      "Physical constraints or inefficiencies in the supply chain",
+      "Lack of trust and poor communication",
+      "Distorted demand signals due to pricing policies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of a \"Transportation Management System (TMS)\" in supply chain design?",
+    "options": [
+      "To manage customer relationships",
+      "To automate transportation operations and improve efficiency in real-time",
+      "To replace all warehouse workers",
+      "To design new products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Behavioral obstacle\" to supply chain coordination?",
+    "options": [
+      "Incentive misalignment",
+      "Lack of trust and poor communication between partners",
+      "High inventory carrying costs",
+      "Exchange rate fluctuations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Multi-sourcing\" as a sourcing strategy?",
+    "options": [
+      "Close coordination with a single supplier",
+      "Cost and quality competition among several suppliers",
+      "Elimination of all supplier relationships",
+      "Guaranteed lowest price from one supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of the \"Information-sharing\" level of electronic integration?",
+    "options": [
+      "Joint planning and forecasting",
+      "One partner shares information; the other receives it without feedback or collaboration",
+      "Full integration of strategic and operational plans",
+      "No use of technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"supply chain design\" according to the text?",
+    "options": [
+      "The process of hiring logistics staff",
+      "The process of configuring the supply chain network including selection of suppliers, facilities, and transportation systems to ensure efficient flow in alignment with business objectives",
+      "The process of marketing products to end customers",
+      "The process of financial auditing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in the \"Threat of New Entrants\" force?",
+    "options": [
+      "Bargaining power of suppliers",
+      "Barriers to entry such as high initial investment and regulatory hurdles",
+      "Rivalry among existing competitors",
+      "Availability of substitute products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of competitive priorities, what does \"delivery reliability\" mean?",
+    "options": [
+      "Delivering products faster than competitors",
+      "Delivering products exactly when needed every time",
+      "Offering a wide variety of products",
+      "Reducing production costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Category Management\" in supply chain integration?",
+    "options": [
+      "To eliminate product categories",
+      "To prevent stockouts and improve supplier-retailer relations by balancing product volume and variety based on consumer insights",
+      "To reduce the number of categories sold",
+      "To focus only on high-priced items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Cost Advantage\" source of competitive advantage?",
+    "options": [
+      "Unique product features",
+      "Economies of scale and efficient operations reducing cost per unit",
+      "Strong brand recognition",
+      "High customer loyalty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of a \"Distributor + Package Carrier\" network model?",
+    "options": [
+      "Direct shipping from manufacturer to customer",
+      "Inventory held in distributor warehouses and delivered via package carriers for small orders across long distances",
+      "Customer pickup at retail store",
+      "In-transit merge of multiple sources"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of the \"Political factors\" in PESTEL analysis?",
+    "options": [
+      "Inflation rates and economic growth",
+      "Government stability, tax regulations, and trade agreements",
+      "Cultural values and demographic changes",
+      "Climate change and weather patterns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main disadvantage of \"Single sourcing\"?",
+    "options": [
+      "Lack of coordination with the supplier",
+      "High risk of supply disruption if the single supplier fails",
+      "Lower quality products",
+      "Higher total cost compared to multi-sourcing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Efficient operations\" in cost advantage?",
+    "options": [
+      "High overhead costs",
+      "Process optimization, lean principles, and effective resource allocation",
+      "Low production volume",
+      "Inefficient supply chain management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary goal of the \"Balancing\" between cost and service in network design?",
+    "options": [
+      "Maximize cost regardless of service",
+      "Match service goals with cost control",
+      "Eliminate all distribution centers",
+      "Focus only on customer satisfaction without cost consideration"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of the \"Social factors\" in PESTEL analysis?",
+    "options": [
+      "Interest rates and exchange rates",
+      "Population demographics, cultural values, and consumer preferences",
+      "Automation and R&D activity",
+      "Environmental regulations and waste management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of using a \"Warehouse pickup\" network model?",
+    "options": [
+      "High delivery cost",
+      "Customer picks up order at a warehouse or collection point, reducing last-mile delivery cost",
+      "Long delivery times",
+      "Complex returns process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in the \"Rivalry among Competitors\" force?",
+    "options": [
+      "Threat of substitutes",
+      "Industry growth, competitive concentration, and exit barriers",
+      "Bargaining power of buyers",
+      "Barriers to entry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"competitive strategy\" according to the text?",
+    "options": [
+      "A plan to reduce costs regardless of customers",
+      "How a firm meets customer needs better than competitors",
+      "A strategy to eliminate all competitors",
+      "A focus only on internal operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Technological factor\" in PESTEL analysis?",
+    "options": [
+      "Labor laws and trade tariffs",
+      "Rate of technological change, automation, and R&D activity",
+      "Health consciousness and lifestyle changes",
+      "Climate change and sustainability practices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Real-time visibility tools\" in supply chain networks?",
+    "options": [
+      "To hide shipment information from customers",
+      "To automate operations and improve efficiency by providing real-time tracking of goods",
+      "To increase inventory levels",
+      "To replace all manual processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in the \"Legal factors\" of PESTEL analysis?",
+    "options": [
+      "Exchange rates and economic growth",
+      "Industry-specific regulations, consumer protection laws, and health and safety requirements",
+      "Cultural values and media influence",
+      "Waste management and pollution controls"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Order Management Systems (OMS)\" in supply chain design?",
+    "options": [
+      "To manage warehouse inventory only",
+      "To automate order processing and improve efficiency in real-time",
+      "To replace all customer service representatives",
+      "To design new products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a \"Differentiation advantage\"?",
+    "options": [
+      "Lowest cost production",
+      "Offering products with unique features, superior quality, and value that stand out in the market",
+      "Serving a narrow market segment",
+      "Focusing only on price competition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main challenge of \"Electronic integration\" using internet-based technologies?",
+    "options": [
+      "High cost and incompatibility",
+      "Requires global connectivity and supply chain visibility, which can be complex",
+      "It is slower than traditional methods",
+      "It cannot share real-time information"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of the \"Environmental factors\" in PESTEL analysis?",
+    "options": [
+      "Government stability and trade agreements",
+      "Climate change, sustainability practices, and environmental regulations",
+      "Automation and digital transformation",
+      "Population demographics and education levels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary benefit of \"Collaborative planning, forecasting, and replenishment (CPFR)\"?",
+    "options": [
+      "Eliminates the need for any forecasting",
+      "Aligns supply and demand forecasts through shared planning, shifting the trade-off between service level and inventory cost",
+      "Increases inventory levels",
+      "Reduces customer service"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Flexibility\" competitive capability?",
+    "options": [
+      "Lowest price in the market",
+      "Ability to customize products or adjust production volume quickly",
+      "Fastest delivery speed",
+      "Highest product quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of the \"Forecasting\" step in environmental analysis?",
+    "options": [
+      "Identifying early indicators of change",
+      "Predicting future developments based on observed trends and monitored changes",
+      "Tracking emerging patterns",
+      "Evaluating the timing and impact of changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of \"Resource Analysis\" in internal environment analysis?",
+    "options": [
+      "Identifying competitor strategies",
+      "Evaluating tangible resources (physical assets) and intangible resources (brand equity, reputation)",
+      "Analyzing market trends",
+      "Assessing regulatory changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"outsourcing\" as described in the text?",
+    "options": [
+      "Performing all activities internally",
+      "Contracting work to a third party (locally or offshore) to focus on core business and reduce costs",
+      "Using a single supplier for all materials",
+      "Eliminating all third-party relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of \"3PL value aggregation\"?",
+    "options": [
+      "Loss of control over logistics",
+      "Combining inventory, transport, storage, and information sharing to create efficiency and cost reduction",
+      "Increased coordination problems",
+      "Higher supply chain costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main challenge of implementing a \"4PL\" model?",
+    "options": [
+      "Low complexity",
+      "Requires complex and costly IT systems for coordination and visibility",
+      "No need for technology",
+      "Simple management structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Capability Analysis\" in internal environment?",
+    "options": [
+      "Identifying external threats",
+      "Assessing the skills, knowledge, and functional expertise within the organization, including ability to innovate and adapt",
+      "Analyzing competitor pricing",
+      "Evaluating government regulations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary goal of \"supply chain integration\" according to the text?",
+    "options": [
+      "To isolate each department",
+      "To achieve close calibration and collaboration within the supply chain using shared management information systems",
+      "To eliminate all suppliers",
+      "To reduce customer communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Pricing obstacle\" to supply chain coordination?",
+    "options": [
+      "Lack of trust",
+      "Distorted demand signals due to pricing policies such as promotions",
+      "Physical constraints in transportation",
+      "Conflicting goals between departments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Quick Response (QR)\" systems?",
+    "options": [
+      "Increased inventory levels",
+      "Enhanced retailer-supply chain communication to deliver the right product at the right time, place, and price",
+      "Slower response to market changes",
+      "Higher costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in the \"Information-processing obstacles\" to coordination?",
+    "options": [
+      "Incentive misalignment",
+      "Data delays or errors in sharing information",
+      "Physical inefficiencies",
+      "Behavioral issues like lack of trust"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Category management\" in the grocery industry?",
+    "options": [
+      "To eliminate product categories",
+      "To prevent stockouts and improve supplier-retailer relations by understanding consumer behavior and balancing product volume and variety",
+      "To reduce the number of suppliers",
+      "To focus only on low-margin products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Incentive obstacles\" to supply chain coordination?",
+    "options": [
+      "Poor communication",
+      "Conflicting goals among partners, such as each stage optimizing its own profit rather than total supply chain profit",
+      "Physical constraints",
+      "Data delays"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main benefit of \"Cross-docking operations\" in continuous replenishment?",
+    "options": [
+      "Increased inventory holding",
+      "Efficient flow of products from inbound to outbound without storage, reducing handling and lead time",
+      "Higher transportation costs",
+      "More stockouts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Competitive capability\" related to time?",
+    "options": [
+      "Product variety",
+      "Delivery speed and lead time from order to delivery",
+      "Low cost production",
+      "High product quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain visibility\" in electronic integration?",
+    "options": [
+      "To hide information from partners",
+      "To gain competitive advantage by having real-time access to stock levels, shipment tracking, and other data",
+      "To increase costs",
+      "To reduce coordination"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of the \"Building Blocks\" in supply chain design framework?",
+    "options": [
+      "Business environment and desired outcomes",
+      "Operational elements such as inventory, capacity, transportation, and technology decisions",
+      "Social and behavioral design",
+      "Political influencers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of using \"Incentive alignment\" to overcome coordination obstacles?",
+    "options": [
+      "Creating conflicting goals",
+      "Ensuring that all supply chain stages have aligned objectives to maximize total supply chain profit",
+      "Increasing local optimization",
+      "Reducing information sharing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a \"Monopolistic competition\" market structure?",
+    "options": [
+      "A single firm controls the entire market",
+      "Several firms with differentiated products compete",
+      "Numerous small players with identical products",
+      "No competition at all"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Core competencies\" as described in the text?",
+    "options": [
+      "Any activity that can be easily outsourced",
+      "Unique skills, technologies, processes, or knowledge that a company does exceptionally well and that are difficult to replicate",
+      "Financial resources available for investment",
+      "Physical assets such as buildings and equipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in achieving \"Cost leadership\"?",
+    "options": [
+      "High product variety",
+      "Economies of scale and streamlined operations",
+      "Exceptional customer service",
+      "Unique product features"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Competitor analysis\" in industry analysis?",
+    "options": [
+      "To ignore competitor actions",
+      "To understand competitors' strengths, weaknesses, strategies, and market positions",
+      "To copy competitors exactly",
+      "To eliminate all competitors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Differentiation\" strategy in the airline industry?",
+    "options": [
+      "Southwest Airlines focusing on low cost",
+      "Singapore Airlines offering excellent service, gourmet meals, and comfortable cabins for a premium price",
+      "A regional airline with no frills",
+      "A cargo airline only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Resource-based theory\" in competitive advantage?",
+    "options": [
+      "Ignoring internal resources",
+      "Leveraging unique and valuable internal resources and capabilities to achieve sustainable competitive advantage",
+      "Focusing only on external market conditions",
+      "Reducing all resources to commodities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"In-sourcing\"?",
+    "options": [
+      "Reduced control over production",
+      "Firm handles everything internally, maintaining full control and proprietary knowledge",
+      "Lower costs due to labor arbitrage",
+      "Access to external expertise"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main challenge of \"Multi-sourcing\"?",
+    "options": [
+      "Close coordination with one supplier",
+      "Managing multiple supplier relationships and ensuring consistent quality",
+      "Lower competition",
+      "Higher dependency on a single source"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Risk sharing\" as a benefit of outsourcing?",
+    "options": [
+      "All risks remain with the buyer",
+      "Contracts can allocate certain risks to the outsourcing provider",
+      "No risk mitigation is possible",
+      "Risks are always eliminated"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Competitive capabilities\" related to quality?",
+    "options": [
+      "Fast delivery times",
+      "Top quality (exceptional product) and consistent quality (meeting design specifications every time)",
+      "Low cost production",
+      "High volume flexibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Supply chain responsiveness\"?",
+    "options": [
+      "Low inventory levels only",
+      "Flexibility, reliability, timeliness, and institutionalized quick response systems",
+      "High fixed costs",
+      "Slow decision-making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary advantage of using \"Differential pricing\" in supply chain strategy?",
+    "options": [
+      "Charging the same price to all customers",
+      "Meeting varied customer needs by charging different prices based on value, increasing total profit",
+      "Reducing revenue",
+      "Eliminating price sensitivity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Local optimization\" as a cause of poor coordination?",
+    "options": [
+      "Maximizing total supply chain profit",
+      "Prioritizing sub-parts (individual departments) over the whole supply chain",
+      "Sharing information across all stages",
+      "Aligning incentives globally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main effect of \"Information delays\" on supply chain performance?",
+    "options": [
+      "Improved forecasting accuracy",
+      "Increased variability and bullwhip effect, leading to higher costs and lower service levels",
+      "Reduced inventory levels",
+      "Better customer satisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of \"Supply chain network design\" decisions?",
+    "options": [
+      "Marketing campaigns",
+      "Number, location, and size of facilities to minimize cost and improve service",
+      "Employee training programs",
+      "Product packaging design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Stakeholder analysis\" in environmental scanning?",
+    "options": [
+      "To ignore stakeholder concerns",
+      "To identify the \"right\" stakeholders and their \"stakes\" to assess risk and opportunity factors",
+      "To eliminate all external stakeholders",
+      "To focus only on internal stakeholders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Trade-off\" in supply chain design?",
+    "options": [
+      "Improving both cost and speed simultaneously without sacrifice",
+      "Facility costs vs. responsiveness; inventory vs. production cost; speed vs. transport cost",
+      "No trade-offs are needed",
+      "Always choosing the lowest cost option"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Flexibility\" as a competitive capability?",
+    "options": [
+      "Lowest cost",
+      "Ability to adapt to design changes, volume fluctuations, and customize products",
+      "Fastest delivery",
+      "Highest quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Supply chain surplus\" increase?",
+    "options": [
+      "Outsourcing only if it decreases surplus",
+      "Choosing strategies that reduce cost or raise revenue, and differential pricing",
+      "Ignoring value creation",
+      "Focusing only on cost reduction without considering revenue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Competitiveness\" in strategic management?",
+    "options": [
+      "How well a firm satisfies its internal employees",
+      "How well a firm satisfies customers compared to rivals",
+      "The number of products sold",
+      "The total profit margin"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Quality\" competitive capability?",
+    "options": [
+      "Low price",
+      "High performance design and consistent quality meeting specifications",
+      "Fast delivery",
+      "Product variety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Supply chain integration\" at the inter-company level?",
+    "options": [
+      "To isolate each company",
+      "To link activities with external partners like suppliers or logistics firms for improved coordination",
+      "To eliminate all suppliers",
+      "To reduce communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of \"Manual coordination\" between companies?",
+    "options": [
+      "High speed and accuracy",
+      "Limited to simple inventory level coordination, not real-time or collaborative",
+      "Low cost",
+      "Full automation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary goal of \"Electronic integration\" using internet-based technologies?",
+    "options": [
+      "To replace all human interaction",
+      "To achieve global connectivity, ease of access, scalability, and supply chain visibility",
+      "To increase paper-based transactions",
+      "To reduce information sharing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Transactional\" level of electronic integration?",
+    "options": [
+      "Collaborative planning",
+      "E-commerce (B2B) and document exchanges only",
+      "Real-time inventory visibility",
+      "Joint forecasting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Collaborative planning\" over \"Information sharing\"?",
+    "options": [
+      "No feedback is required",
+      "Partners align plans to better understand and meet future demand profitably, including joint efforts in new product planning and demand forecasting",
+      "Less integration",
+      "Reduced visibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"ECR (Efficient Consumer Response)\"?",
+    "options": [
+      "Increasing supply chain costs",
+      "Enhancing merchandising effectiveness, inventory flow, and supply chain efficiency to fulfill changing customer demands",
+      "Reducing product assortment",
+      "Eliminating promotions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Vendor-Managed Inventory (VMI)\" in reducing waste?",
+    "options": [
+      "The customer controls all inventory decisions",
+      "The supplier manages replenishment based on retailer's sales data, reducing stockouts and overstocks",
+      "Eliminating all inventory",
+      "Increasing order sizes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Focused strategy\" in the automotive industry?",
+    "options": [
+      "Producing cars for all market segments",
+      "Rolls-Royce focusing on the luxury car market with high customization and deep customer relationships",
+      "Mass-producing economy cars",
+      "Competing only on price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Capability analysis\" in internal environment?",
+    "options": [
+      "To identify external opportunities",
+      "To assess the organization's ability to innovate, execute strategies, and adapt to changes",
+      "To evaluate competitor strengths",
+      "To analyze market trends"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Porter's Five Forces\" that determines the intensity of competition?",
+    "options": [
+      "PESTEL factors",
+      "Rivalry among existing competitors",
+      "SWOT analysis",
+      "Resource analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Strategic network planning\" in supply chain design?",
+    "options": [
+      "Deciding on the color of warehouses",
+      "Deciding on number of distribution centers, locations, inventory levels, and customer assignments to match service goals with cost control",
+      "Selecting office furniture",
+      "Hiring logistics staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration in \"Transportation design options\"?",
+    "options": [
+      "Ignoring product characteristics",
+      "Direct shipping, milk runs, central distribution, and tailored transport based on product and customer needs",
+      "Only one mode of transport",
+      "No trade-offs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Milk runs\" in transportation?",
+    "options": [
+      "Higher cost per delivery",
+      "Consolidating multiple pickups or deliveries on a single route to reduce transportation cost",
+      "Longer transit times",
+      "Increased empty miles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Tailored transport\"?",
+    "options": [
+      "Using the same transport mode for all products",
+      "Customizing transportation based on product characteristics, customer requirements, or other factors to balance cost and service",
+      "Ignoring customer needs",
+      "Always using air freight"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"System engineers\" in supply chain design?",
+    "options": [
+      "To ignore cost considerations",
+      "To collaborate with supply managers, logistics teams, and OEMs to align design with strategy, cost, and service goals",
+      "To work alone",
+      "To avoid flexibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key outcome of poor supply chain coordination on manufacturing cost?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "No effect",
+      "Becomes zero"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main effect of lack of coordination on product availability?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "No change",
+      "Becomes infinite"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a behavioral obstacle to supply chain coordination?",
+    "options": [
+      "High inventory costs",
+      "Lack of trust and poor communication between supply chain partners",
+      "Physical constraints",
+      "Pricing promotions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Trust-based partnerships\" in supply chain integration?",
+    "options": [
+      "To reduce communication",
+      "To foster deeper relationships that enhance collaboration and coordination",
+      "To increase conflict",
+      "To eliminate all contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Competitive priority\" for FedEx?",
+    "options": [
+      "Low cost",
+      "Speed and dependability of deliveries",
+      "Product variety",
+      "Customization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Dell's supply chain\" strategy mentioned in the text?",
+    "options": [
+      "High inventory levels",
+      "Flexibility to customize products and direct sales model",
+      "Long lead times",
+      "Low customer responsiveness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"McMaster-Carr's\" competitive strategy?",
+    "options": [
+      "Low prices only",
+      "Product variety and responsiveness",
+      "Elimination of inventory",
+      "Slow delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Supply chain visibility\"?",
+    "options": [
+      "Hiding information from partners",
+      "The ability to track and see the status of inventory, orders, and shipments in real-time across the supply chain",
+      "Increasing uncertainty",
+      "Reducing information access"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Cross-company collaboration\"?",
+    "options": [
+      "Increased silos",
+      "Greater total profits when all supply chain stages act together",
+      "Higher local optimization",
+      "Reduced information sharing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main role of \"Order fulfillment\" in supply chain activities?",
+    "options": [
+      "Designing new products",
+      "Processing and delivering customer orders accurately and on time",
+      "Sourcing raw materials",
+      "Managing supplier relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Production\" in supply chain activities?",
+    "options": [
+      "Marketing products",
+      "Converting raw materials into finished goods",
+      "Managing customer returns",
+      "Forecasting demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Demand forecasting\" in supply chain management?",
+    "options": [
+      "To eliminate all inventory",
+      "To predict future customer demand to plan production, inventory, and capacity",
+      "To increase uncertainty",
+      "To reduce responsiveness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"Procurement\" in supply chain activities?",
+    "options": [
+      "Delivering goods to customers",
+      "Acquiring raw materials, components, and services from suppliers",
+      "Manufacturing products",
+      "Designing products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Centralized distribution\" over decentralized?",
+    "options": [
+      "Higher local responsiveness",
+      "Lower inventory costs through consolidation and economies of scale",
+      "Faster delivery to all customers",
+      "Lower transportation costs for all shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in choosing between \"Own vs. outsource\" distribution?",
+    "options": [
+      "Only cost",
+      "Product type, price, customer expectations, and strategic importance",
+      "Only speed",
+      "Only brand name"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Supply chain life cycle\" in the design framework?",
+    "options": [
+      "The lifespan of a single product",
+      "The stage of maturity of the supply chain, influencing design decisions",
+      "The time it takes to manufacture a product",
+      "The duration of a transportation route"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of \"Influencers\" in supply chain design?",
+    "options": [
+      "Inventory and capacity decisions",
+      "Business and political environment, active business model, desired outcomes, and supply chain life cycle",
+      "Transportation and technology decisions",
+      "Social and behavioral design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Design decisions\" in the supply chain design framework?",
+    "options": [
+      "To ignore external factors",
+      "To define the supply chain in terms of social, behavioral, and physical/structural design",
+      "To only focus on operational elements",
+      "To eliminate all design choices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"Physical/structural design\" decision?",
+    "options": [
+      "Employee motivation",
+      "Number and location of warehouses and transportation links",
+      "Corporate culture",
+      "Communication protocols"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Flexibility\" in supply chain design?",
+    "options": [
+      "Lower investment costs",
+      "Ability to adapt to uncertainty in demand, prices, and supply",
+      "Reduced responsiveness",
+      "Fixed structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Centralization vs. regionalization\" decision?",
+    "options": [
+      "Only cost",
+      "Balance between economies of scale and responsiveness to local markets",
+      "Only speed",
+      "Only brand image"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Reverse logistics\" in supply chain design?",
+    "options": [
+      "Forward movement of goods",
+      "Managing returns, recycling, and disposal of products",
+      "Eliminating all returns",
+      "Focusing only on outbound shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration in \"Transportation mode selection\"?",
+    "options": [
+      "Only cost",
+      "Speed, cost, reliability, capability, and product characteristics",
+      "Only speed",
+      "Only environmental impact"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Intermodal transportation\"?",
+    "options": [
+      "Single mode simplicity",
+      "Combining the benefits of multiple modes (e.g., low cost of water and flexibility of road)",
+      "Higher cost",
+      "Longer transit times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of \"Global supply chain networks\"?",
+    "options": [
+      "Simple coordination",
+      "Complexity, longer lead times, currency fluctuations, and regulatory differences",
+      "Low transportation costs",
+      "Fast and easy customs clearance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain mapping\"?",
+    "options": [
+      "To hide supply chain structure",
+      "To visualize and understand the flow of materials, information, and finances across all supply chain stages",
+      "To eliminate all suppliers",
+      "To reduce transparency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Sustainable supply chain design\"?",
+    "options": [
+      "Ignoring environmental impact",
+      "Integrating environmental and social considerations into network and transportation decisions",
+      "Focusing only on cost minimization",
+      "Eliminating all waste without regard to cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Risk pooling\" in network design?",
+    "options": [
+      "Increasing inventory levels",
+      "Reducing inventory by aggregating demand across multiple locations",
+      "Decreasing service levels",
+      "Increasing variability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Facility location decisions\"?",
+    "options": [
+      "Only proximity to suppliers",
+      "Proximity to customers, labor costs, infrastructure, taxes, and regulatory environment",
+      "Only proximity to competitors",
+      "Only weather conditions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Demand uncertainty\" in supply chain design?",
+    "options": [
+      "Certain and predictable demand",
+      "Unpredictable fluctuations in customer demand that require flexible design",
+      "No variation in demand",
+      "Constant demand over time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of \"Capacity planning\" in supply chain design?",
+    "options": [
+      "Ignoring future demand",
+      "Determining the amount of production or storage capacity needed to meet forecasted demand",
+      "Reducing all capacity to zero",
+      "Only focusing on current capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Scenario planning\" in supply chain design?",
+    "options": [
+      "To assume a single future",
+      "To prepare for multiple possible futures by developing flexible strategies",
+      "To ignore uncertainty",
+      "To fix all decisions permanently"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Postponement\" in supply chain design?",
+    "options": [
+      "Early customization",
+      "Delaying final product configuration until customer orders are received, reducing inventory risk",
+      "Increasing lead times",
+      "Higher inventory levels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Technology\" in supply chain design?",
+    "options": [
+      "To complicate operations",
+      "To enable visibility, automation, and coordination through systems like TMS, WMS, and OMS",
+      "To replace all human workers",
+      "To increase costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Agile supply chain\"?",
+    "options": [
+      "Rigid and slow to change",
+      "Responsive to market changes and customer demands with flexibility and speed",
+      "Focused only on cost reduction",
+      "Long lead times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Lean supply chain\"?",
+    "options": [
+      "High inventory levels",
+      "Eliminating waste and non-value-added activities to reduce cost",
+      "Low efficiency",
+      "High variability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key trade-off between \"Lean\" and \"Agile\"?",
+    "options": [
+      "No trade-off exists",
+      "Lean focuses on cost efficiency; agile focuses on responsiveness, which may require extra cost",
+      "They are identical",
+      "Agile is always cheaper"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Supply chain resilience\"?",
+    "options": [
+      "Ignoring disruptions",
+      "The ability to recover quickly from disruptions such as natural disasters or supplier failures",
+      "Avoiding all risks",
+      "Having no contingency plans"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"Risk management\" in supply chain?",
+    "options": [
+      "Ignoring potential disruptions",
+      "Identifying, assessing, and mitigating risks such as supplier failure, demand fluctuation, and logistics delays",
+      "Assuming no risks exist",
+      "Eliminating all suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supplier diversification\"?",
+    "options": [
+      "Using only one supplier",
+      "Spreading purchases across multiple suppliers to reduce risk of disruption",
+      "Increasing dependency",
+      "Reducing competition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Inventory optimization\"?",
+    "options": [
+      "Holding maximum inventory always",
+      "Balancing inventory holding costs against stockout costs and service levels",
+      "Eliminating all inventory",
+      "Ignoring demand variability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Cross-docking\"?",
+    "options": [
+      "Long storage times",
+      "Reducing handling and storage costs by transferring goods directly from inbound to outbound trucks",
+      "Increasing inventory levels",
+      "Slowing down flow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Pull system\" in supply chain?",
+    "options": [
+      "Production based on forecasts only",
+      "Production triggered by actual customer demand, reducing inventory",
+      "Push-based with high inventory",
+      "No customer involvement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Push system\"?",
+    "options": [
+      "Responding to actual demand",
+      "Producing goods based on forecasted demand before orders are received",
+      "Eliminating waste",
+      "Reducing lead times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key difference between \"Push\" and \"Pull\"?",
+    "options": [
+      "No difference",
+      "Push is forecast-driven; pull is demand-driven",
+      "Push is more responsive",
+      "Pull has higher inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main benefit of \"CPFR\" (Collaborative Planning, Forecasting, and Replenishment)?",
+    "options": [
+      "Reduced collaboration",
+      "Improved forecast accuracy and inventory efficiency through joint planning",
+      "Higher stockouts",
+      "Increased costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of \"CPFR\" implementation?",
+    "options": [
+      "Simple to implement",
+      "Requires trust, information sharing, and technology integration between partners",
+      "No benefits",
+      "Low cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Supply chain agility\"?",
+    "options": [
+      "Slow response to change",
+      "The ability to respond quickly to unexpected changes in demand or supply",
+      "Rigid processes",
+      "Long planning cycles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Supply chain alignment\"?",
+    "options": [
+      "Conflicting goals",
+      "Ensuring that strategies, processes, and incentives of all supply chain partners are consistent",
+      "Local optimization",
+      "Information silos"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Performance measurement\" in supply chain management?",
+    "options": [
+      "To ignore results",
+      "To track KPIs such as on-time delivery, inventory turns, and total cost to identify improvement areas",
+      "To eliminate all metrics",
+      "To focus only on cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key KPI for supply chain responsiveness?",
+    "options": [
+      "Total cost",
+      "Order cycle time and on-time delivery percentage",
+      "Inventory holding cost",
+      "Number of suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Perfect order rate\"?",
+    "options": [
+      "Percentage of orders delivered at the lowest cost",
+      "Percentage of orders delivered on time, complete, damage-free, and with accurate documentation",
+      "Percentage of orders returned",
+      "Number of orders per day"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Supply chain analytics\"?",
+    "options": [
+      "Using intuition only",
+      "Using data and quantitative methods to improve decision-making in design, planning, and operations",
+      "Ignoring data",
+      "Avoiding technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Prescriptive analytics\"?",
+    "options": [
+      "Describing what happened",
+      "Recommending actions to achieve desired outcomes",
+      "Predicting what might happen",
+      "No value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"Predictive analytics\" in supply chain?",
+    "options": [
+      "Reporting past sales",
+      "Forecasting future demand using machine learning",
+      "Recommending inventory levels",
+      "Visualizing current inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Descriptive analytics\"?",
+    "options": [
+      "To prescribe actions",
+      "To describe what has happened in the past using dashboards and reports",
+      "To predict future events",
+      "To optimize decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Supply chain digitalization\"?",
+    "options": [
+      "Increased manual work",
+      "Improved efficiency, visibility, and decision-making through technologies like IoT, AI, and blockchain",
+      "Higher costs",
+      "Slower response"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Blockchain\" in supply chains?",
+    "options": [
+      "To increase fraud",
+      "To provide a secure, immutable ledger for tracking transactions and product provenance",
+      "To hide information",
+      "To slow down processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Internet of Things (IoT)\" in supply chain?",
+    "options": [
+      "No connectivity",
+      "Sensors and devices that provide real-time tracking of location, temperature, and condition of goods",
+      "Manual data entry only",
+      "Low visibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Artificial Intelligence (AI)\" in demand forecasting?",
+    "options": [
+      "Lower accuracy",
+      "Improved accuracy by analyzing large datasets and identifying patterns",
+      "Slower processing",
+      "Higher cost without benefit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of implementing AI in supply chains?",
+    "options": [
+      "Simple integration",
+      "Data quality requirements, cost, and need for skilled personnel",
+      "No benefits",
+      "Low complexity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Supply chain control tower\"?",
+    "options": [
+      "A physical tower in a warehouse",
+      "A centralized platform that provides end-to-end visibility and real-time decision support",
+      "A type of transportation vehicle",
+      "A financial department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key function of a control tower?",
+    "options": [
+      "Hiding information",
+      "Monitoring, alerting, and orchestrating supply chain activities to manage exceptions",
+      "Increasing silos",
+      "Reducing coordination"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Digital twin\" in supply chain?",
+    "options": [
+      "A physical replica",
+      "A virtual model of the supply chain used for simulation and scenario analysis",
+      "A type of warehouse robot",
+      "A financial report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of using a digital twin?",
+    "options": [
+      "No testing before implementation",
+      "Ability to simulate changes and predict outcomes without disrupting real operations",
+      "Higher risk",
+      "Slower decision-making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Robotic process automation (RPA)\" in supply chain?",
+    "options": [
+      "Increased manual errors",
+      "Automating repetitive tasks like order entry and invoice processing, reducing costs and errors",
+      "Slower processing",
+      "Higher labor costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key trend in \"Supply chain sustainability\"?",
+    "options": [
+      "Ignoring carbon emissions",
+      "Circular economy practices, carbon footprint reduction, and ethical sourcing",
+      "Increasing waste",
+      "Short-term focus only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Circular supply chain\"?",
+    "options": [
+      "Linear flow of materials",
+      "A closed-loop system where products are reused, remanufactured, or recycled to minimize waste",
+      "Single-use products",
+      "High disposal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"Ethical sourcing\"?",
+    "options": [
+      "Using child labor",
+      "Ensuring suppliers adhere to labor rights, environmental standards, and anti-corruption practices",
+      "Ignoring supplier practices",
+      "Lowest cost only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain risk assessment\"?",
+    "options": [
+      "To ignore potential disruptions",
+      "To identify, evaluate, and prioritize risks to develop mitigation strategies",
+      "To eliminate all risk management",
+      "To assume no risk exists"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of \"Business continuity planning\"?",
+    "options": [
+      "No plan for disruptions",
+      "Developing procedures to maintain essential functions during and after a disaster",
+      "Ignoring backup suppliers",
+      "Single point of failure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Dual sourcing\"?",
+    "options": [
+      "Higher risk of disruption",
+      "Using two suppliers for the same component to reduce risk and increase competition",
+      "Lower quality",
+      "Higher dependency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Near-shoring\"?",
+    "options": [
+      "Sourcing from distant countries",
+      "Moving production closer to the end market to reduce lead time and risk",
+      "Longer supply chains",
+      "Higher transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary driver for \"Reshoring\"?",
+    "options": [
+      "Lowest labor cost",
+      "Concerns about supply chain risk, quality, and intellectual property protection",
+      "Longer lead times",
+      "Lower customer satisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Total cost of ownership (TCO)\" analysis?",
+    "options": [
+      "Only purchase price",
+      "All costs associated with acquiring, using, and disposing of a product, including logistics, maintenance, and disposal",
+      "Ignoring hidden costs",
+      "Only transportation cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Strategic partnerships\" with suppliers?",
+    "options": [
+      "Short-term contracts only",
+      "Long-term collaboration leading to innovation, cost reduction, and risk sharing",
+      "Adversarial relationships",
+      "Frequent re-bidding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Transactional purchasing\"?",
+    "options": [
+      "Long-term relationships",
+      "Short-term, price-focused buying with minimal collaboration",
+      "Strategic integration",
+      "Joint planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supplier scorecard\"?",
+    "options": [
+      "To ignore supplier performance",
+      "To measure and track supplier performance on metrics like quality, delivery, cost, and sustainability",
+      "To eliminate all suppliers",
+      "To focus only on price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"Supplier development\"?",
+    "options": [
+      "Avoiding supplier improvement",
+      "Working with suppliers to improve their capabilities and performance",
+      "Switching suppliers frequently",
+      "Ignoring supplier issues"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main benefit of \"Early supplier involvement (ESI)\"?",
+    "options": [
+      "Late design changes",
+      "Involving suppliers in product design to reduce cost and improve manufacturability",
+      "Higher development costs",
+      "Longer time to market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Make-or-buy\" decisions?",
+    "options": [
+      "Only cost",
+      "Strategic importance, core competency, cost, quality, and capacity",
+      "Only speed",
+      "Only brand reputation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Vertical integration\"?",
+    "options": [
+      "Outsourcing all activities",
+      "Owning multiple stages of the supply chain (e.g., raw materials to finished goods)",
+      "Focusing only on one stage",
+      "Eliminating all suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of \"Vertical integration\"?",
+    "options": [
+      "Lower control",
+      "High investment and reduced flexibility",
+      "Lower cost",
+      "Simpler management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Backward integration\"?",
+    "options": [
+      "Moving closer to customers",
+      "Acquiring suppliers to control raw materials and reduce dependency",
+      "Outsourcing production",
+      "Reducing control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"Forward integration\"?",
+    "options": [
+      "Buying a supplier",
+      "Acquiring a distributor or retailer to get closer to customers",
+      "Outsourcing logistics",
+      "Reducing production capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain segmentation\"?",
+    "options": [
+      "Treating all customers the same",
+      "Designing different supply chain strategies for different customer segments or product types to optimize service and cost",
+      "Ignoring customer differences",
+      "Single strategy for all"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Customer segmentation\" for supply chain design?",
+    "options": [
+      "Only geographic location",
+      "Order size, service requirements, profitability, and demand variability",
+      "Only product color",
+      "Only brand loyalty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Product segmentation\"?",
+    "options": [
+      "Same logistics for all products",
+      "Using different logistics strategies for fast-moving vs. slow-moving products to optimize inventory and transportation",
+      "Ignoring product characteristics",
+      "Higher overall cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"ABC analysis\" in inventory management?",
+    "options": [
+      "All items treated equally",
+      "Classifying items based on value (A high, B medium, C low) to focus management efforts",
+      "Ignoring item value",
+      "Random classification"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Safety stock\"?",
+    "options": [
+      "To increase inventory holding cost",
+      "To buffer against demand and supply uncertainty to prevent stockouts",
+      "To eliminate all inventory",
+      "To reduce service levels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in determining safety stock levels?",
+    "options": [
+      "Only cost",
+      "Demand variability, lead time variability, and desired service level",
+      "Only product color",
+      "Only supplier name"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Order cycle time\"?",
+    "options": [
+      "Time to manufacture a product",
+      "Time from order placement to delivery to customer",
+      "Time to process payment",
+      "Time to design a product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key metric for \"Delivery performance\"?",
+    "options": [
+      "Total cost",
+      "On-time delivery percentage",
+      "Number of employees",
+      "Warehouse size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Dynamic routing\" in transportation?",
+    "options": [
+      "Fixed routes always",
+      "Adjusting routes in real-time based on traffic, weather, and orders to reduce cost and time",
+      "Longer routes",
+      "Higher fuel consumption"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key technology for \"Dynamic routing\"?",
+    "options": [
+      "Paper maps",
+      "GPS and real-time traffic data integrated with TMS",
+      "Manual scheduling",
+      "Fixed schedules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Freight auditing\"?",
+    "options": [
+      "To ignore freight bills",
+      "To verify freight invoices for accuracy against contracts and detect overcharges",
+      "To increase costs",
+      "To pay all bills without review"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Collaborative transportation management (CTM)\"?",
+    "options": [
+      "Shippers and carriers working separately",
+      "Shippers, carriers, and receivers collaborating to optimize transportation efficiency",
+      "Adversarial relationships",
+      "No information sharing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main benefit of \"Shared truckload\"?",
+    "options": [
+      "Each shipper uses separate trucks",
+      "Combining less-than-truckload shipments from multiple shippers to achieve full truckload efficiency",
+      "Higher cost per unit",
+      "More empty miles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"Routing guide\"?",
+    "options": [
+      "No instructions for carriers",
+      "A set of rules specifying carrier selection, routes, and procedures for shipments",
+      "Random carrier choice",
+      "Ignoring service levels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Accessorial charges\"?",
+    "options": [
+      "Base freight rate",
+      "Additional fees for services like detention, liftgate, or inside delivery",
+      "Fuel surcharge only",
+      "No extra fees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"LTL (Less-than-Truckload) vs. FTL (Full Truckload)\" decision?",
+    "options": [
+      "Only distance",
+      "Shipment size, weight, urgency, and cost per unit",
+      "Only product color",
+      "Only carrier name"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"FTL\" over \"LTL\"?",
+    "options": [
+      "Lower cost for small shipments",
+      "Faster transit and less handling damage",
+      "More stops",
+      "Higher risk of damage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Intermodal transportation\"?",
+    "options": [
+      "Single mode only",
+      "Use of multiple modes (e.g., rail and truck) with a single container, combining cost and speed benefits",
+      "Longer transit times",
+      "Higher cost than direct truck"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Containerization\"?",
+    "options": [
+      "Loose loading only",
+      "Standardizing goods into containers for efficient intermodal transfer",
+      "Higher damage rates",
+      "Slower handling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Container shipping\"?",
+    "options": [
+      "Easy theft",
+      "Reduced handling, lower damage, and faster transfer between modes",
+      "Higher labor costs",
+      "Less security"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Drayage\"?",
+    "options": [
+      "Long-haul trucking",
+      "Short-distance trucking to move containers between ports, rail yards, and warehouses",
+      "Air freight",
+      "Ocean shipping"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in \"Port operations\"?",
+    "options": [
+      "Fast processing",
+      "Congestion, labor disputes, and customs delays",
+      "Low cost",
+      "High capacity always"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Customs brokerage\"?",
+    "options": [
+      "To ignore regulations",
+      "To facilitate clearance of goods through customs by preparing documentation and paying duties",
+      "To increase delays",
+      "To avoid compliance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key document for international shipping?",
+    "options": [
+      "Sales receipt only",
+      "Bill of lading, commercial invoice, packing list, and certificate of origin",
+      "Internal memo",
+      "Employee timesheet"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Letter of credit (L/C)\"?",
+    "options": [
+      "A payment guarantee from the buyer's bank to the seller, ensuring payment upon presentation of compliant documents",
+      "A type of insurance",
+      "A transportation document",
+      "A supplier contract"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a key advantage of using a \"Letter of credit\"?",
+    "options": [
+      "No bank involvement",
+      "Reduces payment risk for both buyer and seller",
+      "High cost with no benefit",
+      "Slower payment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"Incoterms\"?",
+    "options": [
+      "To complicate trade",
+      "To define responsibilities for transportation, risk, and costs between buyer and seller",
+      "To ignore international rules",
+      "To increase disputes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of an \"EXW\" Incoterm?",
+    "options": [
+      "Seller pays for main carriage",
+      "Buyer takes full responsibility from seller's premises",
+      "Seller delivers to destination",
+      "Seller pays insurance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main responsibility of the seller under \"FOB\" Incoterm?",
+    "options": [
+      "Delivery to buyer's warehouse",
+      "Loading goods onto vessel at named port of shipment; risk transfers at ship's rail",
+      "Paying import duties",
+      "Arranging main carriage only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"CIF\" Incoterm?",
+    "options": [
+      "Buyer pays insurance",
+      "Seller pays cost, insurance, and freight to destination port",
+      "Buyer arranges main carriage",
+      "Risk transfers at origin"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"DDP\" Incoterm?",
+    "options": [
+      "Seller delivers goods at own premises",
+      "Seller bears all risks and costs to deliver goods to named destination, including import clearance and duties",
+      "Buyer takes all responsibility",
+      "No seller obligation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in choosing the right Incoterm?",
+    "options": [
+      "Only cost",
+      "Balance of risk, cost, and control between buyer and seller",
+      "Only speed",
+      "Only product type"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of using a \"Freight forwarder\"?",
+    "options": [
+      "Doing all logistics internally",
+      "Expert coordination of international shipments, documentation, and customs clearance",
+      "Higher costs",
+      "Slower delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key service provided by a freight forwarder?",
+    "options": [
+      "Only trucking",
+      "Consolidation, booking cargo space, documentation, and customs brokerage",
+      "Only warehousing",
+      "Only insurance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"NVOCC\" (Non-Vessel Operating Common Carrier)?",
+    "options": [
+      "Operating vessels",
+      "Issuing bills of lading and consolidating cargo without owning ships",
+      "Only air freight",
+      "Only trucking"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of using a \"NVOCC\"?",
+    "options": [
+      "Direct vessel operation",
+      "Lower rates through consolidation and flexible scheduling",
+      "No liability",
+      "Single mode only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Demurrage\"?",
+    "options": [
+      "Early loading fee",
+      "Charges for delaying the return of containers or exceeding free time at ports or terminals",
+      "Discount for early pickup",
+      "Fuel surcharge"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Warehouse layout design\"?",
+    "options": [
+      "Random storage",
+      "Optimizing flow of goods, reducing travel distance, and maximizing space utilization",
+      "Ignoring efficiency",
+      "No use of technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Cross-dock warehouse\"?",
+    "options": [
+      "Long-term storage",
+      "Minimal storage, immediate transfer to outbound, reducing inventory holding",
+      "High inventory levels",
+      "Slow processing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Dedicated warehouse\"?",
+    "options": [
+      "Shared with multiple companies",
+      "Owned or leased by a single company for its exclusive use",
+      "Public access",
+      "No control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Slotting optimization\"?",
+    "options": [
+      "Random placement",
+      "Determining optimal location for each SKU in a warehouse to reduce picking travel time",
+      "Ignoring product velocity",
+      "Fixed locations only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key metric for \"Warehouse productivity\"?",
+    "options": [
+      "Total cost only",
+      "Orders picked per hour, accuracy rate, and dock-to-stock time",
+      "Number of employees only",
+      "Building size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Order picking\"?",
+    "options": [
+      "Storing products",
+      "Retrieving items from storage to fulfill customer orders",
+      "Shipping products",
+      "Receiving products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"Zone picking\"?",
+    "options": [
+      "One picker covers entire warehouse",
+      "Each picker assigned to a specific zone, and orders passed between zones",
+      "No organization",
+      "Random picking"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Wave picking\"?",
+    "options": [
+      "Picking one order at a time",
+      "Releasing batches of orders at scheduled times to improve efficiency",
+      "No scheduling",
+      "Slower processing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key technology for \"Warehouse automation\"?",
+    "options": [
+      "Manual pallet jacks",
+      "Conveyors, automated storage and retrieval systems (AS/RS), and robots",
+      "Paper lists only",
+      "No technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Cycle counting\"?",
+    "options": [
+      "Annual full inventory count only",
+      "Regularly counting a subset of inventory to maintain accuracy without shutting down operations",
+      "Ignoring inventory accuracy",
+      "Only physical inventory once per year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Accurate inventory records\"?",
+    "options": [
+      "Higher stockouts",
+      "Better planning, lower safety stock, and improved customer service",
+      "Lower visibility",
+      "Higher costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Stockout\"?",
+    "options": [
+      "Excess inventory",
+      "When inventory is unavailable to meet customer demand",
+      "Fast-moving product",
+      "High turnover"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key cause of \"Stockout\"?",
+    "options": [
+      "Too much inventory",
+      "Inaccurate forecasting, supply disruptions, or long lead times",
+      "Slow-moving items",
+      "High safety stock"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"Inventory turnover\" metric?",
+    "options": [
+      "To measure holding cost",
+      "To measure how many times inventory is sold and replaced over a period",
+      "To measure profit",
+      "To measure employee productivity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a high inventory turnover ratio generally indicative of?",
+    "options": [
+      "Poor sales",
+      "Efficient inventory management and strong demand",
+      "Excess stock",
+      "Slow-moving items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Days of inventory outstanding (DIO)\"?",
+    "options": [
+      "Number of employees",
+      "Average number of days it takes to sell inventory",
+      "Total inventory value",
+      "Number of warehouses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key component of \"Working capital\" in supply chain?",
+    "options": [
+      "Fixed assets only",
+      "Inventory, accounts receivable, and accounts payable management",
+      "Machinery only",
+      "Real estate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Cash-to-cash cycle time\" reduction?",
+    "options": [
+      "Higher working capital needs",
+      "Faster conversion of inventory to cash, improving liquidity",
+      "Lower profitability",
+      "Longer payment terms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key strategy to reduce cash-to-cash cycle?",
+    "options": [
+      "Increase inventory levels",
+      "Reduce DIO, reduce DSO (days sales outstanding), and increase DPO (days payable outstanding)",
+      "Extend payment to suppliers",
+      "Slow collections"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain finance\"?",
+    "options": [
+      "To increase costs",
+      "To optimize cash flow by using financial instruments and collaboration between buyers, suppliers, and financiers",
+      "To ignore payment terms",
+      "To delay payments indefinitely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Reverse factoring\"?",
+    "options": [
+      "Supplier pays early",
+      "Buyer arranges for a financial institution to pay suppliers early at a discount based on buyer's credit rating",
+      "No financing",
+      "High interest"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Dynamic discounting\"?",
+    "options": [
+      "Fixed discount",
+      "Supplier offers variable discounts for early payment based on how early the payment is made",
+      "No discount",
+      "Late payment penalty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Supply chain visibility platforms\"?",
+    "options": [
+      "Hiding information",
+      "Real-time tracking and sharing of order, inventory, and shipment status across partners",
+      "Increasing uncertainty",
+      "Manual updates only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Cloud-based supply chain systems\"?",
+    "options": [
+      "High upfront costs",
+      "Scalability, lower initial investment, and easy access from anywhere",
+      "On-premise only",
+      "No integration"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of \"Data integration\" in supply chains?",
+    "options": [
+      "Easy to integrate",
+      "Heterogeneous systems, data formats, and lack of standards",
+      "Low complexity",
+      "No need for integration"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"API (Application Programming Interface)\" in supply chain IT?",
+    "options": [
+      "A type of warehouse robot",
+      "A set of protocols that allow different software systems to communicate and share data",
+      "A financial statement",
+      "A transportation mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"API integration\"?",
+    "options": [
+      "Manual data entry",
+      "Real-time data exchange between TMS, WMS, and ERP systems",
+      "Slower processing",
+      "Higher error rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain control tower\" as a technology platform?",
+    "options": [
+      "To hide operations",
+      "To provide end-to-end visibility, analytics, and decision support for proactive management",
+      "To replace all workers",
+      "To increase costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key feature of a control tower?",
+    "options": [
+      "No alerts",
+      "Real-time monitoring, exception alerting, and scenario analysis",
+      "Manual reporting only",
+      "No data integration"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Predictive analytics\" in supply chain?",
+    "options": [
+      "Reacting to past events",
+      "Anticipating future events (e.g., demand spikes, delays) to take proactive action",
+      "No forecasting",
+      "Only historical reporting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key application of \"Machine learning\" in supply chain?",
+    "options": [
+      "Manual data entry",
+      "Demand forecasting, anomaly detection, and route optimization",
+      "No automation",
+      "Fixed rules only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Natural language processing (NLP)\" in supply chain?",
+    "options": [
+      "Programming languages",
+      "Enabling computers to understand and process human language for tasks like chatbot customer service",
+      "Machine code",
+      "Assembly language"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Chatbots\" in customer service for supply chain?",
+    "options": [
+      "Slow response",
+      "24/7 automated responses to order status inquiries and tracking",
+      "High cost",
+      "No automation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Robotic process automation (RPA)\" in supply chain?",
+    "options": [
+      "Complex decision-making",
+      "Automating repetitive, rule-based tasks like data entry and invoice processing",
+      "Replacing all humans",
+      "No benefit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"RPA\"?",
+    "options": [
+      "Requires coding skills",
+      "Software robots mimic human actions on user interfaces",
+      "High complexity",
+      "Slow execution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Autonomous vehicles\" in logistics?",
+    "options": [
+      "Need for drivers",
+      "Potential to reduce labor costs and increase efficiency in long-haul trucking and last-mile delivery",
+      "Lower safety",
+      "Higher emissions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of \"Autonomous vehicles\"?",
+    "options": [
+      "No regulation",
+      "Regulatory hurdles, technology maturity, and public acceptance",
+      "Easy implementation",
+      "Low cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Drones\" in delivery?",
+    "options": [
+      "Ground vehicles",
+      "Unmanned aerial vehicles for last-mile delivery of small packages",
+      "Trains",
+      "Ships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Drone delivery\"?",
+    "options": [
+      "Heavy cargo",
+      "Speed and ability to reach remote areas for small, urgent items",
+      "Low cost per delivery for all items",
+      "No regulatory issues"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"3D printing\" in supply chain?",
+    "options": [
+      "Mass production only",
+      "On-demand production of parts, reducing inventory and lead times",
+      "High waste",
+      "Slow production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"Additive manufacturing\"?",
+    "options": [
+      "High tooling costs",
+      "Customization and reduced inventory for spare parts",
+      "Long lead times",
+      "Mass production only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Circular economy\" in supply chain?",
+    "options": [
+      "Linear take-make-dispose model",
+      "Keeping resources in use for as long as possible, extracting maximum value, then recovering and regenerating products",
+      "Single use only",
+      "High waste"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key practice of circular supply chain?",
+    "options": [
+      "Planned obsolescence",
+      "Remanufacturing, refurbishing, and recycling",
+      "Landfilling",
+      "Incineration without recovery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main benefit of \"Remanufacturing\"?",
+    "options": [
+      "Lower quality than new",
+      "Extending product life, reducing waste, and lower cost for customers",
+      "Higher energy use",
+      "More waste"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"Product-as-a-service\" model?",
+    "options": [
+      "Customer owns the product",
+      "Customer pays for usage, and manufacturer retains ownership and responsibility for maintenance and end-of-life",
+      "Single sale only",
+      "No service component"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain sustainability reporting\"?",
+    "options": [
+      "To hide environmental impact",
+      "To disclose environmental, social, and governance (ESG) performance to stakeholders",
+      "To avoid transparency",
+      "To ignore regulations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key framework for sustainability reporting?",
+    "options": [
+      "Only financial statements",
+      "Global Reporting Initiative (GRI) and Sustainability Accounting Standards Board (SASB)",
+      "No standards",
+      "Internal memos only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Carbon footprint\" in supply chain?",
+    "options": [
+      "Total number of employees",
+      "Total greenhouse gas emissions from all supply chain activities",
+      "Total cost",
+      "Total inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key strategy to reduce carbon footprint in logistics?",
+    "options": [
+      "Increase air freight",
+      "Mode shifting from air to sea or rail, route optimization, and fleet electrification",
+      "Longer routes",
+      "Higher speeds"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Green warehousing\"?",
+    "options": [
+      "Higher energy consumption",
+      "Energy-efficient lighting, solar panels, and sustainable materials reducing environmental impact",
+      "No benefits",
+      "Higher cost without return"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"Green packaging\"?",
+    "options": [
+      "Excessive packaging",
+      "Use of recycled, biodegradable materials and reduction of packaging weight",
+      "Single-use plastic",
+      "Large boxes for small items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Reverse logistics\" in sustainability?",
+    "options": [
+      "Forward flow of goods",
+      "Collection, return, and processing of used products for reuse, remanufacturing, or recycling",
+      "Disposal only",
+      "No return processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of \"Reverse logistics\"?",
+    "options": [
+      "Predictable returns",
+      "Uncertainty in timing, quantity, and condition of returned products",
+      "Low cost",
+      "Simple processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Product take-back\" programs?",
+    "options": [
+      "To ignore end-of-life",
+      "To encourage customers to return used products for proper recycling or remanufacturing",
+      "To increase waste",
+      "To avoid responsibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Closed-loop supply chain\"?",
+    "options": [
+      "High resource extraction",
+      "Minimal waste and reduced need for virgin materials",
+      "Linear flow",
+      "Disposal after single use"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Life cycle assessment (LCA)\"?",
+    "options": [
+      "Only cost analysis",
+      "Evaluating environmental impacts of a product from raw material extraction to disposal",
+      "Only marketing analysis",
+      "Only production time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key output of LCA?",
+    "options": [
+      "Profit margin",
+      "Carbon footprint, water use, and other environmental metrics",
+      "Employee satisfaction",
+      "Sales revenue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Eco-design\"?",
+    "options": [
+      "Ignoring environmental impact",
+      "Designing products with lower environmental impact throughout their lifecycle",
+      "No design changes",
+      "Higher waste"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"Eco-design\"?",
+    "options": [
+      "Hard to recycle",
+      "Design for disassembly, recyclability, and reduced material use",
+      "High toxicity",
+      "Long supply chains"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Social sustainability\" in supply chain?",
+    "options": [
+      "Only environmental focus",
+      "Ensuring fair labor practices, human rights, and community well-being across supply chain",
+      "Ignoring workers",
+      "Only profit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key issue in \"Social sustainability\"?",
+    "options": [
+      "High wages only",
+      "Child labor, forced labor, health and safety, and fair wages",
+      "No issues",
+      "Only environmental"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supplier code of conduct\"?",
+    "options": [
+      "To ignore supplier behavior",
+      "To set expectations for suppliers on labor, ethics, environment, and safety",
+      "To reduce requirements",
+      "To avoid compliance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Ethical sourcing certification\"?",
+    "options": [
+      "No transparency",
+      "Assurance to customers that products are made under acceptable conditions",
+      "Lower cost",
+      "Faster production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Conflict minerals\"?",
+    "options": [
+      "Minerals with low demand",
+      "Minerals mined in conflict zones and sold to finance armed groups",
+      "Common minerals",
+      "Recycled minerals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key regulation regarding \"Conflict minerals\"?",
+    "options": [
+      "No regulation",
+      "Dodd-Frank Act requiring companies to disclose use of conflict minerals from DRC region",
+      "Only voluntary",
+      "No enforcement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main challenge of \"Supply chain traceability\" for conflict minerals?",
+    "options": [
+      "Easy to trace",
+      "Complex supply chains make it difficult to verify origin of minerals",
+      "No need for traceability",
+      "Low cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key technology for \"Traceability\"?",
+    "options": [
+      "Paper records only",
+      "Blockchain and RFID for immutable tracking of product provenance",
+      "Manual logs",
+      "No technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Blockchain\" in simple terms?",
+    "options": [
+      "A type of cryptocurrency",
+      "A distributed digital ledger that records transactions in a secure, tamper-resistant manner",
+      "A social media platform",
+      "A search engine"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Blockchain for supply chain\"?",
+    "options": [
+      "Easy to alter records",
+      "Enhanced transparency, traceability, and fraud reduction",
+      "Low security",
+      "Centralized control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Smart contracts\" in blockchain?",
+    "options": [
+      "Paper contracts",
+      "Self-executing contracts with terms directly written into code, triggering actions automatically",
+      "No automation",
+      "Manual execution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"Smart contract\" application?",
+    "options": [
+      "No application",
+      "Automatic payment release upon delivery confirmation",
+      "Manual invoice processing",
+      "Delayed payment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Internet of Things (IoT)\"?",
+    "options": [
+      "Isolated devices",
+      "Network of physical objects embedded with sensors and connectivity to collect and exchange data",
+      "No connectivity",
+      "Only computers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key IoT application in supply chain?",
+    "options": [
+      "Manual inventory counting",
+      "Real-time temperature monitoring of perishable goods in transit",
+      "No sensors",
+      "Paper logs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"IoT-enabled predictive maintenance\"?",
+    "options": [
+      "Unplanned breakdowns",
+      "Reducing equipment downtime by predicting failures before they occur",
+      "Higher repair costs",
+      "No maintenance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of \"IoT adoption\"?",
+    "options": [
+      "Low cost",
+      "Data security, interoperability, and high initial investment",
+      "Easy integration",
+      "No standards needed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Digital supply chain twin\"?",
+    "options": [
+      "Physical replica",
+      "A virtual representation of the supply chain used for simulation and analysis",
+      "A type of robot",
+      "A financial model"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"Digital twin\"?",
+    "options": [
+      "No simulation",
+      "Ability to test changes and scenarios without disrupting real operations",
+      "High risk of error",
+      "Slow decision-making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain war gaming\"?",
+    "options": [
+      "No planning",
+      "Simulating disruptions and competitive responses to test strategy resilience",
+      "Ignoring scenarios",
+      "Only historical analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key output of \"War gaming\"?",
+    "options": [
+      "Certainty",
+      "Identification of vulnerabilities and development of contingency plans",
+      "No learning",
+      "Inaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Resilience\" in supply chain?",
+    "options": [
+      "Fragility",
+      "Ability to absorb shocks, adapt, and recover quickly from disruptions",
+      "Rigidity",
+      "Slow response"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key strategy to build resilience?",
+    "options": [
+      "Single sourcing",
+      "Diversification of suppliers, inventory buffers, and flexible transportation",
+      "Just-in-time without buffers",
+      "No backup plans"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of \"Near-shoring\" for resilience?",
+    "options": [
+      "Long lead times",
+      "Shorter supply chains, less exposure to global disruptions",
+      "Higher transportation cost",
+      "Lower quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in \"Resilience vs. efficiency\" trade-off?",
+    "options": [
+      "No trade-off",
+      "Resilience often requires extra cost (inventory, redundancy) that reduces efficiency",
+      "Efficiency always wins",
+      "Resilience is free"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Supply chain maturity\"?",
+    "options": [
+      "New supply chain",
+      "Level of development and sophistication of supply chain processes from ad-hoc to optimized",
+      "No progression",
+      "Static"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a mature supply chain?",
+    "options": [
+      "No metrics",
+      "Integrated, data-driven, and proactive with end-to-end visibility",
+      "Siloed and reactive",
+      "Manual processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"Supply chain benchmarking\"?",
+    "options": [
+      "To ignore best practices",
+      "To compare performance against industry leaders to identify improvement opportunities",
+      "To set low standards",
+      "To avoid competition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key metric for \"Benchmarking\"?",
+    "options": [
+      "Only cost",
+      "Cost per order, on-time delivery, inventory turns, and cash-to-cash cycle",
+      "Only employee satisfaction",
+      "Only office size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of \"Supply chain excellence\"?",
+    "options": [
+      "Minimal performance",
+      "Achieving superior customer service at lowest total cost, with agility and sustainability",
+      "Only cost focus",
+      "Only speed focus"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key attribute of an excellent supply chain?",
+    "options": [
+      "Frequent stockouts",
+      "High reliability, responsiveness, and efficiency",
+      "High waste",
+      "Long lead times"
+    ],
+    "correct": 1
+  }
+]
