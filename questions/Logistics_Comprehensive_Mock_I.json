@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which of the following BEST describes a supply chain?",
+    "options": [
+      "A single company's internal production process",
+      "The network of organizations involved in the flow of goods, information, and finances from raw material to end consumer",
+      "A government regulatory framework for trade",
+      "A financial instrument used in international trade"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The PRIMARY goal of supply chain management is to:",
+    "options": [
+      "Maximize the number of suppliers in the network",
+      "Minimize warehouse space usage",
+      "Maximize shareholder value through efficient product and information flow",
+      "Eliminate the need for transportation intermediaries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of an UPSTREAM supply chain activity?",
+    "options": [
+      "Distributing finished goods to retailers",
+      "Delivering products to end customers",
+      "Managing after-sales service for consumers",
+      "Sourcing raw materials from suppliers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Supply chain visibility\" refers to:",
+    "options": [
+      "The physical transparency of warehouse walls",
+      "The ability to track and monitor products, orders, and shipments across the entire supply chain in real time",
+      "The number of tiers in a supply chain network",
+      "The financial reporting standards used by supply chain companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"bullwhip effect\" in supply chain management?",
+    "options": [
+      "A strategy for reducing lead times by ordering in bulk",
+      "A transportation disruption caused by poor road infrastructure",
+      "The amplification of demand variability as orders move upstream in the supply chain",
+      "A negotiation technique used in procurement contracts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Supply chain coordination is MOST effectively achieved through:",
+    "options": [
+      "Each company in the chain optimizing only its own operations independently",
+      "Sharing information, aligning incentives, and synchronizing decisions across all supply chain partners",
+      "Reducing the number of products offered to customers",
+      "Eliminating all intermediaries from the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain strategies is BEST suited for products with highly unpredictable demand?",
+    "options": [
+      "Lean supply chain strategy",
+      "Efficient supply chain strategy",
+      "Agile supply chain strategy",
+      "Low-cost supply chain strategy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In supply chain management, \"order fulfillment cycle time\" measures:",
+    "options": [
+      "The time taken to recruit a new procurement officer",
+      "The time needed to process supplier invoices",
+      "The average time from customer order placement to delivery",
+      "The frequency of inventory replenishment orders"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes \"e-procurement\"?",
+    "options": [
+      "Printing and mailing purchase orders to suppliers",
+      "Using electronic systems and the internet to conduct procurement transactions and manage supplier relationships",
+      "Eliminating procurement departments through automation",
+      "Paying suppliers using foreign currency only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Electronic Data Interchange (EDI) in supply chain management enables:",
+    "options": [
+      "Physical inspection of goods at the border",
+      "Manual entry of purchase orders into supplier systems",
+      "The structured electronic exchange of business documents between organizations",
+      "Storage of goods in temperature-controlled warehouses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a KEY benefit of using an e-marketplace for procurement?",
+    "options": [
+      "Increased paperwork and manual approvals",
+      "Reduced transaction costs and access to a wider supplier base",
+      "Elimination of the need for supplier contracts",
+      "Dependence on a single preferred supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company uses a cloud-based platform to track orders, inventory levels, and supplier performance in real time. This is an example of:",
+    "options": [
+      "Manual inventory counting",
+      "Offline procurement processing",
+      "A Supply Chain Information System (SCIS)",
+      "A standalone accounting system"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a B2B (Business-to-Business) e-commerce model in supply chain management?",
+    "options": [
+      "A consumer buying shoes from an online retail website",
+      "A manufacturer purchasing raw materials from a supplier through an online portal",
+      "A government buying services from a private company through public tender",
+      "An individual selling second-hand goods on a social media platform"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"E-security\" in supply chain information systems primarily involves:",
+    "options": [
+      "Physical security of warehouse facilities",
+      "Protecting digital data, transactions, and systems from unauthorized access, fraud, and cyber threats",
+      "Encrypting customs clearance documents for physical delivery",
+      "Securing transportation routes from theft"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Enterprise Resource Planning (ERP) systems contribute to supply chain management by:",
+    "options": [
+      "Replacing all human decision-making with automated systems",
+      "Integrating data from procurement, production, inventory, and finance into a single platform for better coordination",
+      "Eliminating the need for supplier relationships",
+      "Focusing exclusively on customer-facing e-commerce transactions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a major CHALLENGE of implementing e-procurement in developing countries like Ethiopia?",
+    "options": [
+      "Excessive number of qualified IT professionals",
+      "Overabundance of reliable internet infrastructure",
+      "Limited digital infrastructure, low internet penetration, and resistance to change",
+      "Too many e-procurement platforms competing for government contracts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company that owns its own fleet of trucks to control distribution costs is pursuing which supply chain strategy?",
+    "options": [
+      "Outsourcing logistics to a 3PL provider",
+      "Vertical integration of the downstream supply chain",
+      "Strategic alliance with a competitor",
+      "Lean manufacturing strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"supply chain resilience\"?",
+    "options": [
+      "The ability of a supply chain to operate at the lowest possible cost",
+      "The capacity of a supply chain to anticipate, adapt to, and recover from disruptions",
+      "The elimination of all risk from supply chain operations",
+      "The standardization of products across all supply chain tiers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Porter's Value Chain model is relevant to supply chain strategy because it:",
+    "options": [
+      "Defines the organizational chart of a logistics company",
+      "Identifies primary and support activities that create competitive advantage through efficient value creation",
+      "Sets the government regulations for supply chain companies",
+      "Calculates the total cost of ownership for procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Core competency\" in supply chain strategy refers to:",
+    "options": [
+      "A government-mandated skill requirement for logistics professionals",
+      "A unique capability or strength that a company possesses, giving it a competitive advantage that is difficult to imitate",
+      "The minimum qualification required to work in a warehouse",
+      "A standard performance metric used across all supply chains"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Outsourcing in supply chain management refers to:",
+    "options": [
+      "Moving a company's headquarters to another country",
+      "Hiring additional full-time employees for supply chain operations",
+      "Contracting external organizations to perform activities previously done internally",
+      "Purchasing raw materials from domestic suppliers only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company decides to source from multiple suppliers instead of a single supplier for a critical component. This strategy is PRIMARILY aimed at:",
+    "options": [
+      "Reducing the quality of purchased components",
+      "Increasing procurement complexity unnecessarily",
+      "Eliminating the need for supplier contracts",
+      "Reducing supply disruption risk and increasing supply flexibility"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Strategic supply chain alignment means:",
+    "options": [
+      "Aligning the supply chain strategy with the company's overall business and competitive strategy",
+      "Ensuring all suppliers are located in the same geographic region",
+      "Standardizing all procurement contracts across the supply chain",
+      "Matching the number of suppliers to the number of customers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a key driver of supply chain integration?",
+    "options": [
+      "Keeping information proprietary within each company",
+      "Minimizing supplier relationships to reduce complexity",
+      "Sharing real-time information, joint planning, and collaborative decision-making across supply chain partners",
+      "Maximizing buffer stock at every node in the supply chain"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Green procurement\" in sustainable supply chain management refers to:",
+    "options": [
+      "Purchasing goods exclusively from foreign suppliers",
+      "Integrating environmental criteria into the procurement process to reduce the ecological impact of purchasing decisions",
+      "Buying only green-colored packaging materials",
+      "Procuring goods only from government-approved suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"triple bottom line\" concept in sustainable supply chain management encompasses:",
+    "options": [
+      "Profit, revenue, and market share",
+      "Economic, environmental, and social performance",
+      "Production, procurement, and distribution",
+      "Speed, cost, and quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of social sustainability in supply chain management?",
+    "options": [
+      "Reducing carbon emissions from transportation",
+      "Installing solar panels at the company's warehouse",
+      "Ensuring fair wages and safe working conditions throughout the supply chain",
+      "Optimizing inventory levels to reduce waste"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company conducts a \"life cycle assessment\" (LCA) of its products. This practice is associated with:",
+    "options": [
+      "Assessing the career progression of supply chain employees",
+      "Evaluating the total environmental impact of a product from raw material extraction through disposal",
+      "Calculating the financial depreciation of warehouse equipment",
+      "Reviewing the supplier's credit history before awarding a contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In procurement, \"BATNA\" stands for:",
+    "options": [
+      "Best Alternative to a Negotiated Agreement",
+      "Basic Approach to Negotiation and Acquisition",
+      "Bilateral Agreement for Trade and Negotiation Arbitration",
+      "Budget Allocation for Trade and Negotiation Activities"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following BEST describes \"distributive bargaining\" in negotiation?",
+    "options": [
+      "A negotiation approach where both parties collaborate to expand the overall value",
+      "A competitive negotiation where one party's gain is the other party's loss",
+      "A negotiation method that avoids any form of compromise",
+      "A strategy for distributing goods among multiple suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Integrative bargaining\" in procurement negotiation is characterized by:",
+    "options": [
+      "A win-lose outcome where the buyer always gains at the supplier's expense",
+      "Each party hiding their true interests and priorities",
+      "A collaborative approach aimed at creating mutually beneficial outcomes",
+      "Fixed positions with no room for creative problem-solving"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a KEY element of a valid procurement contract?",
+    "options": [
+      "A verbal promise between the buyer and supplier",
+      "Offer, acceptance, consideration, and mutual intent to be legally bound",
+      "A purchase requisition signed by the warehouse manager",
+      "An invoice from the supplier after delivery of goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In negotiation, \"ZOPA\" refers to:",
+    "options": [
+      "Zero Order Processing Agreement",
+      "Zone of Potential Agreement — the range within which a deal acceptable to both parties is possible",
+      "Zone of Procurement Authority",
+      "Zero-cost Outsourcing Procurement Arrangement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement officer consistently awards contracts to a supplier who gives them personal gifts. This behavior BEST represents:",
+    "options": [
+      "Effective supplier relationship management",
+      "A violation of procurement ethics and conflict of interest",
+      "An acceptable industry practice for building supplier relationships",
+      "A cost-saving strategy for the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the PRIMARY purpose of contract management in procurement?",
+    "options": [
+      "To eliminate the need for supplier performance monitoring",
+      "To ensure that both parties fulfill their contractual obligations and to manage changes, disputes, and performance throughout the contract period",
+      "To replace verbal agreements with written ones",
+      "To file contracts with the government registry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In negotiation strategy, \"anchoring\" refers to:",
+    "options": [
+      "Refusing to make any concessions during negotiation",
+      "Providing a written offer only after verbal agreement is reached",
+      "Setting the initial reference point (first offer) that influences subsequent negotiation",
+      "A legal clause in a procurement contract fixing prices permanently"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes \"competitive bidding\" in Ethiopian government procurement?",
+    "options": [
+      "A method where the government selects suppliers based on personal relationships",
+      "A procurement method where suppliers submit sealed bids and the contract is awarded based on predetermined evaluation criteria",
+      "A strategy where the government negotiates only with foreign suppliers",
+      "A procurement approach that requires no documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopian government procurement, \"request for proposal\" (RFP) is used when:",
+    "options": [
+      "Only the price is relevant and specifications are fully defined",
+      "The government needs a simple commodity available from multiple sources",
+      "Technical quality and approach matter alongside price, and the government seeks detailed proposals",
+      "Emergency procurement is required within 24 hours"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The PRIMARY purpose of a \"procurement plan\" in Ethiopian public procurement is to:",
+    "options": [
+      "List all suppliers registered with the government",
+      "Record all purchases made in the previous fiscal year",
+      "Guide and coordinate procurement activities in alignment with the organization's budget and program objectives",
+      "Set the salaries of procurement officers in public institutions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In Ethiopian government procurement, \"direct procurement\" (single sourcing) is MOST appropriately used when:",
+    "options": [
+      "Any supplier can provide the required goods or services",
+      "The procurement value is above the competitive bidding threshold",
+      "Genuine emergency situations, sole-source availability, or standardization requirements justify bypassing competition",
+      "The procurement officer prefers a specific supplier"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"International procurement\" differs from domestic procurement PRIMARILY because:",
+    "options": [
+      "International procurement involves no documentation requirements",
+      "International procurement involves additional complexities such as currency risk, customs regulations, longer lead times, and cross-border logistics",
+      "International procurement is always cheaper than domestic procurement",
+      "International procurement does not require supplier evaluation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company imports pharmaceutical equipment from Germany. Which document issued by the exporter certifies the country of manufacture?",
+    "options": [
+      "Commercial invoice",
+      "Packing list",
+      "Certificate of origin",
+      "Bill of lading"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under Incoterm \"FOB (Free on Board),\" risk transfers from seller to buyer:",
+    "options": [
+      "When the goods arrive at the buyer's warehouse",
+      "When the goods are delivered to the named port of destination",
+      "When the goods pass the ship's rail at the named port of shipment",
+      "When the seller hands the goods to the first carrier"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Foreign exchange risk\" in international procurement refers to:",
+    "options": [
+      "The risk of goods being damaged during international shipping",
+      "The risk that currency fluctuations will increase the cost of importing goods",
+      "The risk of political instability in the supplier's country",
+      "The risk of supplier non-performance on international contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a KEY document required in an international tender process?",
+    "options": [
+      "An internal memo from the procurement officer",
+      "A bank statement of the procurement team",
+      "Tender documents including specifications, evaluation criteria, and instructions to bidders",
+      "A letter from the supplier's CEO pledging quality assurance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Total Cost of Ownership\" (TCO) in procurement includes:",
+    "options": [
+      "Only the purchase price of the goods",
+      "The purchase price, transportation, installation, maintenance, and disposal costs over the item's lifetime",
+      "Only logistics and transportation costs",
+      "Only the costs incurred after the goods are delivered"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supplier segmentation in strategic sourcing is BEST done using:",
+    "options": [
+      "Alphabetical order of supplier names",
+      "The geographic location of suppliers",
+      "The age of the supplier relationship",
+      "Criteria such as spend volume, supply risk, and strategic importance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Kraljic Matrix is used in procurement to:",
+    "options": [
+      "Calculate the total value of procurement contracts",
+      "Categorize purchased items into four quadrants based on supply risk and profit impact",
+      "Evaluate the financial health of suppliers",
+      "Determine the optimal reorder point for inventory items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Make or buy\" analysis in supply chain management helps organizations decide:",
+    "options": [
+      "Whether to produce goods in-house or purchase them from external suppliers",
+      "The best time to order materials from suppliers",
+      "The optimal warehouse layout for storage efficiency",
+      "Whether to use road or air transport for delivery"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A procurement manager selects a supplier purely based on the lowest price without considering quality or reliability. This approach is MOST likely to result in:",
+    "options": [
+      "Optimal supply chain performance",
+      "Increased supplier loyalty and long-term partnerships",
+      "Short-term cost savings but potential long-term quality and reliability problems",
+      "Full compliance with procurement ethics guidelines"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes \"supplier development\" in strategic procurement?",
+    "options": [
+      "Encouraging suppliers to develop new product lines for consumer markets",
+      "A buyer's efforts to improve supplier capabilities, quality, and performance through training, investment, or technical assistance",
+      "The process of identifying and registering new suppliers in the vendor database",
+      "A strategy to replace underperforming suppliers with new ones immediately"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In procurement, a \"framework agreement\" is:",
+    "options": [
+      "A one-time purchase agreement with a specific delivery date",
+      "A construction contract for building a warehouse framework",
+      "An agreement establishing terms and conditions under which specific purchases can be made over a defined period without re-negotiating each time",
+      "A government regulation governing procurement procedures"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Spend analysis\" in procurement management involves:",
+    "options": [
+      "Analyzing the time spent by procurement officers on administrative tasks",
+      "Reviewing and categorizing an organization's procurement expenditure to identify savings opportunities and improve sourcing strategies",
+      "Calculating the salary expenditure of the procurement department",
+      "Counting the number of purchase orders issued in a fiscal year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a KEY ethical principle in procurement practice?",
+    "options": [
+      "Awarding contracts to suppliers who offer personal benefits to the procurement officer",
+      "Selecting suppliers based on favoritism to support personal relationships",
+      "Transparency, fairness, and accountability in all procurement decisions and processes",
+      "Keeping procurement decisions confidential from organizational leadership"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST defines \"logistics management\"?",
+    "options": [
+      "The management of financial flows within a company",
+      "The process of planning, implementing, and controlling the efficient flow and storage of goods, services, and information from origin to consumption",
+      "The management of human resources in transportation companies",
+      "The process of manufacturing goods for distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a KEY component of the \"logistics mix\"?",
+    "options": [
+      "Marketing, pricing, promotion, and product development",
+      "Transportation, warehousing, inventory, packaging, and information",
+      "Procurement, finance, HR, and production",
+      "Sales, customer service, advertising, and distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Customer service level\" in logistics is BEST measured by:",
+    "options": [
+      "The number of employees in the logistics department",
+      "The size of the company's warehouse",
+      "The ability to consistently meet customer delivery requirements in terms of time, place, and condition",
+      "The total revenue generated by the logistics company"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Lean logistics\" focuses on:",
+    "options": [
+      "Maximizing inventory levels to prevent stockouts",
+      "Adding as many intermediaries as possible to the supply chain",
+      "Eliminating waste and non-value-adding activities from logistics operations",
+      "Increasing the speed of logistics operations regardless of cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a \"logistics performance dimension\"?",
+    "options": [
+      "Employee recruitment and training",
+      "Product design and development",
+      "Delivery reliability and on-time performance",
+      "Marketing campaign effectiveness"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Reverse logistics\" in supply chain management involves:",
+    "options": [
+      "The forward movement of goods from manufacturer to consumer",
+      "The process of moving goods from consumer back to the manufacturer or disposal point for returns, recycling, or reuse",
+      "Logistics operations conducted in reverse alphabetical order",
+      "The management of inbound logistics from international suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Logistics outsourcing to a Third-Party Logistics (3PL) provider offers which PRIMARY advantage?",
+    "options": [
+      "Full ownership of all logistics assets and infrastructure",
+      "Access to specialized logistics expertise, infrastructure, and economies of scale without large capital investment",
+      "Elimination of all logistics costs from the company's budget",
+      "Complete elimination of logistics risk for the company"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"logistics integration\"?",
+    "options": [
+      "The merger of two logistics companies into one entity",
+      "The seamless coordination of all logistics functions (transportation, warehousing, inventory) internally and with supply chain partners",
+      "The standardization of all logistics documents across all companies",
+      "The use of a single mode of transport for all deliveries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which mode of transportation offers the LOWEST cost per ton-kilometer for bulk, non-perishable goods over long distances?",
+    "options": [
+      "Air freight",
+      "Road transport",
+      "Rail transport",
+      "Pipeline transport"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Modal selection\" in transportation management involves choosing:",
+    "options": [
+      "The interior design of the transportation vehicle",
+      "The most appropriate mode of transport based on factors such as cost, speed, reliability, and cargo characteristics",
+      "The color coding for different types of transport vehicles",
+      "The number of stops a delivery vehicle makes on a route"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"intermodal transportation\"?",
+    "options": [
+      "Transportation using only one mode throughout the entire journey",
+      "Using two or more modes of transport in sequence, with the cargo unit (container) not being reloaded between modes",
+      "A transportation method that avoids the use of containers",
+      "Transportation exclusively between domestic locations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Hub-and-spoke\" network design in transportation means:",
+    "options": [
+      "All deliveries are made directly from origin to destination",
+      "Freight is consolidated at central hubs and then distributed to smaller destinations via feeder routes",
+      "A single truck serves all customers on a fixed route",
+      "Cargo is transported by air only between major cities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In transportation risk management, which of the following is a KEY strategy for mitigating cargo theft?",
+    "options": [
+      "Using only government-owned transport vehicles",
+      "Routing all shipments through a single preferred carrier regardless of risk",
+      "GPS tracking, sealed containers, route randomization, and security escorts for high-value cargo",
+      "Reducing insurance coverage to lower transportation costs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Freight rate negotiation\" between a shipper and carrier is MOST influenced by:",
+    "options": [
+      "The personal relationship between the CEO and the transport manager",
+      "The shipment volume, frequency, cargo type, route, and competitive market rates",
+      "The color and branding of the carrier's vehicles",
+      "The number of years the carrier has been in business"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopia, the PRIMARY challenge for road transport in logistics operations is:",
+    "options": [
+      "Excessive number of road transport companies competing for business",
+      "Poor road infrastructure quality, high vehicle maintenance costs, and long lead times especially on rural routes",
+      "Oversupply of modern trucks in the domestic fleet",
+      "Excessive government regulation of freight rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Load optimization\" in transportation management refers to:",
+    "options": [
+      "Minimizing the number of transport vehicles purchased",
+      "Maximizing the utilization of vehicle capacity by efficiently loading cargo to reduce cost per unit",
+      "Overloading vehicles beyond their rated capacity to save trip costs",
+      "Assigning the heaviest goods to the smallest vehicles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In customs clearance, the \"Harmonized System (HS) code\" is used to:",
+    "options": [
+      "Track the GPS location of goods during transit",
+      "Classify imported or exported goods for the purpose of applying the correct duty rates and trade statistics",
+      "Register freight forwarders with the customs authority",
+      "Calculate freight rates between ports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"clean bill of lading\" indicates that:",
+    "options": [
+      "The cargo has been fully insured against all risks",
+      "The carrier has received the goods in apparent good order and condition with no noted exceptions",
+      "Customs duties have been paid in full",
+      "The goods have passed quality inspection at the destination"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopian customs procedure, \"ASYCUDA World\" is used primarily to:",
+    "options": [
+      "Calculate freight rates for shipping lines",
+      "Register logistics companies with the Ethiopian Investment Commission",
+      "Automate customs declaration, processing, and risk management",
+      "Issue import licenses to Ethiopian traders"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Demurrage\" in port operations refers to:",
+    "options": [
+      "The discount offered by shipping lines for regular customers",
+      "The fee charged when cargo or a vessel remains at the port beyond the allowed free time",
+      "The cost of loading and unloading cargo at the terminal",
+      "A surcharge applied to oversized cargo"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST defines the role of a customs broker in Ethiopia?",
+    "options": [
+      "Setting customs tariff rates on behalf of the government",
+      "Physically transporting goods from the port to the importer's warehouse",
+      "A licensed professional who files customs declarations and facilitates the clearance of goods on behalf of importers or exporters",
+      "Providing financing to importers for payment of customs duties"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under the WTO Valuation Agreement, the PRIMARY method of customs valuation is:",
+    "options": [
+      "Deductive value method",
+      "Computed value method",
+      "Transaction value method based on the price actually paid or payable",
+      "Fall-back method"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Inward processing relief\" in customs procedure allows:",
+    "options": [
+      "Goods to be imported for domestic consumption without paying duties",
+      "Importers to defer customs duty payments for up to one year",
+      "Goods to be imported temporarily for processing and re-exported without full duty payment",
+      "Foreign companies to operate in Ethiopia without customs oversight"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which Ethiopian institution issues the \"release order\" that permits goods to leave the customs area after clearance?",
+    "options": [
+      "National Bank of Ethiopia",
+      "Ministry of Trade and Industry",
+      "Ethiopian Customs Commission",
+      "Ethiopian Shipping and Logistics Services Enterprise"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Cross-docking\" in warehouse management involves:",
+    "options": [
+      "Storing goods for extended periods before distribution",
+      "Transferring incoming goods directly from receiving to outbound shipping with minimal or no storage time",
+      "Moving goods between floors in a multi-story warehouse",
+      "Conducting quality checks on all incoming goods before storage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company uses ABC analysis to classify its inventory. Class \"A\" items are characterized by:",
+    "options": [
+      "Low value and high volume, requiring minimal management attention",
+      "Moderate value and moderate volume",
+      "High value and low volume, requiring the most management attention and tighter controls",
+      "Obsolete items that should be disposed of immediately"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Warehouse management system\" (WMS) is used PRIMARILY to:",
+    "options": [
+      "Manage the financial accounts of a logistics company",
+      "Track and control warehouse operations including receiving, storage, picking, and dispatching",
+      "Negotiate contracts with suppliers on behalf of the company",
+      "Schedule truck maintenance in the transport department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Last-mile delivery\" in logistics refers to:",
+    "options": [
+      "The final long-haul leg of an international shipment",
+      "The movement of goods from a transportation hub to the final delivery destination",
+      "Delivering goods to the manufacturer's loading dock",
+      "The last shipment of the fiscal year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"free trade zone\" (FTZ) in the context of logistics?",
+    "options": [
+      "A geographic area where goods can be stored and processed without being subject to normal customs duties until they enter the domestic market",
+      "A port where all goods can be imported without any documentation",
+      "A government-designated area where logistics companies pay no corporate tax",
+      "A zone where transportation is free of charge for all operators"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "\"Cold chain management\" is MOST critical for which of the following supply chains?",
+    "options": [
+      "Steel and construction materials",
+      "Software and digital products",
+      "Pharmaceutical products, fresh produce, and temperature-sensitive goods",
+      "Printed books and stationery"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"logistics performance index\" (LPI) published by the World Bank measures:",
+    "options": [
+      "The revenue of the top 100 logistics companies globally",
+      "A country's logistics competence across dimensions including customs efficiency, infrastructure quality, and timeliness",
+      "The number of logistics companies operating in each country",
+      "The average salary of logistics professionals worldwide"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain management, \"vendor-managed inventory\" (VMI) means:",
+    "options": [
+      "The customer manages the supplier's production schedule",
+      "The vendor (supplier) takes responsibility for monitoring and replenishing the buyer's inventory levels based on agreed parameters",
+      "The warehouse manager sets the reorder point for all items",
+      "The government manages strategic reserves of critical commodities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"4PL\" (fourth-party logistics)?",
+    "options": [
+      "A logistics provider that owns physical transport assets",
+      "A company providing only warehousing services to manufacturers",
+      "An integrator that manages and coordinates multiple logistics service providers on behalf of the client",
+      "A government agency overseeing all logistics operations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Packaging\" in logistics serves which PRIMARY function?",
+    "options": [
+      "Marketing and brand promotion only",
+      "Protecting goods from damage, facilitating efficient handling, and communicating product information",
+      "Increasing the weight of shipments to maximize freight revenue",
+      "Decorating goods for retail display purposes only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopia, the expansion of \"dry ports\" (inland clearance depots) primarily aims to:",
+    "options": [
+      "Replace sea ports entirely for all import and export activities",
+      "Reduce the burden on the Port of Djibouti by allowing customs clearance and cargo handling inland",
+      "Provide free storage for all domestic manufacturers",
+      "Eliminate the need for freight forwarders in Ethiopia"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Economic Order Quantity\" (EOQ) model determines:",
+    "options": [
+      "The minimum number of suppliers needed for a product",
+      "The optimal time to switch to a new supplier",
+      "The order quantity that minimizes total inventory costs (ordering costs and holding costs)",
+      "The maximum allowable inventory level in a warehouse"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Safety stock\" in inventory management is maintained to:",
+    "options": [
+      "Reduce the purchase price of goods",
+      "Buffer against demand uncertainty and supply variability to prevent stockouts",
+      "Maximize warehouse space utilization",
+      "Satisfy seasonal demand only during peak periods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company has an annual demand of 10,000 units, ordering cost of ETB 500 per order, and holding cost of ETB 10 per unit per year. Using the EOQ formula, what is the economic order quantity?",
+    "options": [
+      "500 units",
+      "200 units",
+      "1,500 units",
+      "1,000 units"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"ABC analysis\" in inventory management classifies items based on:",
+    "options": [
+      "Alphabetical order of item names",
+      "The physical size and weight of inventory items",
+      "The relative importance of items by annual consumption value",
+      "The age of inventory items in the warehouse"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Just-in-Time\" (JIT) inventory management aims to:",
+    "options": [
+      "Maximize buffer stock levels to prevent any stockout",
+      "Minimize inventory by receiving goods only when needed in the production process",
+      "Order goods once per year in large batches",
+      "Increase warehouse space to accommodate more inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"reorder point\" (ROP) in inventory management is defined as:",
+    "options": [
+      "The maximum inventory level that should never be exceeded",
+      "The inventory level at which a new order should be placed to avoid stockout during lead time",
+      "The minimum order quantity required by the supplier",
+      "The point at which excess inventory is returned to the supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Inventory turnover ratio\" is calculated as:",
+    "options": [
+      "Total inventory value divided by annual sales revenue",
+      "Annual sales revenue divided by total inventory value",
+      "Cost of goods sold divided by average inventory value",
+      "Average inventory value divided by cost of goods sold"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Operations management\" in a supply chain context involves:",
+    "options": [
+      "Managing the financial investments of the organization",
+      "Designing, planning, controlling, and improving processes that transform inputs into goods and services",
+      "Managing the marketing and sales functions of the company",
+      "Overseeing the legal and compliance department of the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST defines \"productivity\" in operations management?",
+    "options": [
+      "The total number of employees in the operations department",
+      "The ratio of output produced to the inputs used in the production process",
+      "The total revenue generated by the company",
+      "The number of production shifts operated per day"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Capacity planning\" in operations management involves:",
+    "options": [
+      "Planning the career development of operations staff",
+      "Determining the production capacity needed to meet demand while minimizing cost and maximizing efficiency",
+      "Counting the physical capacity of storage areas only",
+      "Scheduling vacations for operations employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"push\" production strategy?",
+    "options": [
+      "Producing goods only after a confirmed customer order is received",
+      "Manufacturing goods based on demand forecasts and pushing them through the supply chain to retailers",
+      "Waiting until inventory falls to zero before starting production",
+      "Allowing customers to customize products before production begins"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Total Quality Management\" (TQM) in operations emphasizes:",
+    "options": [
+      "Inspecting final products and rejecting defective items",
+      "A company-wide commitment to continuous improvement in quality across all processes and functions",
+      "Delegating quality responsibility exclusively to the quality control department",
+      "Reducing product features to simplify production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Bottleneck\" in operations management refers to:",
+    "options": [
+      "The most efficient stage in the production process",
+      "A constraint or limiting resource that restricts the overall throughput of the system",
+      "A surplus of raw materials that exceeds production capacity",
+      "The final step in the production process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scheduling tool is MOST commonly used in operations management to plan and track project activities?",
+    "options": [
+      "Fishbone diagram",
+      "Pareto chart",
+      "Scatter plot",
+      "Gantt chart"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Six Sigma\" in operations management is a methodology aimed at:",
+    "options": [
+      "Producing exactly six units of each product per hour",
+      "Reducing process variation and defects to achieve near-perfect quality levels",
+      "Managing a team of six operations specialists for quality assurance",
+      "Completing all operations tasks within six hours"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Demand forecasting\" in supply chain operations is important because it:",
+    "options": [
+      "Eliminates the need for safety stock entirely",
+      "Provides a basis for production planning, procurement, and inventory decisions, reducing waste and improving service levels",
+      "Guarantees that actual demand will match predicted demand",
+      "Replaces the need for supplier relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which forecasting method uses historical data patterns to predict future demand?",
+    "options": [
+      "Qualitative forecasting using expert panels only",
+      "Market research through customer surveys",
+      "Delphi method",
+      "Time series analysis (e.g., moving average, exponential smoothing)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Materials Requirements Planning\" (MRP) is used to:",
+    "options": [
+      "Evaluate supplier financial stability before contract award",
+      "Determine the quantity and timing of materials needed to meet production schedules",
+      "Manage employee work schedules in a manufacturing plant",
+      "Optimize transportation routes for finished goods distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manufacturing company implements \"5S\" methodology in its operations. Which of the following is NOT one of the 5S elements?",
+    "options": [
+      "Sort (Seiri)",
+      "Shine (Seiso)",
+      "Standardize (Seiketsu)",
+      "Supervise (Kantoku)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Cycle counting\" in inventory management involves:",
+    "options": [
+      "Counting all inventory items simultaneously at the end of the fiscal year",
+      "Regularly counting a subset of inventory items on a rotating schedule to maintain accuracy without full shutdowns",
+      "Counting the number of production cycles completed per shift",
+      "Counting customer orders received per day"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"process mapping\" in operations management?",
+    "options": [
+      "Drawing the physical layout of a factory floor",
+      "Creating a visual representation of the steps, inputs, and outputs of a business process to identify inefficiencies and improvement opportunities",
+      "Mapping the geographic location of operational facilities",
+      "Recording employee movement patterns within the facility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Value stream mapping\" (VSM) is a lean operations tool used to:",
+    "options": [
+      "Calculate the monetary value of all assets in the supply chain",
+      "Identify and analyze the flow of materials and information, highlighting waste and improvement opportunities",
+      "Map the career progression of supply chain professionals",
+      "Track the financial value of customer orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"planning\" function of management?",
+    "options": [
+      "Assigning tasks to employees based on their skills",
+      "Monitoring employee performance against set targets",
+      "Setting organizational goals and determining how best to achieve them",
+      "Coordinating all departments to work toward common objectives"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Henri Fayol's \"14 Principles of Management\" include which of the following?",
+    "options": [
+      "Just-in-time production and lean management",
+      "Division of work, authority, discipline, and unity of command",
+      "Market segmentation, pricing strategy, and product development",
+      "Supply chain integration, outsourcing, and total quality management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Span of control\" in management refers to:",
+    "options": [
+      "The geographic territory covered by a manager",
+      "The number of employees a manager directly supervises",
+      "The range of products managed by a supply chain manager",
+      "The budget allocated to a manager's department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which management theory views organizations as systems with interrelated components that interact with their environment?",
+    "options": [
+      "Classical management theory",
+      "Scientific management theory",
+      "Systems theory",
+      "Behavioral management theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"controlling\" function of management involves:",
+    "options": [
+      "Hiring new employees for the organization",
+      "Delegating authority to lower-level managers",
+      "Motivating employees to achieve organizational goals",
+      "Monitoring performance, comparing it against standards, and taking corrective action"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Organizational behavior\" (OB) studies:",
+    "options": [
+      "The legal regulations governing company formation and dissolution",
+      "The financial performance of organizations in competitive markets",
+      "The impact of individuals, groups, and structure on behavior within organizations to improve effectiveness",
+      "The physical layout and design of organizational facilities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Maslow's \"hierarchy of needs\" theory suggests that:",
+    "options": [
+      "All human needs are equally important and should be addressed simultaneously",
+      "Human needs are arranged in a hierarchy, and lower-level needs must be satisfied before higher-level needs motivate behavior",
+      "Financial rewards are the only effective motivator for employees",
+      "Employee behavior is primarily determined by organizational structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Organizational culture\" is BEST described as:",
+    "options": [
+      "The physical environment and office design of an organization",
+      "The formal rules and regulations documented in the employee handbook",
+      "The shared values, beliefs, norms, and practices that shape behavior within an organization",
+      "The demographic composition of the workforce"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the context of organizational behavior, \"group cohesiveness\" refers to:",
+    "options": [
+      "The physical proximity of team members in an office",
+      "The degree to which group members are attracted to the group and motivated to remain in it",
+      "The formal authority structure within a work group",
+      "The uniformity of job titles among group members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following leadership styles involves making decisions without consulting team members?",
+    "options": [
+      "Democratic leadership",
+      "Laissez-faire leadership",
+      "Transformational leadership",
+      "Autocratic leadership"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"research paradigm\"?",
+    "options": [
+      "A template for writing a research proposal",
+      "A software tool used to analyze research data",
+      "A set of fundamental assumptions and beliefs that guide how research is conducted",
+      "The physical location where research data is collected"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Stratified random sampling\" is used when:",
+    "options": [
+      "The researcher wants to select participants based on convenience",
+      "The population is homogeneous and all members are similar",
+      "The researcher wants to ensure proportional representation of distinct subgroups within the population",
+      "The sample size is too small for random selection"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a KEY difference between qualitative and quantitative research?",
+    "options": [
+      "Quantitative research uses words while qualitative research uses numbers",
+      "Qualitative research explores in-depth meanings and experiences while quantitative research measures and tests relationships using numerical data",
+      "Qualitative research is always more reliable than quantitative research",
+      "Quantitative research is used only in laboratory settings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In research, \"internal validity\" refers to:",
+    "options": [
+      "The extent to which findings can be generalized beyond the study sample",
+      "The degree to which the research instrument measures what it intends to measure",
+      "The accuracy of statistical calculations in the data analysis",
+      "The degree to which changes in the dependent variable can be attributed to the independent variable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Snowball sampling\" is MOST appropriate when:",
+    "options": [
+      "The population is large and easily identifiable",
+      "A complete sampling frame is available",
+      "The target population is hard to reach or hidden, and initial participants refer the researcher to others",
+      "The researcher wants to generalize findings to a national population"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a logistics research study, which of the following BEST describes \"construct validity\"?",
+    "options": [
+      "The extent to which the research findings can be replicated in a different setting",
+      "The degree to which a measurement instrument accurately measures the theoretical construct it is designed to assess",
+      "The consistency of results across multiple data collection rounds",
+      "The precision of the statistical analysis techniques used"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Grounded theory\" as a qualitative research methodology aims to:",
+    "options": [
+      "Confirm existing theories using large sample surveys",
+      "Develop new theoretical explanations grounded in data collected from participants",
+      "Measure the statistical significance of relationships between variables",
+      "Apply established theories to test specific logistics hypotheses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST demonstrates ethical practice in logistics research?",
+    "options": [
+      "Collecting data without informing participants about the study's purpose",
+      "Selecting only favorable data to support the research hypothesis",
+      "Ensuring voluntary participation, informed consent, confidentiality, and accurate reporting of findings",
+      "Publishing research without acknowledging limitations or weaknesses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"SWOT analysis\" in logistics and supply chain management is used to:",
+    "options": [
+      "Calculate the financial strength of a company's supply chain",
+      "Assess an organization's internal strengths and weaknesses and external opportunities and threats",
+      "Evaluate the performance of individual employees in the supply chain",
+      "Determine the optimal order quantity for procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"PESTEL analysis\" examines which of the following external environmental factors?",
+    "options": [
+      "Price, efficiency, supply, technology, environment, and logistics",
+      "Political, economic, social, technological, environmental, and legal factors",
+      "Procurement, enterprise, sustainability, technology, ethics, and logistics",
+      "People, equipment, systems, technology, economics, and labor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In business communication, an \"executive summary\" of a logistics report should be:",
+    "options": [
+      "Written in the most technical language to demonstrate rigor",
+      "A detailed chapter-by-chapter summary of the entire report",
+      "A concise overview of the key findings and recommendations for decision-makers who may not read the full report",
+      "A list of all statistical tables and charts used in the report"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Change management\" in a logistics organization involves:",
+    "options": [
+      "Replacing all existing employees when a new system is introduced",
+      "Ignoring employee resistance to ensure rapid implementation of new processes",
+      "Systematically planning, communicating, and managing the human and organizational aspects of transitioning to new processes, systems, or structures",
+      "Changing the organizational name and branding"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes \"benchmarking\" in logistics management?",
+    "options": [
+      "Setting a physical benchmark marker at the warehouse entrance",
+      "Comparing an organization's logistics performance metrics against best practices or competitors to identify gaps and improvement opportunities",
+      "Establishing a minimum salary benchmark for logistics employees",
+      "Measuring the physical dimensions of logistics infrastructure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Key Performance Indicators\" (KPIs) in logistics management are used to:",
+    "options": [
+      "Determine the salary increments of logistics employees",
+      "Measure and monitor the performance of logistics operations against defined targets",
+      "Classify logistics companies by revenue size",
+      "Set the curriculum for logistics education programs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In organizational behavior, \"conflict management\" in a logistics team is BEST handled by:",
+    "options": [
+      "Ignoring conflicts and hoping they resolve on their own",
+      "Always siding with the senior employee in a dispute",
+      "Identifying the root cause of the conflict and applying appropriate strategies such as collaboration or compromise to resolve it constructively",
+      "Immediately dismissing the employee who initiates the conflict"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics manager in Ethiopia is tasked with reducing supply chain costs by 15% within one year. Which approach BEST demonstrates sound operational decision-making?",
+    "options": [
+      "Reducing workforce without analyzing the impact on service levels",
+      "Conducting a comprehensive cost analysis, identifying high-cost drivers, and implementing targeted strategies such as route optimization, supplier renegotiation, and inventory reduction",
+      "Switching all procurement to a single low-cost supplier immediately",
+      "Eliminating the logistics department and outsourcing all functions without evaluation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An organization's supply chain is frequently disrupted due to poor supplier reliability. The MOST strategic response is to:",
+    "options": [
+      "Accept the disruptions as an unavoidable aspect of doing business",
+      "Immediately terminate all contracts with existing suppliers",
+      "Conduct supplier performance reviews, develop alternative suppliers, and implement risk management strategies",
+      "Increase finished goods inventory to absorb all disruption impacts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following scenarios BEST demonstrates the application of \"supply chain ethics\"?",
+    "options": [
+      "A logistics manager accepts gifts from a supplier in exchange for exclusive contracts",
+      "A procurement officer manipulates tender evaluations to favor a personal acquaintance",
+      "A company publishes an accurate sustainability report detailing its environmental and social supply chain performance",
+      "A warehouse manager falsifies inventory records to conceal losses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A supply chain analyst notices that delivery lead times have increased by 30% over the last quarter. The FIRST step in addressing this issue should be:",
+    "options": [
+      "Immediately blaming the transport provider and terminating the contract",
+      "Collecting and analyzing data to identify the root cause of the lead time increase before taking corrective action",
+      "Increasing safety stock levels as a permanent solution",
+      "Reporting the issue to the CEO without any analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"logistics strategy\" aligned with customer service excellence?",
+    "options": [
+      "Minimizing all logistics costs regardless of service level impact",
+      "Balancing cost efficiency with the ability to consistently meet or exceed customer delivery expectations in terms of speed, reliability, and flexibility",
+      "Eliminating all intermediaries from the supply chain to reduce costs",
+      "Maximizing inventory levels at all supply chain nodes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopian logistics practice, compliance with the \"Customs Proclamation\" is important because:",
+    "options": [
+      "It determines the salary of customs officers",
+      "It is optional for importers who have prior experience with customs procedures",
+      "It establishes the legal framework for import/export procedures, tariff application, and penalties for non-compliance",
+      "It applies only to international logistics companies operating in Ethiopia"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A supply chain manager wants to improve sustainability performance. Which action BEST reflects integrated sustainability thinking?",
+    "options": [
+      "Purchasing cheaper materials without considering environmental impact",
+      "Conducting supplier audits to ensure compliance with environmental and labor standards across the supply chain",
+      "Reducing sustainability reporting to save time",
+      "Focusing only on economic performance metrics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the role of \"information technology\" in modern supply chain management?",
+    "options": [
+      "It replaces all human judgment in supply chain decision-making",
+      "It enables real-time data sharing, visibility, and coordination across supply chain partners, improving efficiency and responsiveness",
+      "It eliminates the need for transportation and warehousing in supply chains",
+      "It is relevant only to large multinational corporations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a logistics organization, a team member consistently fails to meet performance targets despite training. The MOST appropriate management response is to:",
+    "options": [
+      "Immediately terminate the employee without further investigation",
+      "Ignore the performance issue to maintain team morale",
+      "Identify the underlying causes of poor performance and develop a structured performance improvement plan with clear targets and support",
+      "Reassign all the employee's responsibilities to other team members permanently"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes the contribution of \"research and development\" (R&D) to supply chain improvement?",
+    "options": [
+      "R&D focuses only on product innovation and has no relevance to supply chain operations",
+      "R&D drives the development of new technologies, processes, and approaches that improve supply chain efficiency, sustainability, and resilience",
+      "R&D is exclusively for manufacturing companies and does not apply to logistics firms",
+      "R&D increases costs without providing measurable supply chain benefits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement team in a public institution awards a contract to a supplier offering the lowest price without verifying quality standards. This MOST likely violates which principle?",
+    "options": [
+      "The principle of minimizing procurement costs",
+      "The principle of supplier loyalty",
+      "Value for money, which requires consideration of quality, reliability, and total cost alongside price",
+      "The principle of single sourcing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST illustrates effective \"cross-functional collaboration\" in supply chain management?",
+    "options": [
+      "Each department independently optimizing its own processes without sharing information",
+      "The procurement team purchasing materials without consulting production scheduling needs",
+      "Procurement, production, logistics, and sales teams jointly planning to align supply with demand efficiently",
+      "The logistics team making delivery decisions without consulting customer service"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics company in Ethiopia wants to expand its operations to neighboring countries. Which of the following is the MOST critical factor to assess first?",
+    "options": [
+      "The color scheme for the company's new vehicles",
+      "The salary preferences of the new country's logistics workforce",
+      "Trade agreements, customs regulations, road infrastructure, and market demand in the target countries",
+      "The personal preferences of the company's CEO regarding expansion locations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes the overarching purpose of the Logistics and Supply Chain Management BA program in Ethiopia?",
+    "options": [
+      "To train students exclusively in transportation operations",
+      "To produce graduates who can only work in government procurement agencies",
+      "To produce well-qualified, competent, ethical, and responsible logisticians and supply chain experts who contribute to Ethiopia's economic and social development",
+      "To focus only on international trade and foreign procurement activities"
+    ],
+    "correct": 2
+  }
+]
