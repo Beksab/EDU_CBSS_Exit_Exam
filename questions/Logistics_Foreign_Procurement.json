@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which international organization sets widely accepted rules for international trade terms used in foreign procurement?",
+    "options": [
+      "World Bank",
+      "International Chamber of Commerce (ICC)",
+      "United Nations Development Programme",
+      "World Trade Organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does the term \"Incoterms\" refer to in foreign procurement?",
+    "options": [
+      "International tax regulations for cross-border trade",
+      "A set of internationally recognized rules defining responsibilities of buyers and sellers in trade",
+      "Currency exchange standards for international payments",
+      "Customs clearance procedures for imported goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company in Ethiopia wants to import machinery from Germany. Under CIF terms, who is responsible for freight and insurance costs?",
+    "options": [
+      "The buyer (Ethiopian company)",
+      "The seller (German company)",
+      "The freight forwarder",
+      "The customs authority"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key difference between domestic and foreign procurement?",
+    "options": [
+      "Foreign procurement never requires competitive bidding",
+      "Foreign procurement involves additional complexities such as currency risk, customs procedures, and international regulations",
+      "Domestic procurement always takes longer than foreign procurement",
+      "Foreign procurement is exclusively managed by the Ministry of Finance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"FOB\" stand for in international trade terms?",
+    "options": [
+      "Freight on Board",
+      "Free on Board",
+      "Forward Order Bid",
+      "Final Order Billing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under FOB terms, when does the risk of loss transfer from the seller to the buyer?",
+    "options": [
+      "When the goods are loaded onto the vessel at the port of shipment",
+      "When the goods arrive at the buyer's warehouse",
+      "When the buyer pays the invoice",
+      "When the customs authority clears the goods"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following documents is most critical for customs clearance of imported goods?",
+    "options": [
+      "The procurement plan",
+      "The commercial invoice and bill of lading",
+      "The bid evaluation report",
+      "The letter of credit application form"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of a letter of credit (LC) in foreign procurement?",
+    "options": [
+      "To insure goods during international transportation",
+      "To guarantee payment to the seller upon presentation of compliant shipping documents",
+      "To register the buyer with the customs authority",
+      "To provide a framework for dispute resolution between buyer and seller"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"international competitive bidding\" (ICB)?",
+    "options": [
+      "A method reserved exclusively for procurement of consulting services",
+      "A procurement method where qualified suppliers from any country can submit bids",
+      "A procurement method limited to suppliers within the African continent",
+      "A procurement method used only for emergency situations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a pro forma invoice in foreign procurement?",
+    "options": [
+      "The final invoice issued after goods are delivered",
+      "A preliminary document issued by the seller showing estimated price, terms, and conditions before the actual transaction",
+      "A customs declaration form submitted by the buyer",
+      "A bank document guaranteeing payment to the seller"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which Incoterm requires the seller to bear all costs and risks until the goods are delivered to the buyer's named destination?",
+    "options": [
+      "FOB",
+      "EXW",
+      "DDP (Delivered Duty Paid)",
+      "CFR"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main function of a freight forwarder in international procurement?",
+    "options": [
+      "To manufacture goods for export",
+      "To organize and coordinate the shipment of goods on behalf of the buyer or seller",
+      "To issue letters of credit on behalf of the buyer's bank",
+      "To inspect goods at the seller's warehouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common risk associated with foreign procurement?",
+    "options": [
+      "Excessive number of domestic suppliers",
+      "Currency fluctuation, longer lead times, and complex customs procedures",
+      "Over-transparency in the bidding process",
+      "Too many competitive suppliers in the local market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a packing list in an international shipment?",
+    "options": [
+      "To confirm that payment has been made to the seller",
+      "To detail the contents, weight, and dimensions of each package in the shipment",
+      "To serve as the primary customs clearance document",
+      "To specify the Incoterm applicable to the shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under which Incoterm does the buyer bear maximum responsibility from the point of origin?",
+    "options": [
+      "DDP",
+      "CIF",
+      "EXW (Ex Works)",
+      "DAP"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is a bill of lading (B/L) in international trade?",
+    "options": [
+      "A contract between the buyer and the customs authority",
+      "A transport document issued by the carrier acknowledging receipt of goods for shipment",
+      "A form submitted to the bank to initiate payment",
+      "A certificate confirming the quality of exported goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of a tender document for foreign procurement?",
+    "options": [
+      "The personal financial details of procurement officers",
+      "Technical specifications, commercial terms, eligibility criteria, and evaluation methodology",
+      "The names of all expected foreign suppliers",
+      "The internal budget ceiling of the procuring entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of a certificate of origin in international trade?",
+    "options": [
+      "To confirm the seller's bank account details for payment",
+      "To certify the country in which the goods were manufactured, which may affect tariffs and trade agreements",
+      "To authorize customs clearance in the destination country",
+      "To confirm that goods have been inspected and meet quality standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best explains \"currency risk\" in foreign procurement?",
+    "options": [
+      "The risk of receiving counterfeit currency from a foreign supplier",
+      "The risk that exchange rate fluctuations will increase the effective cost of imported goods",
+      "The risk of being charged additional taxes by a foreign government",
+      "The risk that the supplier will demand payment in a non-convertible currency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"insurance certificate\" in an international shipment confirm?",
+    "options": [
+      "That the goods have cleared customs in the destination country",
+      "That the goods are insured against loss or damage during transit",
+      "That the seller has paid all applicable export duties",
+      "That the buyer has received and inspected the goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common method of payment in international procurement besides letters of credit?",
+    "options": [
+      "Barter trade agreements",
+      "Documentary collection (D/C)",
+      "Advance customs payment",
+      "Freight insurance payment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of Incoterms in a foreign procurement contract?",
+    "options": [
+      "They set the legal jurisdiction for dispute resolution",
+      "They define the point at which risk and cost transfer from seller to buyer",
+      "They determine the applicable tariff rate for imported goods",
+      "They specify the quality standards the goods must meet"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement officer is evaluating a foreign bid with prices in USD. The evaluation must be done in ETB. What factor must be applied?",
+    "options": [
+      "The price should be accepted as-is without conversion",
+      "The applicable exchange rate on the bid closing date or as specified in the bidding documents",
+      "The seller's preferred exchange rate",
+      "The exchange rate on the date of contract signing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following documents is required to open a letter of credit at a bank?",
+    "options": [
+      "The procurement plan approved by the head of the organization",
+      "The pro forma invoice, import permit, and bank application form",
+      "The bid evaluation report and contract award letter",
+      "The customs declaration form and packing list"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of an import permit in foreign procurement?",
+    "options": [
+      "To authorize the seller to export goods from their country",
+      "To authorize the buyer to bring specific goods into the country in compliance with national regulations",
+      "To confirm that the buyer has paid the full purchase price",
+      "To replace the letter of credit in simple trade transactions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following international shipping terms requires the seller to deliver goods at a named terminal at the destination, unloaded?",
+    "options": [
+      "FOB",
+      "DAT (Delivered at Terminal)",
+      "EXW",
+      "CFR"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of a pre-shipment inspection in international procurement?",
+    "options": [
+      "To inspect goods after they arrive at the buyer's warehouse",
+      "To verify the quality, quantity, and compliance of goods before they are shipped",
+      "To confirm that customs duties have been paid by the seller",
+      "To evaluate the financial capacity of the foreign supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in preparing tender documents for foreign procurement?",
+    "options": [
+      "Excessive number of domestic suppliers bidding on international tenders",
+      "Addressing international standards, currency considerations, language barriers, and compliance with multiple legal systems",
+      "Limiting participation to suppliers from a single country",
+      "Avoiding the use of Incoterms in contract documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"CIF\" stand for in Incoterms?",
+    "options": [
+      "Contract, Insurance, and Freight",
+      "Cost, Insurance, and Freight",
+      "Customs, Inspection, and Forwarding",
+      "Carriage, Insurance, and Final delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under CIF terms, which costs are included in the seller's price?",
+    "options": [
+      "Import duties and customs clearance at destination",
+      "Cost of goods, marine insurance, and freight to the destination port",
+      "Unloading costs at destination and inland delivery",
+      "All costs until goods are delivered to the buyer's warehouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key criterion for evaluating foreign bids?",
+    "options": [
+      "The nationality of the supplier's management team",
+      "Technical compliance, evaluated price, and delivery terms",
+      "The geographic location of the supplier's headquarters",
+      "The number of countries where the supplier has previously operated"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"country of origin\" preference in procurement evaluation?",
+    "options": [
+      "Awarding contracts only to suppliers in the buyer's country",
+      "A price adjustment applied during bid evaluation to give domestic suppliers a comparative advantage",
+      "A rule requiring all foreign suppliers to establish local offices before bidding",
+      "A policy that exempts domestic goods from import taxes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"back-to-back letter of credit\"?",
+    "options": [
+      "An LC issued by the seller's bank to guarantee payment to the buyer",
+      "A secondary LC opened by the intermediary trader in favor of the actual supplier, backed by the original LC",
+      "An LC used exclusively for domestic procurement transactions",
+      "A guarantee issued by the buyer's government to the seller's bank"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"performance bond\" in a foreign procurement contract?",
+    "options": [
+      "To guarantee that the buyer will pay the seller on time",
+      "To protect the buyer if the foreign supplier fails to fulfill contractual obligations",
+      "To confirm that the supplier has cleared customs in the buyer's country",
+      "To replace the letter of credit in long-term supply contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a common eligibility criterion for participating in international competitive bidding?",
+    "options": [
+      "The supplier must be a citizen of the buyer's country",
+      "The supplier must have relevant technical experience, financial capacity, and not be debarred",
+      "The supplier must have previously supplied goods to the buyer's government",
+      "The supplier must be registered in the buyer's country before submitting a bid"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a \"sight letter of credit\"?",
+    "options": [
+      "An LC payable 90 days after the goods are shipped",
+      "An LC that requires the bank to pay immediately upon presentation of compliant documents",
+      "An LC used exclusively for construction contract payments",
+      "An LC that does not require presentation of shipping documents"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors is most important when selecting an Incoterm for a foreign procurement contract?",
+    "options": [
+      "The personal preference of the procurement officer",
+      "The agreed allocation of risk, cost, and responsibility between buyer and seller",
+      "The currency in which the contract is denominated",
+      "The number of ports available in the seller's country"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of the \"Harmonized System (HS) Code\" in international trade?",
+    "options": [
+      "It sets the exchange rate for international procurement transactions",
+      "It provides a standardized numerical code for classifying traded goods, used by customs authorities worldwide",
+      "It specifies the Incoterm applicable to each category of goods",
+      "It determines the insurance premium for each shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key document in the letter of credit process?",
+    "options": [
+      "The supplier's company registration certificate",
+      "The bill of lading, commercial invoice, and certificate of origin",
+      "The procurement plan of the buying organization",
+      "The bank guarantee issued by the buyer's government"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of a \"tender bond\" (bid security) in international procurement?",
+    "options": [
+      "To cover transportation costs if goods are damaged during shipment",
+      "To ensure that the bidder will not withdraw their bid or refuse to sign the contract if selected",
+      "To guarantee that the buyer will pay the full contract amount",
+      "To cover the cost of bid evaluation in international tendering"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under which Incoterm does the seller bear the maximum responsibility including import duties at the destination?",
+    "options": [
+      "FOB",
+      "CIF",
+      "EXW",
+      "DDP"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following best describes \"open account\" as a payment method in foreign procurement?",
+    "options": [
+      "The seller ships goods and receives payment before shipment",
+      "The seller ships goods and extends credit to the buyer, who pays after a specified period",
+      "The buyer pays through a bank-guaranteed letter of credit",
+      "Payment is made through a third-party escrow account"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of a \"warranty\" clause in a foreign procurement contract?",
+    "options": [
+      "To specify the Incoterm applicable to the delivery",
+      "To obligate the foreign supplier to repair or replace defective goods within a specified period after delivery",
+      "To set the exchange rate for payments made after delivery",
+      "To specify the port of loading for the shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of international competitive bidding over domestic procurement?",
+    "options": [
+      "It simplifies customs clearance procedures",
+      "It expands the pool of suppliers, potentially improving quality and reducing costs",
+      "It eliminates the need for technical specifications",
+      "It reduces the time required to complete the procurement process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of SWIFT in international payment transactions?",
+    "options": [
+      "To insure international shipments against loss or damage",
+      "To provide a secure messaging network for international financial transactions between banks",
+      "To classify traded goods using the Harmonized System codes",
+      "To issue letters of credit on behalf of importing countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best explains why foreign procurement typically has longer lead times than domestic procurement?",
+    "options": [
+      "Foreign suppliers always charge higher prices than domestic suppliers",
+      "International shipping, customs clearance, and compliance with multiple regulatory requirements add time to the process",
+      "Foreign suppliers require more detailed technical specifications",
+      "International competitive bidding requires more bidders than domestic procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"Incoterms 2020\" in foreign procurement?",
+    "options": [
+      "They replaced all previous trade terms with a completely new set of rules",
+      "They are the most current version of international trade terms published by the ICC, updating and clarifying obligations of buyers and sellers",
+      "They apply exclusively to air freight transactions",
+      "They are mandatory under Ethiopian law for all foreign procurement contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"DAP\" (Delivered at Place) mean in Incoterms?",
+    "options": [
+      "The seller pays for delivery to a named port and the buyer handles all remaining costs",
+      "The seller is responsible for delivering goods to a named place at destination, with the buyer responsible for unloading and import duties",
+      "The buyer pays for all costs from the point of origin to the destination",
+      "The seller and buyer equally share all transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk management strategy in foreign procurement?",
+    "options": [
+      "Avoiding the use of Incoterms to maintain flexibility",
+      "Using forward exchange contracts to hedge against currency fluctuation risks",
+      "Limiting foreign procurement to a single trusted supplier",
+      "Paying suppliers before goods are shipped to ensure priority service"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"draft\" in documentary collection as a payment method?",
+    "options": [
+      "To specify the quality standards of the goods being purchased",
+      "A financial instrument ordering the buyer's bank to pay a specific amount at a specified time",
+      "A preliminary version of the letter of credit",
+      "A customs declaration form submitted by the importer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following international standards is commonly referenced in technical specifications for foreign procurement?",
+    "options": [
+      "Standards set by the local chamber of commerce",
+      "ISO (International Organization for Standardization) standards",
+      "Standards developed by the buyer's procurement unit",
+      "Standards established by the seller's national government"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key advantage of using CIF over FOB for an Ethiopian importer?",
+    "options": [
+      "The Ethiopian importer bears less risk since the seller arranges insurance and freight",
+      "CIF is always cheaper than FOB for Ethiopian importers",
+      "CIF eliminates the need for customs clearance",
+      "CIF does not require a letter of credit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an example of a non-tariff barrier that can affect foreign procurement?",
+    "options": [
+      "Import duties applied to all goods",
+      "Technical standards, labeling requirements, or import quotas that restrict market access",
+      "Exchange rate fluctuations in the international market",
+      "Competition from domestic suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a \"standby letter of credit\" in foreign trade?",
+    "options": [
+      "A type of letter of credit used exclusively for air freight",
+      "A backup payment guarantee that is drawn upon only if the buyer fails to fulfill payment obligations",
+      "A letter of credit that expires if not used within 30 days",
+      "A credit facility issued by the buyer's government for emergency imports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which document provides the buyer with evidence of title to goods in international trade?",
+    "options": [
+      "The certificate of origin",
+      "The negotiable bill of lading",
+      "The commercial invoice",
+      "The insurance certificate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under Ethiopian foreign procurement rules, which government body is typically responsible for approving import permits?",
+    "options": [
+      "The Ministry of Education",
+      "The Ethiopian Trade and Industry Ministry or relevant sector authority",
+      "The Public Procurement and Property Administration Agency",
+      "The National Bank of Ethiopia exclusively"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"demurrage\" in international shipping?",
+    "options": [
+      "A fee charged by the seller for late payment",
+      "A charge imposed on the buyer for keeping a container beyond the agreed free period",
+      "A customs penalty for misdeclared goods",
+      "A freight discount offered for bulk shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key responsibility of the buyer under EXW (Ex Works) terms?",
+    "options": [
+      "The buyer only pays for unloading at the destination",
+      "The buyer bears all costs and risks from the seller's premises to the final destination",
+      "The buyer is responsible only for import duties",
+      "The buyer pays freight costs while the seller handles insurance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"certificate of conformity\" in international procurement?",
+    "options": [
+      "To confirm that the buyer has paid for the goods",
+      "To certify that the goods meet the specified technical standards or contractual requirements",
+      "To authorize customs clearance of goods at the destination port",
+      "To guarantee payment to the seller through the banking system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in determining the most appropriate Incoterm for a foreign procurement contract?",
+    "options": [
+      "The language used in the tender document",
+      "The mode of transport, value of goods, and the buyer's capacity to manage logistics",
+      "The number of ports available in the seller's country",
+      "The currency in which the contract is denominated"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of the \"bid evaluation criteria\" in international competitive bidding?",
+    "options": [
+      "To determine the exchange rate applicable to the contract",
+      "To provide a transparent and consistent basis for comparing and selecting the best bid",
+      "To limit participation to pre-qualified foreign suppliers",
+      "To specify the Incoterm to be applied to the winning bid"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a well-prepared international tender document?",
+    "options": [
+      "It contains vague technical specifications to allow maximum supplier flexibility",
+      "It provides clear, complete, and unambiguous information enabling fair competition",
+      "It restricts participation to suppliers from specific countries",
+      "It includes the internal budget estimate of the procuring entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of the National Bank of Ethiopia in foreign procurement transactions?",
+    "options": [
+      "To evaluate bids from foreign suppliers",
+      "To regulate foreign exchange transactions and approve the opening of letters of credit",
+      "To prepare tender documents for international procurement",
+      "To grant import permits for restricted goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the correct definition of \"counterfeit goods\" in the context of foreign procurement?",
+    "options": [
+      "Goods that are more expensive than originally quoted",
+      "Goods that are fraudulently branded or falsely represented as meeting specified standards",
+      "Goods that are slightly different from the technical specifications",
+      "Goods that are delivered beyond the agreed delivery schedule"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"shipping guarantee\" in international trade?",
+    "options": [
+      "To ensure that goods are insured during transit",
+      "To allow the buyer to take delivery of goods before the original bill of lading arrives",
+      "To guarantee that the seller ships on the agreed date",
+      "To replace the letter of credit in high-value transactions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best explains why pre-shipment inspection is important in foreign procurement?",
+    "options": [
+      "It eliminates the need for customs clearance at destination",
+      "It verifies that goods comply with contractual specifications before leaving the seller's country, reducing the risk of receiving defective or substandard goods",
+      "It guarantees that the seller will honor the warranty period",
+      "It reduces freight costs by optimizing packaging"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a \"force majeure\" clause in a foreign procurement contract?",
+    "options": [
+      "A clause that allows the buyer to cancel the contract at any time",
+      "A clause that excuses both parties from contractual obligations due to extraordinary events beyond their control",
+      "A clause that requires the seller to ship goods regardless of disruptions",
+      "A clause that sets the maximum penalty for late delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of documentary credit (letter of credit) over open account payment?",
+    "options": [
+      "It is cheaper and faster than open account",
+      "It provides greater payment security for the seller and document verification for the buyer",
+      "It eliminates the need for shipping documents",
+      "It allows the buyer to negotiate prices after shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of the \"advance payment guarantee\" in foreign procurement?",
+    "options": [
+      "To guarantee that the buyer will pay the full contract amount at contract signing",
+      "To protect the buyer if the supplier fails to repay the advance in the event of non-performance",
+      "To replace the bid security after contract award",
+      "To guarantee customs clearance at the destination port"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk associated with single-source foreign procurement?",
+    "options": [
+      "Excessive competition from domestic suppliers",
+      "Lack of competition, potential for overpricing, and dependency on a single foreign supplier",
+      "Longer customs clearance procedures for competitive bids",
+      "Difficulty in preparing technical specifications for foreign goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under which Incoterm is the seller responsible for delivering goods cleared for import, with all duties paid, at the named destination?",
+    "options": [
+      "FOB",
+      "DAP",
+      "CIF",
+      "DDP"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is a \"usance letter of credit\"?",
+    "options": [
+      "An LC payable immediately upon presentation of documents",
+      "An LC that allows the buyer a deferred payment period after presentation of compliant documents",
+      "An LC issued exclusively for emergency procurement",
+      "An LC that does not require a bill of lading"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration when drafting technical specifications for foreign procurement?",
+    "options": [
+      "Limiting specifications to brands available only from a single country",
+      "Ensuring specifications are based on international standards and functional requirements to encourage maximum competition",
+      "Including detailed instructions on how suppliers should manufacture the goods",
+      "Keeping specifications confidential until after bids are submitted"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"transit time\" refer to in foreign procurement planning?",
+    "options": [
+      "The time taken to evaluate bids in international competitive bidding",
+      "The time required for goods to travel from the seller's location to the buyer's destination",
+      "The time allowed for the buyer to inspect goods after delivery",
+      "The time required to open a letter of credit at the bank"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an advantage of using a freight forwarder in foreign procurement?",
+    "options": [
+      "Freight forwarders guarantee the lowest possible shipping rates at all times",
+      "Freight forwarders manage complex logistics, documentation, and customs procedures on behalf of the buyer",
+      "Freight forwarders eliminate the need for letters of credit",
+      "Freight forwarders take ownership of goods during transit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of \"trade finance\" in the context of foreign procurement?",
+    "options": [
+      "To provide training for procurement officers on international trade rules",
+      "To provide financial instruments and products that facilitate international trade by reducing payment risk",
+      "To set exchange rates for international transactions",
+      "To regulate import duties and tariffs on traded goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"import substitution\" as a procurement policy?",
+    "options": [
+      "Replacing foreign procurement officers with domestic staff",
+      "A policy that encourages domestic production to reduce dependence on imported goods",
+      "Substituting cheaper foreign goods for more expensive domestic equivalents",
+      "A practice of replacing one foreign supplier with another during contract execution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of the \"confirming bank\" in a letter of credit transaction?",
+    "options": [
+      "To issue the original letter of credit on behalf of the buyer",
+      "To add its own guarantee to the LC, assuring the seller of payment even if the issuing bank defaults",
+      "To inspect goods before shipment on behalf of the buyer",
+      "To classify goods for customs purposes at the port of entry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of harmonizing procurement procedures with international standards such as those of the World Bank?",
+    "options": [
+      "It eliminates the need for domestic procurement regulations",
+      "It facilitates access to international financing, improves transparency, and attracts more competitive bids",
+      "It guarantees the lowest prices from international suppliers",
+      "It allows the procuring entity to bypass national procurement laws"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of the \"validity period\" of a bid in international competitive bidding?",
+    "options": [
+      "It specifies the time within which the seller must manufacture the goods",
+      "It is the period during which the bidder's offer remains binding and the procuring entity must complete evaluation and award",
+      "It determines the warranty period applicable to the contract",
+      "It sets the deadline for the buyer to open a letter of credit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a primary function of the \"advising bank\" in a letter of credit transaction?",
+    "options": [
+      "To guarantee payment to the seller if the issuing bank fails",
+      "To notify the seller that an LC has been issued in their favor",
+      "To inspect goods before they are shipped to the buyer",
+      "To negotiate the terms of the LC with the buyer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"discrepancy notice\" in a letter of credit transaction?",
+    "options": [
+      "To inform the buyer that the seller has shipped the wrong goods",
+      "To notify the seller that their documents do not comply with LC terms and may not be honored",
+      "To cancel the letter of credit before the expiry date",
+      "To request an extension of the LC validity period"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle that should guide foreign procurement decisions?",
+    "options": [
+      "Always select the supplier with the lowest price regardless of quality",
+      "Balance quality, cost, delivery, and risk to achieve value for money",
+      "Prioritize suppliers from countries with which Ethiopia has diplomatic ties",
+      "Select suppliers based on the familiarity of their brand in the domestic market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"black clause\" or \"on deck\" notation on a bill of lading?",
+    "options": [
+      "To indicate that goods are insured for the entire voyage",
+      "To notify the buyer that goods are stowed on deck, which may affect the risk profile and insurance coverage",
+      "To confirm that all import duties have been prepaid by the seller",
+      "To authorize the buyer to transfer the bill of lading to a third party"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an obligation of the buyer under CIF terms?",
+    "options": [
+      "Arranging and paying for freight to the destination port",
+      "Paying for unloading costs and import duties at the destination",
+      "Obtaining marine insurance for the goods during transit",
+      "Completing export customs formalities in the seller's country"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"Incoterms\" in resolving trade disputes?",
+    "options": [
+      "They serve as a binding legal framework that overrides national laws",
+      "They provide a common reference for interpreting the responsibilities of buyer and seller, reducing misunderstandings",
+      "They specify the jurisdiction where disputes must be resolved",
+      "They set the penalty for late delivery in international contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key step in the process of opening a letter of credit?",
+    "options": [
+      "The seller applies to their bank to issue the LC in favor of the buyer",
+      "The buyer applies to their bank to issue the LC in favor of the seller",
+      "The freight forwarder issues the LC after goods are shipped",
+      "The customs authority approves the LC before goods are cleared"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"SWIFT codes\" in international procurement payments?",
+    "options": [
+      "They classify goods for customs and tariff purposes",
+      "They identify specific banks in the international payment network, enabling accurate routing of funds",
+      "They specify the Incoterm applicable to the transaction",
+      "They determine the insurance premium for international shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"revolving letter of credit\"?",
+    "options": [
+      "An LC that can only be used once and expires after the first transaction",
+      "An LC that automatically renews for the same amount and period after each drawing, suitable for ongoing procurement",
+      "An LC that requires the buyer to pay before goods are shipped",
+      "An LC exclusively used for emergency procurement of essential goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of the \"negotiating bank\" in an LC transaction?",
+    "options": [
+      "To issue the letter of credit on behalf of the buyer",
+      "To examine the seller's documents and advance funds against them before receiving payment from the issuing bank",
+      "To transport goods from the seller to the buyer",
+      "To confirm that the buyer has sufficient funds to cover the LC"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor to consider when evaluating the financial capacity of a foreign supplier?",
+    "options": [
+      "The number of languages spoken by the supplier's management team",
+      "Financial statements, credit ratings, and ability to fulfill the contract value",
+      "The age of the company's founding documents",
+      "The number of countries where the supplier has received awards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"trade credit insurance\" in foreign procurement?",
+    "options": [
+      "To insure goods against damage during international transportation",
+      "To protect the buyer against the risk of supplier default or non-delivery",
+      "To cover the cost of customs duties on imported goods",
+      "To guarantee the performance of the freight forwarder"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following international arbitration forums is commonly specified for dispute resolution in foreign procurement contracts?",
+    "options": [
+      "The World Trade Organization's dispute panel",
+      "The International Chamber of Commerce (ICC) International Court of Arbitration",
+      "The United Nations General Assembly",
+      "The World Bank Inspection Panel"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key advantage of using a framework agreement for recurring foreign procurement?",
+    "options": [
+      "It eliminates the need for any future competitive bidding for listed items",
+      "It reduces repetitive tendering and speeds up procurement for regularly needed goods while maintaining agreed pricing",
+      "It guarantees the same price regardless of market fluctuations",
+      "It allows the buyer to change technical specifications after contract award"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key difference between a \"confirmed\" and an \"unconfirmed\" letter of credit?",
+    "options": [
+      "A confirmed LC is only valid for 30 days while an unconfirmed LC has no expiry",
+      "A confirmed LC carries the additional payment guarantee of a second bank in the seller's country, reducing the seller's risk",
+      "A confirmed LC requires the buyer to pay customs duties in advance",
+      "An unconfirmed LC is issued by the government rather than a commercial bank"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"UNCITRAL Model Law on International Commercial Arbitration\" in foreign procurement contracts?",
+    "options": [
+      "It sets the tariff rates for imported goods in developing countries",
+      "It provides a framework for resolving international trade disputes through arbitration",
+      "It classifies goods for customs purposes in international trade",
+      "It establishes Incoterms used in international supply contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a best practice when preparing a bid for an international tender?",
+    "options": [
+      "Submitting the bid after the deadline to avoid early disqualification",
+      "Carefully reviewing all tender documents, ensuring full compliance and submitting all required documentation on time",
+      "Offering the lowest price to guarantee selection regardless of quality",
+      "Requesting clarifications from other bidders rather than the procuring entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"trade terms\" specified in a foreign procurement contract?",
+    "options": [
+      "To set the warranty period for delivered goods",
+      "To define the point where risk and responsibility transfer between buyer and seller",
+      "To determine the applicable import tariff rate",
+      "To specify the payment currency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration when specifying delivery terms in a foreign procurement contract?",
+    "options": [
+      "The procurement officer's personal preference for shipping mode",
+      "The buyer's logistics capacity, insurance arrangements, and cost-effectiveness of each option",
+      "The seller's preferred Incoterm regardless of the buyer's needs",
+      "The exchange rate applicable on the delivery date"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"transit insurance\" in foreign procurement?",
+    "options": [
+      "To cover the cost of customs duties on imported goods",
+      "To protect goods against loss, damage, or theft during international transportation",
+      "To guarantee payment to the seller if the buyer defaults",
+      "To replace the performance bond in foreign contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge when conducting tender evaluation for foreign procurement?",
+    "options": [
+      "Excessive competition from domestic suppliers",
+      "Currency conversion, assessment of international technical standards, and verification of foreign supplier credentials",
+      "Too many bidders submitting identical offers",
+      "Absence of international quality standards for evaluation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"retention amount\" in a foreign procurement contract?",
+    "options": [
+      "To ensure the buyer pays the seller on time",
+      "To withhold a portion of the contract payment until the supplier fulfills all obligations, including warranty requirements",
+      "To cover transportation costs after goods are delivered",
+      "To reimburse the seller for customs duties paid at destination"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of conducting pre-bid conferences in international competitive bidding?",
+    "options": [
+      "They allow the procuring entity to select the winning bidder before bids are submitted",
+      "They give potential bidders the opportunity to seek clarifications, improving the quality of bids received",
+      "They eliminate the need for a formal bid submission deadline",
+      "They allow the procuring entity to negotiate prices with preferred suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the meaning of \"transferable letter of credit\"?",
+    "options": [
+      "An LC that can be transferred from the buyer to the seller without the bank's involvement",
+      "An LC that allows the seller to transfer part or all of the credit to one or more secondary beneficiaries",
+      "An LC that expires and is re-issued automatically after each transaction",
+      "An LC that applies to all future procurement between the same buyer and seller"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk in using advance payment in foreign procurement?",
+    "options": [
+      "The seller may delay shipment to negotiate a better price",
+      "The buyer may lose the advance if the supplier fails to deliver or becomes insolvent",
+      "The buyer may be required to pay additional customs duties",
+      "The seller may demand a letter of credit after receiving the advance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"certificate of insurance\" in a CIF shipment?",
+    "options": [
+      "To confirm that the buyer has paid the seller",
+      "To provide the buyer with evidence that the goods are insured against transit risks",
+      "To authorize the freight forwarder to release goods at the destination port",
+      "To confirm that goods have been inspected and meet quality standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"competitive dialogue\" as a procurement method in complex international procurement?",
+    "options": [
+      "A method where bidders negotiate prices openly in a public forum",
+      "A method where the procuring entity conducts structured discussions with pre-qualified bidders to develop solutions before requesting final bids",
+      "A method where the lowest bid is automatically selected without evaluation",
+      "A method restricted to procurement of consulting services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of the \"expiry date\" in a letter of credit?",
+    "options": [
+      "It is the date by which the buyer must open the LC",
+      "It is the deadline by which the seller must present compliant documents to receive payment",
+      "It is the date by which goods must arrive at the destination port",
+      "It is the date by which the buyer must pay import duties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key difference between \"documentary credit\" and \"documentary collection\"?",
+    "options": [
+      "Documentary credit is cheaper and faster than documentary collection",
+      "Documentary credit provides bank guarantee of payment while documentary collection relies on the buyer's willingness to pay upon document presentation",
+      "Documentary collection is used exclusively for air freight transactions",
+      "Documentary credit does not require the presentation of shipping documents"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of specifying a \"governing law\" clause in a foreign procurement contract?",
+    "options": [
+      "To specify which country's customs regulations apply",
+      "To determine which country's legal system will govern the interpretation and enforcement of the contract",
+      "To set the exchange rate for payments under the contract",
+      "To identify the Incoterm applicable to the delivery terms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of effective supplier management in foreign procurement?",
+    "options": [
+      "Changing suppliers frequently to maintain competitive pricing",
+      "Building and maintaining relationships with reliable foreign suppliers through performance monitoring and communication",
+      "Limiting foreign procurement to a single country to simplify management",
+      "Avoiding long-term contracts to maintain maximum procurement flexibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"trade facilitation\" measures in foreign procurement?",
+    "options": [
+      "To restrict the number of foreign suppliers participating in tenders",
+      "To simplify and harmonize customs and border procedures, reducing the cost and time of cross-border trade",
+      "To set minimum prices for imported goods",
+      "To require foreign suppliers to establish local offices before bidding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the key purpose of \"country risk assessment\" in foreign procurement?",
+    "options": [
+      "To determine the tariff rate applicable to goods from a specific country",
+      "To evaluate the political, economic, and regulatory risks associated with sourcing from a particular country",
+      "To set the exchange rate for contracts with suppliers from high-risk countries",
+      "To determine the appropriate Incoterm for each country"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"most-favored-nation (MFN)\" treatment in international trade relevant to procurement?",
+    "options": [
+      "It gives preference to goods from developing countries",
+      "It requires that trade concessions granted to one country be extended equally to all other trading partners under WTO rules",
+      "It allows governments to exclude foreign suppliers from public tenders",
+      "It exempts government procurement from international trade rules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key obligation of the importer under Ethiopian customs regulations?",
+    "options": [
+      "Paying freight costs on behalf of the foreign supplier",
+      "Accurately declaring imported goods, paying applicable duties, and complying with all import regulations",
+      "Inspecting goods at the seller's warehouse before shipment",
+      "Issuing the bill of lading for international shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"duty drawback\" scheme in international trade?",
+    "options": [
+      "To increase import duties on competitive foreign goods",
+      "To refund customs duties paid on imported goods that are subsequently re-exported or used in the production of exported goods",
+      "To exempt all government imports from customs duties",
+      "To compensate domestic suppliers for price disadvantages in international competition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of international competitive bidding as recommended by multilateral development banks?",
+    "options": [
+      "Contracts are awarded to domestic suppliers by default",
+      "Open, transparent, and competitive bidding with international participation and standardized evaluation criteria",
+      "Bids are evaluated using only price criteria without technical assessment",
+      "Pre-qualification is mandatory for all ICB contracts regardless of value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"addenda\" issued during the international bidding process?",
+    "options": [
+      "To notify unsuccessful bidders of their disqualification",
+      "To communicate changes, corrections, or clarifications to all potential bidders before the bid submission deadline",
+      "To extend the warranty period of goods delivered under a previous contract",
+      "To request additional financial documents from shortlisted bidders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"parallel importing\" in the context of foreign procurement?",
+    "options": [
+      "Importing the same goods from two different countries simultaneously",
+      "Importing genuine goods through unauthorized distribution channels, often at lower prices than official channels",
+      "Using two freight forwarders for the same shipment to reduce risk",
+      "Procuring goods under both an LC and an open account simultaneously"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"harmonizing\" procurement procedures with international standards?",
+    "options": [
+      "To eliminate domestic procurement rules",
+      "To ensure compatibility with international best practices, facilitating access to international financing and reducing procurement costs",
+      "To mandate the use of foreign suppliers for all major procurement",
+      "To restrict participation in tenders to internationally certified companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of a bid evaluation report in international procurement?",
+    "options": [
+      "The personal opinions of the procurement officer on each bidder",
+      "A systematic comparison of bids against predetermined criteria with documented scores and a justified recommendation",
+      "A list of all suppliers who expressed interest but did not submit bids",
+      "The internal budget ceiling used to assess bid prices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"country preference margins\" in World Bank-financed procurement?",
+    "options": [
+      "They exclude foreign suppliers from participating in domestic tenders",
+      "They allow domestic bidders a price advantage during evaluation to support local industry development",
+      "They set the maximum contract value for which domestic procurement is permitted",
+      "They determine the exchange rate used for bid evaluation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of procuring from a foreign supplier with a poor track record?",
+    "options": [
+      "Excessive competition from the supplier's domestic market",
+      "Risk of non-delivery, quality failures, delayed shipments, and difficulty in enforcing contract remedies across jurisdictions",
+      "High competition from other buyers seeking the same supplier",
+      "Over-documentation requirements by the supplier's government"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of the \"issuing bank\" in a letter of credit transaction?",
+    "options": [
+      "To transport goods on behalf of the buyer",
+      "To issue the LC at the buyer's request, committing to pay the seller upon presentation of compliant documents",
+      "To inspect goods before they are shipped",
+      "To advise the seller of the LC terms and conditions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key reason why Ethiopia uses foreign procurement for certain goods?",
+    "options": [
+      "Domestic goods are always of lower quality than foreign goods",
+      "Some goods are not produced locally, or foreign sources offer better quality, technology, or value for money",
+      "Foreign procurement is always cheaper than domestic procurement",
+      "Ethiopian law mandates the use of foreign suppliers for all government contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"quality assurance\" clause in a foreign procurement contract?",
+    "options": [
+      "To specify the payment terms applicable to the contract",
+      "To define quality standards and inspection procedures the supplier must follow to ensure goods meet specifications",
+      "To set the freight terms for international delivery",
+      "To determine the warranty period for delivered goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of consolidating foreign procurement needs across government agencies?",
+    "options": [
+      "It eliminates the need for competitive bidding in international procurement",
+      "It achieves economies of scale, reduces procurement costs, and simplifies contract management",
+      "It allows each agency to negotiate directly with preferred suppliers",
+      "It limits foreign procurement to a single government ministry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"cargo tracking\" in foreign procurement?",
+    "options": [
+      "To calculate the customs duty payable on imported goods",
+      "To monitor the movement of goods in transit and anticipate delivery, enabling proactive management of any delays",
+      "To ensure that the seller ships goods on the correct vessel",
+      "To verify the accuracy of the bill of lading"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration in choosing between air freight and sea freight for foreign procurement?",
+    "options": [
+      "The personal preference of the freight forwarder",
+      "The urgency of the requirement, cost, nature of goods, and volume to be shipped",
+      "The number of customs checkpoints between origin and destination",
+      "The availability of the goods at the seller's warehouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"dispute resolution clause\" in a foreign procurement contract?",
+    "options": [
+      "To specify the currency in which disputes must be settled",
+      "To define the process and forum for resolving disagreements between buyer and seller",
+      "To set the maximum compensation payable in any dispute",
+      "To exempt either party from liability for force majeure events"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key indicator of a successful foreign procurement outcome?",
+    "options": [
+      "The contract was awarded to the supplier with the longest history",
+      "Goods delivered on time, within budget, and meeting the specified technical requirements",
+      "The procurement was completed without any supplier complaints",
+      "The procuring entity used the same foreign supplier as in previous years"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"Incoterms\" in determining insurance responsibility in a foreign procurement contract?",
+    "options": [
+      "Incoterms set the premium rate for cargo insurance",
+      "Incoterms define at which point the risk of loss transfers, indicating which party should arrange insurance for each leg of the journey",
+      "Incoterms eliminate the need for cargo insurance in international trade",
+      "Incoterms require both buyer and seller to independently insure the goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key requirement for a valid international procurement contract?",
+    "options": [
+      "Approval from the United Nations before the contract takes effect",
+      "Offer, acceptance, consideration, and compliance with applicable laws of the governing jurisdiction",
+      "Submission to the Public Procurement Agency in the buyer's country",
+      "Registration with the international chamber of commerce"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key purpose of conducting a \"supplier market survey\" before issuing an international tender?",
+    "options": [
+      "To identify the winning bidder before the tender is published",
+      "To understand available supply options, realistic pricing, and technical standards in the international market",
+      "To determine which suppliers should be excluded from the bidding process",
+      "To set the procurement budget based on the most expensive available option"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk in foreign procurement related to intellectual property?",
+    "options": [
+      "Foreign suppliers charging higher prices than domestic suppliers",
+      "The risk of procuring counterfeit or patent-infringing products, exposing the buyer to legal liability",
+      "Foreign suppliers shipping goods to the wrong destination",
+      "Delays in obtaining import permits from the customs authority"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"liquidated damages\" in a foreign procurement contract?",
+    "options": [
+      "To compensate the supplier for losses due to currency fluctuation",
+      "To pre-agree the financial penalty the supplier will pay for delays or non-performance, avoiding lengthy dispute processes",
+      "To cover the cost of customs duties on late-arriving goods",
+      "To guarantee payment to the seller in case of buyer insolvency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"duty-free\" importation in the context of government procurement?",
+    "options": [
+      "The government pays customs duties on behalf of foreign suppliers",
+      "Certain government imports are exempted from customs duties under applicable laws or international agreements",
+      "All foreign procurement is automatically exempt from duties",
+      "Foreign suppliers are responsible for paying duties on goods imported for government use"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key advantage of using electronic procurement platforms in international competitive bidding?",
+    "options": [
+      "They eliminate the need for technical specifications in tender documents",
+      "They improve transparency, reduce administrative costs, and broaden supplier participation",
+      "They automatically select the winning bidder based on price",
+      "They replace all documentation requirements in international procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of a robust foreign supplier qualification process?",
+    "options": [
+      "Selecting suppliers based on the number of years they have been in operation",
+      "Assessing financial capacity, technical experience, references, quality management systems, and compliance status",
+      "Limiting qualification to suppliers that have previously worked with the Ethiopian government",
+      "Requiring suppliers to establish a local office before submitting a bid"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"Uniform Customs and Practice for Documentary Credits (UCP 600)\" in foreign procurement?",
+    "options": [
+      "It sets import tariff rates for goods traded between member countries",
+      "It provides the internationally accepted rules governing letters of credit, adopted by banks worldwide",
+      "It establishes the Incoterms used in international supply contracts",
+      "It regulates customs clearance procedures in developing countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary challenge of managing foreign procurement contracts over a long period?",
+    "options": [
+      "Excessive competition from new suppliers entering the market",
+      "Exchange rate volatility, geopolitical risks, supply chain disruptions, and evolving technical standards",
+      "Over-documentation requirements from the buyer's procurement authority",
+      "Difficulty in finding sufficient international suppliers for common goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key responsibility of a procurement officer managing a foreign procurement contract?",
+    "options": [
+      "Personally traveling to the supplier's country to oversee production",
+      "Monitoring contract milestones, managing documentation, coordinating with customs, and ensuring timely delivery and payment",
+      "Negotiating a new price after goods are shipped",
+      "Selecting the freight forwarder without reference to the contract terms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"certificate of free sale\" in international trade?",
+    "options": [
+      "To confirm that the buyer has paid for the goods in full",
+      "To certify that the goods are legally sold and approved for export in the country of origin",
+      "To authorize the buyer to sell the goods in the domestic market",
+      "To confirm that the goods are exempt from import duties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in assessing the \"total landed cost\" of foreign procurement?",
+    "options": [
+      "Only the FOB price quoted by the seller",
+      "All costs including purchase price, freight, insurance, customs duties, and inland transportation to the final destination",
+      "Only the CIF price plus import duties",
+      "The seller's profit margin on the transaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"benchmarking\" in the context of foreign procurement?",
+    "options": [
+      "To set a minimum price for all foreign tenders",
+      "To compare procurement outcomes, costs, and processes against industry standards or best-in-class organizations to identify improvement opportunities",
+      "To restrict procurement to suppliers who meet predefined price benchmarks",
+      "To award contracts to the supplier closest to the benchmark price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key consideration when drafting a dispute resolution clause for a foreign procurement contract?",
+    "options": [
+      "Specifying that all disputes must be resolved in the buyer's country courts regardless of the supplier's preference",
+      "Choosing a neutral and internationally recognized arbitration forum, applicable law, and language to ensure enforceability",
+      "Limiting dispute resolution to informal negotiations without formal procedures",
+      "Excluding all financial disputes from the scope of the clause"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"sanctions screening\" in foreign procurement?",
+    "options": [
+      "To identify foreign suppliers with the lowest prices",
+      "To check whether potential suppliers are subject to international sanctions, which would prohibit the buyer from entering contracts with them",
+      "To verify that goods comply with international quality standards",
+      "To assess the environmental impact of the supplier's manufacturing process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of engaging a local agent in foreign procurement?",
+    "options": [
+      "The local agent automatically takes legal responsibility for the foreign supplier",
+      "A local agent can assist with customs clearance, local regulations, language, and logistics coordination",
+      "The local agent guarantees the quality of goods supplied by the foreign manufacturer",
+      "Using a local agent eliminates the need for a letter of credit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"commodity price risk management\" in foreign procurement?",
+    "options": [
+      "To ensure that all contracts are awarded at the lowest available market price",
+      "To protect the buyer from unexpected increases in commodity prices through hedging or price adjustment mechanisms in contracts",
+      "To set fixed prices for all goods regardless of market conditions",
+      "To eliminate the need for competitive bidding when commodity prices are stable"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the most critical success factor in foreign procurement management?",
+    "options": [
+      "Ensuring all contracts are awarded to suppliers from friendly countries",
+      "A combination of thorough planning, rigorous supplier selection, robust contract management, and proactive risk mitigation",
+      "Completing procurement within the shortest possible time regardless of compliance",
+      "Using only spot purchasing to take advantage of favorable market conditions"
+    ],
+    "correct": 1
+  }
+]
