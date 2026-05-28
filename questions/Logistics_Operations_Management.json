@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Operations management is best defined as:",
+    "options": [
+      "The management of financial resources to maximize shareholder value",
+      "The design, management, and improvement of systems that create goods and services",
+      "The process of hiring and training production employees",
+      "The management of customer relationships to increase market share"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the primary goal of operations management?",
+    "options": [
+      "Maximizing the number of products offered to customers",
+      "Minimizing the workforce size in production facilities",
+      "Efficiently transforming inputs into outputs to create value for customers",
+      "Maximizing inventory levels to avoid stockouts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"transformation process\" in operations management refers to:",
+    "options": [
+      "Converting financial capital into physical assets",
+      "The process of changing inputs such as labor and materials into finished goods or services",
+      "Transferring ownership of goods from supplier to customer",
+      "Changing the organizational structure of a production department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"value-added\" in the context of operations?",
+    "options": [
+      "The total revenue generated from selling finished products",
+      "The difference between the cost of inputs and the market value of the output",
+      "The profit margin earned by the sales department",
+      "The additional cost incurred during the production process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of an operations management decision in a manufacturing firm?",
+    "options": [
+      "Deciding the company's dividend policy",
+      "Selecting the layout and capacity of a production facility",
+      "Preparing the annual financial audit report",
+      "Designing the company's marketing campaign"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Operations strategy is best described as:",
+    "options": [
+      "A short-term plan for managing day-to-day production activities",
+      "A long-term plan that aligns operations capabilities with overall business strategy",
+      "A financial plan for reducing production costs in the next quarter",
+      "A set of guidelines for managing supplier relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following competitive priorities can operations strategy focus on to gain market advantage?",
+    "options": [
+      "Shareholder equity, dividend yield, and tax efficiency",
+      "Cost, quality, flexibility, and delivery speed",
+      "Marketing reach, brand awareness, and customer loyalty programs",
+      "Number of suppliers, payment terms, and procurement lead time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Order qualifiers\" in operations strategy are best described as:",
+    "options": [
+      "Criteria that win orders from customers beyond competitors",
+      "Minimum performance standards a firm must meet to be considered by customers",
+      "Features that differentiate a company's product from all competitors",
+      "Quality control standards set by government regulatory agencies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Order winners\" in operations strategy refer to:",
+    "options": [
+      "Minimum standards required to compete in the market",
+      "Criteria that cause customers to prefer one firm's products over competitors'",
+      "Products that have won industry quality awards",
+      "Orders that are processed faster than the standard lead time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Productivity in operations management is measured as:",
+    "options": [
+      "Total revenue divided by total number of employees",
+      "The ratio of outputs produced to inputs used in the production process",
+      "Total profit divided by total production cost",
+      "Number of units produced divided by number of defects"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly represents \"multifactor productivity\"?",
+    "options": [
+      "Output divided by a single input such as labor",
+      "Output divided by the combined measure of multiple inputs such as labor, capital, and materials",
+      "Total sales revenue divided by number of production employees",
+      "Number of defect-free units divided by total units produced"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If a factory produces 1,000 units per day using 50 workers, the labor productivity is:",
+    "options": [
+      "50 units per worker per day",
+      "20 units per worker per day",
+      "1,000 units per worker per day",
+      "500 units per worker per day"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a reason why productivity improvement is important for a nation's economy?",
+    "options": [
+      "It reduces the number of products available to consumers",
+      "It enables higher standards of living by producing more with the same or fewer resources",
+      "It increases unemployment by reducing the need for labor",
+      "It raises the cost of production, allowing firms to charge higher prices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors most directly influences operations competitiveness?",
+    "options": [
+      "The number of shareholders in the company",
+      "The firm's ability to deliver high quality products at competitive costs with reliable lead times",
+      "The volume of advertising expenditure relative to competitors",
+      "The size of the firm's legal and compliance department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"triple bottom line\" in sustainable operations refers to measuring performance across:",
+    "options": [
+      "Cost, quality, and delivery dimensions",
+      "Economic, social, and environmental dimensions",
+      "Revenue, profit, and market share dimensions",
+      "Inputs, processes, and outputs dimensions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"core competency\" in operations strategy?",
+    "options": [
+      "A skill or capability that every company in an industry must possess",
+      "A unique strength in operations that gives a firm a sustainable competitive advantage",
+      "The minimum quality standard required by government regulators",
+      "The basic training provided to all new operations employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Time-based competition\" in operations strategy emphasizes:",
+    "options": [
+      "Minimizing the number of products offered to the market",
+      "Reducing the time to develop, produce, and deliver products to gain competitive advantage",
+      "Maximizing the length of the product development cycle",
+      "Extending supplier lead times to reduce procurement costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is TRUE about the relationship between operations strategy and corporate strategy?",
+    "options": [
+      "Operations strategy is developed independently of corporate strategy",
+      "Operations strategy should support and align with the overall corporate strategy",
+      "Corporate strategy is derived from operations strategy in all organizations",
+      "Operations strategy only applies to manufacturing companies, not service firms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"process\" in a service operations context?",
+    "options": [
+      "A physical product stored in a warehouse",
+      "The steps followed by a bank teller to process a customer's deposit",
+      "The raw materials used in manufacturing a product",
+      "The financial statements prepared by an accounting department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"productivity paradox\" in operations management refers to:",
+    "options": [
+      "The observation that higher quality always leads to higher costs",
+      "The phenomenon where significant investment in technology does not immediately result in measurable productivity gains",
+      "The finding that larger firms are always less productive than smaller firms",
+      "The tendency for productivity to decrease as the workforce grows"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"competitiveness\" at the firm level in operations management?",
+    "options": [
+      "The ability to produce more units than any competitor regardless of cost",
+      "The ability to design and deliver products and services that satisfy customers better than competitors",
+      "The capacity to reduce the workforce size while maintaining output levels",
+      "The ability to secure the largest number of government contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an input in the operations transformation process for a logistics firm?",
+    "options": [
+      "Delivered shipments and completed freight documents",
+      "Customer satisfaction scores from delivered orders",
+      "Vehicles, fuel, drivers, and freight information",
+      "Revenue generated from transportation services"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following operations performance objectives directly relates to a firm's ability to change its output volume or product mix quickly?",
+    "options": [
+      "Cost",
+      "Quality",
+      "Flexibility",
+      "Dependability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A firm that consistently meets promised delivery dates is demonstrating which operations performance objective?",
+    "options": [
+      "Cost efficiency",
+      "Flexibility",
+      "Speed",
+      "Dependability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a limitation of using partial productivity measures?",
+    "options": [
+      "They are too complex to calculate in most organizations",
+      "They may give a misleading picture by ignoring the productivity of other inputs",
+      "They require multifactor data that is rarely available",
+      "They can only be applied to manufacturing firms, not service organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the concept of \"strategic fit\" in operations management?",
+    "options": [
+      "The alignment between the size of the operations department and the marketing budget",
+      "The consistency between the competitive priorities of a firm and its operations capabilities",
+      "The match between the number of production facilities and total market demand",
+      "The compatibility between different software systems used in operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An operations manager conducting a SWOT analysis is focusing on which aspect of strategic planning?",
+    "options": [
+      "Designing the layout of the production facility",
+      "Scheduling daily production activities",
+      "Assessing internal strengths and weaknesses and external opportunities and threats",
+      "Calculating the productivity of individual production workers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes \"economies of scale\" in operations?",
+    "options": [
+      "The increase in per-unit cost as production volume decreases",
+      "The reduction in per-unit cost achieved as production volume increases",
+      "The savings achieved by outsourcing production to lower-cost countries",
+      "The cost advantage gained by using more suppliers for the same input"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of service operations that distinguishes them from manufacturing operations?",
+    "options": [
+      "Services can be inventoried and stored for future delivery",
+      "Services are typically produced and consumed simultaneously",
+      "Services involve no human interaction in the production process",
+      "Services always have lower quality variability than manufactured goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following productivity improvement strategies focuses on reducing waste in all forms across the production process?",
+    "options": [
+      "Six Sigma",
+      "Total Quality Management (TQM)",
+      "Lean production",
+      "Business Process Reengineering (BPR)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Facility layout\" in operations management refers to:",
+    "options": [
+      "The process of selecting a geographic location for a new production facility",
+      "The physical arrangement of resources such as equipment, workstations, and storage areas within a facility",
+      "The design of the organizational hierarchy within a manufacturing plant",
+      "The scheduling of shifts and work hours for production employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which type of facility layout groups similar machines or processes together regardless of the product being produced?",
+    "options": [
+      "Product layout",
+      "Fixed-position layout",
+      "Cellular layout",
+      "Process layout"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An assembly line used to produce a standardized product in high volumes is an example of which layout type?",
+    "options": [
+      "Process layout",
+      "Product layout",
+      "Fixed-position layout",
+      "Cellular layout"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following layout types is most appropriate when the product is too large or heavy to move during production?",
+    "options": [
+      "Product layout",
+      "Process layout",
+      "Fixed-position layout",
+      "Cellular layout"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Cellular manufacturing\" layout is designed to:",
+    "options": [
+      "Produce a single standardized product using a dedicated assembly line",
+      "Group dissimilar machines to handle large volumes of one product",
+      "Group machines into cells that process families of similar parts, improving flexibility and flow",
+      "Place all machines randomly to allow maximum worker flexibility"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an advantage of a product (line) layout?",
+    "options": [
+      "High flexibility to handle a wide variety of products",
+      "Low work-in-process inventory and high throughput for standardized products",
+      "Minimal investment in specialized equipment",
+      "Ability to accommodate frequent design changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Capacity planning\" in operations management involves:",
+    "options": [
+      "Determining the optimal inventory level for finished goods",
+      "Deciding the level of production resources needed to meet current and future demand",
+      "Scheduling the sequence of jobs through the production facility",
+      "Selecting the most appropriate suppliers for raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"design capacity\"?",
+    "options": [
+      "The actual output achieved by a facility under real operating conditions",
+      "The maximum output rate achievable under ideal conditions",
+      "The output rate after accounting for planned maintenance and downtime",
+      "The output rate that balances customer demand with production capability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Effective capacity\" differs from design capacity in that it:",
+    "options": [
+      "Is always higher than design capacity",
+      "Accounts for factors such as maintenance, scheduling inefficiencies, and quality losses",
+      "Represents the theoretical maximum output with no constraints",
+      "Is determined solely by the number of workers in the facility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Efficiency in operations is calculated as:",
+    "options": [
+      "Actual output divided by design capacity",
+      "Effective capacity divided by design capacity",
+      "Actual output divided by effective capacity",
+      "Design capacity divided by actual output"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes \"utilization\" in operations capacity management?",
+    "options": [
+      "Actual output divided by effective capacity",
+      "Actual output divided by design capacity",
+      "Effective capacity divided by design capacity",
+      "Design capacity divided by actual output"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A bottleneck in a production system is defined as:",
+    "options": [
+      "The workstation with the highest output rate in the process",
+      "The resource or workstation that limits the overall throughput of the system",
+      "A storage area where excess inventory accumulates between workstations",
+      "The final step in the production process before finished goods inspection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following strategies can be used to increase short-term capacity in an operations system?",
+    "options": [
+      "Building a new production facility",
+      "Purchasing additional permanent equipment",
+      "Using overtime, subcontracting, or temporary workers",
+      "Redesigning the product to reduce material requirements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Process design\" in operations management refers to:",
+    "options": [
+      "The visual design of a product's external appearance",
+      "The selection and arrangement of operations activities used to produce a product or service",
+      "The design of the organizational chart for the operations department",
+      "The layout of the company's website for customer ordering"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following tools is commonly used to map and analyze the sequence of steps in a production process?",
+    "options": [
+      "Gantt chart",
+      "Process flowchart",
+      "Ishikawa diagram",
+      "Pareto chart"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Make-or-buy\" decisions in operations system design involve:",
+    "options": [
+      "Deciding whether to produce an item internally or outsource it to an external supplier",
+      "Choosing between manufacturing and service operations strategies",
+      "Determining whether to sell products directly or through intermediaries",
+      "Selecting between different production scheduling methods"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a key consideration in selecting a facility location?",
+    "options": [
+      "The personal preferences of the operations manager",
+      "Proximity to raw materials, labor markets, customers, and transportation infrastructure",
+      "The aesthetic appeal of the surrounding geographic area",
+      "The historical significance of the chosen location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Work measurement\" techniques in operations design are used to:",
+    "options": [
+      "Evaluate the financial performance of the operations department",
+      "Determine the standard time required to perform a specific task",
+      "Measure the physical dimensions of workstations and equipment",
+      "Assess employee satisfaction with working conditions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"load-distance\" method in facility location analysis minimizes:",
+    "options": [
+      "The total number of supplier relationships required",
+      "The weighted sum of distances between facilities and key locations such as suppliers or customers",
+      "The number of transportation modes used to move goods",
+      "The total square footage of warehouse space required"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is TRUE about \"job design\" in operations management?",
+    "options": [
+      "Job design only applies to senior management positions",
+      "Effective job design can improve worker productivity, motivation, and quality of output",
+      "Job design is exclusively the responsibility of the human resources department",
+      "Job design focuses solely on minimizing the number of tasks assigned to each worker"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Line balancing\" in a product layout involves:",
+    "options": [
+      "Equalizing the financial budget across all production departments",
+      "Assigning tasks to workstations so that each station has approximately equal workload",
+      "Ensuring that all products produced on the line meet quality specifications",
+      "Balancing the number of workers on the day and night shifts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"cycle time\" in line balancing refers to:",
+    "options": [
+      "The total time required to complete all stages of production for one unit",
+      "The maximum time available at each workstation to complete its assigned tasks",
+      "The time required to set up the production line before production begins",
+      "The time between successive customer orders arriving at the facility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"throughput time\" in operations?",
+    "options": [
+      "The time from placing a supplier order to receiving the goods",
+      "The total time a product spends in the production process from start to finish",
+      "The time required to inspect finished goods before shipment",
+      "The time between successive maintenance cycles for production equipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Automation\" in operations system design refers to:",
+    "options": [
+      "The manual inspection of finished products by quality control teams",
+      "The use of technology and machinery to perform tasks with minimal human intervention",
+      "The process of training workers to perform multiple tasks on the production line",
+      "The reorganization of the supply chain to reduce the number of intermediaries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a potential disadvantage of a highly automated production system?",
+    "options": [
+      "Reduced output consistency and quality",
+      "Increased dependence on skilled human labor for routine tasks",
+      "High initial capital investment and reduced flexibility for product changes",
+      "Lower throughput rates compared to manual production systems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Service blueprinting\" is a tool used in operations design to:",
+    "options": [
+      "Design the physical layout of a service facility",
+      "Map the service delivery process, identifying customer interactions and behind-the-scenes activities",
+      "Develop the financial budget for a service organization",
+      "Create the organizational chart for a service company"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the concept of \"modularity\" in product design for operations?",
+    "options": [
+      "Designing products using a single, integrated component that cannot be separated",
+      "Designing products from standardized, interchangeable components that can be combined in various ways",
+      "Designing products exclusively for a single customer segment",
+      "Designing products with the maximum number of unique parts possible"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Concurrent engineering\" in operations system design involves:",
+    "options": [
+      "Designing products and production processes sequentially, one after the other",
+      "Developing product design and process design simultaneously to reduce time-to-market",
+      "Hiring engineers from multiple departments to work in separate teams",
+      "Using computer simulation to test product designs before physical prototyping"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following layout types would be most appropriate for a hospital emergency department?",
+    "options": [
+      "Product layout",
+      "Fixed-position layout",
+      "Process layout",
+      "Cellular layout"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The primary objective of \"aggregate planning\" in operations is to:",
+    "options": [
+      "Schedule individual jobs through specific machines in the facility",
+      "Determine the optimal mix of inventory, workforce, and production rates to meet demand over a medium-term horizon",
+      "Design the layout of the production facility to maximize throughput",
+      "Select the most cost-effective suppliers for all raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Aggregate planning\" operates over which time horizon?",
+    "options": [
+      "Daily and weekly scheduling of individual jobs",
+      "Medium-term planning, typically covering 3 to 18 months",
+      "Long-term strategic planning covering 5 to 10 years",
+      "Real-time control of individual machine operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a \"chase demand\" strategy in aggregate planning?",
+    "options": [
+      "Maintaining a constant workforce and adjusting inventory levels to meet demand fluctuations",
+      "Adjusting the workforce size or production rate to match demand changes period by period",
+      "Subcontracting all excess demand to third-party manufacturers",
+      "Setting production at the average demand level throughout the planning horizon"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"level production\" strategy in aggregate planning means:",
+    "options": [
+      "Producing at a rate that exactly matches demand in each period",
+      "Maintaining a constant production rate throughout the planning horizon regardless of demand fluctuations",
+      "Reducing production to the minimum possible level to cut costs",
+      "Producing only when customer orders are received"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a cost associated with the chase demand aggregate planning strategy?",
+    "options": [
+      "Inventory holding cost from accumulated finished goods",
+      "Hiring and firing costs from frequent workforce adjustments",
+      "Subcontracting premiums paid to external suppliers",
+      "Overtime premiums paid to permanent employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Master Production Scheduling\" (MPS) translates which of the following into specific production quantities and timing?",
+    "options": [
+      "The firm's annual financial budget",
+      "The aggregate production plan into specific product schedules",
+      "Customer orders directly into purchasing requisitions",
+      "The Bill of Materials into inventory replenishment orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"rough-cut capacity planning\" (RCCP)?",
+    "options": [
+      "A detailed analysis of capacity requirements for each machine and workstation",
+      "A quick check to verify that the MPS is feasible given key resource constraints",
+      "A long-term strategy for building new production capacity",
+      "A method for calculating the exact number of workers needed each day"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Shop floor control\" in operations planning and control involves:",
+    "options": [
+      "Designing the physical layout of the production facility",
+      "Managing and monitoring the execution of production schedules on the shop floor in real time",
+      "Preparing the master production schedule for the next planning period",
+      "Evaluating supplier performance against delivery commitments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scheduling rules gives priority to the job with the shortest processing time?",
+    "options": [
+      "First Come, First Served (FCFS)",
+      "Earliest Due Date (EDD)",
+      "Shortest Processing Time (SPT)",
+      "Last In, First Out (LIFO)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"Earliest Due Date\" (EDD) scheduling rule prioritizes jobs based on:",
+    "options": [
+      "The order in which jobs arrived at the workstation",
+      "The job that requires the least processing time",
+      "The job whose due date is earliest",
+      "The job with the highest revenue value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a primary objective of production scheduling?",
+    "options": [
+      "Maximizing the number of suppliers used in production",
+      "Efficiently allocating production resources to meet due dates while minimizing costs",
+      "Eliminating all inventory from the production process",
+      "Maximizing the number of product variants produced simultaneously"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Makespan\" in production scheduling refers to:",
+    "options": [
+      "The total time a single job spends waiting in queue before processing",
+      "The total time required to complete all jobs in a given set from start to finish",
+      "The time between successive job arrivals at a workstation",
+      "The processing time of the longest individual job in the schedule"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is TRUE about the \"First Come, First Served\" (FCFS) scheduling rule?",
+    "options": [
+      "It minimizes the average completion time for all jobs",
+      "It is simple to apply but does not necessarily minimize tardiness or flow time",
+      "It always produces the optimal schedule for minimizing makespan",
+      "It gives priority to the job with the most remaining processing time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Gantt charts\" in operations scheduling are used to:",
+    "options": [
+      "Display the organizational hierarchy of the production department",
+      "Visually display the planned and actual progress of jobs across time",
+      "Calculate the total cost of a production schedule",
+      "Identify the bottleneck workstation in a production system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"forward scheduling\" in production planning?",
+    "options": [
+      "Scheduling jobs backward from the due date to determine when to start",
+      "Scheduling jobs starting from the earliest possible start time and moving forward in time",
+      "Scheduling jobs based on the sequence they are received from customers",
+      "Scheduling jobs based on the reverse order of their due dates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Backward scheduling\" in production planning starts from:",
+    "options": [
+      "The earliest available start time for each job",
+      "The due date and schedules operations backward to determine the required start date",
+      "The date raw materials are received from suppliers",
+      "The date the master production schedule is released"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an advantage of the \"Shortest Processing Time\" (SPT) scheduling rule?",
+    "options": [
+      "It always minimizes the maximum lateness of jobs",
+      "It minimizes average flow time and average waiting time across all jobs",
+      "It gives priority to the most urgent customer orders",
+      "It ensures all jobs are completed before their due dates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Theory of Constraints\" (TOC) in operations management focuses on:",
+    "options": [
+      "Reducing inventory levels across all stages of production simultaneously",
+      "Identifying and exploiting the bottleneck constraint that limits system throughput",
+      "Increasing the workforce size to eliminate all production delays",
+      "Redesigning all production processes simultaneously to maximize efficiency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the Theory of Constraints, \"exploiting the constraint\" means:",
+    "options": [
+      "Eliminating the bottleneck by investing in additional capacity",
+      "Making the best possible use of the bottleneck resource to maximize throughput",
+      "Scheduling non-bottleneck resources at maximum capacity",
+      "Outsourcing the bottleneck operation to an external supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"drum-buffer-rope\" (DBR) in the Theory of Constraints?",
+    "options": [
+      "A quality control tool used to identify defects in the production process",
+      "A scheduling method where the bottleneck sets the pace, a buffer protects it, and a rope synchronizes upstream operations",
+      "A layout design tool for organizing workstations around the bottleneck",
+      "A supplier management approach that synchronizes deliveries with production needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Workforce scheduling\" in service operations is more complex than in manufacturing because:",
+    "options": [
+      "Service operations always have higher demand than manufacturing operations",
+      "Services cannot be inventoried, so staffing must closely match fluctuating customer demand in real time",
+      "Service employees require more technical skills than manufacturing workers",
+      "Service operations have more suppliers to coordinate than manufacturing operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key input to the aggregate planning process?",
+    "options": [
+      "The firm's dividend policy and shareholder expectations",
+      "Demand forecasts, current capacity levels, and cost data",
+      "Supplier performance scorecards and procurement lead times",
+      "Product design specifications and engineering change orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following aggregate planning strategies uses subcontracting to handle demand above normal capacity?",
+    "options": [
+      "Level production strategy",
+      "Chase demand strategy",
+      "Mixed strategy using external capacity",
+      "Inventory accumulation strategy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Capacity requirements planning\" (CRP) in operations determines:",
+    "options": [
+      "The number of suppliers required to meet production needs",
+      "The detailed labor and machine hours required to execute the MPS",
+      "The optimal order quantity for raw material procurement",
+      "The financial budget required for capital equipment purchases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scheduling problems involves assigning n jobs to n machines to minimize total cost?",
+    "options": [
+      "Line balancing problem",
+      "Assignment problem",
+      "Transportation problem",
+      "Critical path method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Critical Path Method\" (CPM) in project scheduling identifies:",
+    "options": [
+      "The sequence of activities with the most total float",
+      "The longest path through a project network, determining the minimum project duration",
+      "The activity requiring the most resources in a project",
+      "The sequence of activities that can be delayed without affecting the project end date"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Float\" or \"slack\" in project scheduling refers to:",
+    "options": [
+      "The amount of resources allocated to a critical activity",
+      "The amount of time an activity can be delayed without delaying the overall project completion",
+      "The total duration of the critical path in the project network",
+      "The additional cost incurred when a project activity is accelerated"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the purpose of \"load leveling\" in production scheduling?",
+    "options": [
+      "To maximize the utilization of the bottleneck workstation",
+      "To smooth out the workload across workstations and time periods to avoid overloading",
+      "To increase production output by assigning more jobs to each workstation",
+      "To eliminate idle time by scheduling continuous production without breaks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Pull production\" systems, such as Kanban, are designed to:",
+    "options": [
+      "Push work through the production system based on the master production schedule",
+      "Produce items only when triggered by downstream demand, minimizing work-in-process inventory",
+      "Maximize the utilization of all production resources simultaneously",
+      "Build inventory in advance of expected demand peaks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Kanban card in a pull production system signals:",
+    "options": [
+      "The completion of a quality inspection at a workstation",
+      "Authorization to produce or move a specific quantity of parts to the next workstation",
+      "The arrival of a shipment from a supplier",
+      "The start of a new production shift at the facility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"Just-in-Time\" (JIT) production in the context of operations planning and control?",
+    "options": [
+      "Producing large batches in advance to ensure availability during demand peaks",
+      "Producing and delivering exactly what is needed, when it is needed, in the quantity needed",
+      "Scheduling production based on maximum machine utilization regardless of demand",
+      "Building safety stock at every stage of production to prevent any disruption"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key performance indicator (KPI) used in operations planning and control?",
+    "options": [
+      "Number of social media followers of the company",
+      "On-time delivery rate, defect rate, and overall equipment effectiveness (OEE)",
+      "Total number of product variants offered in the catalog",
+      "Number of management levels in the organizational hierarchy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Overall Equipment Effectiveness\" (OEE) measures:",
+    "options": [
+      "The financial return on investment from purchasing new equipment",
+      "The combined effect of availability, performance, and quality on equipment productivity",
+      "The total cost of maintaining and repairing production equipment",
+      "The number of hours equipment is scheduled for maintenance per year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"preventive maintenance\" in operations?",
+    "options": [
+      "Repairing a machine immediately after it breaks down",
+      "Replacing machine components on a scheduled basis before failure occurs",
+      "Purchasing spare parts only when a machine fails",
+      "Outsourcing all equipment maintenance to an external service provider"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Predictive maintenance\" in modern operations management involves:",
+    "options": [
+      "Scheduling maintenance at fixed calendar intervals regardless of equipment condition",
+      "Using data from sensors and monitoring systems to predict when equipment is likely to fail",
+      "Hiring additional maintenance technicians during peak production periods",
+      "Replacing all equipment after a fixed number of operating years"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following describes the role of \"feedback\" in an operations control system?",
+    "options": [
+      "It provides information about the future demand for products",
+      "It provides information about actual performance compared to planned targets, enabling corrective action",
+      "It eliminates the need for monitoring by automating all production decisions",
+      "It replaces the master production schedule with real-time customer order data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best illustrates the link between operations strategy and competitive advantage?",
+    "options": [
+      "A firm that copies its competitors' operations practices to match their performance",
+      "A firm that develops unique operations capabilities that deliver superior value to customers at lower cost",
+      "A firm that maximizes the number of products in its portfolio to attract more customers",
+      "A firm that focuses exclusively on cost reduction regardless of quality or delivery performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company improves its on-time delivery rate from 85% to 97%. This improvement most directly enhances which operations performance objective?",
+    "options": [
+      "Cost",
+      "Flexibility",
+      "Dependability",
+      "Speed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A manufacturing manager wants to improve productivity without adding resources. Which of the following approaches is most appropriate?",
+    "options": [
+      "Increasing raw material purchases to build larger buffer stocks",
+      "Eliminating waste and non-value-added activities in the production process",
+      "Expanding the product range to cover more customer segments",
+      "Increasing the number of management layers in the operations department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scenarios best illustrates a \"capacity cushion\"?",
+    "options": [
+      "A firm operating its facility at 100% of design capacity every day",
+      "A firm maintaining excess capacity above expected demand to accommodate demand surges",
+      "A firm outsourcing all production above a fixed capacity threshold",
+      "A firm reducing its workforce to match the lowest expected demand level"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A food processing plant adopts a product layout for its packaging line. Which of the following outcomes is most expected?",
+    "options": [
+      "High flexibility to handle diverse product types simultaneously",
+      "High throughput with low per-unit production cost for a standardized product",
+      "Minimal investment in specialized equipment",
+      "Ability to accommodate frequent changes in product design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In which of the following situations would a \"chase demand\" aggregate plan be most appropriate?",
+    "options": [
+      "A firm producing a non-perishable product with stable, predictable demand",
+      "A firm with highly seasonal demand and a flexible, easily adjustable workforce",
+      "A firm with very high hiring and training costs for specialized workers",
+      "A firm that wishes to accumulate finished goods inventory during low demand periods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scheduling rules is most effective at minimizing the maximum lateness of jobs?",
+    "options": [
+      "Shortest Processing Time (SPT)",
+      "First Come, First Served (FCFS)",
+      "Earliest Due Date (EDD)",
+      "Longest Processing Time (LPT)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A production manager identifies that a single assembly workstation is limiting output for the entire facility. According to the Theory of Constraints, the FIRST action should be to:",
+    "options": [
+      "Purchase additional equipment immediately to eliminate the constraint",
+      "Identify and fully exploit the bottleneck before making any other changes",
+      "Reassign workers from non-bottleneck workstations to reduce their output",
+      "Reschedule all jobs to avoid passing through the bottleneck workstation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes the relationship between aggregate planning and the Master Production Schedule?",
+    "options": [
+      "The MPS is a long-term strategic plan that drives aggregate planning",
+      "Aggregate planning provides the broad production targets that the MPS disaggregates into specific product schedules",
+      "Aggregate planning and MPS are independent processes with no direct relationship",
+      "The MPS replaces aggregate planning in organizations that use ERP systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company implementing lean production would MOST likely take which of the following actions?",
+    "options": [
+      "Building large safety stocks at every stage of production",
+      "Increasing batch sizes to maximize machine utilization",
+      "Eliminating non-value-added activities and reducing waste throughout the production process",
+      "Adding more management layers to improve production oversight"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key difference between \"push\" and \"pull\" production systems?",
+    "options": [
+      "Push systems produce based on downstream demand signals; pull systems produce based on forecasts",
+      "Pull systems produce based on actual downstream demand; push systems produce based on forecasts or schedules",
+      "Both systems produce based on customer orders, but differ in batch size",
+      "Push systems use Kanban cards; pull systems use MRP-based scheduling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A service firm wants to improve customer responsiveness. Which operations design decision would MOST directly support this goal?",
+    "options": [
+      "Adopting a fixed-position layout for all service delivery activities",
+      "Reducing process cycle time and increasing the flexibility of service delivery systems",
+      "Increasing safety stock of service consumables",
+      "Extending the planning horizon for aggregate scheduling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best explains why operations management is important in a logistics and supply chain context?",
+    "options": [
+      "Operations management focuses exclusively on manufacturing and is irrelevant to logistics",
+      "Effective operations management ensures efficient transformation of inputs into outputs, directly supporting supply chain performance",
+      "Operations management replaces the need for supply chain coordination between firms",
+      "Operations management only applies to large multinational corporations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An operations manager uses a Gantt chart to compare planned versus actual job completion. This activity is an example of:",
+    "options": [
+      "Strategic capacity planning",
+      "Facility layout design",
+      "Production scheduling and control",
+      "Aggregate demand forecasting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following actions would MOST likely improve the \"flexibility\" performance objective of an operations system?",
+    "options": [
+      "Reducing the number of product variants to simplify the production process",
+      "Specializing all equipment for one specific product to increase throughput",
+      "Cross-training workers and using flexible, general-purpose equipment",
+      "Increasing batch sizes to reduce the frequency of production changeovers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A firm's actual output is 800 units per day, its effective capacity is 1,000 units per day, and its design capacity is 1,200 units per day. What is the firm's efficiency?",
+    "options": [
+      "66.7%",
+      "75%",
+      "80%",
+      "83.3%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In operations management, \"quality of conformance\" refers to:",
+    "options": [
+      "The degree to which a product's design meets customer expectations",
+      "The degree to which a product is produced according to its design specifications",
+      "The total cost of quality control activities in the production process",
+      "The customer's subjective assessment of product quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of an \"external failure cost\" in quality management?",
+    "options": [
+      "Cost of inspecting raw materials upon receipt from suppliers",
+      "Cost of reworking defective products before they leave the facility",
+      "Cost of warranty claims, product returns, and customer complaints after delivery",
+      "Cost of training workers in quality control procedures"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Statistical Process Control\" (SPC) in operations is used to:",
+    "options": [
+      "Determine the optimal batch size for a production run",
+      "Monitor production process performance using control charts to detect abnormal variation",
+      "Calculate the total cost of quality for a production period",
+      "Schedule preventive maintenance for production equipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"continuous improvement\" (Kaizen) in operations management?",
+    "options": [
+      "A one-time, large-scale redesign of all production processes",
+      "An ongoing, incremental approach to improving processes, quality, and efficiency involving all employees",
+      "A strategy of replacing existing equipment with the latest technology every year",
+      "A management approach that focuses exclusively on reducing labor costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A production facility has a design capacity of 500 units/day and an effective capacity of 400 units/day. If actual output is 360 units/day, what is the utilization rate?",
+    "options": [
+      "72%",
+      "80%",
+      "90%",
+      "88%"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a \"make-to-order\" (MTO) production environment?",
+    "options": [
+      "Products are produced in advance and stored in finished goods inventory",
+      "Production begins only after a customer order is received",
+      "Products are standardized and produced in large volumes continuously",
+      "Inventory is maintained at all stages of production at all times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Make-to-stock\" (MTS) production is most appropriate for:",
+    "options": [
+      "Highly customized products with unique specifications per customer",
+      "Standardized products with stable, predictable demand where quick delivery is required",
+      "Products with very long lead times that cannot be produced quickly",
+      "Products with highly variable customer specifications"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes \"assemble-to-order\" (ATO) production?",
+    "options": [
+      "All components and sub-assemblies are produced only after a customer order is received",
+      "Standard sub-assemblies are produced in advance and final assembly begins upon receiving a customer order",
+      "Finished goods are produced and stored in advance based on demand forecasts",
+      "Products are designed from scratch for each individual customer order"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST direct benefit of implementing a \"5S\" workplace organization program in operations?",
+    "options": [
+      "Reducing the number of suppliers used in the production process",
+      "Improving workplace organization, reducing waste, and enhancing safety and efficiency",
+      "Increasing the number of product variants produced in the facility",
+      "Extending the planning horizon for aggregate production scheduling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following examples best illustrates \"process innovation\" in operations management?",
+    "options": [
+      "Hiring more workers to increase production volume",
+      "Redesigning the production process to eliminate bottlenecks and reduce cycle time significantly",
+      "Adding more product features to increase customer appeal",
+      "Expanding the number of distribution channels used to reach customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company benchmarks its operations performance against industry best practices. The PRIMARY purpose of benchmarking is to:",
+    "options": [
+      "Justify investment in new production equipment to shareholders",
+      "Identify performance gaps and opportunities for improvement by comparing against best-in-class performers",
+      "Comply with government regulatory requirements for production standards",
+      "Reduce the number of suppliers in the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"vertical integration\" as an operations system design decision?",
+    "options": [
+      "A manufacturer forming a joint venture with a competitor in another country",
+      "A manufacturer acquiring its key raw material supplier to control supply",
+      "A manufacturer outsourcing its entire production to a contract manufacturer",
+      "A manufacturer licensing its technology to a foreign firm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In operations management, \"decoupling point\" refers to:",
+    "options": [
+      "The point in the supply chain where products are customized to individual customer orders",
+      "The point where push production ends and pull production begins",
+      "The boundary between two different production technologies in a facility",
+      "Both A and B"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following best describes the \"product-process matrix\" in operations strategy?",
+    "options": [
+      "A tool for evaluating the financial performance of different product lines",
+      "A framework that links product volume and standardization with appropriate process types",
+      "A matrix for assigning workers to different production tasks based on skill level",
+      "A tool for selecting the optimal facility location based on product characteristics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company produces 10,000 units per month using inputs costing $50,000. If productivity increases so that 12,000 units are produced with the same inputs, what is the percentage increase in productivity?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best explains why operations planning and control is critical in logistics firms?",
+    "options": [
+      "Logistics firms do not have production processes that require planning",
+      "Effective planning and control ensures timely, cost-efficient movement of goods, directly impacting customer service levels",
+      "Operations planning in logistics is less important than financial planning",
+      "Logistics operations are too unpredictable to be effectively planned and controlled"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the BEST example of a \"hybrid\" aggregate planning strategy?",
+    "options": [
+      "Using exclusively overtime to meet all demand increases",
+      "Combining a level workforce with limited use of overtime and subcontracting to balance cost and flexibility",
+      "Hiring and firing workers to exactly match demand each month",
+      "Maintaining constant inventory levels regardless of demand fluctuations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manager applies the SPT rule to schedule five jobs. Job A takes 2 hours, B takes 5 hours, C takes 1 hour, D takes 4 hours, and E takes 3 hours. The correct SPT sequence is:",
+    "options": [
+      "A, B, C, D, E",
+      "C, A, E, D, B",
+      "B, D, E, A, C",
+      "E, D, C, B, A"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In which of the following scenarios is \"outsourcing\" a production activity most strategically appropriate?",
+    "options": [
+      "When the activity is a core competency that differentiates the firm from competitors",
+      "When the activity can be performed more efficiently and at lower cost by an external specialist",
+      "When the activity involves highly proprietary technology that must be protected",
+      "When the activity is critical to product quality and customer satisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"voice of the customer\" (VOC) in operations design?",
+    "options": [
+      "Feedback from production workers about working conditions",
+      "Systematic collection and analysis of customer needs and preferences to guide product and process design",
+      "Customer complaints received by the customer service department",
+      "Marketing research data used exclusively for advertising campaigns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Quality Function Deployment\" (QFD) in operations is used to:",
+    "options": [
+      "Schedule quality inspection activities at each stage of production",
+      "Translate customer requirements into specific product and process design characteristics",
+      "Calculate the total cost of quality across all production activities",
+      "Assign quality control responsibilities to specific production workers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the primary difference between \"effectiveness\" and \"efficiency\" in operations management?",
+    "options": [
+      "Effectiveness measures output quantity; efficiency measures output quality",
+      "Effectiveness is about doing the right things; efficiency is about doing things right with minimal resource waste",
+      "Efficiency measures customer satisfaction; effectiveness measures financial performance",
+      "There is no meaningful difference between effectiveness and efficiency in operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manufacturing firm decides to redesign its assembly line to reduce the number of workstations from 10 to 7. This decision is primarily aimed at:",
+    "options": [
+      "Increasing product variety and flexibility",
+      "Improving line balance efficiency and reducing idle time",
+      "Increasing the design capacity of the facility",
+      "Reducing the number of workers required for quality inspection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the concept of \"postponement\" in operations and supply chain management?",
+    "options": [
+      "Delaying customer deliveries to allow time for production to catch up",
+      "Delaying final product customization or differentiation until the latest possible point in the supply chain",
+      "Postponing capital investment decisions until demand is more certain",
+      "Delaying the introduction of new products until competitors have tested the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"demand management\" in aggregate planning?",
+    "options": [
+      "Adjusting workforce levels to match seasonal demand fluctuations",
+      "Offering price discounts during low-demand periods to stimulate demand and level the load",
+      "Subcontracting production to meet peak demand above normal capacity",
+      "Building finished goods inventory during low-demand periods for use during peak periods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Takt time\" in lean operations is defined as:",
+    "options": [
+      "The time required to set up a production machine between product changeovers",
+      "The rate at which a product must be produced to meet customer demand",
+      "The total time a product spends waiting in queue between workstations",
+      "The time required to complete one full production cycle from start to finish"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following quality management tools is used to identify the root causes of a production problem?",
+    "options": [
+      "Control chart",
+      "Pareto diagram",
+      "Ishikawa (fishbone) diagram",
+      "Scatter diagram"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics and supply chain firm adopts an enterprise resource planning (ERP) system. Which of the following is the MOST direct operational benefit?",
+    "options": [
+      "Elimination of all inventory across the supply chain",
+      "Integration of operations, procurement, finance, and logistics data into a single unified system",
+      "Reduction of the number of customers served by the firm",
+      "Elimination of the need for aggregate planning and scheduling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes the role of operations management in achieving supply chain sustainability goals?",
+    "options": [
+      "Operations management is solely concerned with cost reduction and has no role in sustainability",
+      "Efficient operations reduce waste, energy consumption, and emissions, directly contributing to environmental sustainability",
+      "Sustainability goals are exclusively managed by the marketing department through green branding",
+      "Operations management focuses on social sustainability only, leaving environmental concerns to regulators"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"cross-functional integration\" in operations management?",
+    "options": [
+      "The assignment of workers from different departments to the same production line",
+      "The coordination of operations with other business functions such as marketing, finance, and procurement to achieve common goals",
+      "The merging of two separate production facilities into one unified plant",
+      "The outsourcing of non-core operations functions to external service providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In which of the following situations would a \"fixed-position layout\" be MOST appropriate?",
+    "options": [
+      "Manufacturing thousands of identical smartphones daily",
+      "Processing diverse customer orders through multiple specialized departments",
+      "Constructing a large bridge or aircraft where the product cannot be moved during assembly",
+      "Producing a variety of products in small batches using flexible machining centers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the MOST important characteristic of an effective operations control system?",
+    "options": [
+      "It operates independently of the strategic planning process",
+      "It provides timely, accurate feedback on actual performance to enable corrective action",
+      "It eliminates all variability from the production process through automation",
+      "It relies exclusively on financial metrics to evaluate operations performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company notices that its production process produces 5% defective items. Applying \"Six Sigma\" methodology aims to reduce defects to:",
+    "options": [
+      "Less than 5% of current levels",
+      "3.4 defects per million opportunities",
+      "Zero defects with no tolerance for any variation",
+      "Less than 1% defective items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the PRIMARY purpose of \"capacity strategy\" in operations management?",
+    "options": [
+      "To determine the optimal inventory level for finished goods",
+      "To decide the amount, timing, and type of capacity additions needed to meet future demand",
+      "To select the most appropriate production scheduling rule for the facility",
+      "To design the quality control system for a new production line"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager evaluates whether to produce a component in-house or outsource it. The MOST important operations consideration in this decision is:",
+    "options": [
+      "The aesthetic preferences of the production manager",
+      "Whether the component is a core competency and whether the external supplier can meet quality, cost, and delivery requirements",
+      "The number of years the company has been producing the component",
+      "The geographic location of the external supplier relative to the firm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the concept of \"mass customization\" in operations management?",
+    "options": [
+      "Producing large volumes of identical products at the lowest possible cost",
+      "Producing customized products at the efficiency and speed of mass production through flexible systems",
+      "Offering customers the option to choose from a limited range of pre-designed product variants",
+      "Outsourcing customization activities to specialized downstream partners"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In operations planning, \"demand variability\" poses the GREATEST challenge for which of the following strategies?",
+    "options": [
+      "Level production with inventory accumulation",
+      "Chase demand with frequent workforce adjustments",
+      "Subcontracting all production to external suppliers",
+      "Maintaining constant safety stock regardless of demand changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the BEST indicator that an operations system is performing at world-class levels?",
+    "options": [
+      "The system produces the maximum possible output volume at all times",
+      "The system consistently delivers high quality products on time at competitive cost with minimal waste",
+      "The system employs the largest number of workers in the industry",
+      "The system uses the most advanced and expensive technology available"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manufacturing manager reviews the master production schedule and notices that capacity requirements exceed available capacity in Week 4. Which of the following is the MOST appropriate corrective action within operations planning and control?",
+    "options": [
+      "Ignore the capacity constraint and allow the schedule to proceed as planned",
+      "Evaluate options such as overtime, subcontracting, or rescheduling jobs to resolve the capacity shortfall",
+      "Cancel all customer orders scheduled for Week 4 delivery",
+      "Permanently reduce the master production schedule for all future periods"
+    ],
+    "correct": 1
+  }
+]
