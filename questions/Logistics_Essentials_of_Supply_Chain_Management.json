@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "A company wants to reduce lead time variability in its supply chain. Which planning approach best addresses this by aligning supply with demand signals in real time?",
+    "options": [
+      "Periodic review inventory system",
+      "Demand-driven material requirements planning",
+      "Economic order quantity model",
+      "Fixed reorder point system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the role of supply chain planning in operations management?",
+    "options": [
+      "Managing relationships with end customers only",
+      "Coordinating supply, production, and distribution to meet customer demand efficiently",
+      "Focusing solely on transportation cost reduction",
+      "Standardizing product designs across all suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm is sourcing raw materials from multiple suppliers with different lead times. Which sourcing strategy minimizes supply disruption risk most effectively?",
+    "options": [
+      "Single sourcing with long-term contracts",
+      "Dual or multiple sourcing with diversified supplier base",
+      "Spot purchasing on open markets",
+      "Vertical integration of all suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a key activity in supply chain planning?",
+    "options": [
+      "Demand forecasting",
+      "Capacity planning",
+      "Brand advertising campaigns",
+      "Inventory positioning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In supply chain planning, the term \"planning horizon\" refers to:",
+    "options": [
+      "The geographic scope of supplier relationships",
+      "The time period over which plans are developed and executed",
+      "The maximum inventory level allowed in warehouses",
+      "The number of tiers in a supply chain network"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manufacturing company consistently experiences the bullwhip effect. Which sourcing practice would most directly reduce this problem?",
+    "options": [
+      "Increasing safety stock at each tier",
+      "Sharing point-of-sale demand data with upstream suppliers",
+      "Placing orders less frequently to consolidate shipments",
+      "Sourcing from geographically closer suppliers only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following sourcing decisions is classified as a \"make-or-buy\" decision?",
+    "options": [
+      "Choosing between two external suppliers based on price",
+      "Deciding whether to produce a component internally or outsource it",
+      "Selecting a transportation carrier for finished goods",
+      "Determining safety stock levels for raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Strategic sourcing differs from traditional purchasing primarily because it:",
+    "options": [
+      "Focuses on obtaining the lowest purchase price",
+      "Involves long-term supplier partnerships aligned with organizational goals",
+      "Eliminates the need for supplier performance evaluation",
+      "Is applied only to indirect materials procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which factor is MOST critical when evaluating potential suppliers during the sourcing process?",
+    "options": [
+      "The supplier's advertising budget",
+      "Total cost of ownership including quality, delivery, and service",
+      "The supplier's proximity to the buyer's headquarters",
+      "The number of products the supplier offers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is designing its supply chain network. Which of the following best represents a strategic sourcing decision?",
+    "options": [
+      "Choosing which shipping lane to use for a specific order",
+      "Deciding the number and location of suppliers for critical components",
+      "Scheduling production runs for the next week",
+      "Determining daily workforce shift assignments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain operations, \"postponement\" as a planning strategy means:",
+    "options": [
+      "Delaying payments to suppliers to improve cash flow",
+      "Deferring product differentiation to as late as possible in the supply chain",
+      "Postponing new product launches until demand stabilizes",
+      "Delaying supplier selection until after demand is confirmed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best illustrates a \"push\" supply chain planning model?",
+    "options": [
+      "Production is triggered by actual customer orders received",
+      "Products are manufactured based on demand forecasts before orders arrive",
+      "Inventory is replenished only after stock reaches zero",
+      "Suppliers ship goods only upon receiving confirmed purchase orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When a company uses a \"pull\" planning model, inventory levels tend to be:",
+    "options": [
+      "Higher because products are pre-built in anticipation of demand",
+      "Lower because production is triggered only by actual customer demand",
+      "Constant regardless of demand fluctuations",
+      "Higher at the retail end and lower at the manufacturer end"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is evaluating supplier performance. Which metric most directly reflects a supplier's contribution to supply chain efficiency?",
+    "options": [
+      "Supplier's annual revenue growth",
+      "On-time delivery rate and defect rate",
+      "Number of employees at the supplier's facility",
+      "Supplier's investment in marketing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the primary objective of supply chain operations planning?",
+    "options": [
+      "Maximizing the number of suppliers in the network",
+      "Balancing supply and demand to minimize cost while meeting service levels",
+      "Eliminating all forms of inventory from the supply chain",
+      "Reducing the number of products offered to customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cross-docking in supply chain planning primarily helps to:",
+    "options": [
+      "Increase safety stock levels at distribution centers",
+      "Reduce storage time by transferring goods directly from inbound to outbound transport",
+      "Consolidate shipments from multiple customers into one order",
+      "Increase product variety at distribution points"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A retailer and its supplier agree to share sales data and jointly plan replenishment. This arrangement is best described as:",
+    "options": [
+      "Vendor-managed inventory",
+      "Collaborative Planning, Forecasting, and Replenishment (CPFR)",
+      "Economic order quantity agreement",
+      "Consignment stocking"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following sourcing strategies is most appropriate for commodity items with many available suppliers?",
+    "options": [
+      "Strategic partnership sourcing",
+      "Competitive bidding and spot purchasing",
+      "Single sourcing with long-term contracts",
+      "Insourcing all production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain planning, \"aggregate planning\" is best defined as:",
+    "options": [
+      "Planning individual machine schedules for the next day",
+      "Medium-term planning to match supply capacity with forecasted demand",
+      "Determining the exact quantity of each SKU to produce daily",
+      "Long-term investment planning for new facilities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to align its sourcing strategy with sustainability goals. Which action best achieves this?",
+    "options": [
+      "Selecting suppliers based solely on lowest cost",
+      "Incorporating environmental and social criteria into supplier evaluation",
+      "Reducing the number of suppliers to simplify management",
+      "Outsourcing all sustainability reporting to a third party"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"supplier tiering\" in supply chain planning refers to:",
+    "options": [
+      "Ranking suppliers by the number of products they supply",
+      "Categorizing suppliers into levels based on their proximity to the final product",
+      "Organizing suppliers by their geographic location",
+      "Ranking suppliers by their annual sales revenue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best represents a tactical supply chain planning decision?",
+    "options": [
+      "Deciding whether to enter a new market",
+      "Determining inventory replenishment schedules for the next quarter",
+      "Choosing which countries to source from over the next decade",
+      "Deciding on the company's long-term distribution network design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain planner is comparing total cost of ownership (TCO) for two suppliers. Which cost element is often overlooked in simple price comparisons?",
+    "options": [
+      "Unit purchase price",
+      "Hidden costs such as quality failures, late deliveries, and supplier development",
+      "Shipping costs for standard orders",
+      "Invoice processing time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following describes \"supply chain visibility\" in planning operations?",
+    "options": [
+      "The ability to see supplier facilities through live cameras",
+      "The real-time tracking of inventory, orders, and shipments across the supply chain",
+      "Publishing supply chain data in annual reports",
+      "Monitoring only the final delivery stage of a product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm is selecting between a local supplier at a higher price and an overseas supplier at a lower price. Beyond price, which factor is MOST critical in this sourcing decision?",
+    "options": [
+      "The overseas supplier's brand recognition",
+      "Total lead time, supply risk, and responsiveness",
+      "The local supplier's office location",
+      "The overseas supplier's number of employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain operations, \"making\" refers primarily to:",
+    "options": [
+      "Procuring raw materials from suppliers",
+      "The transformation of inputs into finished products through manufacturing or assembly",
+      "Delivering finished goods to end customers",
+      "Managing financial flows within the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which manufacturing strategy produces goods based on customer orders rather than forecasts?",
+    "options": [
+      "Make-to-stock (MTS)",
+      "Make-to-order (MTO)",
+      "Assemble-to-forecast (ATF)",
+      "Engineer-to-inventory (ETI)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that assembles standard components into customized final products upon receipt of customer orders is using which strategy?",
+    "options": [
+      "Make-to-stock",
+      "Assemble-to-order (ATO)",
+      "Make-to-forecast",
+      "Engineer-to-stock"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"order-to-cash\" cycle in supply chain delivering operations?",
+    "options": [
+      "The time it takes to pay suppliers after receiving materials",
+      "The process from receiving a customer order to collecting payment after delivery",
+      "The process of converting raw materials into finished goods",
+      "The time taken to forecast demand and plan production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain delivering, the \"perfect order\" concept refers to:",
+    "options": [
+      "Delivering products at the lowest possible cost regardless of timing",
+      "Delivering the right product, in the right quantity, at the right time, to the right place, in perfect condition",
+      "Completing all transactions electronically without human involvement",
+      "Delivering all orders using a single logistics carrier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following metrics is MOST relevant to evaluating supply chain delivery performance?",
+    "options": [
+      "Supplier's profit margin",
+      "Order fulfillment lead time and on-time delivery rate",
+      "Number of warehouses in the network",
+      "Total number of SKUs offered"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Lean manufacturing principles in supply chain \"making\" operations primarily aim to:",
+    "options": [
+      "Increase production speed by adding more workers",
+      "Eliminate waste and non-value-adding activities in production processes",
+      "Produce as many units as possible to reduce per-unit cost",
+      "Increase the variety of products manufactured simultaneously"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company decides to implement a Just-in-Time (JIT) production system. Which supply chain condition is MOST necessary for JIT to succeed?",
+    "options": [
+      "Large safety stock at each production stage",
+      "Reliable, frequent deliveries from suppliers with minimal lead time variability",
+      "Long production runs to achieve economies of scale",
+      "Centralized warehousing far from production sites"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain management, the \"deliver\" process involves which of the following activities?",
+    "options": [
+      "Negotiating contracts with raw material suppliers",
+      "Order management, transportation, and warehousing of finished goods for delivery to customers",
+      "Designing new products based on customer feedback",
+      "Recruiting and training supply chain staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"distribution network design\" in supply chain delivery?",
+    "options": [
+      "Designing the packaging for delivered products",
+      "Determining the optimal number, location, and function of warehouses and distribution centers",
+      "Selecting the routes for individual delivery trucks daily",
+      "Training delivery personnel in customer service skills"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager observes that delivery lead times are inconsistently long. Which root cause analysis approach is most appropriate to identify the problem?",
+    "options": [
+      "Increasing safety stock to buffer against variability",
+      "Mapping the delivery process to identify bottlenecks and inefficiencies",
+      "Switching to a new logistics provider immediately",
+      "Reducing the number of products offered for delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key trade-off in supply chain delivery operations?",
+    "options": [
+      "Quality vs. employee satisfaction",
+      "Transportation cost vs. delivery speed and service level",
+      "Supplier diversity vs. product standardization",
+      "Inventory accuracy vs. demand forecasting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company uses a third-party logistics (3PL) provider for its delivery operations. The PRIMARY advantage of this arrangement is:",
+    "options": [
+      "The company retains full control over all delivery operations",
+      "Leveraging the 3PL's expertise, network, and economies of scale to improve delivery efficiency",
+      "Eliminating all delivery-related costs",
+      "Ensuring that only company-owned vehicles are used for delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Last-mile delivery is considered the most costly and complex part of supply chain delivery because:",
+    "options": [
+      "It involves bulk transportation over long distances",
+      "It involves delivering small quantities to dispersed end customers, often in urban environments",
+      "It requires specialized customs clearance at international borders",
+      "It is managed exclusively by government postal services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which supply chain delivery model is MOST suitable for a company that sells customized, high-value industrial equipment?",
+    "options": [
+      "Mass delivery through retail distribution networks",
+      "Direct delivery from manufacturer to customer with dedicated account management",
+      "Delivery through multiple intermediary wholesalers",
+      "Vending machine-style automated delivery systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Reverse logistics\" in supply chain operations refers to:",
+    "options": [
+      "Moving goods backward in the supply chain from customer to manufacturer for returns, recycling, or disposal",
+      "Reversing a delivery order after it has been dispatched",
+      "Managing supplier payments in reverse chronological order",
+      "Shipping goods from downstream to upstream suppliers as part of normal operations"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following actions would MOST improve the responsiveness of a supply chain's delivery system?",
+    "options": [
+      "Reducing the number of distribution centers to cut fixed costs",
+      "Positioning inventory closer to customers and using faster transportation modes",
+      "Increasing minimum order quantities to reduce delivery frequency",
+      "Consolidating all deliveries into monthly batches"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In manufacturing operations, \"capacity planning\" is critical because it:",
+    "options": [
+      "Determines the marketing budget for new product launches",
+      "Ensures that production capacity matches anticipated demand to avoid bottlenecks or excess capacity",
+      "Establishes supplier payment terms and conditions",
+      "Defines the number of employees in the HR department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A food company wants to improve its supply chain delivery reliability. Which strategy would be MOST effective?",
+    "options": [
+      "Reducing product variety to simplify delivery routes",
+      "Implementing real-time tracking systems and setting clear service level agreements with logistics partners",
+      "Increasing product prices to reduce order volume",
+      "Eliminating all warehouse operations and delivering directly from farms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following manufacturing approaches produces the HIGHEST variety of products but typically has the LONGEST lead times?",
+    "options": [
+      "Make-to-stock with dedicated assembly lines",
+      "Engineer-to-order, where each product is designed and built per customer specification",
+      "Assemble-to-order using standardized modular components",
+      "Continuous flow manufacturing for commodity products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain delivery, \"cross-docking\" differs from traditional warehousing in that:",
+    "options": [
+      "It requires longer storage durations to consolidate orders",
+      "Goods are transferred directly from receiving to outbound shipping with minimal or no storage",
+      "It is only applicable to refrigerated goods",
+      "It requires full containerization of all delivered items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must decide between air freight and ocean shipping for international delivery. The BEST decision framework involves:",
+    "options": [
+      "Always choosing the cheaper option regardless of delivery requirements",
+      "Analyzing the trade-off between cost, speed, reliability, and the nature of the product",
+      "Selecting ocean shipping for all international deliveries to minimize carbon footprint",
+      "Choosing air freight only for items weighing less than 10 kg"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"supply chain agility\" in making and delivering operations?",
+    "options": [
+      "The ability to produce goods at the lowest possible cost",
+      "The capacity to quickly respond to unexpected changes in demand or supply disruptions",
+      "The use of automated robots in all manufacturing stages",
+      "The standardization of all products in the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manufacturing company experiences frequent production stoppages due to late component deliveries. Which supply chain strategy would BEST address this issue?",
+    "options": [
+      "Increasing finished goods inventory",
+      "Implementing vendor-managed inventory or consignment stocking for critical components",
+      "Reducing the number of products manufactured",
+      "Outsourcing all manufacturing to a single supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Order cycle time\" in supply chain delivery is defined as:",
+    "options": [
+      "The time required to manufacture one unit of product",
+      "The total time elapsed from when a customer places an order to when the order is received",
+      "The time taken to process a supplier invoice",
+      "The duration of a transportation contract with a logistics provider"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain coordination aims primarily to:",
+    "options": [
+      "Reduce the number of employees in logistics departments",
+      "Align the activities of different supply chain partners to optimize overall system performance",
+      "Centralize all supply chain decisions at the buyer's headquarters",
+      "Standardize product designs across all supply chain members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The bullwhip effect in supply chains is BEST mitigated by:",
+    "options": [
+      "Increasing order quantities at each supply chain tier",
+      "Improving information sharing and coordination across supply chain partners",
+      "Reducing the number of products in the supply chain",
+      "Lengthening order lead times to allow better planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which information technology system is MOST commonly used to integrate supply chain planning across departments such as procurement, production, and distribution?",
+    "options": [
+      "Customer Relationship Management (CRM) system",
+      "Enterprise Resource Planning (ERP) system",
+      "Human Resource Information System (HRIS)",
+      "Payroll management software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company uses a Warehouse Management System (WMS). The PRIMARY function of a WMS is to:",
+    "options": [
+      "Manage financial transactions between buyers and suppliers",
+      "Optimize warehouse operations including receiving, putaway, picking, and shipping",
+      "Plan transportation routes for outbound deliveries",
+      "Manage employee schedules at the warehouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Electronic Data Interchange (EDI) in supply chain management primarily facilitates:",
+    "options": [
+      "Face-to-face negotiations between buyers and suppliers",
+      "The automated electronic exchange of business documents between supply chain partners",
+      "Real-time tracking of transportation vehicles",
+      "Online marketing of supply chain services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Transportation Management System (TMS) helps organizations to:",
+    "options": [
+      "Manage supplier financial accounts",
+      "Plan, execute, and optimize the movement of goods across transportation networks",
+      "Design new warehouse layouts",
+      "Conduct supplier quality audits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which technology is MOST effective for providing real-time visibility of goods in transit within a supply chain?",
+    "options": [
+      "Enterprise Resource Planning (ERP)",
+      "GPS tracking integrated with supply chain management platforms",
+      "Warehouse Management Systems (WMS)",
+      "Computer-Aided Design (CAD) software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain coordination through Vendor-Managed Inventory (VMI) means that:",
+    "options": [
+      "The buyer manages all supplier inventory decisions",
+      "The supplier takes responsibility for monitoring and replenishing the buyer's inventory",
+      "A third party manages inventory for both buyer and supplier",
+      "The government regulates inventory levels across the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Internet of Things (IoT) contributes to supply chain optimization by:",
+    "options": [
+      "Replacing all human workers in warehouses",
+      "Enabling real-time data collection from physical objects such as sensors and RFID tags throughout the supply chain",
+      "Automating financial reporting across the supply chain",
+      "Designing more efficient packaging for products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Big data analytics in supply chain management primarily helps organizations to:",
+    "options": [
+      "Replace traditional ERP systems with manual processes",
+      "Analyze large volumes of supply chain data to identify patterns, forecast demand, and improve decision-making",
+      "Reduce the number of suppliers in the network",
+      "Eliminate the need for human supply chain planners"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Blockchain technology in supply chain management primarily improves:",
+    "options": [
+      "Transportation speed between supply chain nodes",
+      "Traceability and transparency by creating an immutable record of transactions across the supply chain",
+      "Warehouse space utilization",
+      "Employee productivity in distribution centers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager wants to reduce coordination failures between the company and its key suppliers. Which of the following technology solutions would be MOST appropriate?",
+    "options": [
+      "Implementing a new employee training program",
+      "Deploying a shared supply chain collaboration platform with real-time data visibility",
+      "Increasing the frequency of face-to-face supplier meetings",
+      "Standardizing all product packaging"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Artificial Intelligence (AI) and machine learning are being applied in supply chains primarily to:",
+    "options": [
+      "Automate payroll processing for logistics staff",
+      "Improve demand forecasting, route optimization, and anomaly detection in supply chain operations",
+      "Design new products for the market",
+      "Replace all manual labor in manufacturing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "RFID (Radio Frequency Identification) technology in supply chain management is primarily used for:",
+    "options": [
+      "Encrypting financial transactions between buyers and sellers",
+      "Automatic identification and tracking of products and assets throughout the supply chain",
+      "Monitoring employee performance in warehouses",
+      "Designing transportation schedules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"supply chain integration\"?",
+    "options": [
+      "Merging all suppliers into a single company",
+      "The seamless coordination and information sharing across all supply chain functions and partners to act as a unified system",
+      "Standardizing products so that all supply chain members sell the same items",
+      "Centralizing all procurement decisions at corporate headquarters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is experiencing poor coordination between its procurement and production departments, causing frequent stockouts. Which of the following is the BEST solution?",
+    "options": [
+      "Increasing safety stock for all raw materials indefinitely",
+      "Implementing an integrated ERP system that links procurement, production, and inventory data in real time",
+      "Hiring more procurement staff to handle orders manually",
+      "Reducing the number of products manufactured to simplify coordination"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cloud-based supply chain platforms offer which PRIMARY advantage over traditional on-premises systems?",
+    "options": [
+      "They require more IT infrastructure investment upfront",
+      "They enable real-time data sharing across geographically dispersed supply chain partners with lower upfront costs",
+      "They are more secure because data is stored locally",
+      "They limit the number of users who can access the system simultaneously"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following technologies directly supports \"demand sensing\" in supply chain planning?",
+    "options": [
+      "Traditional ERP modules using monthly data updates",
+      "Advanced analytics and AI tools that process real-time point-of-sale and market data to detect demand shifts quickly",
+      "Manual spreadsheet-based demand planning",
+      "Periodic supplier review meetings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain risk management technology primarily helps organizations to:",
+    "options": [
+      "Eliminate all forms of supply chain disruption",
+      "Identify, monitor, and respond to potential disruptions across the supply chain using real-time data and predictive analytics",
+      "Replace all physical inventory with digital assets",
+      "Automate all supplier contract negotiations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which supply chain coordination mechanism is MOST effective when dealing with high demand uncertainty and short product life cycles?",
+    "options": [
+      "Long-term fixed supply contracts with minimum order quantities",
+      "Flexible, responsive supply chains using technology-enabled real-time information sharing and agile replenishment",
+      "Batch ordering at regular monthly intervals",
+      "Centralized inventory managed exclusively by corporate headquarters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is evaluating the use of autonomous robots in a distribution center. The PRIMARY expected benefit is:",
+    "options": [
+      "Eliminating the need for a Warehouse Management System",
+      "Increasing picking speed, accuracy, and operational efficiency while reducing labor costs",
+      "Replacing all outbound transportation activities",
+      "Simplifying supplier relationships by reducing order complexity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Digital twin\" technology in supply chain management refers to:",
+    "options": [
+      "A backup copy of a company's financial records stored digitally",
+      "A virtual replica of a physical supply chain used to simulate, analyze, and optimize operations",
+      "Duplicating all supply chain transactions for audit purposes",
+      "A system that pairs every physical warehouse with a digital counterpart for insurance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain technology adoption, \"interoperability\" means:",
+    "options": [
+      "The ability of a system to operate without an internet connection",
+      "The ability of different technology systems used by supply chain partners to communicate and exchange data seamlessly",
+      "Using a single technology vendor for all supply chain systems",
+      "The physical compatibility of warehouse equipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the PRIMARY challenge in implementing supply chain technology across multiple organizations in a supply chain?",
+    "options": [
+      "The high cost of office furniture at partner locations",
+      "Achieving alignment on data standards, system compatibility, and willingness to share information among partners",
+      "Determining the color scheme for shared technology dashboards",
+      "Scheduling technology training for warehouse staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company implements a supply chain control tower. The PRIMARY purpose of this system is to:",
+    "options": [
+      "Monitor the physical security of warehouse facilities",
+      "Provide end-to-end visibility across the supply chain, enabling centralized monitoring, analysis, and decision support",
+      "Automate all purchasing transactions without human oversight",
+      "Replace the roles of supply chain managers with automated systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain coordination through \"information sharing\" primarily reduces:",
+    "options": [
+      "The number of suppliers needed in the network",
+      "Demand uncertainty and variability across supply chain tiers, leading to better planning and lower inventory costs",
+      "The need for transportation between supply chain nodes",
+      "Product complexity across the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company notices that its ERP system data is not being used effectively by supply chain managers. The MOST likely reason is:",
+    "options": [
+      "The ERP system is too expensive to operate",
+      "Inadequate training, poor data quality, or a lack of user-friendly interfaces that align with operational needs",
+      "Supply chain managers prefer manual processes",
+      "ERP systems are inherently unsuitable for supply chain management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the role of supply chain analytics in improving operations?",
+    "options": [
+      "Generating financial reports for investors",
+      "Converting supply chain data into actionable insights that improve decisions in areas such as inventory, logistics, and supplier management",
+      "Replacing strategic planning with automated algorithms",
+      "Reducing the complexity of product designs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to implement a demand-driven supply chain using technology. Which combination of tools would be MOST effective?",
+    "options": [
+      "Spreadsheets and fax machines",
+      "Point-of-sale data integration, AI-driven demand forecasting, and automated replenishment systems",
+      "Manual demand surveys and batch order processing",
+      "GPS tracking alone for outbound delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of supply chain coordination, \"postponement enabled by technology\" means:",
+    "options": [
+      "Delaying all supply chain technology investments until the market matures",
+      "Using technology to defer product customization or distribution to the latest possible point, reducing forecast risk and inventory",
+      "Postponing supplier payments to improve cash flow",
+      "Delaying the implementation of ERP systems until competitors adopt them first"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must design a sourcing strategy for a critical component that has only two global suppliers. Which risk mitigation approach should be prioritized?",
+    "options": [
+      "Switching entirely to the cheaper supplier to reduce cost",
+      "Developing a dual-sourcing strategy and building strategic buffer inventory to manage supply disruption risk",
+      "Eliminating the component from the product design",
+      "Delaying the sourcing decision until market conditions stabilize"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain is highly efficient but struggled to respond during a major supplier disruption. Analyzing this situation, what fundamental supply chain design flaw is most evident?",
+    "options": [
+      "Over-investment in warehouse automation",
+      "Excessive focus on efficiency at the expense of resilience, leaving the supply chain vulnerable to disruptions",
+      "Using too many suppliers for non-critical items",
+      "Over-reliance on domestic suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the MOST significant limitation of using historical sales data alone for supply chain demand planning:",
+    "options": [
+      "Historical data is too expensive to collect and store",
+      "It fails to capture structural demand shifts, new trends, or disruptive events that may not be reflected in past patterns",
+      "Historical data cannot be processed by modern ERP systems",
+      "It always overestimates future demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain analyst must choose between investing in supply chain resilience (redundancy and flexibility) or supply chain efficiency (cost minimization). Under which condition is prioritizing resilience MOST justified?",
+    "options": [
+      "When the company operates in a stable, low-competition market with predictable demand",
+      "When operating in volatile, high-risk environments where supply disruptions can cause catastrophic losses that outweigh efficiency savings",
+      "When the company is under pressure to reduce short-term operating costs",
+      "When all competitors in the industry are focused on efficiency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A multinational company is redesigning its global supply chain after a pandemic disruption. Which strategic recommendation would BEST balance cost efficiency with supply chain resilience?",
+    "options": [
+      "Concentrating all manufacturing in the lowest-cost country",
+      "Implementing a regionalized supply chain strategy with diversified sourcing, near-shoring for critical items, and digital visibility tools",
+      "Outsourcing all supply chain operations to a single global 3PL provider",
+      "Eliminating all safety stock to reduce holding costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to create a supply chain strategy that incorporates circular economy principles. Which of the following actions BEST represents this approach?",
+    "options": [
+      "Increasing production volumes to achieve economies of scale",
+      "Designing products for disassembly, establishing reverse logistics networks, and reusing or recycling materials to minimize waste",
+      "Reducing the number of products offered to simplify the supply chain",
+      "Outsourcing all sustainability activities to NGOs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When evaluating two supply chain technology platforms, the procurement team should prioritize which selection criterion ABOVE all others?",
+    "options": [
+      "The vendor's brand recognition in the market",
+      "The platform's ability to integrate with existing systems, scale with business growth, and deliver measurable supply chain performance improvements",
+      "The platform's visual design and user interface aesthetics",
+      "The number of awards the technology vendor has received"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is analyzing the trade-off between centralized and decentralized inventory in a multi-echelon supply chain. Which scenario MOST justifies a centralized inventory approach?",
+    "options": [
+      "When demand patterns vary significantly across all regions and response time is critical",
+      "When demand variability is high, products are expensive, and centralized pooling can significantly reduce total safety stock requirements",
+      "When transportation costs between the central warehouse and customers are very high",
+      "When all customers require same-day delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company has collected large amounts of supply chain data but is not generating insights to improve performance. Analyzing this gap, which action would MOST effectively address the problem?",
+    "options": [
+      "Collecting even more data from additional sensors",
+      "Investing in analytics capabilities, data governance, and training supply chain staff to interpret and act on data insights",
+      "Purchasing a new ERP system to replace all existing technology",
+      "Reducing the amount of data collected to simplify analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critically evaluate which supply chain coordination mechanism is MOST effective for managing a complex, multi-tier global supply chain:",
+    "options": [
+      "Relying solely on contractual obligations between tier-1 suppliers and the buyer",
+      "Implementing an integrated digital platform that provides end-to-end visibility, shared data, and collaborative planning across all supply chain tiers",
+      "Holding monthly review meetings with tier-1 suppliers only",
+      "Centralizing all decision-making at corporate headquarters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain designer must determine the optimal number of warehouses for a distribution network. Which framework BEST guides this decision?",
+    "options": [
+      "Maximizing the number of warehouses to ensure fast delivery everywhere",
+      "Analyzing the trade-off between inventory holding costs, transportation costs, service level requirements, and demand patterns to find the cost-minimizing number of warehouses",
+      "Minimizing the number of warehouses to reduce fixed costs regardless of service levels",
+      "Replicating competitor distribution network designs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company sources from a low-cost country but faces increasing supply chain risks due to geopolitical instability. To evaluate whether to continue this sourcing strategy, which analysis is MOST appropriate?",
+    "options": [
+      "Comparing the supplier's marketing budget with domestic suppliers",
+      "Conducting a total cost of ownership analysis that includes risk-adjusted costs of supply disruption, quality issues, and lead time variability",
+      "Asking the supplier to reduce prices further to compensate for the risks",
+      "Immediately switching to domestic suppliers without cost analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to design a supply chain that achieves both high customer service levels and low inventory costs. Which approach BEST achieves this?",
+    "options": [
+      "Maximizing inventory at every point in the supply chain to prevent stockouts",
+      "Implementing demand-driven replenishment, accurate forecasting, and strategic inventory positioning based on service differentiation",
+      "Setting uniform safety stock levels for all products regardless of demand variability",
+      "Eliminating all buffer stock to minimize holding costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must evaluate whether to implement an IoT-based real-time monitoring system for cold chain logistics. Which evaluation criterion is MOST critical?",
+    "options": [
+      "The aesthetic design of the IoT devices",
+      "The system's ability to provide real-time temperature alerts, prevent spoilage, ensure regulatory compliance, and reduce total cold chain losses",
+      "The number of IoT devices the vendor can supply",
+      "The IoT system's compatibility with the company's website design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to create a competitive advantage through supply chain excellence. According to supply chain strategy frameworks, which approach is MOST likely to deliver sustained competitive advantage?",
+    "options": [
+      "Copying competitors' supply chain practices exactly",
+      "Developing supply chain capabilities that are difficult to imitate, such as deep supplier relationships, proprietary technology, and superior coordination mechanisms aligned with company strategy",
+      "Reducing supply chain costs to zero through automation",
+      "Outsourcing all supply chain operations to eliminate internal complexity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When designing a supply chain for a new product with highly uncertain demand, which supply chain strategy is MOST appropriate?",
+    "options": [
+      "Efficient supply chain with long production runs and low cost focus",
+      "Responsive or agile supply chain designed to handle uncertainty with flexible capacity and fast replenishment",
+      "Single-sourcing strategy to simplify coordination",
+      "Make-to-stock strategy with large finished goods inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain consultant is advising a company on whether to outsource its logistics operations. Which factor should MOST influence this decision?",
+    "options": [
+      "Whether competitors have outsourced their logistics",
+      "Whether logistics is a core competency for the company or whether a 3PL can deliver superior performance at lower cost with acceptable risk",
+      "The logistics provider's advertising budget",
+      "The number of employees the 3PL provider has"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is implementing a sustainability initiative in its supply chain and must evaluate supplier compliance. Which approach is MOST rigorous and effective?",
+    "options": [
+      "Accepting suppliers' self-reported sustainability performance without verification",
+      "Conducting independent third-party audits, setting measurable sustainability standards, and incorporating sustainability performance into supplier scorecards and contracts",
+      "Publishing a sustainability policy statement and assuming suppliers will comply",
+      "Selecting only local suppliers to reduce transportation emissions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must propose a supply chain design for a new product line serving both stable domestic markets and volatile export markets. Which design recommendation BEST addresses this challenge?",
+    "options": [
+      "Design a single inflexible supply chain optimized for the domestic market only",
+      "Design a hybrid supply chain with an efficient base serving stable demand and a flexible, responsive layer to handle volatile export market requirements",
+      "Use spot procurement for both markets to avoid long-term commitments",
+      "Serve both markets from a single centralized warehouse without differentiation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to evaluate the ROI of implementing an advanced supply chain analytics platform. Which approach provides the MOST comprehensive evaluation?",
+    "options": [
+      "Comparing the software license cost to competitors' prices",
+      "Quantifying improvements in forecast accuracy, inventory reduction, delivery performance, and cost savings against total implementation and operating costs",
+      "Measuring only the speed of the implementation project",
+      "Evaluating the number of reports generated by the platform"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In evaluating supply chain technology investments, the concept of \"total cost of ownership\" for technology includes:",
+    "options": [
+      "Only the initial software purchase price",
+      "All costs including licensing, implementation, training, maintenance, upgrades, and the opportunity cost of disruption during implementation",
+      "Only the annual maintenance fee charged by the vendor",
+      "The cost of hardware required to run the software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm is designing a supply chain strategy for humanitarian logistics to respond to natural disasters. Which supply chain design principle is MOST critical?",
+    "options": [
+      "Minimizing cost above all other considerations",
+      "Maximizing speed, flexibility, and reliability to deliver aid rapidly and reliably to affected populations regardless of cost constraints",
+      "Standardizing all aid packages to simplify logistics",
+      "Using only government-owned logistics infrastructure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scenarios BEST illustrates a failure of supply chain coordination?",
+    "options": [
+      "A supplier delivering goods two days early due to efficient production",
+      "A retailer placing a large unexpected order, causing the manufacturer to run out of raw materials because the supplier was not informed of the sales promotion in advance",
+      "A company renegotiating a supplier contract to reduce costs",
+      "A logistics provider using a new route to reduce delivery time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is tasked with redesigning the company's delivery network after a competitor significantly reduced delivery lead times. Which strategic options should be evaluated?",
+    "options": [
+      "Reducing product variety to simplify delivery",
+      "Analyzing options such as adding distribution centers closer to key customer clusters, adopting faster transportation modes, and implementing advanced order management systems",
+      "Increasing minimum order quantities to reduce delivery frequency",
+      "Exiting markets where competitors have faster delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain strategy emphasizes low cost and efficiency. Under what market condition should the company RECONSIDER this strategy?",
+    "options": [
+      "When demand is stable and predictable, and product variety is low",
+      "When market demand becomes highly volatile, product life cycles shorten, and customers prioritize responsiveness and customization over price",
+      "When the company has a strong cost advantage over competitors",
+      "When raw material prices are falling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager notices that technology adoption by supply chain partners is inconsistent, creating data gaps. Which intervention is MOST effective?",
+    "options": [
+      "Forcing all partners to use identical technology systems",
+      "Establishing data exchange standards, offering technology adoption support, and creating incentives for partners to share data consistently",
+      "Eliminating data-sharing requirements from supplier contracts",
+      "Developing manual workarounds for partners who do not adopt technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is evaluating whether to implement a fully automated distribution center. Which financial and operational analysis is MOST essential before making this decision?",
+    "options": [
+      "Comparing the design aesthetics of automated vs. manual facilities",
+      "Analyzing the return on investment, payback period, labor savings, throughput improvements, and impact on order fulfillment accuracy and speed",
+      "Benchmarking the number of robots used by competitors",
+      "Assessing employee satisfaction with manual processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"responsive\" supply chain strategy and when it should be used?",
+    "options": [
+      "A low-cost, high-efficiency supply chain used for commodity products with stable demand",
+      "A flexible, fast-reacting supply chain designed for products with unpredictable demand, short life cycles, or high variety, where speed and adaptability are more valuable than cost optimization",
+      "A supply chain focused exclusively on eliminating all supplier relationships",
+      "A supply chain that responds to government regulations only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is creating a new supply chain performance measurement framework. Which balanced set of metrics BEST captures overall supply chain health?",
+    "options": [
+      "Only financial metrics such as cost and profit margin",
+      "A balanced scorecard including cost efficiency, delivery reliability, inventory performance, flexibility, sustainability, and customer service metrics",
+      "Only customer satisfaction scores",
+      "Only transportation metrics such as on-time delivery rate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must design a supply chain for a product that will be sold globally, involves multiple tiers of suppliers, and must meet stringent environmental regulations. Which design principle is MOST critical?",
+    "options": [
+      "Minimizing the number of suppliers to simplify management",
+      "Building a transparent, compliant, and collaborative multi-tier supply chain with end-to-end visibility, robust supplier qualification processes, and integrated sustainability standards",
+      "Concentrating all manufacturing in the cheapest region regardless of regulatory requirements",
+      "Delaying compliance with environmental regulations until they become mandatory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"SCOR model\" (Supply Chain Operations Reference) is a framework used to:",
+    "options": [
+      "Design marketing campaigns for supply chain companies",
+      "Describe, benchmark, and improve supply chain processes across plan, source, make, deliver, return, and enable activities",
+      "Regulate international trade between countries",
+      "Calculate the optimal reorder point for inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"supply chain disruption\"?",
+    "options": [
+      "A company renegotiating a supplier contract for better pricing",
+      "A major earthquake damaging a key supplier's factory, halting production and causing significant delays",
+      "A supplier delivering goods one day earlier than scheduled",
+      "A logistics provider switching to a more fuel-efficient vehicle fleet"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"supply chain resilience\" refers to the ability of a supply chain to:",
+    "options": [
+      "Operate at the lowest possible cost under normal conditions",
+      "Anticipate, adapt to, and recover rapidly from unexpected disruptions while maintaining continuous operations",
+      "Resist all forms of change or innovation",
+      "Operate without any reliance on technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is reviewing Key Performance Indicators (KPIs). Which KPI MOST directly measures supply chain customer service performance?",
+    "options": [
+      "Total warehousing cost per unit",
+      "Order fill rate and perfect order percentage",
+      "Number of suppliers in the network",
+      "Total landed cost per shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Supply chain collaboration\" between a buyer and supplier is MOST effective when:",
+    "options": [
+      "The buyer holds all the negotiating power and dictates terms to the supplier",
+      "Both parties share risks and rewards, exchange information openly, and align their objectives to create mutual value",
+      "The supplier manages all aspects of the buyer's inventory",
+      "The buyer and supplier operate completely independently with minimal communication"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is experiencing high inventory levels despite having good demand forecasts. The MOST likely root cause is:",
+    "options": [
+      "The company's warehouse is too large",
+      "Poor supply chain coordination, excessive safety stock policies, or infrequent ordering cycles that do not align with actual demand signals",
+      "The company's products are too popular",
+      "The demand forecast is too accurate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the purpose of a \"supply chain audit\"?",
+    "options": [
+      "To calculate the annual bonuses of supply chain employees",
+      "To systematically evaluate supply chain processes, compliance, performance, and risks to identify improvement opportunities",
+      "To review the company's financial statements for tax purposes",
+      "To assess the company's marketing strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When designing a global supply chain, which factor is MOST likely to increase supply chain complexity?",
+    "options": [
+      "Using a single transportation mode for all shipments",
+      "Operating across multiple countries with different regulations, cultures, currencies, and infrastructure quality levels",
+      "Selling a single standardized product globally",
+      "Using a single centralized distribution center"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain strategy must be aligned with its overall business strategy. A company competing on product innovation and speed-to-market should design its supply chain to prioritize:",
+    "options": [
+      "Maximum cost efficiency and minimum investment in new capabilities",
+      "Agility, flexibility, and rapid new product introduction capabilities that can quickly respond to changing market requirements",
+      "Long-term fixed supply contracts to lock in low prices",
+      "Centralized decision-making to control all supply chain costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a scenario where a company's supply chain faces increasing complexity due to expanding product lines and global operations, which organizational response is MOST appropriate?",
+    "options": [
+      "Reducing product lines to simplify the supply chain",
+      "Investing in integrated supply chain management capabilities including advanced technology, skilled talent, and organizational structures that support cross-functional coordination",
+      "Outsourcing all supply chain activities to eliminate internal complexity",
+      "Restricting expansion to domestic markets only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"strategic supply chain decision\"?",
+    "options": [
+      "Deciding the daily shift schedule for warehouse staff",
+      "Choosing whether to build a new distribution center, outsource logistics, or enter a long-term partnership with a 3PL provider",
+      "Selecting the font for supplier invoices",
+      "Determining the daily reorder quantity for a single product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain network design decisions typically involve trade-offs between:",
+    "options": [
+      "Employee salaries and marketing budgets",
+      "Transportation costs, inventory holding costs, facility costs, and customer service levels",
+      "Product design complexity and packaging materials",
+      "Number of employees and office space requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following describes a \"supply chain strategy\" that prioritizes lean principles?",
+    "options": [
+      "Investing in excess capacity and inventory to handle all possible demand scenarios",
+      "Systematically eliminating waste, reducing lead times, and optimizing flow to deliver maximum value to customers at minimum cost",
+      "Expanding the supplier base as widely as possible",
+      "Producing all products in-house regardless of cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that has achieved excellent supply chain efficiency suddenly faces a competitor offering faster delivery and more product customization. To respond effectively, the company should:",
+    "options": [
+      "Cut prices further to compete on cost",
+      "Reassess its supply chain strategy and invest in responsive capabilities such as flexible manufacturing, postponement, and faster replenishment",
+      "Reduce its product range to simplify operations",
+      "Exit markets where the competitor is present"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The PRIMARY reason supply chains fail to achieve their performance objectives is often:",
+    "options": [
+      "Too many suppliers in the network",
+      "Poor coordination, misaligned incentives, lack of information sharing, and organizational silos that prevent effective collaboration",
+      "Excessive investment in supply chain technology",
+      "Overly generous customer service commitments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is developing a supply chain risk management plan. Which step should come FIRST?",
+    "options": [
+      "Purchasing supply chain insurance",
+      "Identifying and categorizing potential risks across the supply chain, including supply, operational, demand, and environmental risks",
+      "Implementing new technology to track shipments",
+      "Negotiating risk-sharing clauses in all supplier contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the relationship between supply chain management and competitive advantage?",
+    "options": [
+      "Supply chain management is purely an operational function with no strategic value",
+      "Effective supply chain management can create competitive advantage through superior cost efficiency, service quality, speed, flexibility, and sustainability that are difficult for competitors to replicate",
+      "Competitive advantage in supply chain management is achieved solely through having the lowest purchase prices",
+      "Supply chain management only affects operational efficiency, not market competitiveness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain coordinator is working to improve inter-organizational collaboration. Which action is MOST critical for success?",
+    "options": [
+      "Issuing strict penalties to suppliers who fail to meet targets",
+      "Building trust through transparent communication, shared performance metrics, joint problem-solving, and equitable risk and reward sharing",
+      "Reducing the frequency of communication to avoid information overload",
+      "Limiting information sharing to protect competitive intelligence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following outcomes is MOST indicative of a well-integrated and high-performing supply chain?",
+    "options": [
+      "Low supplier diversity and high concentration risk",
+      "High order fill rates, low total supply chain cost, short lead times, and strong supplier relationships that enable continuous improvement",
+      "Maximum inventory levels at all points in the supply chain",
+      "All supply chain decisions made exclusively by corporate headquarters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A new graduate joining a logistics and supply chain management team should first focus on understanding:",
+    "options": [
+      "The company's advertising strategy",
+      "The end-to-end supply chain structure, key processes, performance metrics, and how their role contributes to overall supply chain objectives",
+      "The company's HR policies and salary structure",
+      "The design of the company's website"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST accurate description of the \"supply chain lifecycle\"?",
+    "options": [
+      "The time it takes for a product to be manufactured",
+      "The full sequence of activities from raw material extraction through production, distribution, consumption, and end-of-life product management",
+      "The duration of a supplier contract",
+      "The product warranty period offered to customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is assessing two distribution strategies: direct-to-consumer (D2C) vs. through intermediaries. Which factor MOST favors a D2C strategy?",
+    "options": [
+      "Low product value and wide geographic distribution",
+      "High-margin products, direct customer relationships, need for customization, and the ability to capture customer data for supply chain optimization",
+      "The presence of many established intermediaries in the market",
+      "High transportation costs for small parcel delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain activities falls under the \"source\" process in the SCOR model?",
+    "options": [
+      "Manufacturing finished goods",
+      "Procuring materials and components from suppliers, including supplier selection, ordering, and supplier relationship management",
+      "Delivering goods to end customers",
+      "Managing returns from customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain management, \"service level\" refers to:",
+    "options": [
+      "The quality of food served in the company cafeteria",
+      "The probability of meeting customer demand from available inventory, or the percentage of orders fulfilled completely and on time",
+      "The grade of transportation service selected for shipments",
+      "The level of customer service training provided to warehouse staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is expanding into a new international market and must extend its supply chain. Which factor represents the GREATEST risk to be managed?",
+    "options": [
+      "The new market's local cuisine preferences",
+      "Unfamiliar regulatory requirements, customs procedures, currency risks, political instability, and the challenge of finding reliable local logistics partners",
+      "The local market's preference for a different product color",
+      "The availability of office space for the company's local team"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain \"agility\" and supply chain \"efficiency\" are BEST described as:",
+    "options": [
+      "Synonymous terms that describe the same supply chain characteristic",
+      "Complementary but often conflicting objectives — efficiency focuses on cost minimization through standardization and scale, while agility focuses on speed and flexibility to respond to change",
+      "Both measures of transportation speed in the supply chain",
+      "Both measures of inventory accuracy in the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain analyst discovers that inventory turnover is declining while demand is stable. Which supply chain issue does this MOST likely indicate?",
+    "options": [
+      "The company is growing rapidly and adding new products",
+      "Excess inventory is accumulating, possibly due to poor demand forecasting, overly conservative safety stock policies, or supply chain coordination failures",
+      "The company's transportation network is becoming more efficient",
+      "Customer service levels are improving significantly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain design, \"postponement\" and \"speculation\" represent two opposing strategies. When is \"speculation\" (building to forecast) MOST appropriate?",
+    "options": [
+      "When products are highly customized and demand is unpredictable",
+      "When demand is stable and predictable, economies of scale in production are significant, and lead times for customization are too long to satisfy customers",
+      "When product variety is extremely high and each customer requires a unique product",
+      "When all customers require immediate delivery of unique customized products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager has been asked to assess the environmental impact of the company's logistics operations. Which metric is MOST relevant to this assessment?",
+    "options": [
+      "Total number of delivery trucks in the fleet",
+      "Carbon emissions per unit delivered, fuel consumption efficiency, and percentage of shipments using low-emission transportation modes",
+      "Total number of deliveries completed per day",
+      "Number of logistics staff employed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When implementing supply chain improvements, which change management principle is MOST critical for ensuring that improvements are sustained?",
+    "options": [
+      "Making all changes as quickly as possible without involving staff",
+      "Engaging supply chain employees and partners in the change process, providing training, setting clear performance expectations, and monitoring progress consistently",
+      "Implementing all technology changes simultaneously to minimize disruption",
+      "Delegating all change management responsibilities to external consultants"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain is described as \"fragile.\" This MOST likely means:",
+    "options": [
+      "The supply chain uses delicate packaging materials",
+      "The supply chain lacks redundancy, flexibility, and risk mitigation measures, making it highly vulnerable to disruptions that can cascade into major performance failures",
+      "The supply chain operates exclusively with small and medium suppliers",
+      "The supply chain has too many distribution tiers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain management, \"demand shaping\" refers to:",
+    "options": [
+      "Changing the physical shape of products to reduce shipping costs",
+      "Using pricing, promotions, and other incentives to influence customer demand to better align with supply capabilities",
+      "Reshaping the demand forecast after actual demand is known",
+      "Training customers to place orders in a specific format"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must present a business case for a new supply chain initiative to senior management. Which element is MOST essential for a compelling business case?",
+    "options": [
+      "A detailed technical description of the technology to be implemented",
+      "A clear articulation of the problem being solved, quantified benefits, costs, implementation risks, and return on investment",
+      "A list of all supply chain textbooks that support the initiative",
+      "A comparison of the company's supply chain with its best-performing supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain practices BEST illustrates the concept of \"co-creation\" between a buyer and supplier?",
+    "options": [
+      "The buyer imposing cost reduction targets on the supplier without collaboration",
+      "The buyer and supplier jointly designing products, processes, or systems to create mutual value, share knowledge, and improve overall supply chain performance",
+      "The buyer allowing the supplier to set all contract terms",
+      "The supplier producing all products without any input from the buyer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is evaluating whether to implement vendor-managed inventory (VMI). Which condition MOST supports adopting VMI?",
+    "options": [
+      "The buyer and supplier have a poor relationship with limited trust",
+      "The supplier has better visibility into the buyer's demand patterns, and a collaborative relationship exists where the supplier can manage replenishment more efficiently than the buyer",
+      "The buyer's demand is highly unpredictable and there is no historical sales data",
+      "The product is a high-value, low-volume item with long lead times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain operations, the \"make-or-buy\" decision should be guided PRIMARILY by:",
+    "options": [
+      "The preference of the CEO for insourcing",
+      "Analysis of core competencies, total cost comparison, strategic risk, quality requirements, and capacity considerations",
+      "Which option requires fewer employees",
+      "Which option was used by the company in the previous year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to reduce the total cost of its supply chain without compromising customer service. Which lever MOST comprehensively addresses this goal?",
+    "options": [
+      "Reducing customer service commitments to cut delivery costs",
+      "Implementing end-to-end supply chain optimization that simultaneously addresses demand forecasting accuracy, inventory positioning, transportation efficiency, and supplier performance",
+      "Switching to cheaper suppliers regardless of quality",
+      "Eliminating all safety stock to reduce holding costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of supply chain management, \"total delivered cost\" includes:",
+    "options": [
+      "Only the purchase price of goods from suppliers",
+      "All costs associated with acquiring and delivering goods to the customer, including purchase price, transportation, customs duties, warehousing, handling, and quality-related costs",
+      "Only transportation and warehousing costs",
+      "Only the cost of the product at the point of manufacture"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain is described as \"integrated.\" This MOST accurately means:",
+    "options": [
+      "The supply chain uses a single technology platform for all operations",
+      "Supply chain partners share information, coordinate activities, and align their objectives to function as a unified system, minimizing inefficiencies across organizational boundaries",
+      "All supply chain activities are performed by a single company",
+      "The supply chain operates exclusively within one country"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager in Ethiopia is designing a supply chain for industrial goods that must be imported. Which supply chain challenge is MOST specific to the Ethiopian context?",
+    "options": [
+      "High customer demand for product customization",
+      "Infrastructure constraints, customs clearance procedures, foreign exchange availability, and limited logistics service provider capacity that may increase lead times and total landed costs",
+      "Oversupply of skilled logistics professionals in the local market",
+      "Excessive competition among domestic logistics providers"
+    ],
+    "correct": 1
+  }
+]
