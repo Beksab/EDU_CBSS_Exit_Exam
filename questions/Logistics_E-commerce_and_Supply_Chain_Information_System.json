@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which of the following BEST describes e-procurement?",
+    "options": [
+      "The manual process of issuing purchase orders through paper-based systems",
+      "The use of internet-based technology to automate and streamline the procurement process from requisition to payment",
+      "The process of procuring goods exclusively from local suppliers",
+      "The use of telephone communication to negotiate with suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which technology is MOST commonly used to automate supplier catalog management in e-procurement systems?",
+    "options": [
+      "Fax machines",
+      "Electronic catalog (e-catalog) integrated into a procurement portal",
+      "Manual spreadsheet tracking",
+      "Physical supplier brochures stored in filing cabinets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An organization wants to reduce procurement cycle time and paper usage. Which technology adoption would MOST directly achieve both goals?",
+    "options": [
+      "Hiring more procurement staff",
+      "Implementing an e-procurement system with automated purchase order generation and electronic approval workflows",
+      "Increasing the frequency of supplier meetings",
+      "Printing purchase orders in batches at the end of each month"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following technologies enables buyers to compare supplier prices in real time during the procurement process?",
+    "options": [
+      "Manual telephone quotations",
+      "Online reverse auctions and e-sourcing platforms",
+      "Printed supplier catalogs",
+      "Fax-based quotation requests"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "RFID technology in procurement operations is MOST useful for:",
+    "options": [
+      "Drafting supplier contracts",
+      "Automatically identifying and tracking incoming goods at the receiving dock without manual scanning",
+      "Processing supplier invoices electronically",
+      "Sending purchase orders to suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a PRIMARY advantage of using e-procurement technology over traditional procurement methods?",
+    "options": [
+      "It eliminates the need for supplier relationships entirely",
+      "It reduces procurement costs, improves transparency, speeds up the procurement cycle, and provides better data for decision-making",
+      "It guarantees the lowest prices from all suppliers",
+      "It removes all human involvement from the procurement process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to automate the matching of purchase orders, goods received notes, and supplier invoices. Which technology BEST supports this \"three-way matching\" process?",
+    "options": [
+      "Manual audit by the finance department",
+      "An integrated e-procurement or ERP system with automated three-way matching functionality",
+      "Scanning paper invoices into image files",
+      "Emailing invoices to the accounts payable team"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"procurement portal\" in e-procurement?",
+    "options": [
+      "A physical office where suppliers submit bids",
+      "A web-based platform where buyers can browse supplier catalogs, place orders, and manage procurement transactions electronically",
+      "A government office that regulates procurement activities",
+      "A manual filing system for procurement documents"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-procurement, \"spend analysis\" technology helps organizations to:",
+    "options": [
+      "Monitor employee attendance in the procurement department",
+      "Analyze procurement expenditure data to identify savings opportunities, compliance gaps, and supplier consolidation possibilities",
+      "Calculate the total number of purchase orders issued annually",
+      "Measure the speed of the procurement team"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which technology enables suppliers to submit bids electronically in a structured format during a competitive tendering process?",
+    "options": [
+      "Paper-based tender box submission",
+      "Electronic tendering (e-tendering) platform",
+      "Fax-based bid submission system",
+      "Manual bid collection by procurement officers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manufacturing company wants to give employees a simple way to order pre-approved office supplies from preferred suppliers without going through the full procurement process. Which e-procurement tool is MOST appropriate?",
+    "options": [
+      "A full strategic sourcing platform",
+      "A self-service e-catalog with a shopping cart interface limited to pre-approved items and suppliers",
+      "A government procurement portal",
+      "A manual requisition form submitted to the procurement department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in implementing e-procurement technology in organizations in developing countries like Ethiopia?",
+    "options": [
+      "Excess availability of high-speed internet in all regions",
+      "Limited internet infrastructure, low digital literacy among suppliers, resistance to change, and integration challenges with existing systems",
+      "Over-abundance of qualified e-procurement technology vendors",
+      "Too many suppliers already using e-procurement platforms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "E-auctions in procurement differ from traditional tendering primarily because:",
+    "options": [
+      "E-auctions require more paperwork than traditional tendering",
+      "E-auctions allow suppliers to submit and revise bids in real time during a defined auction event, often resulting in more competitive pricing",
+      "E-auctions can only be used for service contracts",
+      "E-auctions eliminate the need for supplier qualification"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following technologies supports automated supplier performance monitoring in e-procurement?",
+    "options": [
+      "Paper-based supplier scorecards updated annually",
+      "Supplier management modules within e-procurement systems that track delivery, quality, and compliance metrics in real time",
+      "Telephone-based supplier feedback collection",
+      "Manual spreadsheet tracking updated by procurement staff monthly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-procurement, \"contract management technology\" primarily helps organizations to:",
+    "options": [
+      "Design new products for procurement",
+      "Store, manage, monitor, and ensure compliance with supplier contracts electronically, including tracking key dates and obligations",
+      "Process employee payroll linked to procurement activities",
+      "Design the layout of procurement offices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a Business-to-Business (B2B) e-commerce model?",
+    "options": [
+      "Individual consumers purchasing products directly from an online retailer",
+      "Commercial transactions conducted electronically between businesses, such as a manufacturer ordering components from a supplier through an online platform",
+      "Government agencies purchasing goods from private companies online",
+      "Consumers selling second-hand goods to other consumers online"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Business-to-Consumer (B2C) e-commerce model is characterized by:",
+    "options": [
+      "Transactions between two or more businesses conducted online",
+      "Businesses selling products or services directly to individual end consumers through online platforms",
+      "Consumers selling products to government entities online",
+      "Governments providing services to citizens through online portals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which e-commerce business model is illustrated when a company like Alibaba connects buyers and sellers without holding inventory itself?",
+    "options": [
+      "Business-to-Consumer (B2C)",
+      "Marketplace or platform model, often classified as B2B or C2C depending on the participants",
+      "Consumer-to-Business (C2B)",
+      "Government-to-Business (G2B)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Consumer-to-Consumer (C2C) e-commerce model is BEST illustrated by:",
+    "options": [
+      "A retailer selling products to customers through its website",
+      "An online platform such as eBay where individual consumers buy and sell products to each other",
+      "A government procurement portal for public tenders",
+      "A business purchasing raw materials from a supplier online"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"drop-shipping\" e-commerce fulfillment model?",
+    "options": [
+      "A retailer that manufactures its own products and ships them directly from its factory",
+      "A retailer that takes customer orders and transfers them to a supplier or manufacturer who ships directly to the customer, without the retailer holding inventory",
+      "A logistics company that drops shipments at a central warehouse for later distribution",
+      "A consumer who ships goods purchased online back to the seller"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-commerce supply chain management, the MAIN challenge of a direct-to-consumer (D2C) model compared to selling through traditional retail channels is:",
+    "options": [
+      "Higher product manufacturing costs",
+      "Managing high volumes of small individual orders, last-mile delivery complexity, returns management, and customer service at scale",
+      "Difficulty in setting product prices online",
+      "Lack of access to customer data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which e-commerce business model allows individual professionals to offer services to businesses online, such as freelance logistics consulting?",
+    "options": [
+      "B2B",
+      "Consumer-to-Business (C2B)",
+      "B2C",
+      "G2C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Government-to-Business (G2B) e-commerce model in procurement refers to:",
+    "options": [
+      "Businesses selling products to individual government employees online",
+      "Government entities using electronic platforms to conduct procurement, licensing, and regulatory transactions with businesses",
+      "Businesses providing technology services to governments",
+      "Government employees purchasing personal items online"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST significant supply chain implication of the growth of B2C e-commerce?",
+    "options": [
+      "Reduced demand for transportation services",
+      "Increased need for last-mile delivery capabilities, flexible fulfillment networks, efficient returns processing, and real-time order visibility",
+      "Decreased importance of warehouse management systems",
+      "Simplified inventory management due to lower order frequency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company uses a \"subscription box\" e-commerce model. What is the PRIMARY supply chain advantage of this model?",
+    "options": [
+      "It eliminates the need for demand forecasting entirely",
+      "It provides predictable, recurring demand that simplifies supply chain planning, inventory management, and fulfillment scheduling",
+      "It allows the company to sell products at higher prices than traditional retail",
+      "It eliminates the need for packaging and labeling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which e-commerce business model is MOST relevant to public procurement in Ethiopia under the new procurement regulations?",
+    "options": [
+      "C2C marketplace model",
+      "G2B e-procurement model where government entities use electronic platforms to solicit bids, award contracts, and manage supplier relationships",
+      "B2C subscription model",
+      "C2B freelance service model"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An online marketplace that charges sellers a commission on each transaction while providing the platform infrastructure is using which revenue model?",
+    "options": [
+      "Subscription-based revenue model",
+      "Commission-based or transaction fee revenue model",
+      "Advertising-only revenue model",
+      "Freemium revenue model"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"freemium\" e-commerce business model?",
+    "options": [
+      "Offering all products for free to all customers",
+      "Providing a basic version of a product or service for free while charging for premium features or enhanced functionality",
+      "Charging a flat monthly subscription for unlimited access to all products",
+      "Offering free shipping on all orders regardless of order value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How does the \"platform economy\" model differ from traditional supply chain models in e-commerce?",
+    "options": [
+      "Platform models require more physical infrastructure than traditional models",
+      "Platform models connect buyers and sellers digitally without owning the goods, creating value through network effects rather than traditional production and distribution",
+      "Platform models rely entirely on physical retail stores for transactions",
+      "Platform models are only applicable to government procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company decides to offer an online freight marketplace connecting shippers with carriers. This is an example of which e-commerce model applied to supply chain?",
+    "options": [
+      "B2C product retail",
+      "B2B digital freight marketplace enabling supply chain transactions between logistics buyers and service providers",
+      "C2C consumer resale platform",
+      "G2B government procurement portal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"omnichannel\" supply chain strategy in e-commerce?",
+    "options": [
+      "Using only online sales channels and eliminating all physical stores",
+      "Integrating all sales channels — online, mobile, and physical — so that customers experience seamless service and supply chain operations support all channels from a unified inventory and fulfillment system",
+      "Selling products through a single online platform exclusively",
+      "Using multiple suppliers for each product category regardless of channel"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company sells customized products through its website where customers design their own items before ordering. This is an example of which e-commerce and supply chain integration concept?",
+    "options": [
+      "Make-to-stock with online ordering",
+      "Mass customization enabled by e-commerce, where customer-configured orders trigger a make-to-order or assemble-to-order supply chain process",
+      "Batch production sold through an online catalog",
+      "Reverse logistics managed through an e-commerce platform"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which e-commerce business model creates the GREATEST demand for dynamic, real-time supply chain visibility?",
+    "options": [
+      "Physical retail with manual inventory management",
+      "Online marketplaces and D2C e-commerce where customers expect real-time order tracking from purchase to delivery",
+      "Wholesale distribution through traditional intermediaries",
+      "Government tenders managed through paper-based systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In comparing B2B and B2C e-commerce supply chain requirements, which statement is MOST accurate?",
+    "options": [
+      "B2C e-commerce typically involves larger order quantities and fewer, more predictable orders than B2B",
+      "B2B e-commerce typically involves larger, more predictable orders with negotiated terms, while B2C involves high volumes of small, variable orders requiring fast, flexible fulfillment",
+      "Both B2B and B2C e-commerce have identical supply chain requirements",
+      "B2C supply chains are always simpler than B2B supply chains"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company in Ethiopia is deciding whether to enter the e-commerce market. Which factor represents the GREATEST opportunity for e-commerce growth in Ethiopia?",
+    "options": [
+      "An oversupply of traditional retail stores making online competition difficult",
+      "Growing mobile internet penetration, increasing smartphone adoption, a young population, and the government's digital economy agenda creating an expanding online consumer base",
+      "A fully developed payment infrastructure already supporting all forms of online payment",
+      "An excess of logistics providers specializing in last-mile e-commerce delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "E-procurement is BEST described as:",
+    "options": [
+      "A manual paper-based system for managing supplier relationships",
+      "The use of electronic systems and the internet to conduct procurement processes including sourcing, ordering, and payment",
+      "The outsourcing of all procurement activities to a third-party provider",
+      "A government regulation requiring all companies to procure goods locally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a recognized type of e-procurement?",
+    "options": [
+      "E-sourcing",
+      "E-tendering",
+      "E-payment",
+      "E-storage"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"E-sourcing\" in procurement refers to:",
+    "options": [
+      "Paying suppliers electronically after delivery",
+      "Using internet-based tools to identify, evaluate, and select suppliers, including activities such as e-RFI, e-RFP, and e-auctions",
+      "Managing supplier contracts in a digital document management system",
+      "Tracking the movement of goods using electronic sensors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"Request for Quotation (RFQ)\" submitted electronically to multiple suppliers simultaneously is an example of which e-procurement activity?",
+    "options": [
+      "E-payment",
+      "E-sourcing through electronic request for quotation",
+      "E-invoicing",
+      "E-cataloging"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"e-ordering\" in the context of e-procurement?",
+    "options": [
+      "Placing orders verbally with suppliers over the telephone",
+      "Generating, approving, and transmitting purchase orders to suppliers electronically through an automated system",
+      "Manually typing purchase orders and emailing them as attachments",
+      "Collecting supplier invoices and filing them electronically"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the PRIMARY benefit of \"e-invoicing\" in supply chain procurement operations?",
+    "options": [
+      "It increases the number of suppliers in the procurement network",
+      "It automates invoice processing, reduces errors, speeds up payment cycles, and improves cash flow visibility for both buyers and suppliers",
+      "It eliminates the need for supplier contracts",
+      "It replaces the need for a procurement department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Maverick spending\" in procurement refers to:",
+    "options": [
+      "Innovative procurement strategies that achieve cost savings",
+      "Purchasing outside approved procurement processes or preferred supplier contracts, leading to compliance failures and cost inefficiencies",
+      "Procurement of luxury or non-essential items",
+      "Emergency procurement conducted outside normal timelines"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "E-procurement systems help reduce \"maverick spending\" primarily by:",
+    "options": [
+      "Restricting employees from making any purchasing decisions",
+      "Channeling employee purchases through approved e-catalogs and automated approval workflows that enforce compliance with procurement policies",
+      "Eliminating all discretionary spending across the organization",
+      "Requiring all purchases to be approved by the CEO"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key distinction between \"direct\" and \"indirect\" procurement in e-procurement?",
+    "options": [
+      "Direct procurement refers to all purchases made directly from manufacturers, while indirect procurement refers to purchases through intermediaries",
+      "Direct procurement involves goods that go directly into the product being manufactured (e.g., raw materials), while indirect procurement covers goods and services that support operations but are not part of the end product (e.g., office supplies, IT services)",
+      "Direct procurement is always conducted electronically, while indirect procurement uses paper-based processes",
+      "Direct procurement is only applicable to government organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-procurement, a \"preferred supplier list\" is used to:",
+    "options": [
+      "Identify suppliers who have offered the lowest prices in the past",
+      "Maintain a pre-qualified roster of approved suppliers that have been evaluated for quality, reliability, and compliance, streamlining future procurement decisions",
+      "List all suppliers who have ever submitted a bid to the organization",
+      "Record suppliers who have been blacklisted due to poor performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"e-procurement integration\" with an ERP system?",
+    "options": [
+      "Installing e-procurement software on the same server as the ERP",
+      "Connecting the e-procurement platform with the ERP system so that procurement transactions automatically update financial, inventory, and supplier data without manual re-entry",
+      "Using the ERP system to replace the e-procurement platform entirely",
+      "Printing ERP reports for use in the procurement department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company implements an e-procurement system and notices that procurement cycle time has decreased by 60%. This improvement is MOST likely due to:",
+    "options": [
+      "Hiring more experienced procurement staff",
+      "Automated workflows, electronic approvals, and real-time supplier communication replacing manual, paper-based processes that previously caused delays",
+      "Reducing the number of suppliers in the network",
+      "Increasing the budget allocated to the procurement department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a LIMITATION of e-procurement implementation?",
+    "options": [
+      "E-procurement always increases procurement costs significantly",
+      "Implementation challenges including high initial technology investment, resistance from staff and suppliers, data security risks, and the need for process redesign and training",
+      "E-procurement prevents organizations from using multiple suppliers",
+      "E-procurement eliminates all forms of contract management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Dynamic pricing\" in e-procurement means:",
+    "options": [
+      "Setting fixed prices for all products in the e-catalog",
+      "Prices that change in real time based on supply and demand conditions, market fluctuations, or competitive bidding dynamics",
+      "Pricing strategies determined exclusively by government regulations",
+      "Offering discounts to suppliers who deliver on time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following e-procurement models allows buyers to aggregate demand across multiple organizations to achieve volume discounts?",
+    "options": [
+      "Individual spot purchasing",
+      "Consortium buying or group purchasing through a shared e-procurement platform",
+      "Single-source procurement without competitive bidding",
+      "Emergency procurement outside normal processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-procurement, \"total cost of ownership\" analysis is supported by technology through:",
+    "options": [
+      "Simply comparing supplier unit prices electronically",
+      "Aggregating and analyzing all cost data including purchase price, delivery, quality, and lifecycle costs from integrated procurement and ERP systems to inform more complete sourcing decisions",
+      "Asking suppliers to submit their own total cost calculations",
+      "Using spreadsheets to manually add up all procurement costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An organization's procurement team uses an e-procurement system to conduct supplier sustainability assessments. This practice BEST represents:",
+    "options": [
+      "Using technology only for financial procurement decisions",
+      "Integrating sustainability criteria into the e-procurement workflow to evaluate and monitor supplier environmental and social performance alongside traditional procurement metrics",
+      "Restricting procurement to local suppliers only",
+      "Outsourcing sustainability assessments to a government body"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"punch-out catalogs\" in e-procurement?",
+    "options": [
+      "Physical supplier catalogs that buyers punch holes in for filing",
+      "Hosted supplier catalogs that are accessed from within the buyer's e-procurement system, allowing buyers to shop on the supplier's website while maintaining integration with the buyer's approval and ordering workflows",
+      "Catalogs used exclusively for government procurement",
+      "Outdated catalogs removed from the e-procurement system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-procurement, \"supplier onboarding\" refers to:",
+    "options": [
+      "Training procurement staff on new software",
+      "The process of registering, verifying, and integrating new suppliers into the organization's e-procurement system, including documentation, qualification, and system setup",
+      "Transporting new suppliers to the buyer's facility for a site visit",
+      "Issuing the first purchase order to a new supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager observes that the organization's e-procurement adoption rate among suppliers is low. Which intervention is MOST likely to improve adoption?",
+    "options": [
+      "Mandating all suppliers to adopt the system immediately under threat of contract termination",
+      "Providing supplier training, technical support, simplified onboarding processes, and clearly communicating the mutual benefits of e-procurement adoption",
+      "Reducing the number of preferred suppliers to those already using the system",
+      "Switching to a paper-based backup system for non-adopting suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes an \"e-payment system\" in the context of supply chain and e-commerce?",
+    "options": [
+      "A physical cash payment made at a supplier's office",
+      "An electronic method of transferring funds between buyers and sellers to settle commercial transactions, including bank transfers, digital wallets, and payment gateways",
+      "A manual cheque-writing process managed by the finance department",
+      "A barter exchange system conducted online"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"digital wallet\" used in e-commerce transactions?",
+    "options": [
+      "A physical leather wallet used to carry cash",
+      "A mobile or online application such as PayPal, Apple Pay, or telebirr that stores payment information and enables electronic transactions",
+      "A bank account accessed through a physical branch",
+      "A prepaid debit card purchased at a retail store"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain e-payment systems, \"Electronic Funds Transfer (EFT)\" is BEST described as:",
+    "options": [
+      "Physically transporting cash between a buyer and supplier",
+      "The electronic transfer of money from one bank account to another, used to pay suppliers directly without paper cheques",
+      "Scanning paper cheques and emailing them to suppliers",
+      "A mobile payment system used exclusively for retail consumer purchases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which payment method is MOST commonly associated with international supply chain transactions involving large payment amounts between businesses?",
+    "options": [
+      "Cash on delivery",
+      "Letters of credit or bank wire transfers (SWIFT), which provide security and assurance for both buyer and supplier in cross-border trade",
+      "Mobile money transfers",
+      "Digital gift cards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"payment gateway\" in e-commerce refers to:",
+    "options": [
+      "A physical point-of-sale terminal at a retail store",
+      "A technology service that authorizes and processes online payment transactions between buyers and sellers, connecting e-commerce platforms with banks and payment networks",
+      "A government office that approves all online payments",
+      "A manual approval process for large procurement payments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following e-payment challenges is MOST significant for e-commerce in Ethiopia?",
+    "options": [
+      "Excessive availability of payment options making selection difficult",
+      "Limited penetration of formal banking services, low credit card ownership, and nascent digital payment infrastructure, though mobile money platforms like telebirr are expanding access",
+      "Oversupply of payment gateways competing for market share",
+      "Too many international payment providers operating in the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-commerce supply chain transactions, \"escrow payment\" services are used to:",
+    "options": [
+      "Delay all payments indefinitely until a dispute arises",
+      "Hold buyer payment securely until the buyer confirms satisfactory receipt of goods, reducing risk for both parties in online transactions",
+      "Transfer funds directly to the seller before goods are shipped",
+      "Process payments exclusively in foreign currencies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"mobile payment\" systems and their relevance to supply chain e-commerce in Africa?",
+    "options": [
+      "Mobile payments are irrelevant to supply chain transactions in Africa",
+      "Mobile payment platforms such as M-Pesa in Kenya and telebirr in Ethiopia are enabling digital commerce and supply chain transactions in markets where traditional banking and card payment infrastructure is limited",
+      "Mobile payments are only useful for consumer retail transactions, not supply chain operations",
+      "Mobile payments require a full banking license to operate in all African countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Cryptocurrency\" as a payment method in international supply chain transactions offers which potential advantage?",
+    "options": [
+      "It is regulated and guaranteed by all central banks globally",
+      "It can facilitate cross-border payments without traditional banking intermediaries, potentially reducing transaction costs and settlement times, though it carries high volatility and regulatory risks",
+      "It eliminates all risks associated with international payments",
+      "It is widely accepted by all suppliers globally as a standard payment method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key security feature of modern e-payment systems used in supply chain transactions?",
+    "options": [
+      "Requiring all payments to be made in person at a bank branch",
+      "Encryption of payment data, multi-factor authentication, tokenization of card data, and fraud detection algorithms that protect transactions from unauthorized access",
+      "Using paper receipts as the sole verification of payment",
+      "Limiting all transactions to amounts below a fixed threshold"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Straight-through processing (STP)\" in supply chain e-payments refers to:",
+    "options": [
+      "Processing payments only in a straight line from buyer to seller without any intermediaries",
+      "Automated end-to-end processing of payment transactions without manual intervention, from invoice receipt through payment authorization to fund transfer and reconciliation",
+      "Restricting payments to a single approved payment method",
+      "Processing only payments that have been manually approved by senior management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to improve supplier payment terms to strengthen supplier relationships. Which e-payment technology best supports offering suppliers early payment discounts (dynamic discounting)?",
+    "options": [
+      "Paper-based payment processing",
+      "A supply chain finance platform that allows buyers to offer early payment to suppliers at a discount, improving supplier cash flow while earning a return for the buyer",
+      "Extending payment terms from 30 to 90 days",
+      "Paying all suppliers on the same fixed date regardless of invoice date"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"e-invoicing\" and its link to e-payment in supply chain management?",
+    "options": [
+      "Printing invoices and delivering them physically to the accounts payable department",
+      "The electronic generation, transmission, and processing of invoices, which when integrated with e-payment systems enables automated invoice matching, approval, and payment, significantly reducing the order-to-cash and procure-to-pay cycle times",
+      "Scanning paper invoices into PDF files and emailing them to buyers",
+      "Using phone calls to confirm invoice amounts before manual payment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which regulatory consideration is MOST important when implementing e-payment systems for cross-border supply chain transactions involving Ethiopia?",
+    "options": [
+      "The font size used on electronic payment receipts",
+      "National Bank of Ethiopia foreign exchange regulations, anti-money laundering requirements, and international payment compliance standards that govern cross-border fund transfers",
+      "The color scheme of the e-payment platform interface",
+      "The physical location of the payment processing server"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company wants to implement a real-time payment system for freight services. Which e-payment feature is MOST critical for this use case?",
+    "options": [
+      "Delayed batch payment processing at the end of each month",
+      "Real-time payment confirmation and reconciliation integrated with the transportation management system to automatically trigger payment upon delivery confirmation",
+      "Cash payment collected by the driver at delivery",
+      "Monthly paper-based invoicing to customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Supply Chain Information System (SCIS) is BEST described as:",
+    "options": [
+      "A manual filing system for supply chain documents",
+      "An integrated set of technology tools and platforms that collect, process, store, and distribute supply chain data to support planning, execution, and decision-making across the supply chain",
+      "A government database of registered logistics companies",
+      "A software system used exclusively for warehouse management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the role of an ERP system in supply chain information management?",
+    "options": [
+      "Managing only the financial accounting functions of the organization",
+      "Integrating data across business functions including procurement, production, inventory, logistics, and finance into a single unified database, enabling coordinated supply chain decision-making",
+      "Replacing all supply chain managers with automated decision-making",
+      "Managing only customer-facing sales and marketing activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Data integration\" in supply chain information systems refers to:",
+    "options": [
+      "Printing data from multiple systems and manually combining them into a single report",
+      "The seamless consolidation of data from disparate systems across the supply chain into a unified view that enables consistent, accurate information sharing and decision-making",
+      "Using a single spreadsheet to track all supply chain data",
+      "Restricting data access to only senior management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager receives conflicting inventory data from the warehouse management system and the ERP system. The ROOT CAUSE of this discrepancy is MOST likely:",
+    "options": [
+      "The warehouse is too large to manage effectively",
+      "Poor data integration between systems, data entry errors, or lack of real-time synchronization between the WMS and ERP platforms",
+      "The supply chain manager is not checking the right system",
+      "Inventory levels are too high to be tracked accurately"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following information flows is MOST critical for effective supply chain planning?",
+    "options": [
+      "Marketing campaign performance data",
+      "Demand forecasts, inventory levels, order status, supplier lead times, and production schedules shared in real time across supply chain partners",
+      "Employee performance reviews from the HR department",
+      "Financial audit reports from the external auditor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Supply chain visibility\" enabled by information systems means:",
+    "options": [
+      "Installing cameras in all warehouses for physical monitoring",
+      "Having real-time access to accurate information about the status of inventory, orders, shipments, and supply chain events across all nodes and partners in the supply chain",
+      "Publishing supply chain data in annual reports",
+      "Monitoring only the final stage of delivery to the customer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following technologies provides real-time data on the location and condition of goods in transit for supply chain information systems?",
+    "options": [
+      "Monthly delivery status reports submitted by carriers",
+      "GPS tracking, IoT sensors, and telematics systems integrated with the supply chain management platform",
+      "Phone calls from drivers reporting their location",
+      "Paper-based delivery manifests submitted after delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"supply chain control tower\" powered by an information system enables:",
+    "options": [
+      "Physical monitoring of warehouse security",
+      "End-to-end supply chain visibility, event monitoring, exception alerting, and decision support by consolidating data from multiple supply chain systems into a single real-time dashboard",
+      "Automated production of all supply chain goods",
+      "Complete elimination of human decision-making in the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"master data management\" in supply chain information systems?",
+    "options": [
+      "Managing the physical master copies of procurement contracts",
+      "The discipline of ensuring that critical supply chain data — such as supplier information, product details, and customer records — is accurate, consistent, and maintained across all systems",
+      "Training managers to use supply chain software",
+      "Backing up supply chain data to an external hard drive"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain information systems, \"application programming interfaces\" (APIs) are used to:",
+    "options": [
+      "Train supply chain staff on using new software",
+      "Enable different software systems to communicate and exchange data automatically, facilitating integration between e-commerce platforms, ERP systems, WMS, TMS, and other supply chain tools",
+      "Design the user interface of supply chain software",
+      "Process financial transactions between buyers and suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain information system generates demand forecasts but the accuracy is consistently low. Which intervention would MOST improve forecast accuracy?",
+    "options": [
+      "Increasing safety stock to compensate for forecast errors",
+      "Incorporating additional data inputs such as point-of-sale data, market intelligence, and machine learning algorithms into the forecasting model, and regularly reviewing and adjusting forecast parameters",
+      "Reducing the frequency of demand forecast updates",
+      "Switching to a manual forecasting process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Event-driven supply chain management\" supported by information systems means:",
+    "options": [
+      "Managing supply chain events only during annual planning cycles",
+      "Using real-time alerts and automated responses triggered by supply chain events — such as a delayed shipment or a supplier quality failure — to enable rapid corrective action",
+      "Scheduling supply chain activities only around major corporate events",
+      "Reacting to supply chain disruptions only after they have been fully resolved"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the supply chain information flow in a \"demand-driven\" supply chain?",
+    "options": [
+      "Information flows from manufacturers to retailers to consumers",
+      "Actual customer demand signals (e.g., point-of-sale data) flow upstream from retailers through the supply chain, triggering replenishment and production decisions based on real demand rather than forecasts",
+      "Demand information flows only between the company and its tier-1 suppliers",
+      "Demand information is collected annually through customer surveys"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A cloud-based supply chain information platform offers which PRIMARY advantage over on-premise systems for multi-partner supply chains?",
+    "options": [
+      "Greater control over physical server hardware",
+      "Easier and faster data sharing across multiple supply chain partners regardless of geographic location, with lower upfront investment and scalable capacity",
+      "Higher data security due to local storage",
+      "Reduced need for internet connectivity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain information systems, \"analytics maturity\" progresses from:",
+    "options": [
+      "Real-time analytics directly to descriptive analytics",
+      "Descriptive analytics (what happened) to diagnostic analytics (why it happened) to predictive analytics (what will happen) to prescriptive analytics (what should be done)",
+      "Predictive analytics to descriptive analytics in reverse order",
+      "Manual reporting to physical observation to digital tracking"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of supply chain e-commerce, \"cybersecurity\" refers to:",
+    "options": [
+      "The physical security of warehouses and distribution centers",
+      "The protection of computer systems, networks, data, and digital supply chain assets from unauthorized access, cyberattacks, data breaches, and digital threats",
+      "The security of financial assets in bank accounts",
+      "The protection of employees from workplace hazards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a PRIMARY cybersecurity threat to supply chain information systems?",
+    "options": [
+      "Excessive data storage capacity",
+      "Ransomware attacks that encrypt supply chain data and demand payment for restoration, disrupting operations",
+      "Upgrading supply chain software to a newer version",
+      "Employees using approved enterprise software"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Data encryption\" in supply chain e-security refers to:",
+    "options": [
+      "Physically locking data storage devices in a safe",
+      "Converting data into a coded format that can only be read by authorized parties with the correct decryption key, protecting sensitive supply chain information from unauthorized access",
+      "Deleting sensitive data after it is no longer needed",
+      "Restricting access to data by keeping it in printed form only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"phishing attack\" targeting a supply chain company's procurement team would MOST likely involve:",
+    "options": [
+      "Unauthorized physical entry into the warehouse",
+      "Fraudulent emails impersonating trusted suppliers or partners to trick employees into revealing login credentials, authorizing fraudulent payments, or downloading malicious software",
+      "Intercepting physical mail sent between suppliers",
+      "Hacking into the company's telephone system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"multi-factor authentication (MFA)\" as an e-security measure?",
+    "options": [
+      "Using multiple passwords for the same account",
+      "Requiring users to verify their identity through two or more independent factors (e.g., a password plus a one-time code sent to a mobile device) before accessing a system",
+      "Allowing multiple users to share a single login credential",
+      "Changing passwords at least three times per year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain e-commerce, \"supply chain cyber risk\" includes which of the following?",
+    "options": [
+      "Only risks related to physical theft of goods in transit",
+      "Risks including data breaches of supplier systems, malware in shared supply chain platforms, compromised EDI transactions, and cyberattacks on logistics and payment systems",
+      "Only risks associated with employee fraud",
+      "Only risks related to e-commerce website downtime"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company discovers that a hacker has intercepted and altered purchase orders transmitted electronically to suppliers. This type of attack is known as:",
+    "options": [
+      "Denial of Service (DoS) attack",
+      "Man-in-the-middle attack, where an attacker intercepts and potentially alters communications between two parties",
+      "SQL injection attack on the database",
+      "Social engineering attack on employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"SSL/TLS certificates\" used in e-commerce websites primarily provide:",
+    "options": [
+      "A digital badge showing that the website is popular",
+      "Encryption of data transmitted between a user's browser and the web server, ensuring that sensitive information such as payment data is protected from interception",
+      "A guarantee that all products sold on the website are authentic",
+      "A verification that the company has paid its taxes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST effective organizational measure to prevent cybersecurity breaches in supply chain systems?",
+    "options": [
+      "Purchasing the most expensive cybersecurity software available",
+      "Implementing a comprehensive cybersecurity program including regular employee training, access controls, system audits, patch management, and incident response planning",
+      "Limiting all supply chain operations to offline systems",
+      "Relying solely on the IT department to manage all cybersecurity without involving supply chain staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Firewall\" technology in supply chain information systems is used to:",
+    "options": [
+      "Prevent physical access to server rooms",
+      "Monitor and control incoming and outgoing network traffic based on security rules, blocking unauthorized access to supply chain systems from external networks",
+      "Extinguish fires in data centers",
+      "Back up supply chain data to a remote server"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In e-procurement security, \"digital signature\" technology is used to:",
+    "options": [
+      "Create an electronic copy of a handwritten signature for decorative purposes",
+      "Verify the authenticity and integrity of electronic procurement documents, ensuring that they have not been altered and confirming the identity of the signer",
+      "Allow multiple people to sign the same document simultaneously",
+      "Replace all procurement staff with automated signing processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Zero-trust security architecture\" in supply chain information systems means:",
+    "options": [
+      "Trusting all users who have successfully logged into the network",
+      "Operating on the principle that no user, device, or network connection is trusted by default, requiring continuous verification of identity and access rights for every request within and outside the network perimeter",
+      "Granting unrestricted access to trusted suppliers",
+      "Using no authentication measures for internal network users"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents a significant e-security risk specific to supply chain e-commerce platforms?",
+    "options": [
+      "Excessive use of paper-based backup processes",
+      "Third-party vendor risks where a supplier or logistics partner with access to shared supply chain systems has poor cybersecurity practices, creating a vulnerability that attackers can exploit to compromise the buyer's systems",
+      "Overly strict access controls that prevent legitimate users from accessing needed data",
+      "Too many employees being trained in cybersecurity awareness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Data privacy\" regulations such as GDPR affect supply chain e-commerce operations by:",
+    "options": [
+      "Requiring all supply chain transactions to be conducted in person",
+      "Imposing obligations on how organizations collect, store, process, and share personal data of customers and employees, requiring supply chain systems to have appropriate data protection controls and consent mechanisms",
+      "Prohibiting the use of any electronic data in supply chain management",
+      "Restricting supply chain operations to a single country"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain company suffers a ransomware attack that encrypts all its logistics management data. Which immediate response action is MOST critical?",
+    "options": [
+      "Paying the ransom immediately to restore operations",
+      "Activating the incident response plan, isolating affected systems to prevent further spread, notifying relevant stakeholders, and attempting to restore systems from clean backups",
+      "Shutting down all supply chain operations permanently",
+      "Calling all suppliers to inform them that operations will be delayed indefinitely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is evaluating its e-procurement technology investment. Which metric BEST measures the return on this investment?",
+    "options": [
+      "The number of suppliers registered on the platform",
+      "Reduction in procurement cycle time, decrease in procurement administrative costs, improvement in compliance rates, and savings achieved through better sourcing decisions enabled by the system",
+      "The visual design quality of the platform interface",
+      "The number of IT staff needed to maintain the system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyzing the growth of e-commerce in Ethiopia, which infrastructure gap MOST significantly limits the expansion of e-commerce supply chains?",
+    "options": [
+      "Excessive availability of warehousing space in all regions",
+      "Unreliable last-mile logistics infrastructure, limited digital payment penetration in rural areas, and inconsistent internet connectivity outside major urban centers",
+      "Too many e-commerce platforms competing for customers",
+      "Oversupply of skilled e-commerce logistics professionals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is designing an e-procurement system for a large government ministry in Ethiopia. Which design consideration is MOST critical for ensuring transparency and accountability?",
+    "options": [
+      "Using the most visually attractive platform design",
+      "Incorporating audit trails, transparent bidding processes, automated compliance checks, published procurement records, and role-based access controls that prevent unauthorized interventions in procurement decisions",
+      "Restricting access to the system to senior procurement officers only",
+      "Selecting the platform with the lowest license fee"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When evaluating two e-commerce platforms for supply chain operations, which criterion should be given HIGHEST priority?",
+    "options": [
+      "The platform's social media presence",
+      "Scalability, integration capability with existing supply chain systems, security features, total cost of ownership, and the platform's track record in similar industry applications",
+      "The platform developer's country of origin",
+      "The number of languages the platform supports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company is considering implementing blockchain for its supply chain information system. Which scenario BEST justifies this investment?",
+    "options": [
+      "When the company wants to redesign its website",
+      "When the company needs tamper-proof, transparent tracking of goods across multiple parties in a complex supply chain where trust between partners is limited and verification of provenance is critical",
+      "When the company wants to reduce its technology budget",
+      "When the company only needs to track internal warehouse operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain analyst discovers that the company's demand forecasting system is generating inaccurate forecasts despite having access to historical data. Analyzing possible causes, which factor is MOST likely responsible?",
+    "options": [
+      "The forecasting system is too expensive to maintain",
+      "The system relies solely on historical sales patterns without incorporating external demand signals such as market trends, promotional calendars, or macroeconomic indicators",
+      "The company has too many products to forecast accurately",
+      "The forecasting team is not receiving bonuses for accuracy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain information system collects vast amounts of data but managers are not using it for decision-making. Which intervention would MOST effectively close this gap?",
+    "options": [
+      "Collecting even more data to make the system more comprehensive",
+      "Redesigning data outputs into intuitive, role-specific dashboards that translate data into actionable insights aligned with the decision needs of each supply chain manager, combined with training and a data-driven culture",
+      "Replacing all supply chain managers with data scientists",
+      "Reducing the amount of data collected to simplify the system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the MOST significant cybersecurity risk in a supply chain where multiple organizations share access to a common digital platform:",
+    "options": [
+      "The risk that the platform will run out of data storage capacity",
+      "A breach in any one partner's security creating a vulnerability that attackers exploit to access the shared platform and compromise the data and operations of all connected organizations",
+      "The risk that partners will share too much useful information with each other",
+      "The risk that the platform interface will be too complicated for users"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to build a resilient supply chain information system that can withstand cyberattacks. Which architectural approach is MOST effective?",
+    "options": [
+      "Using a single centralized server for all supply chain data to simplify management",
+      "Implementing a defense-in-depth architecture with multiple security layers including encryption, access controls, network segmentation, regular backups, intrusion detection, and incident response capabilities",
+      "Disconnecting all supply chain systems from the internet to prevent attacks",
+      "Relying on a single cybersecurity vendor for all security needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager must recommend an e-payment solution for international supplier payments. Which analysis framework should guide this recommendation?",
+    "options": [
+      "Selecting the payment method preferred by the company's CEO",
+      "Evaluating options based on transaction cost, processing speed, currency flexibility, regulatory compliance, security features, and supplier acceptance, aligning the recommendation with the company's international procurement strategy",
+      "Choosing the payment method with the most attractive interface design",
+      "Selecting the payment method used most commonly by competitors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is planning to implement an omnichannel supply chain strategy integrating physical stores, online orders, and mobile commerce. Which supply chain information system capability is MOST critical for success?",
+    "options": [
+      "A separate, standalone system for each sales channel",
+      "A unified inventory management and order management system that provides a single real-time view of inventory across all channels, enabling accurate availability information and flexible fulfillment options regardless of order channel",
+      "A system that prioritizes online orders over physical store replenishment",
+      "A system that only tracks outbound deliveries without managing in-store inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Comparing traditional procurement with e-procurement, which outcome is MOST consistently supported by research and practice?",
+    "options": [
+      "Traditional procurement consistently achieves lower costs than e-procurement",
+      "E-procurement consistently reduces procurement cycle time, lowers administrative costs, improves compliance, and enhances transparency, though realizing these benefits requires effective change management and supplier adoption",
+      "E-procurement and traditional procurement produce identical outcomes",
+      "E-procurement is only beneficial for large multinational corporations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is designing a cybersecurity policy for its supply chain e-commerce operations. Which element is MOST critical for the policy to be effective?",
+    "options": [
+      "Restricting all employees from using the internet during working hours",
+      "Clear roles and responsibilities, mandatory employee cybersecurity training, defined incident response procedures, regular security audits, and enforcement mechanisms that hold individuals and partners accountable",
+      "Purchasing cybersecurity insurance to cover all potential losses",
+      "Limiting cybersecurity policy to the IT department only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is evaluating whether to migrate the company's supply chain information systems to the cloud. Which risk factor deserves MOST careful consideration?",
+    "options": [
+      "The visual design of the cloud platform's dashboard",
+      "Data sovereignty and regulatory compliance requirements, dependency on internet connectivity, vendor lock-in risks, and the security and privacy of sensitive supply chain data stored with a third-party cloud provider",
+      "The geographic location of the cloud provider's offices",
+      "The number of cloud platform users globally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's e-procurement system generates large amounts of procurement data. How should this data BEST be used to drive supply chain improvements?",
+    "options": [
+      "The data should be stored securely but never shared outside the procurement department",
+      "The data should be analyzed to identify spending patterns, supplier performance trends, compliance gaps, and cost reduction opportunities, then shared with relevant stakeholders to drive collaborative supply chain improvements",
+      "The data should be deleted after each financial year to save storage costs",
+      "The data should only be used for preparing annual financial reports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the role of artificial intelligence in modern supply chain information systems?",
+    "options": [
+      "AI replaces all human supply chain managers",
+      "AI enhances supply chain information systems by automating demand forecasting, optimizing routing and inventory decisions, detecting anomalies, and generating prescriptive recommendations that improve speed and accuracy of supply chain decisions",
+      "AI is only useful for managing warehouse robots",
+      "AI reduces the need for supply chain data collection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company discovers that a competitor has accessed its proprietary supplier pricing data through a cyberattack on its e-procurement system. Analyzing the likely vulnerability exploited, which weakness is MOST probable?",
+    "options": [
+      "The competitor physically broke into the company's server room",
+      "Insufficient access controls, poor password management, unpatched software vulnerabilities, or a phishing attack that compromised employee credentials, allowing unauthorized access to sensitive procurement data",
+      "The company shared the data voluntarily on a public website",
+      "The ERP system was upgraded to a newer version"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must design an e-commerce fulfillment strategy for a new product that will be sold across Ethiopia. Which factor MOST significantly shapes the design of the fulfillment strategy?",
+    "options": [
+      "The color scheme of the product packaging",
+      "Geographic dispersion of customers, variability in last-mile logistics infrastructure quality across urban and rural areas, digital payment availability, and the need to balance delivery speed with cost",
+      "The language used on the company's website",
+      "The number of social media followers the brand has"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the ethical implications of using advanced data analytics in supply chain e-commerce to monitor and score supplier performance. Which concern deserves the MOST careful consideration?",
+    "options": [
+      "Whether the analytics system uses an attractive user interface",
+      "Ensuring that data used for supplier scoring is accurate, unbiased, and transparent; that suppliers understand the evaluation criteria; and that decisions based on analytics do not unfairly disadvantage smaller or less technologically capable suppliers",
+      "Whether the analytics system generates reports quickly",
+      "Whether the analytics system is compatible with the company's email client"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A government ministry in Ethiopia wants to implement an e-procurement system to improve procurement transparency and reduce corruption. Which implementation challenge is MOST critical to address?",
+    "options": [
+      "Choosing the most visually appealing platform design",
+      "Building institutional commitment to transparency, conducting comprehensive change management to overcome resistance from those who benefit from opaque processes, ensuring reliable internet infrastructure, and providing extensive training for procurement staff and suppliers",
+      "Selecting the platform with the most features",
+      "Negotiating the lowest technology license fee"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST illustrates the integration of e-commerce and supply chain management creating competitive advantage?",
+    "options": [
+      "A company that uses e-commerce exclusively for marketing without linking it to supply chain operations",
+      "A company like Amazon that uses its e-commerce platform as the demand signal driver for a highly integrated, technology-enabled supply chain that optimizes inventory positioning, fulfillment routing, and delivery based on real-time customer order data",
+      "A company that sells products online but manages all supply chain activities manually",
+      "A company that uses a separate e-commerce platform and a separate supply chain system with no data integration"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to implement e-payment for its suppliers but faces resistance from smaller suppliers who lack bank accounts. Which solution BEST addresses this challenge in the Ethiopian context?",
+    "options": [
+      "Excluding small suppliers from the supply chain",
+      "Integrating mobile money payment options such as telebirr into the e-payment system, enabling suppliers without traditional bank accounts to receive payments digitally",
+      "Requiring all suppliers to open bank accounts within one week",
+      "Continuing to use cash payments for all small suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In designing a supply chain information system for a humanitarian logistics organization operating in Ethiopia, which feature should be given HIGHEST priority?",
+    "options": [
+      "Advanced marketing analytics capabilities",
+      "Real-time inventory and shipment visibility across multiple remote locations, offline functionality for areas with poor internet connectivity, and interoperability with partner organizations' systems to coordinate aid delivery",
+      "Integration with social media platforms",
+      "Advanced financial reporting for investor relations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must evaluate whether the organization's cybersecurity measures are adequate. Which evaluation approach is MOST comprehensive?",
+    "options": [
+      "Reviewing the company's cybersecurity budget relative to revenue",
+      "Conducting regular penetration testing and security audits, benchmarking against industry security standards, reviewing incident history and response effectiveness, and assessing the cybersecurity maturity of key supply chain partners",
+      "Counting the number of cybersecurity tools installed on company systems",
+      "Reviewing the cybersecurity vendor's marketing materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the future direction of supply chain information systems?",
+    "options": [
+      "Moving back to paper-based processes to reduce cybersecurity risk",
+      "Increasing adoption of AI, machine learning, IoT, blockchain, and cloud platforms to create more autonomous, transparent, predictive, and resilient supply chains",
+      "Eliminating all human involvement in supply chain decision-making",
+      "Reducing data collection to minimize cybersecurity exposure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain analyst is comparing the total cost of implementing a cloud-based vs. on-premise SCIS. Which cost categories should be included in the analysis?",
+    "options": [
+      "Only the initial software purchase price",
+      "Software licensing or subscription costs, implementation and customization costs, training, ongoing maintenance and support, infrastructure costs, integration costs, and the cost of potential downtime and business disruption during implementation",
+      "Only the annual maintenance fee",
+      "Only the cost of hardware and servers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following describes the concept of \"supply chain digital twin\" and its value?",
+    "options": [
+      "A backup copy of supply chain data stored on a second server",
+      "A real-time virtual model of the physical supply chain that mirrors actual operations, enabling managers to simulate scenarios, test decisions, identify risks, and optimize performance without disrupting live operations",
+      "A duplicate supply chain operated in parallel to the main supply chain as a backup",
+      "A digital catalog of all products in the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager wants to use e-sourcing tools to improve supplier selection decisions. Which analytical capability would ADD THE MOST value to this process?",
+    "options": [
+      "The ability to generate colorful charts from procurement data",
+      "Multi-criteria decision analysis tools that allow weighted scoring of suppliers across total cost, quality, delivery, sustainability, and risk factors, providing a structured and defensible basis for supplier selection",
+      "The ability to store all supplier contact information digitally",
+      "Automated generation of purchase order templates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to improve data quality in its supply chain information system. Which intervention is MOST effective?",
+    "options": [
+      "Increasing the frequency of data entry by staff",
+      "Implementing data validation rules at the point of entry, establishing data ownership and governance policies, conducting regular data audits, and integrating automated data feeds from trusted sources to reduce manual data entry errors",
+      "Hiring additional staff to manually check all data entries",
+      "Reducing the amount of data collected to simplify quality management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain cybersecurity incident results in a data breach exposing supplier contracts and pricing information. Which immediate action is MOST critical from a supply chain relationship management perspective?",
+    "options": [
+      "Deleting all affected data to prevent further exposure",
+      "Promptly notifying affected suppliers about the breach, explaining what data was compromised, outlining the steps being taken to address the vulnerability, and working collaboratively to mitigate the impact on the supplier relationship and future transactions",
+      "Denying that a breach occurred until a full investigation is complete",
+      "Suspending all e-procurement operations permanently"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes how e-commerce has transformed supply chain customer service expectations?",
+    "options": [
+      "E-commerce has reduced customer service expectations by standardizing delivery times",
+      "E-commerce has dramatically elevated customer service expectations, with customers now expecting real-time order tracking, same-day or next-day delivery options, seamless returns, and 24/7 customer support, forcing supply chains to become faster, more transparent, and more flexible",
+      "E-commerce has made customers less concerned about delivery speed",
+      "E-commerce has simplified supply chain customer service by reducing the variety of products sold"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In evaluating the impact of digital transformation on supply chain operations, which outcome is MOST consistently observed in organizations that have successfully digitized their supply chains?",
+    "options": [
+      "A significant increase in the number of employees required to manage supply chain operations",
+      "Improved supply chain visibility, faster decision-making, reduced operational costs, better demand responsiveness, and stronger supplier collaboration, though these benefits require significant change management investment to realize",
+      "Complete elimination of supply chain disruptions after digitization",
+      "Reduction in the complexity of supply chain operations through fewer partners and products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is asked to create a business case for implementing an e-procurement system in a medium-sized Ethiopian manufacturing company. Which benefit argument is MOST compelling for the executive team?",
+    "options": [
+      "The system will make the procurement department office look more modern",
+      "The system will reduce procurement cycle time, improve supplier compliance, increase spend visibility, reduce maverick spending, and generate measurable cost savings that deliver a positive return on investment within a defined payback period",
+      "The system is used by companies in developed countries",
+      "The system will create more work for the IT department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"e-commerce supply chain integration\"?",
+    "options": [
+      "Having an attractive e-commerce website design",
+      "The seamless connection of e-commerce order management with supply chain execution systems — including inventory management, warehouse operations, and transportation — so that customer orders placed online trigger automated, optimized fulfillment processes across the supply chain",
+      "Using the same logo on the e-commerce website and warehouse trucks",
+      "Hiring a single team to manage both e-commerce marketing and supply chain operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain technology manager is evaluating the security of an e-procurement platform before adoption. Which security assessment is MOST essential?",
+    "options": [
+      "Evaluating the platform's color scheme and visual design",
+      "Assessing the platform's encryption standards, access control mechanisms, audit trail capabilities, compliance with relevant data protection regulations, penetration testing results, and the vendor's security incident response history",
+      "Reviewing the number of clients the platform vendor has",
+      "Checking whether the platform's interface is compatible with the company's screensaver"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scenarios BEST demonstrates effective use of supply chain information systems for competitive advantage?",
+    "options": [
+      "A company that collects data but never analyzes or acts on it",
+      "A company that uses real-time supply chain data to dynamically adjust inventory positions, reroute shipments around disruptions, and offer customers accurate delivery promises — enabling superior service reliability at competitive cost",
+      "A company that uses supply chain data only for annual financial reporting",
+      "A company that shares its supply chain data exclusively with government regulators"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An e-commerce company is experiencing high rates of order errors and customer complaints about incorrect deliveries. Which supply chain information system improvement would MOST directly address this problem?",
+    "options": [
+      "Increasing the number of delivery drivers",
+      "Implementing barcode scanning or RFID-based pick-and-pack verification in the warehouse, integrated with the order management system, to ensure that the correct items are picked and verified against the customer order before dispatch",
+      "Reducing the number of products offered for sale online",
+      "Increasing customer service staff to handle complaints after delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must design a data governance framework for the organization's supply chain information system. Which principle should be the FOUNDATION of this framework?",
+    "options": [
+      "Data should be accessible only to the CEO and CFO",
+      "Clear data ownership, defined data quality standards, documented data access policies, accountability for data accuracy, and regular governance reviews that ensure supply chain data is trustworthy, consistent, and used responsibly across the organization",
+      "All data should be deleted after 30 days to minimize storage costs",
+      "Data governance should be managed exclusively by the IT department without involvement of supply chain business owners"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to use predictive analytics in its supply chain information system to reduce stockouts. Which data inputs are MOST critical for a predictive stockout model?",
+    "options": [
+      "Employee satisfaction survey results",
+      "Historical sales data, demand forecasting signals, supplier lead time variability, inventory levels, pending orders, and external factors such as seasonal patterns, promotions, and market trends",
+      "The number of products listed on the company website",
+      "Monthly financial statements from the accounting department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of e-commerce and supply chain management, which statement BEST describes the concept of \"last-mile innovation\"?",
+    "options": [
+      "Innovation that focuses on improving the first stage of raw material sourcing",
+      "The development of new approaches — such as drone delivery, locker-based collection points, crowdsourced delivery, and micro-fulfillment centers — to solve the cost, speed, and reliability challenges of delivering goods from a distribution point to the final customer",
+      "Innovation in the design of shipping containers used for ocean freight",
+      "The development of new payment methods used exclusively at retail checkout counters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement analyst must evaluate the effectiveness of the organization's e-procurement system one year after implementation. Which evaluation framework is MOST appropriate?",
+    "options": [
+      "Reviewing the visual design of the platform to see if it has been updated",
+      "Comparing pre- and post-implementation KPIs including procurement cycle time, cost per purchase order, supplier compliance rate, maverick spending percentage, and contract coverage, while also gathering qualitative feedback from users and suppliers",
+      "Counting the number of purchase orders processed through the system",
+      "Reviewing the e-procurement vendor's annual report"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is developing its e-commerce strategy for entering the Ethiopian market. Which supply chain adaptation is MOST critical for success?",
+    "options": [
+      "Replicating the same supply chain model used in developed markets without modification",
+      "Adapting the supply chain to local infrastructure realities including unreliable roads in some regions, cash-on-delivery as the dominant payment preference, the importance of local distribution agents, and building partnerships with mobile money providers and local logistics companies",
+      "Focusing exclusively on urban Addis Ababa customers where infrastructure is most developed",
+      "Offering only the highest-priced products to target affluent customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the role of \"supply chain finance\" in e-commerce and supply chain management?",
+    "options": [
+      "The department responsible for paying supply chain employees",
+      "Financial tools and platforms that optimize cash flow across the supply chain, such as dynamic discounting, reverse factoring, and supply chain lending, improving liquidity for suppliers while reducing financing costs for buyers",
+      "The process of calculating the total cost of building a new warehouse",
+      "Government grants available to supply chain companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is assessing the impact of social commerce (selling through social media platforms) on supply chain operations. Which supply chain challenge does social commerce MOST amplify?",
+    "options": [
+      "Reducing demand for products sold through traditional channels",
+      "Creating highly unpredictable demand spikes driven by viral content or influencer promotions, which can overwhelm fulfillment capacity and inventory if the supply chain lacks real-time demand sensing and rapid response capabilities",
+      "Simplifying supply chain planning by providing more stable demand patterns",
+      "Reducing the need for e-payment systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company wants to create a digital freight platform that connects shippers with available carriers in real time. Which technology components are MOST essential for this platform?",
+    "options": [
+      "A simple email notification system and a spreadsheet database",
+      "A real-time load-matching algorithm, GPS-based fleet visibility, digital booking and e-payment capabilities, performance rating systems for carriers, and API integration with shipper supply chain management systems",
+      "A physical notice board at truck stops updated daily",
+      "A telephone hotline for shippers to call and request carrier availability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"cybersecurity resilience\" in supply chain operations?",
+    "options": [
+      "The ability to prevent all possible cyberattacks on supply chain systems",
+      "The capacity to anticipate cyber threats, resist attacks through strong preventive controls, respond rapidly when incidents occur, and recover supply chain operations quickly to minimize the impact of cybersecurity events on supply chain continuity",
+      "The use of expensive cybersecurity software that eliminates all vulnerabilities",
+      "Operating supply chains without any digital systems to avoid cybersecurity risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company implementing e-procurement must ensure that the system complies with Ethiopian public procurement law. Which compliance requirement is MOST critical to verify?",
+    "options": [
+      "Whether the e-procurement platform interface is available in Amharic",
+      "Ensuring that the e-procurement process meets legal requirements for open competition, transparency, documentation, and audit trails as specified in Ethiopian procurement regulations, and that the system can produce reports required for government accountability oversight",
+      "Whether the platform has won international technology awards",
+      "Whether the platform is used by companies in neighboring countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following MOST accurately describes how supply chain information systems support \"risk management\"?",
+    "options": [
+      "By eliminating all supply chain risks through automation",
+      "By providing real-time visibility into supply chain vulnerabilities, monitoring key risk indicators, enabling scenario analysis, alerting managers to emerging disruptions, and supporting faster and more informed risk mitigation decisions",
+      "By restricting supply chain operations to reduce the number of potential risk events",
+      "By outsourcing risk management to insurance companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain graduate starting a career in e-commerce and supply chain management in Ethiopia should prioritize developing which competency FIRST?",
+    "options": [
+      "Knowledge of luxury goods supply chains in European markets",
+      "A strong foundation in supply chain fundamentals combined with digital literacy — including understanding of e-procurement systems, supply chain information technology, data analysis, and the specific logistics and e-commerce landscape of the Ethiopian and East African market",
+      "Expertise in manual paper-based procurement processes",
+      "Knowledge of the automotive supply chains of Japanese manufacturers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company evaluates two e-commerce supply chain strategies: (1) building its own fulfillment infrastructure vs. (2) outsourcing fulfillment to a third-party e-commerce logistics provider. Which framework BEST guides this decision?",
+    "options": [
+      "Choosing the option preferred by the company's marketing department",
+      "Analyzing strategic fit, total cost of ownership, speed to market, scalability requirements, control needs, core competency alignment, and the risk profile of each option, recognizing that the best choice depends on the company's scale, growth trajectory, and competitive priorities",
+      "Always choosing to build internal infrastructure to maximize control",
+      "Always outsourcing to minimize capital investment regardless of strategic implications"
+    ],
+    "correct": 1
+  }
+]
