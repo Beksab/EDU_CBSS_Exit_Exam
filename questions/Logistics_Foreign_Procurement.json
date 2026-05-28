@@ -1,0 +1,1032 @@
+[
+  {
+    "questionText": "Which of the following is NOT a reason for a company to expand through a combination, rather than by building new facilities?",
+    "options": [
+      "A combination might provide cost advantages.",
+      "A combination might provide fewer operating delays.",
+      "A combination might provide easier access to intangible assets.",
+      "A combination might provide an opportunity to invest in a company without having to take responsibility for its financial results."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A business merger differs from a business consolidation because",
+    "options": [
+      "A merger dissolves all but one of the prior entities, but a consolidation dissolves all of the prior entities and forms a new corporation.",
+      "A consolidation dissolves all but one of the prior entities, but a merger dissolves all of the prior entities.",
+      "A merger is created when two entities join, but a consolidation is created when more than two entities join.",
+      "A consolidation is created when two entities join, but a merger is created when more than two entities join."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cost of an acquiree in a business combination includes all the following except:",
+    "options": [
+      "Legal fees and finder’s fee.",
+      "Present value of debt security.",
+      "Current fair value of PPE.",
+      "Contingent consideration that is determinable."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A target company’s defense against an unfriendly takeover that involves the disposal of one or more profitable business segments of the target is termed:",
+    "options": [
+      "Pac-man defense",
+      "Scorched earth",
+      "Shark repellent",
+      "Poison pill"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Following the IFRS 3 definition of a business combination, a business combination occurs when a company acquires an equity interest in another entity and has:",
+    "options": [
+      "At least 20% ownership in the entity.",
+      "More than 50% ownership in the entity.",
+      "100% ownership in the entity.",
+      "Control over the entity, irrespective of the percentage owned."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In a completed working paper elimination (in journal entry format) for a parent company and its wholly owned subsidiary on the date of the business combination, the total of the debits generally equals the:",
+    "options": [
+      "Parent company’s total cost of its investment in the subsidiary.",
+      "Carrying amount of the subsidiary’s identifiable net assets.",
+      "Current fair value of the subsidiary’s identifiable net assets.",
+      "Total paid-in capital of the subsidiary."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The traditional definition of control for a parent company–subsidiary relationship (parent’s ownership of more than 50% of the subsidiary’s outstanding common stock) emphasizes:",
+    "options": [
+      "Legal form.",
+      "Economic substance.",
+      "Both legal form and economic substance.",
+      "Neither legal form nor economic substance."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A parent need not present consolidated financial statements if it meets all the following conditions:",
+    "options": [
+      "It is a wholly-owned subsidiary or is a partially-owned subsidiary of another entity and all its other owners.",
+      "Its debt or equity instruments are not traded in a public market.",
+      "It did not file, nor is it in the process of filing, its financial statements with a securities commission or other regulatory organization for the purpose of issuing any class of instruments in a public market.",
+      "An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee.",
+      "All of the above."
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "Which of the following is true according to IFRS 10 Consolidated Financial Statements issued by IASB?",
+    "options": [
+      "An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee.",
+      "An investor has power over an investee when the investor has existing rights that give it the current ability to direct the relevant activities, i.e. the activities that significantly affect the investee’s returns.",
+      "An investor is exposed, or has rights, to variable returns from its involvement with the investee when the investor’s returns from its involvement have the potential to vary as a result of the investee’s performance.",
+      "A parent shall prepare consolidated financial statements using different accounting policies for like transactions and other events in similar circumstances."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a working paper elimination (in journal entry format) for the consolidated balance sheet of a parent company and its wholly owned subsidiary on the date of acquisition, the subtotal of the debits to the subsidiary’s stockholders’ equity accounts equals the:",
+    "options": [
+      "Current fair value of the subsidiary’s identifiable net assets.",
+      "Current fair value of the subsidiary’s total net assets, including goodwill.",
+      "Balance of the parent company’s investment ledger account.",
+      "Carrying amount of the subsidiary’s identifiable net assets."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the working paper for consolidated balance sheet prepared on the date of the acquisition of a parent company and its wholly owned subsidiary, whose liabilities had current fair values equal to their carrying amounts, the total of the Eliminations column is equal to:",
+    "options": [
+      "The current fair value of the subsidiary’s identifiable net assets.",
+      "The total stockholder’s equity of the subsidiary.",
+      "The current fair value of the subsidiary’s total net assets, including goodwill.",
+      "An amount that is not determinable."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In a business combination resulting in a parent company–wholly owned subsidiary relationship, goodwill developed in the working paper elimination is attributed:",
+    "options": [
+      "In its entirety to the subsidiary.",
+      "In its entirety to the parent company.",
+      "To both the parent company and the subsidiary, in the ratio of current fair values of identifiable net assets.",
+      "In its entirety to the consolidated entity."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "On the date of the business combination of a parent company and its partially owned subsidiary, under the computation method used in this book, the amount assigned to minority interest in net assets of subsidiary is based on the:",
+    "options": [
+      "Cost of the parent company’s investment in the subsidiary’s common stock.",
+      "Carrying amount of the subsidiary’s identifiable net assets.",
+      "Current fair value of the subsidiary’s identifiable net assets.",
+      "Current fair value of the subsidiary’s total net assets, including goodwill."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under the equity method of accounting for the operating results of a subsidiary, dividends declared by the subsidiary to the parent company are accounted for by the parent company as:",
+    "options": [
+      "Dividend revenue on the declaration date.",
+      "A reduction of the investment in subsidiary on the payment date.",
+      "Dividend revenue on the payment date.",
+      "A reduction of the investment in subsidiary on the declaration date."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under the equity method of accounting, dividends declared by the subsidiary to the parent company are credited to the parent’s:",
+    "options": [
+      "Intercompany Dividends Receivable account.",
+      "Investment in Subsidiary Common Stock account.",
+      "Retained Earnings of Subsidiary account.",
+      "Retained Earnings account."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "After completion of the parent company’s equity-method journal entries for its profitable wholly owned subsidiary’s operating results, the balance of the parent’s Intercompany Investment Income ledger is equal to the:",
+    "options": [
+      "Subsidiary’s net income.",
+      "Subsidiary’s net income, less amortization of current fair value differences of the subsidiary’s identifiable net assets.",
+      "Subsidiary’s net income, less amortization of current fair value differences of the subsidiary’s net assets, including goodwill.",
+      "Increase in the after-closing balance of the subsidiary’s Retained Earnings ledger account."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a parent company uses the equity method of accounting, in the working paper eliminations for the second and succeeding years following a business combination between the parent company and its wholly owned subsidiary, the amount eliminated for the subsidiary’s retained earnings is the balance of the subsidiary’s Retained Earnings Ledger account:",
+    "options": [
+      "At the beginning of the year.",
+      "On the date of the business combination.",
+      "At the end of the year.",
+      "At the beginning of the year, less the balance of the parent’s Retained Earnings of Subsidiary account."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If $1.9672 is required to acquire one British pound, the amount of pound(s) required to acquire $1 is:",
+    "options": [
+      "£0.5083",
+      "£5.0834",
+      "£3.8702",
+      "£0.258"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "On April 30, 2005, the buying spot rate for the local currency unit (LCU) was $0.15, the selling spot rate was $0.17, and the 30-day forward rate was $0.19. If on that date a U.S. multinational enterprise received a LCU100,000 draft from a foreign customer in settlement of a purchase made by the customer on March 31, 2005, the U.S. enterprise may convert the LCU100,000 draft to:",
+    "options": [
+      "$15,000",
+      "$17,000",
+      "$19,000",
+      "Some other amount"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a completed working paper elimination (in journal entry format) for a parent company and its wholly owned subsidiary on the date of the business combination, the total of the debits generally equals the:",
+    "options": [
+      "Parent company’s total cost of its investment in the subsidiary.",
+      "Carrying amount of the subsidiary’s identifiable net assets.",
+      "Current fair value of the subsidiary’s identifiable net assets.",
+      "Total paid-in capital of the subsidiary."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The traditional definition of control for a parent company–subsidiary relationship (parent’s ownership of more than 50% of the subsidiary’s outstanding common stock) emphasizes:",
+    "options": [
+      "Legal form",
+      "Economic substance",
+      "Both legal form and economic substance",
+      "Neither legal form nor economic substance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A parent need not present consolidated financial statements if it meets all the following conditions:",
+    "options": [
+      "It is a wholly-owned subsidiary or is a partially-owned subsidiary of another entity and all its other owners.",
+      "Its debt or equity instruments are not traded in a public market",
+      "It did not file, nor is it in the process of filing, its financial statements with a securities commission or other regulatory organization for the purpose of issuing any class of instruments in a public market.",
+      "An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee",
+      "All of the above"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "Which of the following is true according to IFRS 10 Consolidated Financial Statements issued by IASB?",
+    "options": [
+      "An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee",
+      "An investor has power over an investee when the investor has existing rights that give it the current ability to direct the relevant activities, i.e. the activities that significantly affect the investee’s returns",
+      "An investor is exposed, or has rights, to variable returns from its involvement with the investee when the investor’s returns from its involvement have the potential to vary as a result of the investee’s performance.",
+      "A parent shall prepare consolidated financial statements using different accounting policies for like transactions and other events in similar circumstances"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a working paper elimination (in journal entry format) for the consolidated balance sheet of a parent company and its wholly owned subsidiary on the date of acquisitions, the subtotal of the debits to the subsidiary’s stockholders’ equity accounts equals the:",
+    "options": [
+      "Current fair value of the subsidiary’s identifiable net assets.",
+      "Current fair value of the subsidiary’s total net assets, including goodwill.",
+      "Balance of the parent company’s investment ledger account.",
+      "Carrying amount of the subsidiary’s identifiable net assets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under the equity method of accounting for the operating results of a subsidiary, dividends declared by the subsidiary to the parent company are accounted for by the parent company as:",
+    "options": [
+      "Dividend revenue on the declaration date.",
+      "A reduction of the investment in subsidiary on the payment date.",
+      "Dividend revenue on the payment date.",
+      "A reduction of the investment in subsidiary on the declaration date"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under the equity method of accounting, dividends declared by the subsidiary to the parent company are debited to the parent’s:",
+    "options": [
+      "Intercompany Dividends Receivable account.",
+      "Investment in Subsidiary Common Stock account.",
+      "Retained Earnings of Subsidiary account.",
+      "Retained Earnings account"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Using the acquisition method, a company acquires all of the shares of stock of another company. In-process research and development is present and estimated to have a $300,000 fair value. How would you account for these costs?",
+    "options": [
+      "Always expense these costs at the acquisition date",
+      "Expense these costs unless such costs represent assets with alternative future use",
+      "Recognize these costs as an intangible asset and amortize the cost over a reasonable life",
+      "Recognize these costs as an intangible asset and test for impairment",
+      "These costs have no impact on the purchase"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In accounting for a business combination as a purchase, a bargain purchase exists when:",
+    "options": [
+      "Purchase price > book value.",
+      "Fair value of net assets > purchase price or the fair value of the consideration.",
+      "Fair value of net assets < book value.",
+      "Fair value of net assets > book value.",
+      "Fair value of net assets < purchase price or the fair value of the consideration."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Using the acquisition method, when a bargain purchase occurs and the net amount of the fair values of the separately identified assets and liabilities acquired exceed the fair value of the consideration transferred:",
+    "options": [
+      "Assets are recorded at amounts below their assessed fair values.",
+      "A gain on bargain purchase is recognized at the acquisition date.",
+      "A loss on bargain purchase is recognized at the acquisition date.",
+      "A contingent liability is recognized.",
+      "Goodwill is recognized and tested for impairment on an annual basis."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In preparing the consolidation worksheet for a business combination accounted for as a purchase using the purchase method, which one of the following is the appropriate basis for valuing fixed assets of a wholly-owned subsidiary?",
+    "options": [
+      "Fair value of the assets only.",
+      "Book value as shown on the books of the subsidiary.",
+      "Book value plus any excess of purchase price over book value of the acquired assets and liabilities.",
+      "Historical cost as shown on the books of the subsidiary.",
+      "Current carrying value."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "On March 31, Jumbo purchases 100% of Larz for $7,500,000 cash and 2,200,000 shares of Jumbo voting common stock (par value of $1). Jumbo's stock had a fair value on March 31 of $40. Jumbo got 12,000,000 shares of Larz's voting common stock (par value $4) having a fair value of $50 per share. Jumbo incurs $5,000,000 in direct combination costs and $3,500,000 in stock issuance costs. Using the purchase method, what is Jumbo's COST for this acquisition?",
+    "options": [
+      "$100,500,000",
+      "$95,500,000",
+      "$99,000,000",
+      "$90,500,000",
+      "$97,000,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "On September 1, Mountainview Company acquired all of the outstanding common stock of Ward Company in a business combination accounted for as a pooling of interests. Both companies have a December 31 year-end and have been operating for five years. Consolidated net income for the year ended December 31 should include 12 months of net income for:",
+    "options": [
+      "Only Mountainview",
+      "Only Ward",
+      "Neither Mountainview nor Ward",
+      "Both Mountainview and Ward",
+      "Mountainview and Ward (if Ward's net income is at least 30% of consolidated net income)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Goodwill is generally defined as:",
+    "options": [
+      "Cost of the investment less the subsidiary's book value at the beginning of the year.",
+      "Cost of the investment less the subsidiary's book value at the acquisition date.",
+      "Cost of the investment less the fair value of the subsidiary's net assets and previously unrecorded intangible assets at the beginning of the year.",
+      "Cost of the investment less the fair value of the subsidiary's net assets and previously unrecorded intangible assets at acquisition date.",
+      "Is no longer allowed under Federal Law."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "To settle a difference of opinion regarding R.Obin's fair values, B. Atman promises to pay an additional $100,000 to the former owners if R. Obin's earnings exceed $500,000 during the next annual period. B. Atman estimates a 30% probability that the $100,000 contingent payment will be required. Assuming a discount rate of 4%, the present value factor is .961538. Under the acquisition method, what is the contingent liability?",
+    "options": [
+      "No contingent liability is recorded.",
+      "$28,846",
+      "$30,000",
+      "$96,154",
+      "$100,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The foreign exchange rate for the immediate delivery of currencies exchanged is called the:",
+    "options": [
+      "Forward rate",
+      "Historical rate",
+      "Spot rate",
+      "Market rate",
+      "Swap rate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "On November 1 of the current year, Patriot Inc. purchased a container of electrical components from its supplier in Japan. Patriot agreed to pay 15,000,000 ¥ in 90 days. The exchange rate on November 1 was $1 = 120 ¥. Patriot decided to hedge the transaction and entered into a 90 day forward contract to purchase yen at a cost of $1 = 125 ¥. The 60 day forward rate that would take Patriot to the December 31 fiscal year end was $1 = 127.50 ¥. On December 31, the spot rate was $1 = 118 ¥, and the 30-day forward rate was $1 = 122 ¥. What is the balance in the forward contract account on November 1 of the current year? (For purposes of this exercise, use a present value factor of 1.)",
+    "options": [
+      "$−0−",
+      "$5,000 debit",
+      "$5,000 credit",
+      "$2,353 debit",
+      "$7,353 credit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "On November 1 of the current year, Patriot Inc. purchased a container of electrical components from its supplier in Japan. Patriot agreed to pay 15,000,000 ¥ in 90 days. The exchange rate on November 1 was $1 = 120 ¥. Patriot decided to hedge the transaction and entered into a 90 day forward contract to purchase yen at a cost of $1 = 125 ¥. The 60 day forward rate that would take Patriot to the December 31 fiscal year end was $1 = 127.50 ¥. On December 31, the spot rate was $1 = 118 ¥, and the 30-day forward rate was $1 = 122 ¥. What is the balance in the forward contract account on December 31 of the current year? (For purposes of this exercise, use a present value factor of 1.)",
+    "options": [
+      "$7,119 debit",
+      "$7,119 credit",
+      "$2,951 debit",
+      "$2,951 credit",
+      "$120,000 debit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The price today at which a foreign currency can be purchased or sold in the future:",
+    "options": [
+      "Forward rate",
+      "Historical rate",
+      "Spot rate",
+      "Market rate",
+      "Swap rate"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The exchange rate at which the option will be executed if the holder decides to exercise the option is the:",
+    "options": [
+      "Strike price",
+      "Intrinsic value",
+      "Spot rate",
+      "Forward rate",
+      "Option price"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Using a forward contract to hedge a transaction that hasn't taken place yet, but likely WILL take place (such as receiving an order for future delivery of goods from a customer) is:",
+    "options": [
+      "Not allowed by GAAP",
+      "Is called a Fair Value Hedge",
+      "Is called a Cash Flow Hedge",
+      "Is called a hedge of a firm commitment.",
+      "Is called a hedge of a future commitment."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Hedges of foreign currency firm commitments are used for:",
+    "options": [
+      "Sales only",
+      "Purchases only",
+      "Current purchases or sales",
+      "Future sales or purchases",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following relationships between fluctuations in exchange rates and foreign exchange gains and losses is true?",
+    "options": [
+      "For an import purchase, a gain results when foreign currency appreciates.",
+      "For an export sale, a loss results when foreign currency appreciates.",
+      "For an export sale, a gain results when foreign currency appreciates.",
+      "For an import purchase, a loss results when foreign currency depreciates.",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In accounting for foreign exchange currency, the United States uses:",
+    "options": [
+      "One-transaction perspective that defers foreign exchange gains and losses",
+      "One-transaction perspective that accrues foreign exchange gains and losses",
+      "Two-transaction perspective that defers foreign exchange gains and losses",
+      "Two-transaction perspective that accrues foreign exchange gains and losses",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Foreign subsidiaries of U.S. parent companies that operate in highly inflationary economies are required by GAAP to use which method for translating the financial statements:",
+    "options": [
+      "Temporal Method, with the Translation Gain or Loss to be reported as part of Comprehensive Income.",
+      "Current Rate Method, with the Cumulative Translation Adjustment to be reported as part of Comprehensive Income.",
+      "Temporal Method, with the Translation Gain or Loss to be reported as part of Net Income.",
+      "Current Rate Method, with the Cumulative Translation Adjustment to be reported as part of Net Income.",
+      "Equity Method, with the Translation Gain or Loss to be reported as part of Non-Controlling Interest in Subsidiary."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A subsidiary of Shaw Inc. has one asset (Inventory) and one liability (Accounts Payable). The functional currency of this subsidiary is the Euro. The inventory was acquired for 90,000 € when the exchange rate was $1.30 = 1€. Accounts Payable, which has a balance of 50,000 €, was established when the exchange rate was $1.35 = 1 €. At year-end, the exchange rate was $1.25 = 1 €. Which one of the following statements is true for the consolidated financial statements?",
+    "options": [
+      "The consolidated financial statements are not affected by this situation.",
+      "A debit translation adjustment must be reported.",
+      "A credit translation adjustment must be reported.",
+      "A transaction loss must be reported.",
+      "A transaction gain must be reported."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following translation methods has as its basic assumption the premise that a company's net investment in a foreign operation is exposed to foreign exchange risk?",
+    "options": [
+      "Current rate method",
+      "Average rate method",
+      "Current/noncurrent method",
+      "Monetary/nonmonetary method"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The primary currency of the foreign entity's operating environment is known as the:",
+    "options": [
+      "Translation currency",
+      "Functional currency",
+      "Reporting currency",
+      "Temporal currency",
+      "Prime-time currency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When the current exchange rate is used for translation and the foreign currency increases in value, if the liabilities increase, the company would recognize a:",
+    "options": [
+      "Positive translation adjustment",
+      "Negative translation adjustment",
+      "Positive remeasurement adjustment",
+      "Negative remeasurement adjustment",
+      "Remeasurement gain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A U.S. company owns an entity located in Denmark that is relatively self-contained and integrated with the local economy. The foreign company uses the krone in its daily operations. The U. S. company has calculated a $50,000 translation adjustment related to the foreign entity. How would the company report this adjustment in its consolidated financial statements?",
+    "options": [
+      "The parent would use the temporal method and report the translation adjustment in its income.",
+      "The parent would use the temporal method and report the translation adjustment in its other comprehensive income.",
+      "The parent would use the current rate method and report the translation adjustment in its income.",
+      "The parent would use the current rate method and report the translation adjustment in its other comprehensive income.",
+      "The parent can select the method it prefers."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A positive translation adjustment will occur when:",
+    "options": [
+      "A net asset balance sheet exposure exists and the foreign currency appreciates.",
+      "A net asset balance sheet exposure exists and the foreign currency depreciates.",
+      "A net liability balance sheet exposure exists and the foreign currency appreciates.",
+      "A net liability balance sheet exposure exists and the foreign currency changes.",
+      "A remeasurement of financial statement using the temporal method occurs."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The equity method of accounting need not be applied where the investment:",
+    "options": [
+      "Represents more than 20% of the voting shares of an associate",
+      "Does not provide the investor with significant influence",
+      "Is held exclusively with a view to its disposal within 12 months",
+      "Is made by an investor who has no subsidiaries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In respect to the equity method of accounting, where an investor has no subsidiaries the investor must apply the:",
+    "options": [
+      "Cost method of accounting for investments in associates",
+      "Consolidated financial reporting",
+      "Equity method in its own accounting records",
+      "Net present value method to measuring the expected cash flows from an associate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Mandy Limited acquired a 30% share in Sandy Limited for $27 000. Mandy Limited has no other investments. At the date on which it became an associate, Sandy Limited had the following equity items: Share capital $50 000, Retained earnings $40 000. At the end of the financial year following acquisition, Sandy Limited generated a profit of $6 000. The carrying amount of the investment in Sandy Limited at the end of the financial year is:",
+    "options": [
+      "$25 200",
+      "$27 000",
+      "$28 800",
+      "$33 000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Investor Limited acquired a 25% interest in Investee Limited for $15 000. Investor holds other equity investments but does not prepare consolidated financial statements. Investee Limited revalued its buildings class of assets by $50 000 during the current financial period. The balance of the investment in associate account at the end of the current financial period is:",
+    "options": [
+      "$12 500",
+      "$15 000",
+      "$16 250",
+      "$27 500"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Tea Limited acquired a 35% investment in Cup Limited for $20 000. Tea Limited also owns two subsidiaries and prepares consolidated financial statements. Cup Limited declared and paid a dividend of $5 000 during the current financial year. The appropriate consolidation adjustment to record this transaction will include the following entry:",
+    "options": [
+      "DR Investment in associate",
+      "DR Cash",
+      "DR Dividend revenue",
+      "DR Share of profit of associate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Company A acquired a 30% interest in an associate, Company B, for $25 000. Company A is part of a consolidated group. In the financial period immediately following the date on which it became an associate, Company B revalued assets by $4 000, generated profits of $10 000 and declared a dividend of $5 000. The balance in the investment account after equity accounting has been applied is:",
+    "options": [
+      "$26 200",
+      "$27 700",
+      "$28 000",
+      "$29 200"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Where goodwill is acquired on an investment in an associate the goodwill is:",
+    "options": [
+      "Amortized across the useful life of the goodwill",
+      "Written off immediately against the carrying amount of the investment",
+      "Carried as a separate asset in the accounting records of the investor",
+      "Not subject to amortization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When an associate declares and pays a dividend out of pre-acquisition profits the application of the equity method results in the investor making the following adjustment:",
+    "options": [
+      "DR Investment in associate",
+      "CR Cash",
+      "CR Dividend revenue",
+      "No adjustment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If an associate incurs losses the investor is required to:",
+    "options": [
+      "Ignore the losses for the purposes of equity accounting adjustments",
+      "Recognise losses only to the point where the carrying amount is equal to the initial investment",
+      "Recognise losses to the point where the carrying amount of the investment is zero",
+      "Reclassify the investment as a current asset"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Where an investor has discontinued the use of the equity method because the associate has incurred losses it must disclose the:",
+    "options": [
+      "Unrecognised share of current period and cumulative losses of the associate",
+      "Reason why it has discontinued the method",
+      "Accounting policy it has adopted in place of the equity method",
+      "Effect on the statement of changes in equity if it had continued to use the method"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Investments in associates accounted for using the equity method are presented in the statement of financial position amongst:",
+    "options": [
+      "Equity",
+      "Non-current liabilities",
+      "Current assets",
+      "Non-current assets"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under the cost model of accounting for an investment, changes to the carrying amount of the investment occur if:",
+    "options": [
+      "The investee earns post-acquisition profits or losses",
+      "Goodwill included in the investment is amortised",
+      "The investment is impaired",
+      "Dividends are received from the investee"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The method of accounting that applies to an investor and associate relationship is the:",
+    "options": [
+      "Cost method",
+      "Fair value method",
+      "Consolidation method",
+      "Equity method"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "For the purposes of equity accounting an associate is a business entity including:",
+    "options": [
+      "An unincorporated entity",
+      "A joint venture",
+      "A subsidiary",
+      "Venture capital organizations"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "For the purposes of equity accounting, significant influence is regarded as the power of an investor to:",
+    "options": [
+      "Control the financial and operating policies of an associate",
+      "Participate in the financial and operating policy decisions of an investee",
+      "Participate in the day-to-day management of a joint venture interest",
+      "Dominate the financing decisions of an entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "IAS 28 shall be applied by all entities that are investors with __________ an investee.",
+    "options": [
+      "Joint control of",
+      "Significant influence over",
+      "Control over",
+      "A or B",
+      "A or B or C"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If an entity holds, directly or indirectly, __________ of the voting power of the investee, it is presumed that the entity has significant influence, unless it can be clearly demonstrated that this is not the case.",
+    "options": [
+      "10 per cent or more",
+      "20 per cent or more",
+      "25 per cent or less",
+      "50 per cent or less"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under which of the following circumstances does an entity lose significant power over the investee?",
+    "options": [
+      "When it loses the power to participate in the financial and operating policy decisions of that investee",
+      "When it holds less than 10% of voting rights of the investee",
+      "When its investment ceases to be an associate or a joint venture",
+      "Any of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Under the equity method, on initial recognition the investment in an associate or a joint venture is recognised __________, and the carrying amount is increased or decreased to recognise the investor’s share of the profit or loss of the investee after the date of acquisition.",
+    "options": [
+      "At cost",
+      "At fair value",
+      "At historical cost",
+      "At amortised cost"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following measures provides the most informative reporting of the investor’s net assets and profit or loss?",
+    "options": [
+      "The recognition of income on the basis of distributions received",
+      "Application of the equity method",
+      "Proportional allocation of returns",
+      "A and C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Unless an investment, or a portion of an investment, in an associate or a joint venture is classified as held for sale in accordance with IFRS 5 Non-current Assets Held for Sale and Discontinued Operations, the investment, or any retained interest in the investment __________.",
+    "options": [
+      "Not classified as held for sale, shall be impaired",
+      "Not classified as held for sale, shall be classified as a non-current asset",
+      "Shall also be classified as held for sale",
+      "Shall be recognised at fair value through profit or loss"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under which of the following circumstances shall not the entity apply the equity method?",
+    "options": [
+      "The entity’s debt or equity instruments are traded in a public market",
+      "The entity did not file, nor is it in the process of filing, its financial statements with a securities commission or other regulatory organization, for the purpose of issuing any class of instruments in a public market",
+      "The ultimate or any intermediate parent of the entity produces financial statements available for public use that comply with IFRSs, in which subsidiaries are consolidated or are measured at fair value through profit or loss in accordance with IFRS 10",
+      "A or B",
+      "None of the above"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "When an entity has an investment in an associate, a portion of which is held indirectly through a venture capital organisation, the entity may elect to measure that portion of the investment in the associate at fair value through profit or loss in accordance with IFRS 9 __________ the venture capital organisation has __________ over that portion of the investment.",
+    "options": [
+      "Only if; significant influence",
+      "Only if; control",
+      "Regardless of whether; significant influence",
+      "Unless; control"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is true with regards to an entity that discontinues the use of the equity method from the date when its investment ceases to be an associate or a joint venture?",
+    "options": [
+      "If the investment becomes a subsidiary, the entity shall account for its investment in accordance with IFRS 3 Business Combinations and IFRS 10 Consolidated Financial Statements",
+      "If the retained interest in the former associate or joint venture is a financial asset, the entity shall measure the retained interest at historical cost",
+      "The entity shall account for all amounts previously recognised in other comprehensive income in relation to that investment on the same basis as would have been required if the investee had directly disposed of the related assets or liabilities",
+      "A and C",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Gains and losses resulting from ‘upstream’ and ‘downstream’ transactions involving assets that do not constitute a business, as defined in IFRS 3 Business Combinations, between an entity and its associate or joint venture __________.",
+    "options": [
+      "Shall be recognised in the entity’s financial statements only to the extent of unrelated investors’ interests in the associate or joint venture",
+      "Shall be recognised in the entity’s financial statements in full",
+      "Shall be eliminated against the investment accounted for using the equity method",
+      "Shall not be presented as deferred gains or losses in the entity’s consolidated statement of financial position in which investments are accounted for using the equity method"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Under which of the following circumstances shall the investor recognize its share in losses incurred?",
+    "options": [
+      "When upstream transactions provide evidence of a reduction in the net realizable value of the assets to be purchased",
+      "When upstream transactions provide evidence of an impairment loss of the assets to be purchased",
+      "When downstream transactions provide evidence of a reduction in the net realizable value of the assets to be sold or contributed",
+      "When downstream transactions provide evidence of an impairment loss of the assets to be sold or contributed",
+      "A or B"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "The objective of IFRS 11 is to ________________ by entities that have an interest in joint arrangements.",
+    "options": [
+      "Regulate accounting policy to be applied",
+      "Establish principles for financial reporting",
+      "Achieve uniformity in the accounting policies used",
+      "Unify the accounting techniques used",
+      "B or C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What entities shall apply IFRS 11?",
+    "options": [
+      "Only those entities that have joint control over a joint arrangement",
+      "Only those entities that have significant influence over a joint arrangement",
+      "Only those entities that are a party to a joint arrangement",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A joint arrangement can be either a …",
+    "options": [
+      "Joint venture or joint subsidiary",
+      "Joint operation or a joint venture",
+      "Joint operation or joint entity",
+      "Joint entity or joint subsidiary"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Joint control is the contractually agreed sharing of control of an arrangement, which exists only when decisions about the relevant activities require the _____________ of the parties sharing control.",
+    "options": [
+      "Highest level of professionalism",
+      "Unanimous consent",
+      "Collective judgement",
+      "Unbiased decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "KL Ltd. has invested in 50% voting power of a joint venture MN Ltd. MN Ltd. has also issued 10% cumulative preference shares to other investors worth 1,000,000. During the year, MN Ltd. earned profit of 400,000. Also, MN Ltd. has not declared any dividend on the preference shares for current year. Calculate KL Ltd.’s share in the net profit of MN Ltd. for the year.",
+    "options": [
+      "300,000",
+      "150,000",
+      "100,000",
+      "180,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements is not correct?",
+    "options": [
+      "IAS 21 applies to hedge accounting for foreign currency items, including the hedging of a net investment in a foreign operation",
+      "IAS 21 applies to the presentation of an entity’s financial statements in a foreign currency and sets out requirements for the resulting financial statements to be described as complying with IFRSs",
+      "IAS 21 applies when an entity translates amounts relating to derivatives from its functional currency to its presentation currency",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following areas does IFRS 3 apply to?",
+    "options": [
+      "The accounting for the formation of a joint arrangement in the financial statements of the joint arrangement itself",
+      "The acquisition of an asset or a group of assets that does not constitute a business",
+      "A combination of entities or businesses under common control",
+      "Accounting for business combinations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The acquirer shall measure the identifiable assets acquired and the liabilities assumed at their:",
+    "options": [
+      "Acquisition-date fair values",
+      "Acquisition-date historical cost",
+      "Reporting-date net book value",
+      "Reporting-date present value"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cost of acquisition in a business combination is measured as the fair value of the:",
+    "options": [
+      "Consideration given",
+      "Costs directly attributable to the combination",
+      "Consideration received",
+      "Consideration given plus directly attributable costs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A parent need not present consolidated financial statements if it meets all the following conditions except:",
+    "options": [
+      "It is a wholly-owned subsidiary or is a partially-owned subsidiary of another entity and all its other owners.",
+      "Its debt or equity instruments are not traded in a public market",
+      "It did not file, nor is it in the process of filing, its financial statements with a securities commission or other regulatory organization for the purpose of issuing any class of instruments in a public market.",
+      "An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is true according to IFRS 10 Consolidated Financial Statements issued by IASB?",
+    "options": [
+      "An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee",
+      "An investor has power over an investee when the investor has existing rights that give it the current ability to direct the relevant activities, i.e. the activities that significantly affect the investee’s returns",
+      "An investor is exposed, or has rights, to variable returns from its involvement with the investee when the investor’s returns from its involvement have the potential to vary as a result of the investee’s performance.",
+      "A parent shall prepare consolidated financial statements using different accounting policies for like transactions and other events in similar circumstances"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statements is not correct?",
+    "options": [
+      "IAS 21 applies to hedge accounting for foreign currency items, including the hedging of a net investment in a foreign operation",
+      "IAS 21 applies to the presentation of an entity’s financial statements in a foreign currency and sets out requirements for the resulting financial statements to be described as complying with IFRSs",
+      "IAS 21 applies when an entity translates amounts relating to derivatives from its functional currency to its presentation currency",
+      "In IAS 21, the principal issues are which exchange rate(s) to use and how to report the effects of changes in exchange rates in the financial statements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following terms are defined by the statement: “The currency of the primary economic environment in which the entity operates”?",
+    "options": [
+      "Local currency",
+      "Operational currency",
+      "Functional currency",
+      "Presentation currency"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Exchange rate is the ratio of exchange for __________.",
+    "options": [
+      "Two currencies",
+      "Functional currency to local currency",
+      "Local currency to presentation currency",
+      "Operational currency to functional currency"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "On July 1, 2002, Occidental Corporation purchased merchandise on 30-day open account from a New Zealand supplier at an invoice cost of 100,000 New Zealand dollars (NZ$). On that date, spot exchange rates were: buying—NZ$1 = $0.777; selling—NZ$1 = $0.7785. On July 31, 2002, Occidental acquired a draft for NZ$100,000 for $77,600. In the journal entry to record the acquisition of the NZ$100,000 draft, Occidental recognizes a foreign currency:",
+    "options": [
+      "Transaction loss of $100",
+      "Transaction loss of $250",
+      "Transaction gain of $250",
+      "Transaction gain of $23,400"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "On 1 January 2008, A acquired a 60% interest in B for $80m. A already held a 10% interest which had been acquired for $12m but which was fair valued at $15m at 1 January 2008. The fair value of the non-controlling interest at 1 January 2008 was $47m and the fair value of the identifiable net assets of B was $130m. A gain relating to the revaluation of the original equity interest would be recorded as follows:",
+    "options": [
+      "$38m",
+      "$35m",
+      "$3m",
+      "$12m"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is meant by full goodwill?",
+    "options": [
+      "The recognition of the goodwill which relates to the parent companies interest",
+      "A refund",
+      "The recognition of the goodwill which relates to the non-controlling interest and the controlling interest",
+      "A bargain purchase"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A has acquired a subsidiary on 1 January 2008. The fair value of the net assets of the subsidiary acquired were $16m. A acquired 60% of the shares of the subsidiary for $11m. The non-controlling interest was fair valued at $8m. Goodwill based on the partial goodwill method under IFRS 3 (revised) would be:",
+    "options": [
+      "$1.4m",
+      "$5m",
+      "$8m",
+      "$3m"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company has finalized the deferred tax calculation on 1 October 2008 in relation to its acquisition of a subsidiary on 1 January 2008. The adjustment required will:",
+    "options": [
+      "Be adjusted through equity",
+      "Be adjusted through income",
+      "Be ignored as it is too long since the acquisition",
+      "Affect the calculation of goodwill"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "On 1 January 2008, A acquired a 60% interest in B for $80m. A already held a 10 percent interest which had been acquired for $12m but which was fair valued at $15m at 1 January 2008. The fair value of the non-controlling interest at 1 January 2008 was $47m and the fair value of the identifiable net assets of B was $130m. The goodwill would be as follows using the full goodwill method:",
+    "options": [
+      "$38m",
+      "$1m",
+      "$12m",
+      "$35m"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "From what date could IFRS 3 (revised) affect the financial statements?",
+    "options": [
+      "It can be applied early but not before accounting periods beginning on or after 30 June 2007",
+      "It must be applied to the first financial statements beginning after 1 July 2008",
+      "Immediately",
+      "It must be applied from 1 January 2009"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Select the correct statement with regards to intragroup balances and transactions during consolidation:",
+    "options": [
+      "Intragroup balances and transactions must be eliminated",
+      "Intragroup balances and transactions must be eliminated to the extent of non-controlling interest",
+      "Intragroup balances and transactions must be eliminated in proportion to the percentage of effective ownership",
+      "Intragroup balances and transactions do not have to be eliminated"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is NOT a reason for a company to expand through a combination, rather than by building new facilities?",
+    "options": [
+      "A combination might provide cost advantages.",
+      "A combination might provide fewer operating delays.",
+      "A combination might provide easier access to intangible assets.",
+      "A combination might provide an opportunity to invest in a company without having to take responsibility for its financial results."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A business merger differs from a business consolidation because:",
+    "options": [
+      "A merger dissolves all but one of the prior entities, but a consolidation dissolves all of the prior entities and forms a new corporation.",
+      "A consolidation dissolves all but one of the prior entities, but a merger dissolves all of the prior entities.",
+      "A merger is created when two entities join, but a consolidation is created when more than two entities join.",
+      "A consolidation is created when two entities join, but a merger is created when more than two entities join."
+    ],
+    "correct": 0
+  }
+]
