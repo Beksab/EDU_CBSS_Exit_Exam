@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Negotiation is best defined as:",
+    "options": [
+      "A process where one party dictates terms to another",
+      "A legal procedure for resolving court disputes",
+      "A process where two or more parties communicate to reach a mutually acceptable agreement",
+      "A formal bidding process used exclusively in procurement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT a core element of negotiation?",
+    "options": [
+      "Interdependence between parties",
+      "Conflict of interest",
+      "Unilateral decision-making",
+      "Communication between parties"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The primary reason parties engage in negotiation is to:",
+    "options": [
+      "Demonstrate power over the opposing party",
+      "Avoid any form of compromise",
+      "Create a binding legal contract immediately",
+      "Reach an outcome better than what they could achieve without the other party"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In supply chain management, negotiation is most commonly used for:",
+    "options": [
+      "Setting internal HR policies",
+      "Determining pricing, delivery terms, and contractual obligations with suppliers",
+      "Designing warehouse layouts",
+      "Calculating inventory reorder points"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"BATNA\"?",
+    "options": [
+      "A formal arbitration process",
+      "The minimum acceptable outcome in any negotiation",
+      "The best alternative a negotiator has if the current negotiation fails",
+      "A clause inserted in procurement contracts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of \"ZOPA\" in negotiation refers to:",
+    "options": [
+      "A zone of prohibited activities in international trade",
+      "The range within which a negotiated agreement is acceptable to both parties",
+      "A zero-overhead procurement approach",
+      "A legal framework for international contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following negotiation styles prioritizes maintaining relationships over achieving maximum individual gain?",
+    "options": [
+      "Competitive negotiation",
+      "Avoidance style",
+      "Accommodating negotiation",
+      "Dominating negotiation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a distributive negotiation, the primary assumption is that:",
+    "options": [
+      "Both parties can expand the total value available",
+      "Resources are unlimited and can be shared freely",
+      "The negotiation involves multiple simultaneous issues",
+      "One party's gain comes directly at the expense of the other"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Integrative negotiation differs from distributive negotiation in that it:",
+    "options": [
+      "Focuses on defeating the other party",
+      "Ignores the interests of both parties",
+      "Seeks to create value and find mutually beneficial solutions",
+      "Is used only in legal disputes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following factors most influences a negotiator's power?",
+    "options": [
+      "The color of the negotiation room",
+      "The number of people in the negotiating team",
+      "Access to information and the strength of alternatives",
+      "The length of the negotiation session"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The opening offer in a negotiation is strategically important because it:",
+    "options": [
+      "Immediately ends the negotiation",
+      "Sets the legal terms of the contract",
+      "Has no influence on the final outcome",
+      "Anchors the negotiation and influences the final agreement range"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Active listening in negotiation helps negotiators to:",
+    "options": [
+      "Dominate the conversation and control outcomes",
+      "Avoid making any concessions during the process",
+      "Understand the other party's interests and identify common ground",
+      "Delay the negotiation indefinitely"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Preparation is considered the most critical phase of negotiation because it:",
+    "options": [
+      "Eliminates the need for communication during negotiation",
+      "Guarantees the other party will accept your terms",
+      "Has no practical impact on negotiation outcomes",
+      "Allows negotiators to define goals, understand interests, and develop strategies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following best describes a \"win-win\" negotiation outcome?",
+    "options": [
+      "One party wins everything while the other accepts a loss",
+      "Both parties achieve their core interests and feel the outcome is fair",
+      "The negotiation ends without any agreement being reached",
+      "A third-party arbitrator decides the outcome for both parties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical behavior in negotiation requires negotiators to:",
+    "options": [
+      "Use deception strategically to maximize gains",
+      "Withhold all relevant information from the other party",
+      "Make false promises to secure favorable terms",
+      "Be honest, avoid misrepresentation, and respect the other party"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Negotiation planning involves all of the following EXCEPT:",
+    "options": [
+      "Identifying your BATNA",
+      "Setting target and reservation prices",
+      "Signing the final contract immediately",
+      "Researching the other party's interests and constraints"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Framing\" in negotiation refers to:",
+    "options": [
+      "The physical arrangement of the negotiation room",
+      "The legal documentation process after an agreement",
+      "How negotiators present issues to shape perception and influence outcomes",
+      "The process of selecting negotiation team members"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A negotiator's \"reservation price\" is best defined as:",
+    "options": [
+      "The highest price a buyer is willing to pay",
+      "The price at which both parties agree to finalize the deal",
+      "The point beyond which a negotiator will walk away from the deal",
+      "The opening offer made at the start of negotiation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the FIRST step in effective negotiation planning?",
+    "options": [
+      "Making the opening offer",
+      "Signing the negotiation agenda",
+      "Closing the deal",
+      "Defining your objectives and priorities clearly"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Interest-based negotiation focuses on:",
+    "options": [
+      "The stated demands of each party only",
+      "Underlying needs and motivations rather than stated positions",
+      "Maximizing financial gain at any cost",
+      "Winning the negotiation regardless of the other party's needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A negotiation strategy that involves making large initial demands and then gradually conceding is known as:",
+    "options": [
+      "Principled negotiation",
+      "Interest-based bargaining",
+      "The anchoring strategy",
+      "The collaborative approach"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In negotiation planning, a \"target point\" refers to:",
+    "options": [
+      "The minimum outcome a negotiator will accept",
+      "The realistic, ideal outcome the negotiator aims to achieve",
+      "The first concession a negotiator is prepared to make",
+      "The other party's opening demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of the principled negotiation approach developed by Fisher and Ury?",
+    "options": [
+      "Focus on positions rather than interests",
+      "Apply pressure and avoid making concessions",
+      "Separate the people from the problem",
+      "Use deception to gain a competitive advantage"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of \"logrolling\" in negotiation involves:",
+    "options": [
+      "Refusing to make any concessions",
+      "Exchanging concessions on different issues to maximize joint gains",
+      "Applying pressure to force the other party to concede",
+      "Ending the negotiation prematurely"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A negotiator who identifies multiple issues to negotiate simultaneously is using which strategy?",
+    "options": [
+      "Single-issue distributive bargaining",
+      "Package deal or multi-issue negotiation strategy",
+      "Competitive positional bargaining",
+      "Avoidance negotiation strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"negotiation agenda\"?",
+    "options": [
+      "A financial budget for the negotiation process",
+      "A list of personal demands by the lead negotiator",
+      "A legal document binding both parties before negotiation",
+      "A structured outline of the issues to be discussed during negotiation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Negotiation framing is most effective when it:",
+    "options": [
+      "Focuses only on negative aspects of the current situation",
+      "Ignores the concerns of the other party entirely",
+      "Emphasizes gains and positive outcomes to build agreement",
+      "Uses technical jargon to confuse the opposing party"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following represents a \"hard\" negotiation approach?",
+    "options": [
+      "Seeking mutually beneficial outcomes for all parties",
+      "Separating people from the problem",
+      "Focusing on interests rather than positions",
+      "Treating the negotiation as a competition where one side must win"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Effective negotiation preparation requires a negotiator to:",
+    "options": [
+      "Avoid learning about the other party's interests",
+      "Research the other party's priorities, constraints, and alternatives",
+      "Begin negotiation without any defined objectives",
+      "Rely entirely on improvisation during the session"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following communication skills is most important in the planning phase of negotiation?",
+    "options": [
+      "Ability to speak loudly and assertively",
+      "Skill in writing legal contracts",
+      "Capacity to analyze information and anticipate the other party's arguments",
+      "Ability to avoid all forms of verbal communication"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In distributive bargaining, the \"bargaining zone\" is defined as:",
+    "options": [
+      "The geographical location where negotiations take place",
+      "The range between the seller's reservation price and the buyer's reservation price",
+      "The legal jurisdiction applicable to the contract",
+      "The list of demands submitted by both parties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following tactics is commonly used in distributive bargaining?",
+    "options": [
+      "Joint problem-solving to expand the value pie",
+      "Sharing complete information with the other party",
+      "Anchoring with an extreme opening offer",
+      "Focusing exclusively on the other party's interests"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"good cop/bad cop\" tactic in negotiation involves:",
+    "options": [
+      "Using two negotiators who alternate between aggressive and conciliatory behavior",
+      "Bringing law enforcement into the negotiation",
+      "Splitting the negotiation team into two competing groups",
+      "Applying legal pressure through threats of litigation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A buyer using the \"take it or leave it\" tactic is employing which type of negotiation approach?",
+    "options": [
+      "Integrative negotiation",
+      "Collaborative negotiation",
+      "Interest-based negotiation",
+      "Extreme distributive negotiation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Why is making the first offer generally considered advantageous in distributive bargaining?",
+    "options": [
+      "It immediately closes the negotiation",
+      "It demonstrates weakness to the other party",
+      "It sets the legal price floor for the contract",
+      "It anchors the negotiation and can influence the final settlement point"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a common counter-tactic against aggressive distributive bargaining?",
+    "options": [
+      "Immediately accepting all demands",
+      "Abandoning the negotiation without any response",
+      "Ignoring the BATNA and accepting poor terms",
+      "Identifying and reinforcing your own BATNA to reduce pressure"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In distributive bargaining, concessions should ideally be made:",
+    "options": [
+      "All at once to demonstrate goodwill",
+      "Strategically and incrementally to preserve value",
+      "Without any conditions attached",
+      "Only after the other party has made all their demands"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"deadline\" tactic in distributive bargaining works by:",
+    "options": [
+      "Extending the negotiation indefinitely",
+      "Removing time pressure to allow relaxed decision-making",
+      "Creating time pressure that may force the other party into concessions",
+      "Establishing a legal deadline for contract signing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is TRUE about distributive bargaining in procurement?",
+    "options": [
+      "It always produces the best long-term supplier relationships",
+      "It is most appropriate when price is the primary issue and the relationship is less important",
+      "It focuses on creating value for both parties equally",
+      "It is incompatible with ethical procurement practices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The tactic of \"nibbling\" in negotiation refers to:",
+    "options": [
+      "Making major demands at the beginning of the negotiation",
+      "Requesting small additional concessions after the main agreement has been reached",
+      "Gradually reducing your own demands throughout the negotiation",
+      "Ending the negotiation prematurely to gain advantage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"lowball\" tactic in distributive bargaining?",
+    "options": [
+      "Offering a very high initial price to anchor the negotiation",
+      "Refusing to make any concessions",
+      "Making an unrealistically low initial offer to lower the other party's expectations",
+      "Accepting the first offer presented by the other party"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A negotiator who strategically reveals limited information is attempting to:",
+    "options": [
+      "Build complete trust with the other party",
+      "Demonstrate weakness in the negotiation",
+      "Protect their reservation price and maintain leverage",
+      "Encourage the other party to share more information"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a risk of using highly aggressive distributive tactics in supply chain negotiations?",
+    "options": [
+      "Achieving above-target outcomes",
+      "Strengthening long-term supplier relationships",
+      "Damaging supplier relationships and reducing future cooperation",
+      "Increasing information sharing between parties"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In distributive bargaining, the party with the stronger BATNA typically:",
+    "options": [
+      "Makes more concessions to close the deal quickly",
+      "Has less negotiating power than the weaker party",
+      "Has greater negotiating power and leverage",
+      "Avoids making any opening offers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"highball\" tactic in negotiation involves:",
+    "options": [
+      "Starting with an extremely high opening demand to anchor expectations",
+      "Immediately accepting the other party's first offer",
+      "Making many small concessions throughout the negotiation",
+      "Focusing on interest-based solutions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The foundation of integrative bargaining is:",
+    "options": [
+      "Treating negotiation as a zero-sum competition",
+      "Focusing only on price as the key negotiation variable",
+      "Sharing information to identify mutual gains and expand value",
+      "Using aggressive tactics to claim the maximum share of value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following conditions is MOST important for integrative bargaining to succeed?",
+    "options": [
+      "One party must have significantly more power than the other",
+      "Both parties must be willing to share information and trust each other",
+      "The negotiation must involve only a single issue",
+      "One party must make all the concessions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Expanding the pie\" in integrative negotiation means:",
+    "options": [
+      "Increasing the physical size of the negotiation venue",
+      "Forcing the other party to accept a smaller share",
+      "Creating additional value so both parties can achieve better outcomes",
+      "Adding more negotiators to each party's team"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key difference between integrative and distributive negotiation?",
+    "options": [
+      "Only distributive negotiation involves preparation",
+      "Integrative negotiation focuses on fixed resources while distributive creates value",
+      "Distributive negotiation is always more ethical than integrative",
+      "Integrative negotiation seeks to create value while distributive focuses on claiming value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In integrative bargaining, the technique of \"bridging\" involves:",
+    "options": [
+      "Splitting the difference between two positions",
+      "Creating a new solution that meets the core interests of both parties",
+      "Threatening to walk away from the negotiation",
+      "Reverting to distributive tactics when agreement is difficult"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following behaviors undermines integrative bargaining?",
+    "options": [
+      "Sharing relevant information openly",
+      "Focusing on the other party's underlying interests",
+      "Concealing information and making misleading statements",
+      "Exploring multiple issues simultaneously"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"post-settlement settlement\" concept in integrative negotiation refers to:",
+    "options": [
+      "Renegotiating a contract after it expires",
+      "Seeking an even better agreement after an initial deal has been reached",
+      "Filing a legal dispute after signing a contract",
+      "Cancelling a contract due to performance failures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"contingent contracts\" in integrative negotiation?",
+    "options": [
+      "Contracts that are automatically renewed annually",
+      "Contracts that immediately expire upon signing",
+      "Agreements that change terms based on future events or outcomes",
+      "Contracts that involve only one party making commitments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Building trust in integrative negotiation is important because it:",
+    "options": [
+      "Eliminates the need for formal contracts",
+      "Encourages open information sharing and reduces competitive behavior",
+      "Guarantees the other party will always make the first concession",
+      "Allows one party to dominate the outcome"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of integrative negotiation in a supply chain context?",
+    "options": [
+      "A buyer threatening to switch suppliers if prices are not reduced",
+      "A buyer and supplier jointly redesigning a product to reduce costs while maintaining quality",
+      "A buyer demanding the lowest possible price regardless of supplier capacity",
+      "A supplier refusing to share cost structure information"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The strategy of \"multiple equivalent simultaneous offers\" (MESOs) in integrative negotiation helps by:",
+    "options": [
+      "Forcing the other party to accept the first offer immediately",
+      "Revealing which issues the other party values most through their responses",
+      "Eliminating the need for further negotiation",
+      "Establishing the reservation price of the other party"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In integrative negotiation, \"objective criteria\" are used to:",
+    "options": [
+      "Favor one party's position over the other",
+      "Replace the need for any negotiation discussion",
+      "Establish legal benchmarks for the contract",
+      "Provide fair, external standards for evaluating proposals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a skilled integrative negotiator?",
+    "options": [
+      "Focuses exclusively on price concessions",
+      "Avoids sharing any information with the other party",
+      "Listens actively and seeks to understand the other party's underlying interests",
+      "Uses aggressive tactics to claim maximum value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following outcomes best illustrates a successful integrative negotiation?",
+    "options": [
+      "One party achieves all of its objectives while the other receives nothing",
+      "Both parties receive outcomes that satisfy their core interests",
+      "The negotiation ends in a stalemate with no agreement",
+      "A third party is required to impose a settlement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Integrative bargaining is most appropriate in supply chain negotiations when:",
+    "options": [
+      "The relationship between the parties is not important",
+      "The negotiation involves only a single issue",
+      "Both parties have an ongoing relationship and multiple issues to negotiate",
+      "One party wants to maximize gains at the expense of the other"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In negotiation, \"power\" is best described as:",
+    "options": [
+      "Physical dominance over the other party",
+      "The ability to influence the behavior, decisions, or outcomes of another party",
+      "The financial wealth of the negotiating organization",
+      "The number of negotiators on each side"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a source of legitimate power in negotiation?",
+    "options": [
+      "Personal charisma and persuasion skills",
+      "Expertise in a specialized technical field",
+      "Authority derived from one's formal position or role",
+      "Control over critical information the other party needs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Expert power\" in negotiation is derived from:",
+    "options": [
+      "Having a larger negotiating team",
+      "Controlling the negotiation venue",
+      "Possessing specialized knowledge or expertise that the other party values",
+      "Having a higher budget than the opposing party"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A supplier who is the sole source for a critical component has which type of negotiation power?",
+    "options": [
+      "Referent power",
+      "Legitimate power",
+      "Reward power",
+      "Dependency-based structural power"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which influence tactic involves using logical arguments and factual evidence to persuade the other party?",
+    "options": [
+      "Pressure tactics",
+      "Coalition building",
+      "Rational persuasion",
+      "Personal appeal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Referent power\" in negotiation is based on:",
+    "options": [
+      "Formal authority granted by a legal document",
+      "The ability to impose financial penalties",
+      "The admiration or respect the other party has for you",
+      "Access to scarce resources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How can a negotiator with less positional power effectively compensate?",
+    "options": [
+      "Avoiding the negotiation entirely",
+      "Accepting all terms offered by the more powerful party",
+      "Developing strong alternatives and building coalitions",
+      "Refusing to share any information"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The use of threats as an influence tactic in negotiation is most effective when:",
+    "options": [
+      "The threat is vague and unspecified",
+      "The party making the threat has no real intention of following through",
+      "The threat is credible and the party has the capacity to carry it out",
+      "The threat is made after the agreement has been signed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Coalition building as a power strategy in negotiation involves:",
+    "options": [
+      "Forming alliances with other parties to strengthen your negotiating position",
+      "Isolating the other party from its stakeholders",
+      "Using legal mechanisms to force compliance",
+      "Reducing the number of issues on the negotiation agenda"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following best illustrates the use of \"information power\" in negotiation?",
+    "options": [
+      "Having a larger financial budget than the other party",
+      "Controlling access to data that the other party critically needs to make decisions",
+      "Using physical presence to intimidate the other party",
+      "Relying solely on emotional appeals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A negotiator who consistently delivers on promises builds which type of power?",
+    "options": [
+      "Coercive power",
+      "Structural power",
+      "Credibility and trust-based influence",
+      "Reward power only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Dependency in negotiation increases power for the party that:",
+    "options": [
+      "Has more alternatives and is less dependent on the other",
+      "Has fewer alternatives and is more dependent on the other",
+      "Is willing to make more concessions",
+      "Has a smaller negotiating team"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an ethical use of power in negotiation?",
+    "options": [
+      "Deliberately misrepresenting facts to gain advantage",
+      "Using threats that you have no intention of carrying out",
+      "Transparently presenting your strong alternatives and walking away if terms are unacceptable",
+      "Withholding critical information that would help the other party make an informed decision"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Time pressure as a power tactic in negotiation works because:",
+    "options": [
+      "It gives both parties equal amounts of additional time",
+      "It reduces the need for preparation",
+      "The party under greater time pressure is more likely to make concessions",
+      "It eliminates the need for a BATNA"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements about power in negotiation is TRUE?",
+    "options": [
+      "Power is fixed and cannot be changed during the negotiation process",
+      "Only the party with more financial resources has power",
+      "Power is relative and can shift during the course of a negotiation",
+      "Power in negotiation is determined solely by organizational hierarchy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Ethical behavior in negotiation is important in supply chain management primarily because it:",
+    "options": [
+      "Guarantees the highest financial returns",
+      "Eliminates the need for contract documentation",
+      "Builds trust and sustains long-term supplier relationships",
+      "Allows negotiators to use any tactic to close deals faster"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following negotiation tactics is generally considered UNETHICAL?",
+    "options": [
+      "Making a strong opening offer to anchor the negotiation",
+      "Deliberately providing false information about your BATNA",
+      "Using objective criteria to support your proposals",
+      "Asking clarifying questions to understand the other party's interests"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"puffery\" in negotiation refers to:",
+    "options": [
+      "A legally binding exaggerated claim",
+      "Extreme emotional displays during negotiation",
+      "Generally acceptable exaggeration in promoting one's position",
+      "A tactic of refusing to make any concessions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a consequence of unethical behavior in supply chain negotiations?",
+    "options": [
+      "Improved long-term supplier relationships",
+      "Enhanced organizational reputation",
+      "Damaged trust, legal liability, and loss of future business opportunities",
+      "Increased access to preferred suppliers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A procurement professional who accepts gifts from a supplier in exchange for favorable contract terms is engaging in:",
+    "options": [
+      "Normal relationship-building in procurement",
+      "A legally and ethically acceptable industry practice",
+      "A form of bribery that violates ethical procurement standards",
+      "An accepted practice in all cultural contexts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The principle of \"reciprocity\" in negotiation ethics requires that:",
+    "options": [
+      "Negotiators always make equal concessions regardless of circumstances",
+      "Both parties treat each other fairly and make reasonable exchanges",
+      "One party must give more than the other to close the deal",
+      "Reciprocity has no ethical implications in negotiation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"conflict of interest\" in procurement negotiation?",
+    "options": [
+      "When two suppliers bid on the same contract",
+      "When a negotiator's personal interests interfere with their professional obligations",
+      "When two parties disagree on contract terms",
+      "When negotiation involves multiple issues simultaneously"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical negotiators in supply chain management are expected to:",
+    "options": [
+      "Use any tactic that achieves the best price for their organization",
+      "Disclose only the information that benefits their own position",
+      "Honor commitments, avoid deception, and respect the other party's interests",
+      "Prioritize personal financial gain over organizational integrity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which international framework guides ethical conduct in procurement and negotiation?",
+    "options": [
+      "INCOTERMS",
+      "The UN Convention on Contracts for the International Sale of Goods (CISG)",
+      "The CIPS Code of Ethics for supply chain professionals",
+      "The Basel Convention"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Why is transparency considered a key ethical principle in negotiation?",
+    "options": [
+      "It allows one party to gain a strategic advantage",
+      "It ensures that both parties make decisions based on accurate and complete information",
+      "It eliminates the need for any formal negotiation process",
+      "It reduces the legal enforceability of agreements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A contract in supply chain management is best defined as:",
+    "options": [
+      "An informal verbal agreement between two parties",
+      "A binding legal agreement that defines the rights and obligations of the parties involved",
+      "A price quotation submitted by a supplier",
+      "A purchase order issued by the buying organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT an essential element of a valid contract?",
+    "options": [
+      "Offer and acceptance",
+      "Consideration",
+      "Personal friendship between the parties",
+      "Legal capacity of the parties"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"consideration\" element of a contract refers to:",
+    "options": [
+      "The time taken to negotiate the contract",
+      "The goodwill exchanged between the parties",
+      "Something of value exchanged between the parties as part of the agreement",
+      "The legal advice obtained before signing the contract"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Contract management in supply chain refers to:",
+    "options": [
+      "The process of writing contracts without any negotiation",
+      "Managing only the financial aspects of supplier relationships",
+      "Systematically managing contract creation, execution, and performance to maximize value",
+      "Terminating contracts when suppliers underperform"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key activity during the post-award phase of contract management?",
+    "options": [
+      "Drafting the initial contract terms",
+      "Conducting pre-qualification of suppliers",
+      "Monitoring supplier performance against agreed KPIs and managing changes",
+      "Issuing the invitation to tender"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A \"Force Majeure\" clause in a contract protects parties from:",
+    "options": [
+      "Price escalation due to inflation",
+      "Normal commercial risks in the supply chain",
+      "Liability for failures caused by extraordinary events beyond their control",
+      "Penalties for late delivery under all circumstances"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following contract types places the greatest financial risk on the buyer?",
+    "options": [
+      "Lump-sum contract",
+      "Fixed-price contract",
+      "Cost-plus contract",
+      "Performance-based contract"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A fixed-price contract is most appropriate when:",
+    "options": [
+      "The scope of work is uncertain and difficult to define",
+      "The buyer wants to transfer all cost risk to the supplier",
+      "Market prices are highly volatile",
+      "The supplier requires cost reimbursement plus profit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Key Performance Indicators (KPIs) in contract management are used to:",
+    "options": [
+      "Replace the need for formal contracts",
+      "Measure and evaluate supplier performance against agreed standards",
+      "Determine the legal jurisdiction of the contract",
+      "Calculate the buyer's total cost of ownership"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents a breach of contract?",
+    "options": [
+      "Delivering goods one day early",
+      "Requesting a contract amendment through proper channels",
+      "Failing to deliver goods as specified in the contract terms",
+      "Submitting a progress report to the buyer"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Contract dispute resolution mechanisms include all of the following EXCEPT:",
+    "options": [
+      "Mediation",
+      "Arbitration",
+      "Negotiation",
+      "Ignoring the contractual obligation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A well-drafted contract in supply chain management should include:",
+    "options": [
+      "Only the price and delivery date",
+      "The names of the negotiation team members only",
+      "Clear terms on scope, price, delivery, quality, penalties, and dispute resolution",
+      "Only information favoring the buying organization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes a \"performance bond\" in contract management?",
+    "options": [
+      "A reward given to suppliers who exceed performance targets",
+      "A guarantee that the contractor will fulfill their contractual obligations",
+      "A penalty clause for late delivery",
+      "A certificate of quality compliance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Contract amendments should be managed by:",
+    "options": [
+      "Verbally agreeing to changes without documentation",
+      "Allowing either party to make unilateral changes without consent",
+      "Formally documenting and mutually agreeing to all changes in writing",
+      "Ignoring changes unless they involve price adjustments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In contract management, \"liquidated damages\" refer to:",
+    "options": [
+      "Physical damages to goods during transportation",
+      "Compensation for losses that are difficult to quantify after a breach",
+      "A pre-agreed amount payable if a specific contractual obligation is not met",
+      "Legal fees incurred during contract disputes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A procurement officer who prepares thoroughly before negotiations demonstrates which professional competency?",
+    "options": [
+      "Ability to improvise under pressure",
+      "Readiness to accept any terms offered",
+      "Strategic thinking and professional diligence",
+      "Preference for avoiding negotiation altogether"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"mutual gains\" approach to negotiation is closely associated with:",
+    "options": [
+      "Hardball distributive tactics",
+      "Principled, interest-based negotiation",
+      "Single-issue positional bargaining",
+      "Competitive zero-sum strategies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain negotiations, the concept of \"total cost of ownership\" is important because it:",
+    "options": [
+      "Focuses only on the purchase price",
+      "Ignores long-term costs such as maintenance and disposal",
+      "Encourages buyers to negotiate on price alone",
+      "Considers all costs associated with acquiring, using, and disposing of a product"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following negotiation outcomes represents a \"lose-lose\" scenario?",
+    "options": [
+      "Both parties achieve their core interests",
+      "One party gains at the expense of the other",
+      "Both parties fail to reach any agreement and both are worse off",
+      "A third-party mediator resolves the dispute"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following behaviors demonstrates ethical negotiation practice in procurement?",
+    "options": [
+      "Inflating cost estimates to create room for concessions",
+      "Misrepresenting competitor offers to pressure the supplier",
+      "Making promises without intending to keep them",
+      "Disclosing accurate budget information to enable fair negotiations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which negotiation approach is recommended when the relationship with the supplier is long-term and strategic?",
+    "options": [
+      "Aggressive distributive bargaining",
+      "Avoidance of direct negotiation",
+      "Collaborative integrative negotiation",
+      "Take-it-or-leave-it ultimatum tactics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In Ethiopia's public procurement context, negotiation is typically permitted:",
+    "options": [
+      "For all procurement methods regardless of contract value",
+      "Only in restricted tendering regardless of circumstance",
+      "In specific circumstances such as single-source procurement or after failed competitive bidding",
+      "Never; all public contracts are awarded by auction only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics company negotiating freight rates with a carrier should consider:",
+    "options": [
+      "Only the carrier's published rate schedule",
+      "Volume commitments, service levels, payment terms, and long-term relationship value",
+      "Only the cheapest available rate regardless of service quality",
+      "The carrier's marketing materials as the primary information source"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the best strategy when a supplier uses pressure tactics in negotiation?",
+    "options": [
+      "Immediately concede to their demands",
+      "Walk away from the negotiation permanently",
+      "Recognize the tactic, remain calm, and refocus the discussion on interests",
+      "Retaliate with equally aggressive pressure tactics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"nibble\" tactic in negotiation is best countered by:",
+    "options": [
+      "Accepting all additional requests to maintain goodwill",
+      "Agreeing in principle before fully reviewing the additional demand",
+      "Proactively closing all issues explicitly before finalizing the agreement",
+      "Ignoring the additional request entirely"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an advantage of using written negotiation agendas?",
+    "options": [
+      "They prevent the other party from raising new issues",
+      "They provide structure, reduce misunderstandings, and ensure all issues are addressed",
+      "They legally bind the other party to the proposed terms",
+      "They eliminate the need for preparation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain negotiator who understands the supplier's cost structure has:",
+    "options": [
+      "Less leverage in the negotiation",
+      "A weaker BATNA",
+      "Greater insight to identify fair pricing and mutual gains",
+      "No advantage over a less informed negotiator"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a characteristic of an effective contract in supply chain management?",
+    "options": [
+      "Vague language that allows flexible interpretation by either party",
+      "Clear, specific, and measurable obligations for both parties",
+      "One-sided terms that favor only the buying organization",
+      "No provisions for dispute resolution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A contract that includes \"escalation clauses\" is designed to:",
+    "options": [
+      "Automatically terminate the contract after one year",
+      "Limit the supplier's ability to request price increases",
+      "Allow contract prices to adjust in response to changes in specified cost indices",
+      "Impose penalties on the buyer for late payment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In international supply chain negotiations, cultural awareness is important because:",
+    "options": [
+      "All cultures approach negotiation in the same way",
+      "Cultural differences can significantly affect communication styles and negotiation behaviors",
+      "Cultural differences are irrelevant in formal contract negotiations",
+      "International negotiations always follow a single global standard"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following describes the difference between mediation and arbitration?",
+    "options": [
+      "Mediation is legally binding while arbitration is voluntary",
+      "In mediation a neutral third party helps parties reach agreement; in arbitration the third party imposes a decision",
+      "Arbitration is always cheaper than mediation",
+      "Mediation involves only financial disputes while arbitration covers all disputes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A negotiator who makes small, decreasing concessions signals to the other party that:",
+    "options": [
+      "They are willing to make unlimited concessions",
+      "They are approaching their reservation price and further concessions will be difficult",
+      "They have a weak BATNA",
+      "They want to end the negotiation immediately"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"anchoring bias\" in negotiation suggests that:",
+    "options": [
+      "The first offer has little influence on the final outcome",
+      "Negotiators are unaffected by the initial numbers presented",
+      "First offers can disproportionately influence the final settlement point",
+      "Both parties always ignore opening positions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following contract clauses protects the buyer if a supplier fails to deliver on time?",
+    "options": [
+      "Escalation clause",
+      "Force majeure clause",
+      "Liquidated damages clause",
+      "Indemnification clause"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Ethical conduct in negotiation ultimately supports supply chain sustainability because it:",
+    "options": [
+      "Reduces the need for contracts and formal agreements",
+      "Allows negotiators to use any tactic that maximizes cost savings",
+      "Builds the trust and long-term relationships needed for sustainable supply chain operations",
+      "Eliminates the need for supplier performance monitoring"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a negotiation strategy appropriate for high-value, long-term supply chain partnerships?",
+    "options": [
+      "Single-issue price negotiation",
+      "Competitive bidding with no discussion",
+      "Comprehensive multi-issue integrative negotiation",
+      "Take-it-or-leave-it fixed-price approach"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In negotiation, the skill of \"reframing\" involves:",
+    "options": [
+      "Rearranging the physical layout of the negotiation room",
+      "Presenting an issue from a different perspective to create new possibilities",
+      "Repeating the same arguments more forcefully",
+      "Withdrawing from the negotiation temporarily"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents a best practice in post-negotiation contract administration?",
+    "options": [
+      "Filing the contract and making no further reference to it",
+      "Monitoring performance, managing changes, and resolving disputes throughout the contract period",
+      "Renegotiating all terms after signing the contract",
+      "Allowing informal verbal modifications to replace written contract terms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain professional who uses their negotiation skills to ethically secure favorable terms for their organization while maintaining supplier relationships demonstrates:",
+    "options": [
+      "Aggressive competitive behavior",
+      "Professional incompetence",
+      "Balanced professional negotiation competency",
+      "Avoidance of difficult conversations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"interest vs. position\" distinction in negotiation means that:",
+    "options": [
+      "Positions and interests are always the same thing",
+      "What a party says they want (position) may differ from what they actually need (interest)",
+      "Interests are less important than positions in reaching agreement",
+      "Focusing on positions leads to better outcomes than focusing on interests"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key risk of poorly managed contracts in supply chain management?",
+    "options": [
+      "Improved supplier performance",
+      "Reduced procurement costs",
+      "Cost overruns, disputes, and supply disruptions",
+      "Stronger supplier relationships"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A negotiator who prepares thoroughly, listens actively, and focuses on mutual interests is demonstrating:",
+    "options": [
+      "Weakness in the negotiation process",
+      "Professional negotiation competencies aligned with ethical standards",
+      "Excessive accommodation that undermines organizational objectives",
+      "Avoidance of the competitive aspects of negotiation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of the Ethiopian logistics sector, strong negotiation skills are important for professionals because:",
+    "options": [
+      "Ethiopia has no formal procurement regulations requiring negotiation",
+      "Logistics professionals never need to negotiate with international partners",
+      "Effective negotiation supports cost efficiency, supplier development, and supply chain performance",
+      "Negotiation is only relevant for senior management in Ethiopian organizations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a \"principled\" negotiator?",
+    "options": [
+      "Uses deception strategically when it benefits their organization",
+      "Focuses on defeating the other party",
+      "Ignores objective criteria in favor of personal opinions",
+      "Separates the people from the problem and uses objective criteria"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Contract termination clauses are important in supply chain contracts because they:",
+    "options": [
+      "Automatically end all contracts after one year",
+      "Prevent either party from ever exiting the contract",
+      "Provide a legally defined process for ending the contract if specified conditions are met",
+      "Eliminate the need for performance monitoring"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which negotiation tactic involves presenting multiple equivalent offers simultaneously to reveal the other party's priorities?",
+    "options": [
+      "Anchoring",
+      "Logrolling",
+      "MESO (Multiple Equivalent Simultaneous Offers)",
+      "Nibbling"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A buyer who consistently awards contracts to the same supplier without competitive negotiation risks:",
+    "options": [
+      "Building a strong and exclusive partnership",
+      "Reducing procurement costs significantly",
+      "Complacency, higher prices, and reduced value for money",
+      "Improving supplier innovation through exclusivity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The most important outcome of effective negotiation in supply chain management is:",
+    "options": [
+      "Always achieving the lowest possible price",
+      "Defeating the supplier in every negotiation encounter",
+      "Agreements that create value, manage risk, and support long-term supply chain performance",
+      "Minimizing the time spent on negotiations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a non-price negotiation variable in supply chain contracts?",
+    "options": [
+      "Unit price per item",
+      "Total contract value",
+      "Volume discount percentage",
+      "Delivery lead time and payment terms"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A supply chain manager who monitors contract performance regularly and addresses issues proactively is demonstrating:",
+    "options": [
+      "Excessive interference in supplier operations",
+      "Effective contract management best practice",
+      "A lack of trust in the supplier relationship",
+      "Unnecessary administrative burden"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Negotiation skills are considered a core competency for logistics professionals because:",
+    "options": [
+      "Logistics professionals never interact with external stakeholders",
+      "All procurement decisions are made by software systems",
+      "Negotiation is only relevant for legal professionals",
+      "Logistics involves constant interaction with suppliers, carriers, and partners requiring agreement on terms"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following best describes the role of a contract manager in supply chain operations?",
+    "options": [
+      "Writing all contracts without supplier input",
+      "Terminating all underperforming contracts immediately",
+      "Overseeing contract performance, managing changes, and resolving disputes",
+      "Avoiding any direct communication with suppliers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In negotiation, \"active listening\" demonstrates respect for the other party and helps to:",
+    "options": [
+      "Avoid making any concessions",
+      "Dominate the conversation and control outcomes",
+      "Uncover the other party's true interests and facilitate agreement",
+      "End the negotiation as quickly as possible"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is true about the relationship between negotiation and contract management?",
+    "options": [
+      "They are completely separate activities with no connection",
+      "Contract management begins only after negotiation has completely ended",
+      "Negotiation sets the terms that contract management monitors and enforces throughout the relationship",
+      "Contract management replaces the need for negotiation in supply chains"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A supply chain negotiator who uses objective market data to justify pricing proposals is applying:",
+    "options": [
+      "Subjective opinion as the basis for negotiation",
+      "Emotional persuasion tactics",
+      "Coercive power to force the supplier to agree",
+      "Principled negotiation based on legitimate objective criteria"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following scenarios best illustrates integrative negotiation in a logistics context?",
+    "options": [
+      "A shipper demanding the lowest freight rate from a carrier regardless of service quality",
+      "A shipper and carrier collaborating to redesign delivery routes that reduce costs and improve service for both",
+      "A shipper threatening to switch carriers if rates are not immediately reduced",
+      "A carrier refusing to negotiate and presenting only fixed-rate options"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"walk-away point\" in negotiation is strategically important because it:",
+    "options": [
+      "Signals weakness to the other party",
+      "Eliminates the need for preparation",
+      "Defines the boundary beyond which agreeing would be worse than not agreeing",
+      "Guarantees a successful outcome in all negotiations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes the role of trust in negotiation?",
+    "options": [
+      "Trust is irrelevant in formal supply chain negotiations",
+      "Trust reduces transaction costs and enables more open, productive negotiations",
+      "Trust always leads to unfavorable outcomes for the trusting party",
+      "Trust eliminates the need for formal contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A negotiator who makes commitments they cannot keep damages which key negotiation asset?",
+    "options": [
+      "Their opening offer position",
+      "Their knowledge of the ZOPA",
+      "Their credibility and reputation for trustworthiness",
+      "Their ability to use anchoring tactics"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In supply chain contract management, \"change management\" refers to:",
+    "options": [
+      "Changing the key personnel managing the contract",
+      "Replacing the supplier without prior notification",
+      "Formally managing and documenting modifications to contract terms",
+      "Ignoring changes in market conditions during the contract period"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a practical skill that logistics and supply chain graduates need in negotiation?",
+    "options": [
+      "Ability to avoid all confrontational conversations",
+      "Skill in writing financial audit reports",
+      "Competency in preparing negotiation plans and managing contract performance",
+      "Technical ability to operate transportation management systems only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Effective negotiation contributes to sustainable supply chain management by:",
+    "options": [
+      "Focusing exclusively on price reduction at the expense of supplier welfare",
+      "Creating agreements that balance cost, quality, delivery, and social responsibility",
+      "Eliminating the need for long-term supplier relationships",
+      "Maximizing buyer power over suppliers at all times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of Ethiopian government procurement, negotiations must adhere to:",
+    "options": [
+      "No specific regulations or ethical guidelines",
+      "Whatever terms the buying organization prefers",
+      "Ethical principles and applicable public procurement laws and regulations",
+      "Only international negotiation standards regardless of local law"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following represents the highest level of negotiation competency for a supply chain professional?",
+    "options": [
+      "Always achieving the lowest price",
+      "Avoiding difficult negotiations entirely",
+      "Using any tactic available to win the negotiation",
+      "Skillfully balancing assertiveness and collaboration to achieve sustainable, mutually beneficial outcomes"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A logistics professional who applies ethical negotiation practices, prepares thoroughly, and builds strong supplier relationships contributes most directly to:",
+    "options": [
+      "Increasing short-term costs for the organization",
+      "Reducing the organization's competitive advantage",
+      "Long-term supply chain performance, resilience, and organizational reputation",
+      "Creating adversarial relationships with all supply chain partners"
+    ],
+    "correct": 2
+  }
+]
