@@ -1,0 +1,1262 @@
+[
+  {
+    "questionText": "What is the primary focus of lean logistics?",
+    "options": [
+      "Increasing inventory levels",
+      "Eliminating waste and optimizing the supply chain",
+      "Expanding warehouse space",
+      "Slowing down product flow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the most stringent measure of a firm's performance related to product availability?",
+    "options": [
+      "Items fill rate",
+      "Line fill rate",
+      "Value fill rate",
+      "Order fill rate"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A logistics manager notices that the actual order cycle time frequently varies from the planned time. This indicates a problem with which dimension of operational performance?",
+    "options": [
+      "Speed",
+      "Flexibility",
+      "Consistency",
+      "Malfunction recovery"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company decides to redesign its distribution network to ensure that products are available in convenient locations, reducing the shopping effort for customers, even if it increases costs. This decision prioritizes which service output?",
+    "options": [
+      "Lot size",
+      "Waiting time",
+      "Spatial convenience",
+      "Product variety"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A warehouse supervisor is training a new employee on how to correctly pick items from shelves and stage them for shipping. This training focuses on developing which type of skill?",
+    "options": [
+      "Cognitive strategy",
+      "Verbal information",
+      "Motor skill",
+      "Attitude"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics analyst is evaluating two different transportation modes to find which one offers the lowest total cost while meeting a required delivery window. This process is an example of which cognitive level?",
+    "options": [
+      "Remembering",
+      "Understanding",
+      "Analyzing",
+      "Creating"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A supply chain director is comparing the long-term strategic benefits of outsourcing to a 3PL versus a 4PL. She must justify her recommendation to the board based on control, cost, and core competency focus. This requires which cognitive level?",
+    "options": [
+      "Applying",
+      "Analyzing",
+      "Evaluating",
+      "Remembering"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key difference between waste management and reverse logistics?",
+    "options": [
+      "Reverse logistics only deals with hazardous materials",
+      "Waste management focuses on products with no new use, while reverse logistics focuses on products with recoverable value",
+      "Waste management is a subset of reverse logistics",
+      "Reverse logistics is less expensive than waste management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of lean logistics, what is the primary purpose of establishing a Just-in-Time (JIT) strategy?",
+    "options": [
+      "To increase the amount of safety stock",
+      "To reduce inventory wastage by minimizing stock-on-hand levels",
+      "To create longer production runs",
+      "To centralize all distribution centers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following logistics performance measures is calculated as Cost of Goods Sold divided by Average Inventory valued at cost?",
+    "options": [
+      "Asset turnover",
+      "Inventory turnover",
+      "Capacity utilization",
+      "Equipment downtime"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics manager is tasked with reconfiguring the facility network to improve customer service capabilities. According to the text, the design of this network requires careful analysis of what?",
+    "options": [
+      "Employee satisfaction levels",
+      "Geographical variation",
+      "Promotional strategies",
+      "Packaging designs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT one of the four fundamental service outputs necessary to meet customer needs?",
+    "options": [
+      "Spatial convenience",
+      "Product price",
+      "Waiting time",
+      "Product variety and assortments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "To achieve logistical leadership, a firm must master the art of matching operating competency and commitment to what?",
+    "options": [
+      "The lowest possible total cost",
+      "The highest attainable customer service",
+      "Key customer expectations and requirements",
+      "Stockholder return on investment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary role of a 4PL provider compared to a 3PL provider?",
+    "options": [
+      "A 4PL only provides transportation services",
+      "A 4PL targets management of the entire supply chain process as an integrator",
+      "A 4PL is a cheaper alternative to a 3PL",
+      "A 4PL owns all the assets required for logistics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the first step in applying lean thinking to the supply chain?",
+    "options": [
+      "Map out the value stream",
+      "Establish a customer pull",
+      "Specify value for the customer",
+      "Seek perfection by eliminating waste"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following describes the \"directing\" objective of a performance measurement system?",
+    "options": [
+      "Tracking system performance for management reports",
+      "Having standards to indicate when the system needs attention",
+      "Relating to employee motivation and reward for performance",
+      "Measuring the cost of warehousing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company measures its logistics performance by the percentage of customer orders that are delivered complete, on time, and with correct documentation. This is an example of measuring what?",
+    "options": [
+      "Equipment downtime",
+      "The perfect order",
+      "Cash-to-cash conversion",
+      "Dwell time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A customer consistently receives deliveries later than the promised time. According to the customer satisfaction model, this will most likely lead to what outcome regarding future expectations?",
+    "options": [
+      "The customer will expect even later deliveries",
+      "The customer will expect on-time deliveries",
+      "The customer's expectations will be unaffected",
+      "The customer will expect earlier deliveries"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A logistics employee is learning how to operate a new automated guided vehicle (AGV) to move pallets in the warehouse. This activity is best classified under which domain?",
+    "options": [
+      "Cognitive",
+      "Affective",
+      "Psychomotor",
+      "Metacognitive"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "To select the right 3PL provider, a client should evaluate the provider's financial strength, flexibility, and what other key criterion?",
+    "options": [
+      "The provider's office location",
+      "A cost-control system with a clear tariff structure",
+      "The provider's brand name",
+      "The number of employees the provider has"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a primary reason for the increased complexity of global logistics performance cycles compared to domestic ones?",
+    "options": [
+      "Shorter transit times",
+      "Fewer communication delays",
+      "Ocean freight scheduling and customs clearance",
+      "Deregulation of all transport modes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main purpose of systems analysis methodology in logistics?",
+    "options": [
+      "To optimize each individual component separately",
+      "To create a total integrated effort greater than the sum of its parts",
+      "To minimize the number of facilities in the network",
+      "To reduce the need for information technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager is analyzing data to find the root cause of a recent increase in damaged goods. She examines reports on warehouse damage, loading damage, and transportation damage. This analysis is focused on which logistics performance dimension?",
+    "options": [
+      "Productivity",
+      "Asset Management",
+      "Quality",
+      "Cost Management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A retailer wants to reduce the amount of time its inventory sits idle in the supply chain. Which metric should the retailer focus on improving?",
+    "options": [
+      "Cash-to-cash conversion",
+      "SC inventory days of supply",
+      "Dwell time",
+      "SC response time"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT one of the seven \"rights\" of customer service mentioned in the context of basic customer service programs?",
+    "options": [
+      "Right product",
+      "Right place",
+      "Right price",
+      "Right condition"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A firm that takes full control of a customer's logistics activities at the customer's request is classified as which type of 3PL?",
+    "options": [
+      "Standard 3PL provider",
+      "Service developer",
+      "Customer adapter (connector)",
+      "Customer developer"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the ultimate goal of a lean logistics system?",
+    "options": [
+      "To maximize the number of warehouses",
+      "To achieve a constant cycle of seeking perfection by eliminating waste",
+      "To increase the complexity of the supply chain",
+      "To focus only on outbound transportation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The performance measure \"line fill rate\" is calculated as which of the following?",
+    "options": [
+      "Number of items delivered / Number of items ordered",
+      "Number of PO lines delivered complete / Number of PO lines ordered",
+      "Total dollar value delivered / Total dollar value of orders",
+      "Number of orders delivered complete / Number of customer orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a flexible logistics system, where are fast-moving products with predictable demand typically stocked?",
+    "options": [
+      "Only at one central global location",
+      "In forward warehouses close to dealers",
+      "On the manufacturing plant floor",
+      "In cross-docking terminals only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A customer feels a sense of disappointment after receiving a product because its real performance did not meet their expectations. This feeling is defined as what?",
+    "options": [
+      "Service reliability",
+      "Customer satisfaction (or dissatisfaction)",
+      "Operational performance",
+      "Value proposition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"cabotage\" refer to in global transportation?",
+    "options": [
+      "The use of intermodal containers",
+      "The privatization of state-owned railways",
+      "Domestic transport of goods by a foreign operator",
+      "A bilateral trade agreement between two countries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is one of the main advantages of using a 3PL?",
+    "options": [
+      "Complete loss of control over logistics",
+      "Increased focus on non-core competencies",
+      "Ability to exploit external logistical expertise",
+      "Guaranteed improvement in employee quality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a transaction system within a Supply Chain Information System (SCIS)?",
+    "options": [
+      "Strategic planning for network design",
+      "Performance measurement reporting",
+      "Order entry and inventory assignment",
+      "Decision analysis for mode selection"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary function of a cross-dock operation?",
+    "options": [
+      "Long-term storage of finished goods",
+      "Manufacturing and assembly of components",
+      "Shipments from multiple suppliers arriving to be sorted and sent out",
+      "Retail point-of-sale for end consumers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics executive is trying to reduce the financial value of deployed inventory while increasing how fast that inventory is replenished. This executive is focusing on which two logistical integration objectives?",
+    "options": [
+      "Responsiveness and quality",
+      "Variance reduction and shipment consolidation",
+      "Inventory reduction and life cycle support",
+      "Inventory reduction and turn velocity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An organization wants to measure how well it accommodates customer expectations. According to the text, what is the only way to be sure customers are satisfied?",
+    "options": [
+      "Calculate the perfect order ratio",
+      "Achieve 99.5% on-time delivery",
+      "Ask the customers",
+      "Benchmark against competitors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which technology uses intercompany computer-to-computer exchange of business documents like purchase orders and invoices?",
+    "options": [
+      "Radio Frequency Identification (RFID)",
+      "Warehouse Management System (WMS)",
+      "Electronic Data Interchange (EDI)",
+      "Expert System"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the first task of lean logistics according to its five principles?",
+    "options": [
+      "Map out every process along the supply chain",
+      "Identify and define the value for the customer",
+      "Redesign processes to maximize value creation",
+      "Introduce a pull system to reduce inventory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the most common measure of asset management performance related to inventory?",
+    "options": [
+      "Capacity utilization",
+      "Equipment down time",
+      "Inventory turnover rate",
+      "Damage frequency"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company is deciding whether to use a direct distribution structure or an echeloned structure. The direct structure is typically characterized by what?",
+    "options": [
+      "Products flowing through a common arrangement of facilities",
+      "The use of premium transport and IT to reduce time delays",
+      "Slower order delivery cycles",
+      "Higher levels of inventory at intermediate warehouses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Why is measuring productivity sometimes difficult and frustrating for logistics managers?",
+    "options": [
+      "Outputs are always easy to measure",
+      "Input utilization is easy to match for a given time period",
+      "Data is always readily available",
+      "Outputs are hard to measure and input mix changes consistently"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following activities is part of the \"reprocessing\" stage in reverse logistics?",
+    "options": [
+      "Collection and separation from customers",
+      "Redistribution to a new user",
+      "Recycling and remanufacturing",
+      "Final disposal in a landfill"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main difference between an echeloned logistics structure and a direct structure?",
+    "options": [
+      "Echeloned structures use premium transport, direct structures use slow transport",
+      "Echeloned structures involve a common arrangement of facilities, direct structures do not",
+      "Direct structures are only for finished goods, echeloned for raw materials",
+      "Echeloned structures are cheaper than direct structures for all products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics manager is evaluating a new Warehouse Management System (WMS) software. This software primarily supports what?",
+    "options": [
+      "Intercompany financial transactions",
+      "Day-to-day operations in a warehouse",
+      "Long-term strategic network planning",
+      "Artificial intelligence for route optimization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary goal of logistics from a business perspective?",
+    "options": [
+      "To minimize the speed of product flow",
+      "To support procurement, manufacturing, and market distribution operational requirements",
+      "To eliminate all inventory",
+      "To focus solely on outbound transportation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of logistics performance, what does \"effectiveness\" measure?",
+    "options": [
+      "How economically resources are utilized",
+      "The extent to which a customer's requirements are met",
+      "The total cost of transportation",
+      "The speed of order processing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to the marketing concept, what is more basic to a business's strategy than products or services?",
+    "options": [
+      "Sales volume",
+      "Profit margins",
+      "Customer needs and requirements",
+      "Distribution channels"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics system is designed to buffer against unplanned variances like delivery delays by using safety stock. This is a common solution to achieve which integration objective?",
+    "options": [
+      "Inventory reduction",
+      "Shipment consolidation",
+      "Variance reduction",
+      "Responsiveness"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main benefit of using a pull system (JIT) in logistics?",
+    "options": [
+      "It allows for economies of scale in production",
+      "It minimizes stock-on-hand by being demand-based",
+      "It requires less accurate demand information",
+      "It increases the need for large warehouses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a \"non-cost\" performance measure category?",
+    "options": [
+      "Transportation cost per unit",
+      "Warehousing cost as a percentage of sales",
+      "Time",
+      "Order processing cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How does logistics add value to the supply chain process?",
+    "options": [
+      "By increasing the total cost of operations",
+      "When inventory is strategically positioned to achieve sales",
+      "By focusing only on manufacturing efficiency",
+      "By eliminating all customer service requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm is implementing a strategy to shift from forecasting future requirements to rapidly accommodating customers on an order-to-shipment basis. This firm is focusing on which integration objective?",
+    "options": [
+      "Quality",
+      "Responsiveness",
+      "Life cycle support",
+      "Variance reduction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a significant challenge mentioned regarding the implementation of effective logistical process costing?",
+    "options": [
+      "It is a solved problem from the 20th century",
+      "It remains a 21st-century challenge",
+      "It is less important than customer service",
+      "It only applies to transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to the text, which of the following is NOT a factor that drives the need for continuous modification of the facility network?",
+    "options": [
+      "Constant changes in product assortments",
+      "Dynamic competitive environment",
+      "Unchanging customer and supplier requirements",
+      "Changes in manufacturing requirements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What does the \"absolute performance\" approach in customer accommodation address?",
+    "options": [
+      "Aggregating performance over many orders",
+      "Hiding the organization's real impact on its customer base",
+      "Providing a better indication of how logistical performance really impacts customers",
+      "Measuring performance based on customer surveys only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a reason why timely and accurate information has become more critical for logistics?",
+    "options": [
+      "Customers perceive information as an unnecessary cost",
+      "Information cannot be used to reduce inventory",
+      "Information increases flexibility in resource utilization",
+      "Information reduces the need for any human resources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An organization wants to calculate its cash-to-cash conversion cycle. This metric measures what?",
+    "options": [
+      "The total amount of cash held in a bank account",
+      "The time required to convert a dollar spent on inventory into a dollar collected from sales",
+      "The profit margin on each product sold",
+      "The cost of processing a customer's payment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In lean logistics, what is meant by \"specifying value\"?",
+    "options": [
+      "Determining the highest possible price for a product",
+      "Identifying and defining the primary needs of the customer",
+      "Calculating the total cost of the supply chain",
+      "Mapping out all processes regardless of their purpose"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a primary disadvantage of using a 3PL?",
+    "options": [
+      "Increased focus on core competencies",
+      "Potential loss of customer feedback",
+      "Reduced need for logistical expertise",
+      "Guaranteed lower costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of logistics according to the provided text?",
+    "options": [
+      "The process of only storing finished goods",
+      "The management of order processing, inventory, transportation, warehousing, materials handling, and packaging",
+      "The exclusive management of inbound raw materials",
+      "The process of selling products to end consumers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the goal of lean thinking in a supply chain?",
+    "options": [
+      "To increase the environmental impact of operations",
+      "To ensure improved customer service and reduce waste",
+      "To maximize the amount of work-in-process inventory",
+      "To decrease the speed of product flow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"perfect order\"?",
+    "options": [
+      "An order that is delivered on time, but may have incorrect documentation",
+      "An order that is delivered complete, on time, in perfect condition, with accurate documentation",
+      "An order that has the highest sales value",
+      "An order that is processed only through EDI"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of benchmarking?",
+    "options": [
+      "To maintain the current performance level",
+      "To learn from others and introduce breakthrough improvements",
+      "To keep operational costs the same year over year",
+      "To focus only on internal performance metrics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"order cycle consistency\" refer to?",
+    "options": [
+      "The fastest possible delivery time",
+      "The number of times actual cycles meet the planned time for completion",
+      "The total distance an order travels",
+      "The cost of processing a single order"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT one of the three areas into which logistical operations are divided for better understanding?",
+    "options": [
+      "Market distribution",
+      "Manufacturing support",
+      "Retail marketing",
+      "Procurement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company is calculating its performance by dividing the number of perfect orders by the total number of orders completed. What is this ratio measuring?",
+    "options": [
+      "Cash-to-cash conversion",
+      "Perfect order performance",
+      "Inventory turnover",
+      "Capacity utilization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of logistics in the marketing concept regarding products and services?",
+    "options": [
+      "To set the price for products and services",
+      "To design the product features",
+      "To ensure products and services are available when and where desired by customers",
+      "To manage the advertising campaigns for products"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main difference between a 3PL and a 4PL?",
+    "options": [
+      "A 4PL targets a single function like transportation, while a 3PL targets the entire process",
+      "A 3PL is always more expensive than a 4PL",
+      "A 4PL acts as a general contractor managing other 3PLs",
+      "A 3PL is a separate entity, while a 4PL is not"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to the principles of general systems theory, individual components of a logistics system need not have the best or optimum design because the emphasis is on what?",
+    "options": [
+      "The cost of each individual component",
+      "The integrated relationship between components",
+      "The speed of each individual component",
+      "The technology used in each component"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"spatial convenience\" in the context of supply chain service outputs?",
+    "options": [
+      "The number of product units purchased per transaction",
+      "The ease with which a customer can access a product",
+      "The time between ordering and receiving a product",
+      "The range of different products offered"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics manager is using a metric that measures the percentage of total capacity used in a warehouse. This is a measure of what?",
+    "options": [
+      "Inventory turnover",
+      "Customer service",
+      "Asset management (capacity utilization)",
+      "Quality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the fundamental logistical objective related to transportation cost?",
+    "options": [
+      "To maximize the number of shipments",
+      "To achieve shipment consolidation",
+      "To use only air freight",
+      "To increase the distance of each shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of reverse logistics?",
+    "options": [
+      "The flow of products from the point of origin to the point of consumption",
+      "The process of planning and controlling the flow of materials from consumption back to origin for value recovery",
+      "The management of forward distribution only",
+      "The process of manufacturing new products from raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is one of the key benefits of effective reverse logistics management?",
+    "options": [
+      "Lower revenue realization from secondary sales",
+      "Increased cost of goods sold (COGS)",
+      "Higher revenue realization from secondary sales",
+      "Poorer inventory management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main challenge that executives face when using \"on average, over time\" performance measures?",
+    "options": [
+      "They are too specific to be useful",
+      "They tend to hide the organization's real impact on its customer base",
+      "They are only applicable to financial metrics",
+      "They are too difficult to calculate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a unique national accommodation in global operations?",
+    "options": [
+      "Standardized global power supply",
+      "Multilingual documentation",
+      "A single language for all product labels",
+      "Uniform safety requirements across all countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the function of a distributor cross-dock?",
+    "options": [
+      "To receive and consolidate supplies for manufacturing",
+      "To consolidate LTL shipments from different suppliers",
+      "To consolidate products from different suppliers and deliver them to customers",
+      "To receive, sort, and send products to different retail stores"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics manager is focused on reducing the number of times an order is touched or processed. This effort is directly related to which lean logistics principle?",
+    "options": [
+      "Establish customer pull",
+      "Seek perfection",
+      "Map out supply chain processes and identify waste",
+      "Determine value for the customer"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a global context, why are alliances with carriers and specialized service suppliers essential?",
+    "options": [
+      "They decrease market access",
+      "They offer market access and reduce inherent risk",
+      "They increase the complexity of global operations",
+      "They are required by cabotage laws"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the formula for \"value fill rate\"?",
+    "options": [
+      "Number of items delivered / Number of items ordered",
+      "Number of PO lines delivered complete / Number of PO lines ordered",
+      "Total dollar value delivered / Total dollar value of customer orders",
+      "Number of orders delivered complete / Number of customer orders"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An organization's failure to perform any expected service of logistical operations, such as a delay in order processing, results in what?",
+    "options": [
+      "A reduction in inventory",
+      "An unplanned variance in the order-to-delivery cycle",
+      "Improved customer satisfaction",
+      "Lower total logistics cost"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the strategic importance of measuring and compressing time in logistics?",
+    "options": [
+      "It decreases market share",
+      "It reduces quality",
+      "It improves responsiveness to customer orders",
+      "It increases costs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the key to achieving logistical leadership according to the text?",
+    "options": [
+      "Providing the lowest possible cost regardless of service",
+      "Mastering the art of matching competency to key customer expectations",
+      "Having the largest fleet of trucks",
+      "Focusing only on domestic operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics employee is practicing how to correctly fill out international shipping documentation, including bills of lading and customs forms, without errors. This skill development is primarily in which domain?",
+    "options": [
+      "Affective",
+      "Cognitive (remembering)",
+      "Psychomotor",
+      "Cognitive (evaluating)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Why do most logistics managers place greater value on consistency than on speed of delivery?",
+    "options": [
+      "Consistent cycles allow customers to carry less safety stock",
+      "Consistency is always faster than speed",
+      "Inconsistent cycles are cheaper to manage",
+      "Customers never care about speed"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the main goal of \"life cycle support\" in logistics integration?",
+    "options": [
+      "To only focus on forward distribution",
+      "To provide cradle-to-cradle logistics, including product return",
+      "To minimize the length of a product's life",
+      "To avoid dealing with defective products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of a \"pull system\" like JIT?",
+    "options": [
+      "To push inventory closer to the customer",
+      "To produce goods based on long-term forecasts",
+      "To order and deliver goods as they are needed by the customer",
+      "To maintain high levels of safety stock"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT one of the four levels of functionality for Supply Chain Information Systems (SCIS)?",
+    "options": [
+      "Transaction systems",
+      "Employee recruitment",
+      "Decision analysis",
+      "Strategic planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the first step in mapping out a lean supply chain?",
+    "options": [
+      "Establish customer pull",
+      "Seek perfection",
+      "Map out every process to find delays and restraints",
+      "Redesign the product for faster manufacturing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company determines that 60 cents of every logistics dollar is spent on transportation. Based on this, which integration objective becomes critically important for cost reduction?",
+    "options": [
+      "Inventory reduction",
+      "Shipment consolidation",
+      "Quality improvement",
+      "Variance reduction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"inventory dwell time\" measure?",
+    "options": [
+      "The speed of transportation",
+      "The ratio of days inventory sits idle to days it is being used",
+      "The total value of inventory",
+      "The number of times inventory is turned over"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a primary barrier to internal integration within a firm?",
+    "options": [
+      "Highly aligned measurement and reward systems",
+      "Open sharing of knowledge across departments",
+      "Knowledge hoarding",
+      "Advanced information technology"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A customer is willing to accept a longer delivery time in exchange for a lower product price. This trade-off is primarily related to which service output?",
+    "options": [
+      "Spatial convenience",
+      "Lot size",
+      "Waiting time (Delivery Time)",
+      "Product variety"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics manager is using a metric that compares the output of goods to the quantity of inputs utilized. This manager is measuring what?",
+    "options": [
+      "Quality",
+      "Customer service",
+      "Productivity",
+      "Asset management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is one of the main reasons a firm would implement a reverse logistics program?",
+    "options": [
+      "To increase the amount of waste sent to landfills",
+      "To handle warranty claims and product recalls",
+      "To avoid dealing with customer returns",
+      "To increase the speed of forward logistics only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the logistical value proposition?",
+    "options": [
+      "The cost of the logistics function",
+      "A unique commitment of a firm to an individual or selected groups of its customers",
+      "The time it takes to deliver an order",
+      "The number of warehouses a firm operates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"malfunction recovery\" in operational performance?",
+    "options": [
+      "Consistently delivering orders on time",
+      "Having a flexible product variety",
+      "Adjusting operations to prevent or accommodate special situations",
+      "Speeding up the order cycle"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A manufacturing company decides to use a transportation cross-dock to consolidate Less than Truck Load (LTL) shipments from different suppliers. What is the primary purpose of this action?",
+    "options": [
+      "To increase the number of individual shipments",
+      "To reach economic shipment sizes and reduce costs",
+      "To store products for a long duration",
+      "To increase the complexity of the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does the marketing concept suggest is the focal point of a business's strategy?",
+    "options": [
+      "The shareholders",
+      "The products it sells",
+      "The customers it intends to serve",
+      "The logistics system"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main challenge related to serving small lot sizes for customers?",
+    "options": [
+      "It decreases flexibility for the customer",
+      "It increases handling costs for the supply chain",
+      "It reduces the price per unit",
+      "It simplifies inventory management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary reason for the excitement surrounding lean logistics, despite its high cost?",
+    "options": [
+      "It is a simple way to eliminate all inventory",
+      "It focuses solely on cost control",
+      "It helps firms understand how to use logistical competency to achieve competitive advantage",
+      "It guarantees a 50% reduction in transportation costs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is a key attribute of leading logistical performers?",
+    "options": [
+      "They avoid using information technology",
+      "They implement technology to monitor global activity in real-time",
+      "They never inform customers of developing problems",
+      "They focus only on domestic operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A customer is evaluating a supplier based on the probability that the supplier has inventory to meet their product requirements. This evaluation is focused on which key element of logistics service?",
+    "options": [
+      "Operational Performance",
+      "Service Reliability",
+      "Availability",
+      "Cost Minimization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is a major difference between domestic and global performance cycles?",
+    "options": [
+      "Domestic cycles are measured in weeks or months, global in days",
+      "Global cycles are shorter due to faster transit times",
+      "Global cycles are longer due to ocean freight and customs clearance",
+      "There is no significant difference"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A 3PL provider that takes over the entire logistics function of a few customers and performs extensive, detailed tasks for them is classified as which type?",
+    "options": [
+      "Standard 3PL provider",
+      "Service developer",
+      "Customer adapter",
+      "Customer developer"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a key element of service reliability in logistics?",
+    "options": [
+      "Fastest possible delivery speed",
+      "The ability to ship orders at the lowest cost",
+      "Damage-free shipments and correct invoices",
+      "Having the most warehouses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary purpose of the \"benchmarking wheel\" mentioned in the text?",
+    "options": [
+      "To describe the steps that constitute a benchmarking study",
+      "To calculate inventory turnover",
+      "To design a new warehouse layout",
+      "To measure customer satisfaction"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A firm is trying to reduce its SC inventory days of supply. This metric focuses on total inventory at what level?",
+    "options": [
+      "Only at the manufacturing plant",
+      "Only at the retail store",
+      "At all locations (plants, DCs, wholesalers, retailers)",
+      "Only in-transit inventory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the fourth aspect of the marketing concept related to volume and profit?",
+    "options": [
+      "Volume is more important than profit",
+      "Focus on profitable relationships, not just selling more units",
+      "Sales volume is the only measure of success",
+      "Profit is secondary to customer satisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a key benefit of reducing asset dwell time in the supply chain?",
+    "options": [
+      "Assets sitting idle contribute to higher productivity",
+      "It is a key objective because idle assets do not contribute to productivity",
+      "It increases the need for more safety stock",
+      "It has no impact on the organization's productivity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does SC response time (SCRT) compute?",
+    "options": [
+      "The time to deliver a product to a customer",
+      "The time to recognize a market shift, re-plan, and adjust to meet demand",
+      "The time a product sits idle in a warehouse",
+      "The time to convert inventory into sales"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of a Retail cross dock?",
+    "options": [
+      "To receive and consolidate supplies for manufacturing",
+      "To consolidate LTL shipments from different suppliers",
+      "To consolidate products from different suppliers and deliver them to customers",
+      "To receive, sort, and send products to different retail stores"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the definition of a 4PL according to the text?",
+    "options": [
+      "A single transportation carrier",
+      "An integrator that assembles resources to design and run comprehensive supply chain solutions",
+      "A company that only provides warehouse space",
+      "A standard 3PL provider with a new name"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Why is it important for a 3PL to have a high degree of flexibility in place, time, volume, and quantity?",
+    "options": [
+      "To increase the client's inventory levels",
+      "To be able to adapt to the client's changing needs",
+      "To make the client's supply chain more rigid",
+      "To reduce the need for communication with the client"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of a customer developer 3PL?",
+    "options": [
+      "To perform basic functions like picking and packing",
+      "To offer advanced value-added services like tracking",
+      "To take full control at the customer's request",
+      "To integrate themselves with the customer and take over the entire logistics function"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a critical logistics technology that uses artificial intelligence?",
+    "options": [
+      "EDI",
+      "RFID",
+      "WMS",
+      "Expert System"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the main purpose of a Warehouse Management System (WMS)?",
+    "options": [
+      "To manage financial accounting",
+      "To support day-to-day warehouse operations",
+      "To design the supply chain network",
+      "To handle customer complaints"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary benefit of using RFID technology in logistics?",
+    "options": [
+      "It is a cheaper alternative to bar coding",
+      "It can be used to identify a container or its contents as it moves",
+      "It replaces the need for any human labor",
+      "It is only used for financial transactions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main purpose of Bar Coding and Scanning?",
+    "options": [
+      "To create artificial intelligence programs",
+      "To place computer-readable codes on items and containers",
+      "To manage intercompany financial exchanges",
+      "To design new warehouse layouts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a key feature of a 4PL organization?",
+    "options": [
+      "It acts as multiple interfaces between the client and LSPs",
+      "It manages only one aspect of the client's supply chain",
+      "It is often a separate entity established as a joint venture",
+      "It can never be formed by a major 3PL provider"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is a primary reason for the expansion of logistical operations' size and complexity?",
+    "options": [
+      "Decreased focus on e-commerce",
+      "The recent growth in global commerce and introduction of e-commerce",
+      "Reduced customer expectations",
+      "A decrease in product variety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary focus of Green Logistics (Ecological Logistics)?",
+    "options": [
+      "Maximizing fuel consumption",
+      "Understanding and minimizing the ecological impact of logistics",
+      "Increasing waste production",
+      "Focusing solely on reverse logistics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a key difference in operational considerations between domestic and global logistics?",
+    "options": [
+      "Global logistics requires fewer documentation requirements",
+      "Global logistics may require multiple languages for product documentation",
+      "Domestic logistics involves more complex financing requirements",
+      "Global logistics has shorter performance cycles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the ultimate objective of any benchmarking study?",
+    "options": [
+      "Measurement",
+      "Comparison",
+      "Learning",
+      "Improvement"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What does it mean for a logistical system to have an \"echeloned structure\"?",
+    "options": [
+      "Products flow directly from origin to destination",
+      "Products flow through a common arrangement of firms and facilities",
+      "Products are always shipped via air freight",
+      "Products bypass all intermediate warehouses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary function of an ERP (Enterprise Resource Planning) system in the context of information system integration?",
+    "options": [
+      "Only for warehouse execution",
+      "A major system component that integrates with communications and planning systems",
+      "Only for transportation routing",
+      "A replacement for all human decision-making"
+    ],
+    "correct": 1
+  }
+]
