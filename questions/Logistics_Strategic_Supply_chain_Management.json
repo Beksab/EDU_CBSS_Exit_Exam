@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which analytical framework is MOST commonly used to assess the external environment affecting a company's supply chain strategy?",
+    "options": [
+      "Balanced Scorecard",
+      "PESTEL analysis, which examines Political, Economic, Social, Technological, Environmental, and Legal factors",
+      "SWOT analysis of internal strengths and weaknesses only",
+      "Porter's Five Forces applied exclusively to competitor analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Porter's Five Forces framework helps supply chain strategists to:",
+    "options": [
+      "Design the internal layout of warehouse facilities",
+      "Analyze the competitive forces in an industry — including supplier power, buyer power, threat of new entrants, threat of substitutes, and competitive rivalry — to inform strategic supply chain positioning",
+      "Calculate the optimal safety stock level for each product",
+      "Design transportation routes for outbound logistics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist conducting a SWOT analysis identifies that the company has strong supplier relationships but faces increasing raw material price volatility. These represent:",
+    "options": [
+      "Two weaknesses that must be addressed simultaneously",
+      "A strength (strong supplier relationships) and a threat (price volatility) that together suggest a strategic opportunity to leverage relationships for long-term price agreements",
+      "Two threats requiring immediate defensive action",
+      "An opportunity and a weakness that cancel each other out"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In strategic supply chain management, \"environmental scanning\" refers to:",
+    "options": [
+      "Assessing the environmental pollution caused by supply chain operations",
+      "Continuously monitoring the external business environment — including market trends, competitor moves, regulatory changes, and technological developments — to identify threats and opportunities affecting the supply chain strategy",
+      "Conducting physical inspections of supplier facilities",
+      "Reviewing internal supply chain performance metrics quarterly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company operating in Ethiopia's manufacturing sector must consider which political factor MOST carefully when developing its supply chain strategy?",
+    "options": [
+      "The popularity of social media among the Ethiopian youth population",
+      "Government industrial policy, investment incentives, trade regulations, import/export restrictions, and political stability, all of which directly affect sourcing decisions, market access, and supply chain network design",
+      "The average temperature in Addis Ababa affecting warehouse design",
+      "The number of universities offering logistics degrees in Ethiopia"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist applies Porter's Value Chain analysis to identify where value is created in the organization. Which supply chain activities are classified as \"primary activities\" in this framework?",
+    "options": [
+      "Human resource management and technology development",
+      "Inbound logistics, operations, outbound logistics, marketing and sales, and service",
+      "Infrastructure, procurement, and firm infrastructure",
+      "Finance, legal, and administration"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Resource-Based View (RBV) of strategic management applied to supply chain strategy suggests that competitive advantage comes from:",
+    "options": [
+      "Having the largest number of suppliers in the network",
+      "Possessing supply chain resources and capabilities that are valuable, rare, difficult to imitate, and non-substitutable — such as proprietary logistics networks, deep supplier relationships, or advanced supply chain analytics",
+      "Operating in industries with the lowest competition",
+      "Minimizing investment in supply chain infrastructure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following external trends is MOST likely to disrupt global supply chain strategies in the coming decade?",
+    "options": [
+      "Increasing use of paper-based procurement processes",
+      "Geopolitical fragmentation, climate change impacts on supply chain resilience, accelerating digitalization, and the shift toward regionalized supply chains driven by near-shoring and friend-shoring trends",
+      "Decreasing importance of transportation in global trade",
+      "Declining consumer expectations for delivery speed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategic analysis reveals that the company's key supplier has growing bargaining power due to market consolidation. The MOST appropriate strategic response is:",
+    "options": [
+      "Immediately terminating the supplier relationship",
+      "Developing alternative suppliers, investing in long-term strategic partnerships with the current supplier, exploring backward integration options, or redesigning the product to reduce dependency on that supplier",
+      "Accepting the increased supplier power without a strategic response",
+      "Reducing order volumes to signal reduced dependency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Dynamic capabilities\" in the context of supply chain strategy refer to:",
+    "options": [
+      "The physical speed of transportation assets in the supply chain",
+      "The organization's ability to sense market changes, seize emerging opportunities, and reconfigure supply chain resources and capabilities to adapt to a changing environment",
+      "The capability to process orders faster than competitors",
+      "The ability to hire and train supply chain staff quickly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain strategic analysis should integrate both external and internal analysis. Which tool BEST combines both dimensions?",
+    "options": [
+      "PESTEL analysis alone",
+      "SWOT analysis, which synthesizes internal strengths and weaknesses with external opportunities and threats to generate strategic options for the supply chain",
+      "Balanced Scorecard alone",
+      "Porter's Five Forces alone"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In strategic supply chain management, \"scenario planning\" is used to:",
+    "options": [
+      "Schedule daily supply chain operations for the next week",
+      "Develop multiple plausible future scenarios based on key environmental uncertainties and design supply chain strategies that are robust across these scenarios, preparing the organization for a range of possible futures",
+      "Plan the physical layout of warehouses",
+      "Create financial projections for the next quarter"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A global supply chain strategist assesses that rising nationalism and trade protectionism are increasing. Which strategic supply chain adaptation is MOST appropriate?",
+    "options": [
+      "Expanding reliance on a single global sourcing hub to achieve economies of scale",
+      "Regionalizing the supply chain by developing local or regional supplier networks in key markets to reduce exposure to trade barriers and improve supply chain resilience",
+      "Eliminating all international sourcing in favor of domestic procurement",
+      "Increasing inventory levels to buffer against trade disruptions without changing the supply chain structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"competitive environment\" analysis relevant to supply chain strategy?",
+    "options": [
+      "Analyzing the personal preferences of the company's chief executive",
+      "Understanding competitor supply chain strategies, their cost structures, service capabilities, and the competitive pressures they create, to identify where the company's supply chain must excel to win in the market",
+      "Reviewing the supply chain academic literature for best practices",
+      "Analyzing the performance of the company's stock price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist identifies that e-commerce growth is fundamentally changing customer delivery expectations in Ethiopia. Which strategic environmental factor does this represent?",
+    "options": [
+      "A political threat requiring regulatory compliance",
+      "A technological and social opportunity requiring strategic supply chain adaptation — specifically, investment in last-mile delivery capabilities, digital order management, and flexible fulfillment to meet rising customer expectations",
+      "A purely economic factor with no supply chain implications",
+      "An internal operational challenge unrelated to the external environment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Supply chain design\" refers to:",
+    "options": [
+      "The graphic design of supply chain documentation and reports",
+      "The strategic decisions about the structure of the supply chain network, including the number and location of facilities, the allocation of activities across the network, and the selection of supply chain partners",
+      "The daily scheduling of warehouse operations",
+      "The design of product packaging for distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a KEY strategic decision in supply chain network design?",
+    "options": [
+      "Choosing the font for supplier invoices",
+      "Determining the number, location, and capacity of manufacturing plants, warehouses, and distribution centers to optimize cost and service across the supply chain",
+      "Scheduling daily delivery routes for trucks",
+      "Selecting the uniform design for logistics staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is designing its supply chain network and must choose between a centralized and a decentralized distribution structure. The PRIMARY trade-off in this decision involves:",
+    "options": [
+      "Employee satisfaction versus supplier satisfaction",
+      "Inventory pooling benefits and lower holding costs of centralization versus faster response times and lower transportation costs of decentralization",
+      "Product quality versus production speed",
+      "Marketing costs versus procurement costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Facility location analysis\" in supply chain design considers which of the following factors?",
+    "options": [
+      "The CEO's preferred city for business travel",
+      "Proximity to customers and suppliers, transportation infrastructure quality, labor costs and availability, land and facility costs, regulatory environment, and tax incentives",
+      "The visual attractiveness of the facility surroundings",
+      "The historical significance of potential locations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain network design model that minimizes total cost while meeting customer service level requirements is an example of which type of decision-making approach?",
+    "options": [
+      "Qualitative judgment based solely on management intuition",
+      "Quantitative optimization, using mathematical models to find the cost-minimizing network configuration subject to constraints on service levels and capacity",
+      "Benchmarking competitor network designs without analysis",
+      "Random selection of facility locations based on available real estate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"lean\" supply chain design?",
+    "options": [
+      "A supply chain designed with excessive inventory buffers at every stage",
+      "A supply chain designed to eliminate waste, reduce lead times, minimize inventory, and deliver value to customers efficiently through streamlined, synchronized processes",
+      "A supply chain that uses the minimum number of suppliers regardless of risk",
+      "A supply chain focused exclusively on reducing transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An \"agile\" supply chain design is characterized by:",
+    "options": [
+      "Long production runs and high minimum order quantities to achieve efficiency",
+      "Flexibility, speed, and responsiveness — designed to quickly adapt to changes in demand, supply disruptions, or market shifts, often through modular production, flexible capacity, and close supplier relationships",
+      "Rigid, long-term contracts that lock in fixed quantities and prices",
+      "Centralized decision-making that eliminates local flexibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"leagile\" supply chain design concept combines:",
+    "options": [
+      "Lean and legal principles of supply chain management",
+      "Lean efficiency principles upstream (where demand is predictable) with agile responsiveness downstream (where demand is uncertain), using a \"decoupling point\" to separate the two strategies",
+      "Large-scale and agile supply chain strategies without any decoupling",
+      "Legal compliance requirements with agile operational practices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain design, the \"decoupling point\" refers to:",
+    "options": [
+      "The point where a supplier and buyer terminate their relationship",
+      "The point in the supply chain where products transition from being produced to forecast (push) to being produced in response to actual customer demand (pull)",
+      "The geographic midpoint between a supplier and a customer",
+      "The point at which a product is transferred from the manufacturer to a logistics provider"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company producing customized industrial equipment should position its decoupling point:",
+    "options": [
+      "As far downstream as possible, close to the end customer, so that nearly all production is completed to forecast",
+      "As far upstream as possible, so that only generic components are produced to forecast and final assembly occurs only after a customer order is received, balancing efficiency with customization",
+      "At the beginning of the supply chain, so all production is triggered by forecasts",
+      "Exactly at the midpoint of the supply chain regardless of demand patterns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which supply chain design strategy is MOST appropriate for a company selling fashion apparel with short product life cycles and highly unpredictable demand?",
+    "options": [
+      "Efficient, low-cost supply chain with long production runs and high inventory",
+      "Agile supply chain with flexible manufacturing, rapid replenishment, close collaboration with responsive suppliers, and a design that minimizes committed inventory before demand signals are received",
+      "Lean supply chain focused on eliminating all inventory from the network",
+      "Single-source supply chain with long-term fixed contracts to secure supply"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In supply chain design, \"postponement\" as a strategy means:",
+    "options": [
+      "Delaying payment to suppliers until cash flow improves",
+      "Deferring product differentiation or customization to as late as possible in the supply chain to reduce the risk of building the wrong product, allowing the company to respond to actual demand with more tailored products",
+      "Postponing all supply chain design decisions until the market stabilizes",
+      "Delaying new supplier onboarding to avoid disrupting existing operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to reduce its supply chain \"carbon footprint\" through network design. Which design decision would MOST directly achieve this?",
+    "options": [
+      "Increasing the number of distribution centers to improve delivery speed",
+      "Optimizing facility locations to reduce transportation distances, consolidating shipments, selecting lower-emission transportation modes, and incorporating renewable energy into facility operations",
+      "Outsourcing all logistics to a third party",
+      "Eliminating all international sourcing activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"supply chain network optimization\"?",
+    "options": [
+      "The process of making all supply chain networks identical to competitor networks",
+      "The use of analytical models to find the best configuration of supply chain facilities, flows, and capacities that minimizes total cost while meeting service, capacity, and other strategic constraints",
+      "Optimizing the number of employees in the supply chain department",
+      "Ensuring all supply chain documentation is stored in the most organized format"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain designer must balance \"efficiency\" and \"responsiveness\" in network design. Under which condition should responsiveness be prioritized over efficiency?",
+    "options": [
+      "When all products have stable, predictable demand and low margins",
+      "When products have short life cycles, high demand variability, high margins, or when the cost of lost sales due to stockouts significantly exceeds the cost of maintaining responsive but more expensive supply chain capabilities",
+      "When the company is in a commoditized market with price-sensitive customers",
+      "When the primary competitive basis in the market is lowest price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Core competency\" in strategic supply chain management refers to:",
+    "options": [
+      "The basic skills required for all employees in the logistics department",
+      "A unique combination of capabilities that the organization possesses, which creates distinctive value for customers and is difficult for competitors to replicate — and which should therefore be retained internally rather than outsourced",
+      "The minimum technical skills required to operate supply chain software",
+      "The government-mandated certifications required for logistics professionals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to the core competency framework, which supply chain activities should a company consider RETAINING in-house?",
+    "options": [
+      "All activities regardless of whether they are strategically important",
+      "Activities that are central to the company's competitive differentiation, involve proprietary knowledge or technology, directly shape the customer experience, or represent capabilities that are difficult and costly to rebuild if outsourced",
+      "Only activities that are the cheapest to perform internally",
+      "Activities that have the largest number of employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"outsourcing\" in supply chain management?",
+    "options": [
+      "Moving all supply chain operations to a foreign country",
+      "Contracting specific supply chain activities or processes to external third parties who can perform them more efficiently, effectively, or at lower cost, allowing the company to focus on its core competencies",
+      "Eliminating non-essential employees from the supply chain department",
+      "Purchasing all raw materials from external suppliers instead of growing them internally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Strategic outsourcing\" differs from \"tactical outsourcing\" primarily in that:",
+    "options": [
+      "Strategic outsourcing involves lower financial value contracts",
+      "Strategic outsourcing involves long-term partnerships with external providers for capabilities that significantly affect competitive positioning, whereas tactical outsourcing is driven by short-term cost savings on non-critical activities",
+      "Tactical outsourcing is always more expensive than strategic outsourcing",
+      "Strategic outsourcing is only applicable to transportation activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company outsources its entire logistics operation to a 3PL provider. Which risk must be MOST carefully managed?",
+    "options": [
+      "The risk that the 3PL provider's trucks are a different color than the company's brand guidelines",
+      "Loss of operational control, dependency on a single provider, potential deterioration of service quality, erosion of internal logistics knowledge, and the risk that the 3PL's incentives may not always align with the company's strategic interests",
+      "The risk that the 3PL provider becomes too profitable",
+      "The risk of the 3PL provider hiring too many employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"make-or-buy\" decision framework in strategic supply chain management should be guided primarily by:",
+    "options": [
+      "Which option is currently used by the majority of competitors",
+      "Analysis of strategic importance, core competency alignment, total cost comparison, quality requirements, supply risk, capacity considerations, and the long-term implications for the company's competitive capabilities",
+      "Which option requires the least amount of management attention",
+      "Which option was recommended by the last management consultant hired"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Offshoring\" in supply chain strategy refers to:",
+    "options": [
+      "Moving all operations to offshore islands for tax purposes",
+      "Relocating supply chain activities — particularly manufacturing or services — to another country, typically to exploit lower costs, access specific skills, or serve new markets",
+      "Outsourcing logistics operations to a domestic third-party provider",
+      "Storing excess inventory in offshore warehouses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Near-shoring\" as a supply chain strategy involves:",
+    "options": [
+      "Moving all operations to the nearest competitor's facility",
+      "Relocating supply chain activities from distant low-cost locations to geographically closer countries, trading some cost advantage for shorter lead times, better responsiveness, reduced supply risk, and easier management",
+      "Eliminating all international sourcing activities",
+      "Expanding supply chain operations to the nearest ocean port"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that has outsourced its manufacturing discovers that the outsourced partner has become a direct competitor by using the knowledge gained. This risk is known as:",
+    "options": [
+      "Supply chain disruption risk",
+      "Opportunistic behavior risk or capability leakage, where an outsourcing partner leverages access to the company's proprietary knowledge, processes, or markets to compete against the company",
+      "Financial credit risk",
+      "Transportation and logistics risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"fourth-party logistics\" (4PL) provider?",
+    "options": [
+      "A logistics company that owns four different types of transportation assets",
+      "An integrator that manages and coordinates multiple logistics service providers (3PLs) on behalf of a client, providing a single point of accountability for the entire supply chain and often contributing strategic supply chain advisory capabilities",
+      "A logistics company that operates in four countries simultaneously",
+      "A company that provides the fourth tier of distribution in a supply chain network"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"transaction cost theory\" applied to outsourcing decisions suggests that activities should be outsourced when:",
+    "options": [
+      "Transaction costs are higher than production costs",
+      "The cost of managing the activity through market transactions (outsourcing) is lower than the cost of managing it internally, taking into account asset specificity, uncertainty, and frequency of transactions",
+      "All supply chain activities should always be outsourced to reduce internal complexity",
+      "Transaction costs are irrelevant to outsourcing decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company decides to \"insource\" a previously outsourced logistics activity. The PRIMARY motivation for this decision is MOST likely:",
+    "options": [
+      "The 3PL provider requested that the contract be terminated",
+      "The company has determined that the activity has become strategically critical, that the 3PL's performance has deteriorated, or that bringing the activity in-house would provide a meaningful competitive advantage that outweighs the cost and complexity of insourcing",
+      "The insourced option requires fewer contractual arrangements",
+      "The company's CEO prefers to manage all operations internally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST significant risk of outsourcing core competency activities in supply chain management?",
+    "options": [
+      "The outsourcing contract requires too much legal documentation",
+      "Erosion of the organization's unique capabilities over time, making it increasingly dependent on external providers and unable to rebuild the competency internally if the outsourcing relationship fails or the strategic context changes",
+      "The external provider may charge too little for its services",
+      "Outsourcing may result in too many employees remaining in the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Vertical integration\" as a supply chain strategy involves:",
+    "options": [
+      "Organizing all supply chain staff in a vertical reporting hierarchy",
+      "Expanding the company's ownership and control over supply chain activities — either backward (toward suppliers) or forward (toward customers) — to reduce dependency on external parties, control critical resources, or capture additional value",
+      "Designing warehouse storage with vertical racking systems",
+      "Using vertical transportation (elevators) in multi-story warehouses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is evaluating whether to vertically integrate by acquiring a key supplier. Which condition MOST justifies this decision?",
+    "options": [
+      "The supplier produces a commodity item available from many alternative sources",
+      "The supplier controls a critical, scarce resource; the supply market is highly concentrated with few alternatives; the supplier's capabilities are strategically vital; and vertical integration would yield cost, quality, or competitive advantages that outweigh the investment and management complexity",
+      "The supplier is the cheapest option in the market",
+      "The supplier is located near the company's headquarters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Supply chain integration\" is BEST defined as:",
+    "options": [
+      "Combining all supply chain departments into a single organizational unit",
+      "The strategic coordination of business processes, information flows, and relationships across organizational boundaries — connecting suppliers, manufacturers, distributors, and customers — to optimize the performance of the entire supply chain system",
+      "Installing a single software platform for all supply chain activities",
+      "Standardizing all products across the supply chain to reduce complexity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"vertical integration\" of the supply chain versus \"horizontal integration\"?",
+    "options": [
+      "Vertical integration means adding more product lines; horizontal integration means adding more suppliers",
+      "Vertical integration refers to expanding control across different stages of the supply chain (e.g., owning both manufacturing and distribution); horizontal integration refers to expanding at the same level (e.g., acquiring a competitor)",
+      "Both terms refer to the same type of supply chain expansion strategy",
+      "Vertical integration applies only to manufacturing companies; horizontal integration applies only to service companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Internal supply chain integration\" involves:",
+    "options": [
+      "Integrating the company's supply chain with those of its competitors",
+      "Breaking down organizational silos within the company by aligning the goals, processes, and information flows of procurement, production, logistics, sales, and finance departments to act as a coordinated internal supply chain",
+      "Integrating all warehouse management systems into a single platform",
+      "Combining the supply chain and marketing departments into one team"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"External supply chain integration\" involves:",
+    "options": [
+      "Hiring external consultants to manage the supply chain",
+      "Extending coordination and information sharing beyond the company's boundaries to include upstream suppliers and downstream customers, creating collaborative relationships that optimize the entire supply chain rather than individual organizations within it",
+      "Using external warehousing for all finished goods storage",
+      "Outsourcing all supply chain activities to external providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The SCOR (Supply Chain Operations Reference) model supports supply chain integration by:",
+    "options": [
+      "Providing a government-mandated standard for all supply chain contracts",
+      "Offering a standard framework for describing, measuring, and improving supply chain processes across organizations — enabling consistent communication and benchmarking between supply chain partners",
+      "Replacing ERP systems with a standardized technology platform",
+      "Providing a legal framework for supply chain disputes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the PRIMARY barrier to supply chain integration across organizational boundaries?",
+    "options": [
+      "Excessive availability of supply chain integration technology",
+      "Misaligned incentives between supply chain partners, lack of trust, reluctance to share sensitive business information, incompatible technology systems, and cultural and organizational differences between companies",
+      "Too many employees willing to collaborate across organizational boundaries",
+      "Excessive investment in supply chain integration by all partners"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Collaborative Planning, Forecasting, and Replenishment (CPFR)\" is an example of:",
+    "options": [
+      "A government regulation requiring supply chain collaboration",
+      "A supply chain integration initiative where buyers and suppliers jointly develop demand forecasts, production plans, and replenishment schedules — sharing data and aligning decisions to reduce uncertainty and improve supply chain performance",
+      "An internal financial planning process within a single company",
+      "A transportation management approach for coordinating truck schedules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"supply chain partnership\"?",
+    "options": [
+      "A legal merger between a buyer and a supplier company",
+      "A long-term, mutually beneficial relationship between supply chain parties characterized by trust, shared goals, open communication, joint problem-solving, and equitable sharing of risks and rewards — going beyond transactional purchasing to create collaborative value",
+      "A short-term contract negotiated on price alone",
+      "A government-mandated supplier registration requirement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company achieves \"end-to-end supply chain visibility.\" This MOST directly enables:",
+    "options": [
+      "Eliminating all supply chain disruptions permanently",
+      "Real-time monitoring of inventory, orders, and shipments across the entire supply chain, enabling faster detection of problems, proactive risk management, better customer communication, and more informed decision-making by all supply chain stakeholders",
+      "Reducing the number of suppliers in the network",
+      "Automating all supply chain decisions without human involvement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain integration strategies involves sharing point-of-sale data with suppliers to improve their production planning?",
+    "options": [
+      "Vendor-managed inventory only",
+      "Continuous replenishment programs (CRP) or collaborative supply chain initiatives where downstream demand data is shared upstream, enabling suppliers to align their production and delivery schedules with actual consumer demand",
+      "Traditional periodic ordering based on reorder points",
+      "Spot purchasing from multiple suppliers without data sharing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Supply chain governance\" in an integrated supply chain refers to:",
+    "options": [
+      "Government regulation of all supply chain activities",
+      "The structures, rules, processes, and mechanisms that define how decisions are made, how performance is managed, how conflicts are resolved, and how risks and rewards are shared across supply chain partners",
+      "The legal ownership structure of supply chain assets",
+      "The reporting hierarchy within the supply chain department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company implements a \"supply chain council\" with representatives from procurement, operations, logistics, sales, and finance. The PRIMARY purpose of this structure is to:",
+    "options": [
+      "Reduce the number of employees in each department",
+      "Create a cross-functional governance body that aligns supply chain strategy and decision-making across internal departments, breaking down silos and ensuring that supply chain decisions reflect the needs and constraints of all relevant functions",
+      "Replace the roles of individual department heads",
+      "Manage all day-to-day operational supply chain tasks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST illustrates \"supply chain integration creating competitive advantage\"?",
+    "options": [
+      "A company that reduces supplier payments to improve margins",
+      "A company like Zara that integrates real-time sales data from stores into production scheduling and replenishment decisions, enabling faster response to fashion trends than competitors and superior inventory efficiency",
+      "A company that outsources all supply chain activities to reduce costs",
+      "A company that standardizes all products to simplify supply chain operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Trust\" in supply chain integration is important because:",
+    "options": [
+      "Trust legally obligates partners to share all proprietary information",
+      "Trust reduces transaction costs, encourages information sharing, enables joint problem-solving, and underpins the long-term relationships necessary for deep supply chain collaboration — without trust, partners withhold information and integration remains superficial",
+      "Trust eliminates the need for supply chain contracts",
+      "Trust ensures that all supply chain partners achieve equal profits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"supply chain alignment\" means:",
+    "options": [
+      "Ensuring all supply chain trucks are parked in straight lines",
+      "Ensuring that supply chain strategy, structure, processes, capabilities, and partner relationships are coherently aligned with the overall business strategy and customer value proposition, so that every element of the supply chain supports the company's competitive objectives",
+      "Aligning supplier invoices with purchase orders for financial reconciliation",
+      "Ensuring that all supply chain employees follow the same work schedule"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is developing its supply chain strategy in response to significant market disruption caused by a new digital competitor offering faster delivery at lower prices. Which strategic analysis should be conducted FIRST?",
+    "options": [
+      "Immediately redesigning the warehouse layout to improve picking speed",
+      "Conducting a comprehensive strategic analysis including external environment assessment (competitive landscape, customer expectation shifts, technology trends) and internal capability assessment to identify the strategic gaps that must be addressed",
+      "Cutting supplier prices to immediately reduce costs",
+      "Launching a marketing campaign to counter the competitor's messaging"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist must evaluate two alternative supply chain designs: Design A is highly efficient with low cost but limited flexibility; Design B is more expensive but highly responsive. Under which business context is Design B clearly superior?",
+    "options": [
+      "A commodity product market with stable demand and price-sensitive customers",
+      "A market characterized by high demand volatility, short product life cycles, high product margins, and customers who place high value on availability and customization — where the revenue and margin benefits of responsiveness outweigh its higher cost",
+      "A market where all competitors use efficient, low-cost supply chains",
+      "A market where the company has significant excess manufacturing capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critically analyze the MAIN strategic risk of a company that has outsourced nearly all its supply chain activities in pursuit of cost efficiency:",
+    "options": [
+      "The company may have too much cash available from cost savings",
+      "The company becomes \"hollowed out\" — losing internal supply chain capabilities, knowledge, and control — making it vulnerable to provider failures, unable to respond to strategic shifts, and potentially dependent on providers who may become competitors or increase prices",
+      "The company may have difficulty managing too many outsourcing contracts",
+      "The company's employees may have too much free time after outsourcing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist is designing an integration strategy for a multi-tier supply chain involving tier-1, tier-2, and tier-3 suppliers. Which challenge is MOST difficult to address?",
+    "options": [
+      "Integrating the company's ERP system with tier-1 suppliers",
+      "Achieving visibility and coordination beyond tier-1 suppliers, where the company has less direct relationship influence, where technology compatibility decreases, and where managing the complexity of multiple tiers of integration requires new governance approaches and incentive structures",
+      "Negotiating contracts with tier-1 suppliers",
+      "Managing the transportation between tier-1 suppliers and the manufacturing plant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain strategy has historically focused on cost efficiency. Analyze what changes in the external environment would MOST justify a fundamental strategic shift toward a resilience-focused supply chain strategy:",
+    "options": [
+      "A small decrease in raw material prices",
+      "A combination of factors including increased frequency of supply disruptions (pandemics, geopolitical events, natural disasters), growing customer expectations for supply continuity, regulatory requirements for supply chain transparency, and the strategic realization that the cost of disruptions exceeds the savings from pure efficiency optimization",
+      "A slight improvement in competitor delivery times",
+      "A minor increase in transportation fuel costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic implications of a decision to near-shore manufacturing for a company that currently sources from Asia for the Ethiopian market:",
+    "options": [
+      "Near-shoring would only affect transportation costs with no strategic implications",
+      "Near-shoring could reduce lead times significantly, improve supply chain responsiveness, reduce foreign exchange and geopolitical risk, support local economic development (which may align with government relations goals), and provide a competitive advantage in responsiveness — but at potentially higher production costs that must be justified by total value analysis",
+      "Near-shoring would automatically reduce all supply chain costs",
+      "Near-shoring is only relevant for European or American companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company must design a supply chain strategy for a new product line that will serve both stable B2B industrial customers and highly volatile B2C retail customers. Which supply chain design approach BEST addresses this dual requirement?",
+    "options": [
+      "Designing a single uniform supply chain optimized for the B2B segment and applying it to both segments",
+      "Designing a segmented supply chain with an efficient, predictable fulfillment track for B2B customers and a responsive, flexible fulfillment track for B2C customers, potentially sharing common upstream elements to achieve economies of scale while differentiating downstream based on customer requirements",
+      "Outsourcing all B2C fulfillment and keeping B2B fulfillment internal",
+      "Using the same high-cost responsive supply chain for all customers to maximize service"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST illustrates a \"supply chain as a strategic weapon\" rather than merely a cost center?",
+    "options": [
+      "A company that minimizes supply chain investment to reduce overhead",
+      "A company like Amazon or Apple that uses its superior supply chain capabilities — including proprietary fulfillment networks, deep supplier integration, and advanced demand management — to deliver product availability, speed, and cost advantages that competitors cannot easily replicate, making the supply chain a primary source of market differentiation",
+      "A company that outsources all supply chain activities to focus on marketing",
+      "A company that reduces supply chain headcount to improve profit margins"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A strategic supply chain review reveals that the company has strong procurement capabilities but weak demand planning capabilities. Analyze the MOST significant consequence of this imbalance:",
+    "options": [
+      "The company will purchase too many office supplies",
+      "Poor demand planning will undermine even excellent procurement — creating mismatches between supply and demand that result in either excess inventory (waste) or stockouts (lost sales and customer dissatisfaction), negating the value of strong procurement performance",
+      "The company's marketing team will be responsible for resolving the imbalance",
+      "The company will need to hire more procurement staff to compensate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist must recommend whether a company should pursue a \"vertical integration\" or \"virtual supply chain\" strategy. Under which conditions is the virtual supply chain strategy MORE appropriate?",
+    "options": [
+      "When the company needs complete control over all supply chain activities",
+      "When capable external partners exist who can perform non-core supply chain activities more effectively than the company itself, when market conditions change rapidly making fixed asset ownership risky, and when the company benefits more from focusing resources on its core differentiating capabilities",
+      "When the company has significant capital available for investment in supply chain assets",
+      "When the industry has very few qualified external supply chain service providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze the CORE tension in supply chain strategy between \"global efficiency\" and \"local responsiveness\":",
+    "options": [
+      "There is no tension — global efficiency and local responsiveness always support each other",
+      "Global efficiency strategies (standardization, centralization, scale economies) reduce cost but may sacrifice the ability to adapt to local market requirements, regulations, cultural preferences, and supply chain conditions — while local responsiveness strategies improve market fit but increase cost and complexity, requiring a deliberate strategic choice about where on this spectrum to position the supply chain",
+      "Local responsiveness always increases global efficiency",
+      "Global efficiency is only relevant for large multinational corporations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's supply chain integration initiative has stalled because key suppliers are unwilling to share demand data. Analyze the ROOT CAUSE of this resistance and recommend the MOST effective intervention:",
+    "options": [
+      "The suppliers are technically incapable of sharing data",
+      "The suppliers likely perceive that the risks of sharing data (loss of negotiating leverage, exposure of their own supply chain vulnerabilities) outweigh the benefits — the most effective intervention is to design mutual value-sharing arrangements that give suppliers tangible benefits from collaboration, combined with governance mechanisms that protect shared data from misuse",
+      "The suppliers do not understand what data is being requested",
+      "The company should penalize non-compliant suppliers financially"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic appropriateness of a company that has decided to outsource its product design and innovation activities to reduce costs:",
+    "options": [
+      "This is always a sound strategic decision because it reduces fixed costs",
+      "This decision is strategically dangerous if product design and innovation are core competencies that differentiate the company — outsourcing them risks eroding the company's unique value proposition, transferring proprietary knowledge to external parties, and creating dependency on providers who may lack the company's strategic intent or commitment to its customers",
+      "This decision is appropriate as long as the outsourcing contract includes intellectual property protections",
+      "This decision is only problematic if the outsourcing partner is located in a foreign country"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist is tasked with creating a supply chain resilience framework for a company operating in East Africa. Which elements should be CORE to this framework?",
+    "options": [
+      "Focusing exclusively on reducing transportation costs",
+      "Identifying critical supply chain vulnerabilities, diversifying suppliers and logistics routes, building strategic inventory buffers for critical items, developing supply chain risk monitoring capabilities, establishing response protocols for different disruption scenarios, and fostering collaborative resilience-building with key supply chain partners",
+      "Eliminating all single-source supplier relationships immediately",
+      "Relocating all operations to a single, easily defensible location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which supply chain integration mechanism is MOST effective for managing high-value, strategically critical supplier relationships?",
+    "options": [
+      "Arm's-length transactional purchasing with annual competitive bidding",
+      "Strategic alliance or partnership model characterized by joint planning, shared performance metrics, open-book costing, joint investment in improvement projects, and long-term commitment — creating deep interdependence that drives mutual performance improvement",
+      "Short-term spot contracts renewed quarterly based on price",
+      "Fully vertically integrating all critical supplier activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to measure the effectiveness of its supply chain integration. Which set of metrics provides the MOST comprehensive assessment?",
+    "options": [
+      "Only the cost of supply chain integration technology",
+      "A balanced set including supply chain cycle time, inventory levels across the network, order fulfillment accuracy, demand forecast accuracy, supplier delivery performance, supply chain cost as a percentage of revenue, and qualitative measures of partnership quality and information sharing effectiveness",
+      "Only customer satisfaction survey scores",
+      "Only the number of suppliers integrated into the company's ERP system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze how the \"bullwhip effect\" undermines supply chain strategic integration goals and recommend the MOST comprehensive solution:",
+    "options": [
+      "The bullwhip effect only affects inventory levels and has no strategic implications",
+      "The bullwhip effect amplifies demand variability upstream, causing excessive inventory, poor resource utilization, and misaligned production — undermining integration goals of synchronized, efficient supply chain flow; the most comprehensive solution combines demand data sharing, coordinated forecasting, stable ordering policies, reduced lead times, and supply chain-wide incentive alignment to eliminate the root causes of variability amplification",
+      "The bullwhip effect can be solved by simply increasing safety stock at each tier",
+      "The bullwhip effect is only caused by poor transportation planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist is evaluating whether to implement a \"supply chain segmentation\" strategy. Which condition MOST strongly justifies this approach?",
+    "options": [
+      "When all customers and products have identical supply chain requirements",
+      "When the company serves diverse customer segments with significantly different service requirements, product characteristics, and demand patterns — making a single supply chain design suboptimal for all segments — and when the revenue and service benefits of differentiated supply chains outweigh the increased complexity and cost",
+      "When the company has only one product line",
+      "When all supply chain partners use the same technology platform"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Create a strategic supply chain framework for an Ethiopian manufacturing company entering export markets for the first time. Which sequence of strategic priorities is MOST appropriate?",
+    "options": [
+      "Immediately building large export warehouses in target markets before understanding demand patterns",
+      "First conducting a strategic analysis of target markets and competitive requirements; then designing an export supply chain with appropriate sourcing, production, quality assurance, and logistics capabilities; establishing key logistics partnerships (freight forwarders, customs brokers, 3PLs); and building export compliance and documentation capabilities — then piloting with a limited market entry before scaling",
+      "Outsourcing all export activities to a trading company without developing internal export capabilities",
+      "Replicating the domestic supply chain design for export markets without adaptation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST evaluates the long-term strategic sustainability of a supply chain strategy focused purely on cost minimization?",
+    "options": [
+      "A cost minimization strategy is always sustainable because it protects profit margins",
+      "A pure cost minimization strategy may be unsustainable because it can sacrifice resilience, innovation, supplier relationships, and responsiveness — leaving the company vulnerable to disruptions, unable to adapt to market changes, and potentially destroying supplier capabilities through excessive cost pressure, ultimately undermining the supply chain performance it depends on",
+      "Cost minimization is sustainable as long as the company maintains strong marketing",
+      "Cost minimization is only unsustainable in developing countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company discovers that its supply chain strategy is not aligned with its business strategy of product innovation and speed-to-market. Which symptoms would MOST clearly indicate this misalignment?",
+    "options": [
+      "The company has too many products in its portfolio",
+      "Long new product introduction lead times, frequent stock shortages of new products at launch, inability to respond quickly to design changes, suppliers who lack innovation capabilities, and supply chain processes optimized for efficiency rather than flexibility — all of which constrain the company's ability to compete on innovation and speed",
+      "The company's marketing department is not performing well",
+      "The company's finance team is not approving supply chain investments quickly enough"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic value of supply chain transparency to end consumers in industries such as food and apparel:",
+    "options": [
+      "Transparency has no strategic value as most consumers do not care about supply chain practices",
+      "Transparency increasingly creates competitive advantage by building consumer trust, supporting premium pricing, differentiating the brand, enabling compliance with growing ethical sourcing regulations, and reducing reputational risk — as consumers, regulators, and investors increasingly demand evidence of responsible supply chain practices",
+      "Transparency only matters for luxury brands",
+      "Transparency is only legally required for pharmaceutical supply chains"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist must recommend how to redesign the company's supplier base after a major supply disruption. Which strategic principle should guide the redesign?",
+    "options": [
+      "Reducing the supplier base to the absolute minimum number to simplify management",
+      "Designing a supplier portfolio that balances cost efficiency with resilience — maintaining preferred strategic suppliers for critical items while developing qualified backup suppliers, reducing concentration risk, implementing supplier financial health monitoring, and building collaborative risk-sharing arrangements with key suppliers",
+      "Immediately switching to the cheapest available suppliers",
+      "Vertically integrating all supplier activities to eliminate external dependency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critically evaluate the role of \"supply chain leadership\" in achieving strategic supply chain integration:",
+    "options": [
+      "Supply chain leadership is irrelevant because technology can automate all integration activities",
+      "Supply chain leadership is critical because achieving genuine integration requires breaking down entrenched organizational silos, building trust with external partners, aligning diverse stakeholder interests, championing investment in integration capabilities, and sustaining the organizational commitment needed to realize long-term integration benefits — none of which can be achieved through technology alone",
+      "Supply chain leadership only matters at the operational level",
+      "Supply chain leadership is only important during crisis situations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is creating a long-term supply chain strategy roadmap. Which planning horizon and review cycle is MOST appropriate for strategic supply chain decisions?",
+    "options": [
+      "Weekly reviews focused on operational daily scheduling",
+      "A 3-5 year strategic horizon with annual comprehensive reviews and quarterly progress assessments — long enough to capture the impact of major network design, partnership, and capability investments, while remaining responsive to significant environmental changes that require strategic adjustments",
+      "A 10-year fixed plan that is never revised regardless of market changes",
+      "Monthly reviews focused exclusively on cost performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes how \"digital transformation\" changes strategic supply chain management?",
+    "options": [
+      "Digital transformation only affects the speed of order processing",
+      "Digital transformation fundamentally changes supply chain strategy by enabling end-to-end visibility, real-time decision-making, predictive analytics, autonomous operations, new business models (e.g., platform-based supply chains), and the ability to compete on data-driven insights — requiring companies to rethink both their supply chain capabilities and their competitive strategy",
+      "Digital transformation eliminates the need for supply chain strategy",
+      "Digital transformation only affects warehouse automation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the appropriateness of using a single global supply chain strategy versus a multi-regional supply chain strategy for a company expanding into African markets:",
+    "options": [
+      "A single global strategy is always superior because it maximizes economies of scale",
+      "A multi-regional strategy is generally more appropriate for African market expansion because of the significant variation in infrastructure quality, regulatory environments, local sourcing capabilities, customer preferences, and logistics challenges across African countries — requiring supply chain designs adapted to regional realities while leveraging global scale where possible",
+      "A single global strategy is appropriate as long as the company has a strong global brand",
+      "The choice between global and regional strategy is irrelevant because all supply chains are inherently global"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist is recommending improvements to the company's supplier development program. Which recommendation would generate the GREATEST long-term strategic value?",
+    "options": [
+      "Reducing prices paid to suppliers to force efficiency improvements",
+      "Investing in supplier capability development programs — including technical training, process improvement collaboration, quality system development, and technology adoption support — that build suppliers' capabilities in areas critical to the company's supply chain strategy, creating mutual competitive advantage that is difficult for competitors to replicate",
+      "Replacing all underperforming suppliers with new suppliers immediately",
+      "Requiring all suppliers to obtain international quality certifications within 30 days"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze the strategic implications of \"supply chain complexity\" for a company that has expanded its product range and supplier base rapidly:",
+    "options": [
+      "Supply chain complexity is always beneficial because it provides more options",
+      "Rapid expansion of product range and supplier base can create unmanageable supply chain complexity — increasing coordination costs, reducing visibility, multiplying risk exposure, degrading demand forecast accuracy, and straining management bandwidth — potentially destroying more value than the revenue growth it enables, requiring a deliberate complexity reduction or segmentation strategy",
+      "Supply chain complexity only affects large multinational companies",
+      "Supply chain complexity can always be resolved by hiring more staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes how a company should evaluate whether its supply chain strategy is creating competitive advantage?",
+    "options": [
+      "By comparing supply chain costs to the industry average",
+      "By assessing whether the supply chain capabilities deliver superior value to target customers compared to competitors — measured through customer service performance, order fulfillment speed and reliability, total cost competitiveness, supply chain resilience, and the sustainability of supply chain advantages over time — while ensuring alignment with the overall business strategy",
+      "By counting the number of supply chain improvement projects completed",
+      "By measuring only internal supply chain efficiency metrics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company operating in Ethiopia wants to build a supply chain strategy that supports the country's industrialization agenda. Which strategic alignment is MOST valuable?",
+    "options": [
+      "Focusing exclusively on importing finished goods from abroad",
+      "Aligning the supply chain strategy with Ethiopia's industrial policy by developing domestic supplier capabilities, investing in local logistics infrastructure partnerships, supporting Ethiopian industrial parks, and building supply chains that create local economic value while achieving competitive performance standards",
+      "Relocating all operations outside Ethiopia to reduce regulatory complexity",
+      "Importing all raw materials and exporting all products without local value addition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following strategic supply chain decisions has the LONGEST lasting impact on company performance?",
+    "options": [
+      "Daily inventory replenishment decisions",
+      "Supply chain network design decisions — including facility locations, ownership structures, outsourcing arrangements, and key partnership choices — because these create structural constraints and capabilities that shape supply chain performance for years and are costly and disruptive to change",
+      "Weekly transportation route planning decisions",
+      "Monthly supplier performance review decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist must evaluate whether to implement a \"supply chain as a service\" model (where the company offers its supply chain capabilities to external customers). Which condition MOST justifies this strategic move?",
+    "options": [
+      "When the company's supply chain is performing poorly and needs improvement",
+      "When the company has developed supply chain capabilities that are significantly superior to market alternatives and could generate revenue by offering these capabilities as a service to other companies — as Amazon has done with Amazon Logistics — turning a cost center into a profit center while achieving scale economies that further improve the capabilities for the core business",
+      "When the company has excess warehouse space that needs to be filled",
+      "When the company wants to exit its core business and transition to logistics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic risk management implications of sourcing critical components from a single country:",
+    "options": [
+      "Single-country sourcing has no strategic risk implications",
+      "Single-country sourcing creates significant concentration risk — any political, natural disaster, regulatory, or trade disruption in that country can simultaneously impact all sourced components, creating catastrophic supply failures; strategic risk management requires geographic diversification of sourcing, investment in supply chain intelligence to monitor country-level risks, and contingency planning for alternative sourcing scenarios",
+      "Single-country sourcing is always preferable because it simplifies supply chain management",
+      "Single-country sourcing risk is only relevant for companies sourcing from high-risk countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the role of \"supply chain innovation\" in strategic supply chain management?",
+    "options": [
+      "Innovation in supply chains is only relevant to technology companies",
+      "Supply chain innovation — encompassing new processes, technologies, business models, and partnership structures — is a primary source of competitive advantage that enables companies to reduce costs, improve service, build resilience, and create new value propositions that competitors have not yet replicated",
+      "Supply chain innovation is only important during periods of industry disruption",
+      "Supply chain innovation is the exclusive responsibility of the IT department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist is tasked with designing a supply chain for a pharmaceutical company entering the Ethiopian market. Which supply chain design consideration is MOST critical?",
+    "options": [
+      "Minimizing warehouse space rental costs",
+      "Ensuring cold chain integrity from manufacturer to patient — including temperature-controlled storage and transportation, regulatory compliance with Ethiopian pharmaceutical regulations, reliable last-mile delivery to health facilities, and supply security for essential medicines",
+      "Maximizing product variety in the supply chain",
+      "Using the same supply chain design as food and beverage companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST evaluates the effectiveness of supply chain integration between a retailer and its key suppliers?",
+    "options": [
+      "The number of meetings held between the retailer and suppliers each year",
+      "Evidence of synchronized demand planning, reduced forecast error, declining inventory levels across the supply chain, improved fill rates, faster response to demand changes, and measurable cost reductions achieved through collaborative initiatives — demonstrating that integration is creating tangible value for both parties",
+      "The total value of purchases from preferred suppliers",
+      "The number of suppliers connected to the retailer's ERP system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze how \"supply chain strategy\" and \"business model innovation\" are interconnected in digital economy companies:",
+    "options": [
+      "Supply chain strategy and business model innovation are completely separate concerns",
+      "In digital economy companies, supply chain capabilities are often inseparable from the business model — platforms like Alibaba or Jumia create value by connecting buyers and sellers and enabling supply chain transactions; companies like Amazon monetize supply chain infrastructure as a service; and companies like Tesla use vertical supply chain integration as a core element of their product and cost advantage — meaning supply chain strategy IS business model strategy in many digital businesses",
+      "Business model innovation always makes supply chain strategy irrelevant",
+      "Digital economy companies do not require supply chain strategies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain director must make the case to the board for investment in supply chain strategic capabilities. Which argument is MOST compelling?",
+    "options": [
+      "The investment will make the supply chain department appear more modern",
+      "Investment in strategic supply chain capabilities — including resilience, digital visibility, supplier collaboration, and analytical decision-making — directly protects revenue by reducing disruption risk, improves customer satisfaction through superior service reliability, reduces total supply chain cost through optimization, and builds barriers to competitive imitation that sustain market position",
+      "The investment is required to comply with government regulations",
+      "The investment will create more job opportunities in the supply chain department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following MOST accurately describes the relationship between supply chain strategy and corporate sustainability strategy?",
+    "options": [
+      "Supply chain strategy and sustainability strategy are completely separate and should be managed independently",
+      "Supply chain strategy and sustainability strategy are deeply interconnected — because supply chains account for the vast majority of a company's environmental and social impact, integrating sustainability into supply chain strategy (through sustainable sourcing, green logistics, circular supply chain design, and supplier sustainability standards) is both a risk management necessity and an increasingly important source of competitive differentiation",
+      "Sustainability is only relevant to the environmental compliance department",
+      "Supply chain sustainability only matters for consumer goods companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is evaluating whether its current supply chain strategy remains appropriate given significant changes in the competitive environment. Which analytical process should guide this strategic review?",
+    "options": [
+      "Reviewing last year's supply chain budget for cost overruns",
+      "Conducting a structured strategic review that reassesses the external environment, evaluates internal supply chain capabilities against new competitive requirements, identifies strategic gaps, generates and evaluates strategic options, and recommends a revised supply chain strategy with clear implementation priorities",
+      "Asking the supply chain team to work harder with the current strategy",
+      "Benchmarking supply chain cost metrics against industry averages"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In strategic supply chain management, \"supply chain agility\" and \"supply chain adaptability\" are distinguished as:",
+    "options": [
+      "Identical concepts that refer to the same supply chain characteristic",
+      "Agility refers to the ability to respond quickly to short-term demand fluctuations or supply disruptions within the current supply chain structure, while adaptability refers to the longer-term ability to restructure and redesign the supply chain in response to fundamental shifts in market structure, technology, or competitive dynamics",
+      "Agility refers to transportation speed; adaptability refers to warehouse flexibility",
+      "Both concepts are irrelevant for companies operating in stable markets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist observes that the company's supply chain generates significant environmental waste and carbon emissions. Analyze the strategic case for investing in a sustainable supply chain redesign:",
+    "options": [
+      "There is no strategic case — sustainability investments only increase cost",
+      "The strategic case is compelling because sustainable supply chain redesign reduces regulatory compliance risk, positions the company favorably with environmentally conscious customers and investors, reduces long-term energy and material costs, strengthens supplier relationships through shared sustainability goals, and builds resilience by reducing dependency on finite resources — making sustainability a source of both risk mitigation and competitive advantage",
+      "Sustainability investments are only justified when mandated by government regulations",
+      "Sustainable supply chain redesign is only relevant for large companies with high public visibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic implications of a company choosing to compete through \"supply chain excellence\" rather than \"product differentiation\":",
+    "options": [
+      "Supply chain excellence is a less effective competitive strategy than product differentiation in all industries",
+      "Competing through supply chain excellence can be a highly sustainable competitive strategy — particularly in industries where products are commoditized — because superior supply chain capabilities (cost efficiency, service reliability, speed, and flexibility) directly deliver customer value and are often more difficult to imitate than product features, as they require years of organizational learning, relationship building, and process development",
+      "Supply chain excellence only provides competitive advantage in the logistics industry",
+      "Product differentiation is always superior to supply chain excellence as a competitive strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes how a company should manage the transition from a traditional supply chain to a digitally integrated supply chain?",
+    "options": [
+      "Implementing all digital technologies simultaneously to accelerate the transition",
+      "Following a phased transformation roadmap that begins with a current-state assessment, defines a clear digital supply chain vision aligned with business strategy, prioritizes high-value digital initiatives, builds change management capability to manage the human dimensions of transformation, and sustains momentum through demonstrated quick wins combined with longer-term capability building",
+      "Replacing all existing supply chain staff with technology specialists",
+      "Outsourcing the entire digital transformation to a technology consulting firm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist analyzing the Ethiopian logistics market identifies significant infrastructure gaps as a constraint on supply chain performance. Which strategic response is MOST appropriate?",
+    "options": [
+      "Waiting for the government to build all necessary infrastructure before developing supply chain strategies",
+      "Designing supply chain strategies that work within current infrastructure constraints while advocating for specific infrastructure improvements, investing in infrastructure-bridging solutions (e.g., multi-modal logistics hubs, shared warehousing), building supply chain resilience to manage infrastructure unreliability, and positioning to capitalize on infrastructure improvements as they materialize",
+      "Relocating all supply chain operations outside Ethiopia to avoid infrastructure constraints",
+      "Reducing supply chain ambitions to match the limitations of current infrastructure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze the strategic implications of \"supply chain talent shortage\" for companies pursuing supply chain excellence:",
+    "options": [
+      "Talent shortage only affects the operational level of supply chain management",
+      "Supply chain talent shortage is a strategic constraint because supply chain excellence depends on skilled professionals who can design, manage, and improve complex supply chain systems — talent gaps limit the company's ability to implement advanced strategies, adopt new technologies, and develop the organizational capabilities needed for supply chain competitive advantage, making investment in talent development a strategic priority",
+      "Supply chain talent can always be replaced with technology",
+      "Talent shortage is only a short-term operational challenge"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which strategic supply chain initiative would MOST effectively address both cost reduction and resilience improvement simultaneously?",
+    "options": [
+      "Reducing all safety stock to minimize inventory costs",
+      "Implementing supply chain network rationalization combined with supplier diversification — consolidating facilities to reduce fixed costs while spreading supply risk across multiple qualified suppliers and regions, and investing in digital visibility to manage the more complex network effectively",
+      "Outsourcing all supply chain activities to reduce fixed costs",
+      "Increasing inventory at all nodes to buffer against disruptions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is developing supply chain strategies to respond to the Fourth Industrial Revolution (Industry 4.0). Which strategic priority is MOST critical?",
+    "options": [
+      "Maximizing the number of employees in the supply chain department",
+      "Building digital supply chain capabilities including IoT, AI/ML, robotics, blockchain, and advanced analytics — while developing the organizational capabilities (talent, processes, governance) to leverage these technologies for supply chain competitive advantage — and managing the transition in a way that maintains operational continuity",
+      "Eliminating all physical supply chain assets in favor of purely digital operations",
+      "Resisting technology adoption to protect existing workforce skills"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate which supply chain strategy framework is MOST useful for a company deciding how to allocate supply chain investments across multiple product categories with different market characteristics:",
+    "options": [
+      "Using the same investment level for all product categories regardless of market characteristics",
+      "A supply chain segmentation framework that classifies products based on demand predictability and supply complexity (similar to Fisher's functional vs. innovative product classification), then aligns different supply chain designs and investment levels with the strategic requirements of each segment",
+      "Allocating supply chain investments exclusively to the highest-revenue product category",
+      "Outsourcing all product categories to simplify investment decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"supply chain ecosystem\" management?",
+    "options": [
+      "Managing the physical environmental ecosystem affected by supply chain operations",
+      "Managing a complex network of interdependent organizations — including suppliers, logistics providers, technology partners, customers, regulators, and industry platforms — whose collective capabilities and interactions shape the performance of the entire supply chain, requiring ecosystem-level governance and collaboration beyond bilateral buyer-supplier relationships",
+      "Managing the internal ecosystem of the supply chain department",
+      "Managing relationships with environmental regulators"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist discovers that competitors are using AI-powered demand forecasting to achieve significantly better inventory performance. Which strategic response is MOST appropriate?",
+    "options": [
+      "Immediately investing in the same AI technology used by competitors",
+      "Assessing the company's current forecasting capabilities and data infrastructure, evaluating the business case for AI-powered forecasting, developing an implementation roadmap that addresses data quality prerequisites, and positioning the investment as part of a broader digital supply chain transformation strategy",
+      "Dismissing the competitive threat as a temporary technology trend",
+      "Reducing inventory targets to match competitor performance without technology investment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze the strategic trade-off between \"supply chain standardization\" and \"supply chain customization\" for a global company serving diverse markets:",
+    "options": [
+      "There is no trade-off — standardization and customization are always complementary",
+      "Standardization enables economies of scale, process efficiency, and management simplicity across global operations, while customization enables better fit with local market requirements, regulations, and customer preferences; the strategic challenge is finding the optimal balance — standardizing where markets are genuinely similar and customizing where local differences create meaningful competitive advantage — often implemented through a \"platform strategy\" that standardizes core elements while enabling local customization at the edges",
+      "Global companies should always standardize all supply chain activities",
+      "Customization should always be prioritized over standardization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain strategy decisions would MOST significantly affect a company's carbon footprint?",
+    "options": [
+      "Changing the font used on supply chain reports",
+      "Supply chain network design decisions — including facility locations, transportation mode choices, sourcing geography, and inventory positioning — because these structural decisions determine the volume, distance, and mode of goods movement across the supply chain, which are the primary drivers of supply chain carbon emissions",
+      "Employee training program design",
+      "Supplier invoice processing methods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is designing a supply chain strategy for humanitarian operations in Ethiopia during a food crisis. Which strategic design principle is MOST critical?",
+    "options": [
+      "Minimizing supply chain cost above all other considerations",
+      "Designing for speed, reliability, and reach — ensuring that aid can be delivered rapidly to affected populations across diverse and challenging geographic contexts, with supply chain flexibility to adapt to rapidly changing needs, and coordination mechanisms to integrate effectively with government, NGO, and donor partners",
+      "Using the same supply chain design as commercial food distribution",
+      "Maximizing the efficiency of central warehouse operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critically evaluate the statement: \"Supply chain management is too important to be left to supply chain managers alone.\" What does this imply for strategic supply chain management?",
+    "options": [
+      "This statement suggests that supply chain managers should be replaced by general managers",
+      "This statement reflects that supply chain decisions have profound cross-functional and cross-organizational implications — affecting finance, marketing, product development, sustainability, and customer experience — and therefore require executive-level strategic ownership, cross-functional governance, and board-level visibility to ensure that supply chain strategy is fully integrated into business strategy and receives the investment and leadership attention it deserves",
+      "This statement suggests that all employees should manage supply chain tasks",
+      "This statement is incorrect — supply chain management should only be managed by supply chain specialists"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company wants to develop a \"supply chain center of excellence.\" What should be the PRIMARY focus of this organizational capability?",
+    "options": [
+      "Centralizing all supply chain operational decisions",
+      "Building and disseminating best practices, analytical capabilities, strategic frameworks, and change leadership across the organization — serving as the intellectual engine for supply chain strategy development, performance improvement, capability building, and digital transformation, while enabling business units to access specialized supply chain expertise",
+      "Replacing regional supply chain teams with a single central team",
+      "Managing all supplier contracts from a central location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic implications of a company achieving \"supply chain leadership\" in its industry:",
+    "options": [
+      "Supply chain leadership only provides operational benefits with no strategic implications",
+      "Supply chain leadership enables significant competitive advantages including superior service reliability that builds customer loyalty, cost efficiency that enables competitive pricing or higher margins, resilience that protects revenue during disruptions, and the ability to shape industry supply chain standards and relationships — creating a difficult-to-imitate competitive position that can be a primary source of sustained advantage",
+      "Supply chain leadership is only valuable in high-technology industries",
+      "Supply chain leadership has no connection to financial performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist must recommend a supplier relationship strategy for a company that has 500 suppliers. Which approach MOST effectively improves strategic value from the supplier base?",
+    "options": [
+      "Treating all 500 suppliers equally with identical management approaches",
+      "Segmenting the supplier base by strategic importance and supply risk, then differentiating management approaches — investing in deep strategic partnerships with critical suppliers, applying efficient transactional management for commoditized suppliers, and developing strategic suppliers in key capability areas — thereby concentrating relationship investment where it creates the greatest value",
+      "Reducing the supplier base to 10 suppliers regardless of supply risk",
+      "Outsourcing all supplier relationship management to a procurement consulting firm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes a \"purpose-driven supply chain strategy\"?",
+    "options": [
+      "A supply chain strategy focused exclusively on financial profit maximization",
+      "A supply chain strategy that explicitly incorporates the company's broader societal purpose — such as improving food security, enabling economic development, or reducing environmental impact — into supply chain design and management decisions, creating strategies that simultaneously deliver commercial performance and positive social and environmental outcomes",
+      "A supply chain strategy that focuses only on meeting regulatory requirements",
+      "A supply chain strategy designed to satisfy only shareholder interests"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which framework BEST guides the strategic decision of whether to build supply chain capabilities internally or acquire them through mergers and acquisitions?",
+    "options": [
+      "Choosing whichever option is currently most fashionable in the industry",
+      "A build-buy-partner framework that evaluates the strategic importance of the capability, the time required to build internally versus acquire, the cost and integration risk of acquisition versus organic development, and whether partnering provides sufficient access to the capability without full ownership — selecting the approach that best balances strategic value, speed, cost, and risk",
+      "Always building capabilities internally to maintain full control",
+      "Always acquiring capabilities through M&A to accelerate development"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze how \"customer centricity\" should shape supply chain strategy:",
+    "options": [
+      "Customer centricity is irrelevant to supply chain strategy",
+      "Customer-centric supply chain strategy starts from a deep understanding of target customer segments' service requirements, preferences, and willingness to pay for different service levels — then designs supply chain capabilities backward from these customer requirements, ensuring that every supply chain design decision ultimately serves to create superior customer value in ways that are commercially sustainable and competitively differentiated",
+      "Customer centricity only applies to the marketing and sales functions",
+      "Supply chain strategy should be driven exclusively by cost considerations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist must recommend how to improve supply chain performance measurement at the strategic level. Which recommendation is MOST comprehensive?",
+    "options": [
+      "Measuring only financial supply chain costs",
+      "Implementing a supply chain balanced scorecard that integrates financial performance, customer service performance, internal process performance, and learning and growth perspectives — aligned with strategic supply chain objectives — and cascaded through the organization and to key supply chain partners to create shared accountability for supply chain strategic outcomes",
+      "Measuring only delivery performance metrics",
+      "Using a single KPI such as inventory turnover to measure overall supply chain performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic importance of \"supply chain ethics\" for companies operating in developing markets like Ethiopia:",
+    "options": [
+      "Supply chain ethics is only important for companies in developed countries",
+      "Supply chain ethics is critically important in developing market contexts — addressing issues such as fair labor practices in supplier facilities, anti-corruption in procurement processes, environmental responsibility, and fair treatment of smallholder suppliers — both because it is the right thing to do and because ethical failures increasingly carry significant reputational, regulatory, and commercial consequences that can undermine the company's social license to operate",
+      "Supply chain ethics only applies to multinational corporations",
+      "Supply chain ethics is irrelevant as long as the company complies with minimum legal requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes how a company should approach \"supply chain strategy execution\" to ensure strategies are effectively implemented?",
+    "options": [
+      "Publishing the strategy document and assuming implementation will follow automatically",
+      "Translating supply chain strategy into specific operational initiatives with clear ownership, resource allocation, timelines, and measurable milestones; building implementation capability through change management; establishing governance mechanisms to track progress and address barriers; and creating a culture of execution accountability where supply chain teams are empowered and motivated to deliver strategic outcomes",
+      "Delegating all strategy execution to external consultants",
+      "Waiting for the strategy to be proven successful by competitors before implementing it"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents a fundamental limitation of traditional supply chain strategic planning approaches in an era of rapid disruption?",
+    "options": [
+      "Traditional planning approaches are too focused on cost reduction",
+      "Traditional annual planning cycles and deterministic forecasting assumptions are insufficient in an era of rapid, unpredictable change — companies need more dynamic strategic planning capabilities including scenario planning, real-time environmental sensing, rapid strategy adjustment mechanisms, and organizational agility to execute strategic pivots when required",
+      "Traditional planning approaches are too technology-intensive",
+      "Traditional planning approaches focus too much on customer requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is designing its supply chain strategy for the next five years. Which mega-trend should receive the MOST strategic attention?",
+    "options": [
+      "Short-term fluctuations in transportation fuel prices",
+      "The convergence of digital transformation, sustainability imperatives, supply chain regionalization trends, and changing consumer expectations — which together are fundamentally restructuring supply chain competitive dynamics and requiring companies to simultaneously invest in digital capabilities, sustainable practices, resilient network designs, and customer-centric fulfillment models",
+      "Annual changes in academic supply chain research priorities",
+      "Short-term changes in currency exchange rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate how \"supply chain transparency\" creates strategic value beyond compliance and risk management:",
+    "options": [
+      "Transparency only creates value by reducing regulatory compliance risk",
+      "Transparency creates strategic value by building consumer trust and brand equity, enabling premium pricing for ethically sourced products, strengthening supplier relationships through open information sharing, facilitating faster problem identification and resolution, supporting data-driven strategic decision-making, and increasingly differentiating companies in markets where consumers, investors, and regulators demand evidence of responsible and sustainable supply chain practices",
+      "Transparency only matters for companies selling directly to consumers",
+      "Transparency creates no strategic value and should only be pursued when legally required"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"supply chain as a competitive weapon\" in strategic management?",
+    "options": [
+      "Using legal tactics to prevent competitors from accessing key suppliers",
+      "Developing supply chain capabilities — such as superior delivery speed, inventory efficiency, cost structure, product customization ability, or supply chain resilience — that create customer value and market differentiation that competitors cannot easily or quickly replicate, making the supply chain itself a primary source of sustained competitive advantage",
+      "Using supply chain disruptions to harm competitor operations",
+      "Filing patents on supply chain processes to prevent competitor imitation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics and supply chain graduate in Ethiopia aspiring to become a supply chain strategist should prioritize developing which combination of competencies?",
+    "options": [
+      "Only technical logistics operations skills",
+      "A combination of strategic thinking and analytical capabilities (environmental analysis, strategic frameworks, quantitative modeling), deep supply chain domain knowledge (network design, sourcing strategy, operations management), digital literacy (supply chain technology, data analytics), Ethiopian and regional market context understanding, and relationship and leadership skills needed to drive strategic supply chain initiatives across organizational boundaries",
+      "Only financial and accounting skills",
+      "Only negotiation and contract management skills"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"supply chain ambidexterity\"?",
+    "options": [
+      "The ability to manage two different transportation modes simultaneously",
+      "The organizational capability to simultaneously pursue operational efficiency in the current supply chain while investing in exploration and innovation for future supply chain capabilities — balancing the exploitation of existing supply chain assets and practices with the development of new capabilities needed for future competitive success",
+      "Using both manual and automated processes in warehouse operations",
+      "Managing supply chains in two different geographic regions simultaneously"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is evaluating whether to adopt a \"platform-based supply chain\" model. Which strategic consideration is MOST critical?",
+    "options": [
+      "Whether the platform has an attractive user interface design",
+      "Whether the platform model creates sufficient network effects and ecosystem value to justify the investment and strategic transformation required, whether the company has the digital capabilities and partner relationships to build or join a successful platform, and whether platform participation enhances or compromises the company's competitive position",
+      "Whether competitors are already using platform-based supply chains",
+      "Whether the platform is compatible with the company's existing email system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze the strategic supply chain implications of \"consumer power shift\" driven by digital channels and social media:",
+    "options": [
+      "Consumer power shift has no supply chain implications",
+      "The shift of power to consumers through digital channels creates supply chain imperatives for greater transparency, faster fulfillment, higher personalization, seamless returns processing, and real-time order visibility — requiring supply chains to become more customer-centric, responsive, and transparent, with fulfillment capabilities that match rising consumer expectations shaped by best-in-class e-commerce experiences",
+      "Consumer power shift only affects marketing strategies",
+      "Consumer power shift reduces the complexity of supply chain management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST evaluates the strategic adequacy of a supply chain that performs well on cost metrics but poorly on resilience metrics?",
+    "options": [
+      "The supply chain is strategically adequate because cost efficiency is the primary goal",
+      "The supply chain is strategically inadequate for volatile operating environments — its cost efficiency may be eroded or destroyed by a single significant disruption that it lacks the resilience to absorb or recover from quickly; strategic adequacy requires balancing efficiency with sufficient resilience to protect the revenue, customer relationships, and market position that the efficient supply chain is designed to serve",
+      "The supply chain only needs resilience improvements if a major disruption occurs",
+      "Resilience metrics are irrelevant as long as cost metrics meet targets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic significance of Ethiopia's geographic position as a potential logistics hub for East Africa:",
+    "options": [
+      "Ethiopia's landlocked geography is exclusively a disadvantage with no strategic significance",
+      "Ethiopia's central geographic position in East Africa, combined with investments in industrial parks, Addis Ababa's role as a major African aviation hub, expanding road and rail infrastructure, and growing regional economic integration, creates strategic opportunities to develop supply chain capabilities that serve both the domestic market and broader regional and continental trade — making supply chain investment in Ethiopia potentially valuable not just for the local market but as a platform for East African regional supply chain operations",
+      "Ethiopia's geography is only relevant for transportation companies",
+      "Ethiopia's strategic geographic position has no implications for supply chain strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist is evaluating the long-term strategic implications of increasing automation in supply chain operations. Which consideration is MOST important from a strategic perspective?",
+    "options": [
+      "How automation affects the number of forklifts needed in warehouses",
+      "How automation reshapes the competitive dynamics of the industry — potentially lowering barriers to achieving supply chain cost efficiency (reducing traditional cost advantages of low-wage locations), changing the skills mix required in supply chain talent, enabling new levels of supply chain speed and precision, and creating new competitive differentiation possibilities through superior automation capabilities",
+      "Whether automation is cheaper than manual operations in the short term",
+      "Whether automation is technically feasible in the company's existing warehouses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"supply chain strategy as emergent process\" in strategic management theory?",
+    "options": [
+      "Supply chains develop their strategies randomly without planning",
+      "Supply chain strategy is not purely a top-down planned process but also emerges from the learning, experimentation, and adaptations that occur in day-to-day supply chain operations — meaning that effective supply chain strategy requires both deliberate planning and the organizational capacity to recognize, learn from, and formalize successful emergent practices that arise from operational experience",
+      "Supply chain strategies should never be planned in advance",
+      "Emergent supply chain strategies are always superior to planned strategies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze how \"supply chain network effects\" can create strategic competitive advantage:",
+    "options": [
+      "Supply chain network effects are irrelevant to competitive strategy",
+      "In platform-based supply chains and logistics ecosystems, network effects occur when the value of the supply chain network increases as more participants join — creating a self-reinforcing competitive advantage where a supply chain platform that achieves critical mass becomes increasingly attractive to new participants, making it progressively harder for competitors to build a rival network of comparable value",
+      "Network effects only apply to social media companies",
+      "Supply chain network effects only affect transportation companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is developing a supply chain strategy in response to growing demand for \"circular economy\" supply chains. Which supply chain capability is MOST critical to develop?",
+    "options": [
+      "Increasing production capacity for new products",
+      "Reverse logistics capabilities — including product take-back systems, refurbishment and remanufacturing processes, material recovery networks, and closed-loop supply chain designs that return used products or materials back into the production process — supported by information systems that track product lifecycle and material flows",
+      "Reducing the number of products offered to simplify the supply chain",
+      "Increasing the speed of outbound delivery to customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate which strategic supply chain investment would generate the GREATEST long-term competitive advantage for an Ethiopian manufacturing company competing in export markets:",
+    "options": [
+      "Short-term price discounts to attract export buyers",
+      "Investment in supply chain capabilities that are difficult to replicate — including certified quality management systems, reliable cold chain or specialized logistics capabilities, strong relationships with international freight forwarders and customs brokers, digital supply chain visibility for export buyers, and sustainable sourcing practices — creating a supply chain foundation that supports sustainable export market growth",
+      "Copying the supply chain practices of competitor exporters",
+      "Minimizing all supply chain investment to maximize short-term profit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST illustrates how supply chain strategy creates \"barriers to imitation\"?",
+    "options": [
+      "Patenting supply chain processes to prevent competitor copying",
+      "Building supply chain capabilities that are deeply embedded in organizational culture, relationships, and accumulated learning — such as world-class supplier collaboration programs built over decades, proprietary logistics networks developed through years of investment, or supply chain talent pools nurtured through sustained development programs — which competitors cannot quickly replicate even if they understand what the company is doing",
+      "Keeping supply chain strategies secret from all external parties",
+      "Using proprietary software systems as the primary barrier to competitor imitation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist must recommend how to manage the increasing complexity of a global supply chain serving 50 markets. Which strategic simplification approach is MOST effective?",
+    "options": [
+      "Exiting all but the 5 largest markets to simplify the supply chain",
+      "Implementing supply chain segmentation — grouping markets with similar supply chain requirements into clusters served by standardized regional supply chain platforms, reducing complexity through intelligent standardization while maintaining the flexibility to customize where market differences genuinely create competitive value — supported by digital platforms that manage complexity efficiently",
+      "Using a single global supply chain design for all 50 markets without differentiation",
+      "Outsourcing all 50 market supply chains to local 3PL providers without strategic oversight"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critically analyze the strategic implication of the following statement: \"The supply chain of the future will be autonomous.\"",
+    "options": [
+      "Future supply chains will require no human involvement whatsoever",
+      "While increasing automation, AI, and digital technologies will enable higher levels of supply chain autonomy in routine operational decisions, human strategic judgment will remain essential for supply chain design, partner relationship management, ethical decision-making, navigating novel disruptions, and adapting strategy to changing competitive contexts — making the future supply chain a human-machine collaboration where technology handles routine complexity and humans focus on judgment-intensive strategic activities",
+      "Supply chain autonomy is technically impossible to achieve",
+      "Autonomous supply chains are only possible for simple, standardized product categories"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evaluate the strategic importance of \"supply chain learning\" for organizations pursuing supply chain excellence:",
+    "options": [
+      "Supply chain learning is only important during the initial implementation of new systems",
+      "Supply chain learning — through systematic performance measurement, after-action reviews of disruptions and improvement initiatives, benchmarking, experimentation, and the development of organizational routines for capturing and applying supply chain knowledge — is a dynamic capability that enables continuous improvement, strategic adaptation, and the accumulation of hard-to-imitate supply chain expertise that compounds over time into significant competitive advantage",
+      "Supply chain learning is only relevant for academic institutions",
+      "Supply chain learning creates no competitive advantage because competitors can easily copy learned improvements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the strategic relationship between supply chain management and financial performance?",
+    "options": [
+      "Supply chain management only affects operational costs with no impact on financial performance",
+      "Supply chain excellence directly drives financial performance through multiple mechanisms — including revenue protection through high service levels and supply continuity, cost efficiency through optimized procurement, inventory, and logistics, working capital optimization through inventory reduction and payment term management, and risk mitigation that protects earnings from disruption costs — making supply chain strategy a primary lever for improving enterprise financial performance",
+      "Supply chain management only affects cost, not revenue",
+      "Financial performance is determined solely by pricing and marketing strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain strategist identifies that the company's supply chain strategy is creating unintended negative social impacts in supplier communities. Which strategic response BEST reflects responsible supply chain leadership?",
+    "options": [
+      "Ignoring the issue because it is the suppliers' responsibility to manage their own communities",
+      "Conducting a thorough supply chain social impact assessment, engaging affected communities and suppliers in dialogue, redesigning supply chain practices and sourcing requirements that are causing negative impacts, investing in supplier capability and community development programs, and transparently reporting on progress — treating responsible supply chain management as a strategic priority rather than a compliance exercise",
+      "Immediately terminating relationships with all suppliers in affected communities",
+      "Issuing a public statement about the company's commitment to responsible sourcing without changing supply chain practices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following MOST accurately captures the evolution of supply chain strategic thinking over the past three decades?",
+    "options": [
+      "Supply chain thinking has remained unchanged since the 1990s",
+      "Supply chain strategic thinking has evolved from a narrow focus on logistics cost reduction to recognition of supply chains as strategic assets; from linear chain models to complex networked ecosystems; from efficiency optimization to balancing efficiency with resilience, agility, and sustainability; from company-centric to supply chain-wide optimization; and increasingly toward digitally-enabled, customer-centric, and purpose-driven supply chain strategies",
+      "Supply chain strategic thinking has only changed due to technology developments",
+      "Supply chain strategic thinking has evolved from complex to simple approaches"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Analyze how a company should use \"supply chain benchmarking\" strategically rather than merely operationally:",
+    "options": [
+      "Benchmarking should only be used to compare costs with competitors",
+      "Strategic benchmarking uses supply chain performance comparisons not just to identify operational gaps but to generate strategic insights — understanding how best-in-class supply chains achieve their performance, what capabilities and investments underlie their advantage, which benchmarking insights apply to the company's strategic context, and how closing identified gaps would translate into competitive differentiation — using benchmarking as an input to strategic planning rather than just operational improvement",
+      "Benchmarking should only be conducted with direct competitors",
+      "Benchmarking is only valuable for large multinational companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST evaluates the role of \"supply chain culture\" in achieving strategic supply chain excellence?",
+    "options": [
+      "Culture is irrelevant to supply chain performance — only processes and technology matter",
+      "Supply chain culture — the shared values, beliefs, behaviors, and norms that shape how supply chain professionals make decisions and interact with partners — is a foundational determinant of supply chain excellence; a culture of continuous improvement, customer focus, collaboration, transparency, and accountability creates the organizational environment in which supply chain strategies are effectively executed and supply chain capabilities continuously developed",
+      "Supply chain culture only matters for large organizations",
+      "Supply chain culture is solely the responsibility of the HR department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A final-year logistics and supply chain management student is preparing for a career in strategic supply chain management in Ethiopia. Which strategic supply chain challenge should they be MOST prepared to address in their career?",
+    "options": [
+      "Managing stable supply chains in developed market contexts",
+      "Building supply chain capabilities that drive Ethiopia's economic development — navigating infrastructure development phases, supporting industrial park growth, managing the complexity of integrating Ethiopian supply chains into global value chains, leveraging East Africa's regional integration opportunities, addressing supply chain sustainability challenges, and leading digital supply chain transformation in an emerging market context where supply chain excellence can directly contribute to national competitiveness and economic inclusion",
+      "Replicating supply chain models from developed countries without adaptation",
+      "Focusing exclusively on cost reduction in existing supply chain operations"
+    ],
+    "correct": 1
+  }
+]
