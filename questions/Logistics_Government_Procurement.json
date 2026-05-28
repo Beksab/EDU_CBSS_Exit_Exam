@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which proclamation primarily governs public procurement in Ethiopia?",
+    "options": [
+      "Proclamation No. 649/2009",
+      "Proclamation No. 430/2005",
+      "Proclamation No. 782/2013",
+      "Proclamation No. 530/2007"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the primary objective of government procurement?",
+    "options": [
+      "To maximize the number of suppliers",
+      "To ensure value for money in public spending",
+      "To reduce the workload of procurement officers",
+      "To eliminate private sector participation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement unit wants to buy office furniture worth 800,000 ETB. Which method is most appropriate under Ethiopian government procurement rules?",
+    "options": [
+      "Direct procurement",
+      "Request for quotation",
+      "National competitive bidding",
+      "Single-source procurement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes \"value for money\" in public procurement?",
+    "options": [
+      "Buying the cheapest available goods regardless of quality",
+      "Paying the lowest price among all submitted bids",
+      "Achieving the best combination of cost, quality, and fitness for purpose",
+      "Selecting the supplier with the longest experience"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under Ethiopian procurement law, who has the authority to approve procurement plans?",
+    "options": [
+      "The finance officer",
+      "The procurement committee",
+      "The head of the public body",
+      "The Ministry of Finance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What does an annual procurement plan primarily help an organization to do?",
+    "options": [
+      "Limit the number of approved suppliers",
+      "Forecast and schedule procurement activities in advance",
+      "Reduce the number of procurement staff needed",
+      "Eliminate the need for competitive bidding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a recognized method of procurement under Ethiopian government procurement regulations?",
+    "options": [
+      "National competitive bidding",
+      "International competitive bidding",
+      "Negotiated procurement without advertising",
+      "Reverse auction bidding"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A public body needs to procure highly specialized technical equipment available from only one manufacturer. Which procurement method is most appropriate?",
+    "options": [
+      "Open bidding",
+      "Restricted tendering",
+      "Single-source procurement",
+      "Request for quotation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the main purpose of a bid security in government procurement?",
+    "options": [
+      "To compensate the procuring entity for bid evaluation costs",
+      "To ensure the winning bidder signs the contract and provides performance security",
+      "To cover losses if the goods are defective",
+      "To pay for the cost of tender document preparation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best defines \"procurement planning\"?",
+    "options": [
+      "Writing tender documents for all goods required",
+      "Evaluating bids submitted by suppliers",
+      "Identifying procurement needs and scheduling them for a fiscal year",
+      "Approving payments to suppliers after delivery"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a competitive bidding process, when must the bid opening take place?",
+    "options": [
+      "After the evaluation committee has pre-screened the bids",
+      "At the time and place specified in the bidding documents",
+      "Within five days after the deadline for bid submission",
+      "Only when all eligible bidders have submitted bids"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which document legally obligates both the government and the supplier after award?",
+    "options": [
+      "The bid security form",
+      "The letter of invitation to tender",
+      "The signed procurement contract",
+      "The evaluation report"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A procurement officer discovers that a supplier has submitted an abnormally low bid. What should be done?",
+    "options": [
+      "Automatically disqualify the bid",
+      "Accept the bid immediately to save public funds",
+      "Seek clarification from the bidder before making a decision",
+      "Award the contract to the second-lowest bidder"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of open competitive bidding?",
+    "options": [
+      "Only pre-selected suppliers are invited",
+      "Any eligible supplier can submit a bid",
+      "Prices are negotiated directly with one supplier",
+      "The procuring entity selects the supplier without advertising"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of the Public Procurement and Property Administration Agency (PPAA) in Ethiopia?",
+    "options": [
+      "To directly purchase all goods and services for government bodies",
+      "To regulate, monitor, and build capacity in public procurement",
+      "To audit financial statements of all government entities",
+      "To manage customs clearance for imported goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following actions by a procurement official constitutes a conflict of interest?",
+    "options": [
+      "Evaluating bids for office supplies",
+      "Approving a contract awarded to a company owned by a family member",
+      "Requesting clarification from a bidder during evaluation",
+      "Publishing procurement notices on a public portal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a performance security in a government contract?",
+    "options": [
+      "To guarantee that the supplier will submit a bid",
+      "To protect the government against losses if the contractor fails to perform",
+      "To cover the cost of tender document printing",
+      "To ensure the supplier pays taxes on time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under Ethiopian procurement rules, which of the following situations justifies the use of restricted tendering?",
+    "options": [
+      "When the goods are commonly available in the market",
+      "When only a limited number of suppliers are capable of providing the requirement",
+      "When the procuring entity wants to save time during the rainy season",
+      "When the procurement value is below the open tendering threshold"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the correct sequence in a standard tender process?",
+    "options": [
+      "Bid evaluation → Contract award → Bid opening → Advertisement",
+      "Advertisement → Bid submission → Bid opening → Evaluation → Contract award",
+      "Contract award → Advertisement → Bid opening → Evaluation",
+      "Bid submission → Advertisement → Evaluation → Bid opening"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procuring entity awards a contract to a technically superior but more expensive bidder. What principle supports this decision?",
+    "options": [
+      "Lowest cost principle",
+      "Best value for money principle",
+      "Single-source justification",
+      "Emergency procurement rule"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a framework agreement in government procurement?",
+    "options": [
+      "A one-time contract for the purchase of a single item",
+      "An arrangement with one or more suppliers for repeated procurement over a period",
+      "A contract signed exclusively with international suppliers",
+      "An agreement that bypasses the normal tendering process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a mandatory element of a tender document?",
+    "options": [
+      "The name of the winning bidder",
+      "Instructions to bidders, technical specifications, and contract conditions",
+      "The evaluation scores of all previous bidders",
+      "The identity of the evaluation committee members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"responsiveness\" of a bid mean in the context of tender evaluation?",
+    "options": [
+      "The bid has the lowest price",
+      "The bid complies substantially with all requirements of the bidding documents",
+      "The bid was submitted by the most experienced supplier",
+      "The bid includes the highest number of items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopian public procurement, which body is responsible for handling procurement complaints from bidders?",
+    "options": [
+      "The Ministry of Trade",
+      "The Public Procurement and Property Administration Agency",
+      "The Federal Ethics and Anti-Corruption Commission",
+      "The Auditor General's Office"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the minimum content required in a procurement notice?",
+    "options": [
+      "The names of all expected bidders",
+      "Description of the requirement, deadline for submission, and contact information",
+      "Detailed evaluation criteria and scoring matrix",
+      "The budget ceiling for the procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"direct procurement\" under Ethiopian rules?",
+    "options": [
+      "Procuring from any supplier at any price",
+      "Procuring from a specific supplier without competition, under strictly justified conditions",
+      "A method used exclusively for importing goods",
+      "A procurement approach limited to construction works"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A public body fails to complete its procurement within the planned fiscal year. What is the most likely consequence?",
+    "options": [
+      "The procurement budget automatically rolls over to the next year",
+      "Budget lapse and loss of funds allocated for that procurement",
+      "The procurement committee is dismissed",
+      "The supplier is penalized for non-delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key difference between goods procurement and works procurement in the public sector?",
+    "options": [
+      "Works procurement always uses direct procurement",
+      "Works procurement involves construction or installation activities, while goods procurement involves tangible products",
+      "Goods procurement does not require bidding documents",
+      "Works procurement is exempt from competitive bidding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a non-competitive procurement method?",
+    "options": [
+      "Open national tendering",
+      "International competitive bidding",
+      "Single-source procurement",
+      "Request for sealed quotations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What must a procuring entity do before initiating any procurement activity?",
+    "options": [
+      "Hire additional procurement staff",
+      "Confirm that the required budget is allocated and available",
+      "Obtain approval from the Public Procurement Agency",
+      "Register all potential suppliers in a database"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under Ethiopian government procurement, what is the role of the bid evaluation committee?",
+    "options": [
+      "To negotiate prices with suppliers after bid opening",
+      "To examine bids and recommend the most advantageous offer",
+      "To prepare tendering documents for each procurement",
+      "To sign contracts on behalf of the head of the public body"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A government hospital needs to urgently procure medicines due to an epidemic outbreak. Which procurement method should be applied?",
+    "options": [
+      "Open competitive bidding",
+      "Restricted tendering",
+      "Emergency procurement",
+      "Framework agreement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What does \"technical evaluation\" in tender assessment involve?",
+    "options": [
+      "Reviewing only the financial capacity of bidders",
+      "Assessing whether the bidder's offer meets specified technical requirements",
+      "Comparing prices of all responsive bids",
+      "Verifying tax clearance certificates of bidders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is true about post-qualification in procurement?",
+    "options": [
+      "It is done before bids are opened",
+      "It verifies whether the winning bidder has the capability to fulfill the contract",
+      "It replaces the bid security requirement",
+      "It applies only to procurement of services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement officer receives a gift from a bidder during the evaluation period. What is the ethical obligation of the officer?",
+    "options": [
+      "Accept the gift if its value is below 500 ETB",
+      "Decline the gift and report the incident to the appropriate authority",
+      "Accept the gift but declare it after the contract is awarded",
+      "Return the gift only if asked by the evaluation committee"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of publishing contract award notices?",
+    "options": [
+      "To allow unsuccessful bidders to appeal immediately",
+      "To promote transparency and accountability in public procurement",
+      "To notify the winning bidder of the contract amount",
+      "To inform the public about annual procurement expenditures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors is considered during financial evaluation of bids?",
+    "options": [
+      "The bidder's country of origin",
+      "The total evaluated cost including any corrections and adjustments",
+      "The number of employees the bidder has",
+      "The location of the bidder's headquarters"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a debriefing in the procurement context?",
+    "options": [
+      "A meeting to plan next year's procurement activities",
+      "An explanation given to an unsuccessful bidder about the evaluation outcome",
+      "A session where all bidders negotiate prices together",
+      "A review meeting between the procurement unit and auditors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best defines \"procurement integrity\"?",
+    "options": [
+      "Completing procurement within the shortest possible time",
+      "Conducting procurement in a fair, transparent, and accountable manner",
+      "Selecting suppliers with the most attractive presentations",
+      "Achieving the highest number of contracts in a fiscal year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What happens if a bidder withdraws its bid after the bid submission deadline?",
+    "options": [
+      "The bidder is automatically disqualified from future tenders",
+      "The bid security may be forfeited",
+      "The procuring entity must restart the bidding process",
+      "The bidder is penalized by twice the contract value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a primary function of procurement planning in the public sector?",
+    "options": [
+      "To eliminate the need for supplier evaluation",
+      "To align procurement activities with organizational goals and budget",
+      "To reduce the number of approved vendors",
+      "To ensure that single-source procurement is used for all major items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under Ethiopian law, which of the following requires the use of international competitive bidding?",
+    "options": [
+      "Procurement values below the national threshold",
+      "Procurement of locally unavailable goods or when domestic competition is insufficient",
+      "Emergency procurement for disaster response",
+      "Procurement of stationery items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of the threshold values set in procurement regulations?",
+    "options": [
+      "They determine the salary of procurement officers",
+      "They define which procurement method is appropriate based on contract value",
+      "They limit the number of bids a supplier can submit",
+      "They set the maximum price at which goods can be purchased"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A public body receives only one bid in an open tendering process. What should it do?",
+    "options": [
+      "Automatically award the contract to the sole bidder",
+      "Evaluate the bid to check responsiveness and value for money before deciding",
+      "Cancel the tender and proceed with direct procurement",
+      "Re-advertise immediately without reviewing the original bid"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of specifying technical requirements in bidding documents?",
+    "options": [
+      "To limit the number of bidders to local suppliers",
+      "To communicate exactly what the procuring entity needs and the standards required",
+      "To allow the evaluation committee to change specifications after bids are received",
+      "To discourage foreign suppliers from participating"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a red flag for procurement fraud?",
+    "options": [
+      "Multiple bids received from different suppliers",
+      "A winning bid that is significantly higher than the market price",
+      "Procurement conducted through open competitive bidding",
+      "A debriefing session provided to unsuccessful bidders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In government procurement, what is meant by \"splitting of contracts\"?",
+    "options": [
+      "Dividing a contract between two winning bidders",
+      "Breaking a large procurement into smaller parts to avoid higher-level approval thresholds",
+      "Awarding separate contracts for goods and installation services",
+      "Issuing multiple purchase orders under a single framework agreement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following documents is typically included in a complete tender package for goods?",
+    "options": [
+      "The personal financial statements of procurement officers",
+      "Bid data sheet, technical specifications, contract conditions, and bid forms",
+      "The annual audit report of the procuring entity",
+      "The supplier's marketing brochure and product catalogue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a warranty clause in a government supply contract?",
+    "options": [
+      "To allow the procuring entity to change the specification after delivery",
+      "To obligate the supplier to repair or replace defective goods within a specified period",
+      "To limit the liability of the procuring entity in case of disputes",
+      "To set the schedule for advance payment to the supplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Who is responsible for ensuring compliance with procurement procedures in a government entity?",
+    "options": [
+      "The external auditor",
+      "The head of the public body and the procurement unit",
+      "The Ministry of Finance alone",
+      "The supplier's legal representative"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary reason for maintaining a procurement record?",
+    "options": [
+      "To track the performance of procurement staff",
+      "To ensure accountability, transparency, and facilitate audits",
+      "To prepare marketing reports for suppliers",
+      "To determine the number of future procurement officers needed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supplier delivers goods that do not meet the agreed specifications. What is the correct course of action?",
+    "options": [
+      "Accept the goods and adjust the payment accordingly",
+      "Reject the goods and notify the supplier to replace them as per contract terms",
+      "Retain the goods and file a complaint after payment",
+      "Award the supplier a partial payment for the delivered items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main advantage of framework agreements in government procurement?",
+    "options": [
+      "They eliminate the need for any future competition",
+      "They reduce repetitive tendering for commonly needed goods or services",
+      "They guarantee the lowest market price at all times",
+      "They restrict procurement to a single approved supplier permanently"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In public procurement, what does \"economy\" mean as a procurement principle?",
+    "options": [
+      "Restricting procurement to the cheapest goods available",
+      "Acquiring the right goods at the right time, quantity, and price without waste",
+      "Spending the entire procurement budget within the fiscal year",
+      "Minimizing procurement staff to reduce administrative costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an obligation of a supplier under a government contract?",
+    "options": [
+      "To renegotiate prices after contract signature if costs increase",
+      "To deliver goods or services that meet the agreed specifications on time",
+      "To approve any changes to technical requirements unilaterally",
+      "To subcontract all works to another company without informing the buyer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"abnormally low bid\" imply in procurement evaluation?",
+    "options": [
+      "A bid slightly below the average of all submitted bids",
+      "A bid so low that it raises concerns about the supplier's ability to fulfill the contract",
+      "A bid submitted after the deadline with a lower price",
+      "A bid that excludes taxes from the total price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement committee member has shareholding interests in one of the bidding companies. What must this person do?",
+    "options": [
+      "Evaluate the bid more strictly to demonstrate impartiality",
+      "Declare the conflict of interest and recuse themselves from the evaluation",
+      "Continue evaluation but document the interest in the final report",
+      "Ask a colleague to evaluate that particular bid on their behalf"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key purpose of contract management after award?",
+    "options": [
+      "To find ways to reduce the agreed contract price",
+      "To monitor supplier performance and ensure contractual obligations are met",
+      "To re-advertise the contract if market prices change",
+      "To transfer procurement responsibilities to the finance department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a legitimate ground for contract variation in government procurement?",
+    "options": [
+      "The supplier wants a higher profit margin",
+      "Unforeseen site conditions that require additional works not included in the original scope",
+      "The procuring entity wants to increase the contract scope without additional cost",
+      "The evaluation committee made an error in the technical assessment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of procurement thresholds set by the government?",
+    "options": [
+      "They determine the qualifications required for procurement officers",
+      "They define when higher-level approval or specific methods are required based on contract value",
+      "They limit the total number of suppliers that can participate in a tender",
+      "They set minimum and maximum wages for procurement staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a needs assessment in procurement planning?",
+    "options": [
+      "Evaluating supplier financial capacity before tendering",
+      "Identifying what goods, works, or services an organization requires to achieve its goals",
+      "Reviewing previous contract performance of approved suppliers",
+      "Conducting market surveys to set procurement budgets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What information must be disclosed to all bidders during the tendering process?",
+    "options": [
+      "The identity of other bidders and their prices",
+      "The evaluation criteria and their relative weights",
+      "The internal budget ceiling of the procuring entity",
+      "The names of evaluation committee members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under Ethiopian procurement law, what is the maximum validity period typically required for bids?",
+    "options": [
+      "15 days",
+      "30 days",
+      "As specified in the bidding documents",
+      "180 days"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A public body wants to procure consulting services. Which procurement method is most appropriate?",
+    "options": [
+      "Open competitive bidding for goods",
+      "Quality and cost-based selection",
+      "Single-source procurement",
+      "Request for sealed quotations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a specification that promotes competition?",
+    "options": [
+      "A specification that names a single brand as the only acceptable product",
+      "A specification that describes required functionality and performance standards",
+      "A specification written in a language only one supplier can interpret",
+      "A specification that lists a proprietary technology as mandatory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the function of a standing list of suppliers in government procurement?",
+    "options": [
+      "To restrict tendering to pre-registered suppliers exclusively",
+      "To maintain a list of pre-qualified suppliers who can be invited for procurement",
+      "To exempt listed suppliers from submitting bid security",
+      "To guarantee contracts to suppliers based on their registration date"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"due diligence\" mean in the context of supplier qualification?",
+    "options": [
+      "Paying suppliers on time to maintain good relationships",
+      "Thoroughly verifying a supplier's financial, technical, and legal capacity before engagement",
+      "Conducting inspections of goods after delivery",
+      "Reviewing market prices before publishing a procurement notice"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the principle of \"transparency\" in procurement?",
+    "options": [
+      "Keeping all procurement decisions confidential to prevent protests",
+      "Making procurement rules, criteria, and decisions open and accessible to all stakeholders",
+      "Ensuring that only senior officials have access to procurement files",
+      "Restricting public access to procurement reports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A government entity wants to procure a complex IT system. Which document should be used to gather market information before preparing the tender?",
+    "options": [
+      "A performance bond",
+      "A request for information (RFI)",
+      "A bid evaluation report",
+      "A letter of credit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best explains the purpose of a pre-bid conference?",
+    "options": [
+      "To allow bidders to negotiate prices with the procuring entity",
+      "To clarify tender requirements and answer potential bidders' questions",
+      "To evaluate the technical capacity of interested suppliers",
+      "To formally announce the winning bidder before bid opening"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is meant by \"life cycle cost\" in procurement decision-making?",
+    "options": [
+      "The initial purchase price of goods or services",
+      "The total cost of acquiring, operating, maintaining, and disposing of an asset over its useful life",
+      "The cost of the procurement process excluding delivery charges",
+      "The cost of replacing goods that fail during the warranty period"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following scenarios illustrates an improper procurement practice?",
+    "options": [
+      "Conducting open competitive bidding for a major works contract",
+      "Awarding a contract to a related party without competition",
+      "Requesting bid security from all participating bidders",
+      "Publishing procurement awards on a government website"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In public procurement, what does \"accountability\" require of procurement officials?",
+    "options": [
+      "Meeting procurement targets regardless of the method used",
+      "Being answerable for their decisions and actions in the procurement process",
+      "Approving all procurement requests within 24 hours",
+      "Selecting the supplier with the longest relationship with the government"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under Ethiopian procurement rules, what must happen before a contract is signed with the winning bidder?",
+    "options": [
+      "The bidder must submit a new and updated price proposal",
+      "A standstill period must be observed to allow for complaints from unsuccessful bidders",
+      "All procurement records must be submitted to the PPAA",
+      "The losing bidders must be notified verbally before the contract is signed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of a well-structured procurement file?",
+    "options": [
+      "Personal notes of the procurement officer",
+      "Procurement plan, tender documents, evaluation report, and signed contract",
+      "Marketing materials submitted by winning supplier",
+      "Internal memos discussing procurement staff performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main risk of poor procurement planning in the public sector?",
+    "options": [
+      "Excessive competition among suppliers",
+      "Budget under-utilization, delays, and failure to meet organizational objectives",
+      "Procurement staff receiving too many training opportunities",
+      "Over-registration of suppliers on the approved list"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"responsiveness to public needs\" mean in government procurement?",
+    "options": [
+      "Ensuring procurement is completed before the fiscal year end",
+      "Procuring goods and services that directly address the needs of the public body and citizens",
+      "Responding to all supplier inquiries within one business day",
+      "Adopting the procurement methods preferred by suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the correct definition of \"public body\" under Ethiopian procurement law?",
+    "options": [
+      "Any private company that sells goods to the government",
+      "A government organ, public enterprise, or entity using public funds",
+      "A non-governmental organization funded by donors",
+      "A foreign company registered to operate in Ethiopia"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supplier objects to a contract award decision. What formal remedy is available under Ethiopian procurement law?",
+    "options": [
+      "Filing a complaint to the nearest police station",
+      "Submitting a written complaint to the PPAA within the prescribed time limit",
+      "Seeking an injunction from a civil court immediately",
+      "Demanding a re-evaluation through the media"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the best indicator of a well-functioning procurement system?",
+    "options": [
+      "All contracts are awarded to the same suppliers every year",
+      "High compliance with procurement laws, timely delivery, and value for money achieved",
+      "The procurement department has the largest budget in the organization",
+      "All procurement is completed using single-source methods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of the Ethiopian Public Procurement and Property Administration Agency (PPAA)?",
+    "options": [
+      "To procure goods directly for all government ministries",
+      "To oversee, regulate, and build capacity in public procurement and property management",
+      "To approve foreign procurement contracts above a certain value",
+      "To manage the government's budget and financial expenditures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of effective technical specifications?",
+    "options": [
+      "They refer exclusively to a single brand or manufacturer",
+      "They are clear, measurable, neutral, and based on functional requirements",
+      "They are written after bids have been received to match the best offer",
+      "They are kept confidential until after the contract is awarded"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the correct approach when a procuring entity wants to modify technical specifications after bids have been submitted?",
+    "options": [
+      "Notify only the winning bidder of the changes",
+      "Issue an addendum to all bidders and extend the deadline for bid submission",
+      "Evaluate the bids against the new specifications without informing bidders",
+      "Cancel the procurement immediately and start a new process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the principle of \"competition\" in procurement?",
+    "options": [
+      "Selecting the first supplier to submit a bid",
+      "Encouraging maximum participation of eligible suppliers to obtain the best offer",
+      "Limiting tendering to local suppliers to support domestic industry",
+      "Inviting only government-owned enterprises to participate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What role does the internal audit department play in government procurement?",
+    "options": [
+      "It prepares tender documents for each procurement",
+      "It reviews procurement processes to identify weaknesses and ensure compliance",
+      "It approves contracts before they are signed",
+      "It negotiates prices with suppliers on behalf of the procuring entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best explains why procurement integrity matters?",
+    "options": [
+      "It ensures that procurement officers are well paid",
+      "It prevents corruption, promotes fair competition, and protects public resources",
+      "It ensures that all procurement is completed ahead of schedule",
+      "It increases the number of suppliers on the approved list"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopian government procurement, what is a \"letter of credit\" most commonly used for?",
+    "options": [
+      "Paying domestic suppliers after goods are received",
+      "Facilitating payment to foreign suppliers in international trade transactions",
+      "Guaranteeing the performance of a domestic contractor",
+      "Securing bid submissions in competitive tendering"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of publishing annual procurement plans on a public portal?",
+    "options": [
+      "It guarantees that all planned procurement will be completed within the fiscal year",
+      "It promotes transparency and helps suppliers plan their participation in upcoming tenders",
+      "It provides suppliers with the exact budget allocated for each procurement",
+      "It eliminates the need for bid advertisements throughout the year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an obligation of the procuring entity during contract execution?",
+    "options": [
+      "To renegotiate the contract price when market conditions change",
+      "To supervise contract performance and process payments as per agreed terms",
+      "To allow the supplier to change the specifications upon request",
+      "To share the contract file with all unsuccessful bidders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of a procurement manual in a government organization?",
+    "options": [
+      "To set the salaries of procurement officers",
+      "To provide detailed guidance on how to implement procurement regulations within the entity",
+      "To list all approved suppliers and their prices",
+      "To serve as a contract between the procuring entity and its suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best defines \"advance payment\" in government procurement contracts?",
+    "options": [
+      "Payment made to the supplier after all goods are received and inspected",
+      "A portion of the contract price paid to the supplier before goods or services are delivered",
+      "An additional payment made for goods delivered ahead of schedule",
+      "Payment made exclusively for emergency procurement contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of pre-qualification in large government contracts?",
+    "options": [
+      "To identify the cheapest supplier before issuing the tender",
+      "To assess and shortlist suppliers who have the capability to fulfill the contract requirements",
+      "To bypass the competitive bidding process for complex contracts",
+      "To determine the exact contract price before tendering"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A government entity is preparing to procure construction of a school. Which procurement category applies?",
+    "options": [
+      "Goods procurement",
+      "Works procurement",
+      "Consulting services procurement",
+      "Emergency procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a consequence of non-compliance with procurement regulations?",
+    "options": [
+      "The procurement budget is automatically increased for the next fiscal year",
+      "Legal sanctions, financial penalties, or disciplinary action against responsible officials",
+      "The procurement unit is given additional procurement training",
+      "The procuring entity is permitted to use emergency procurement in all future activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the difference between a \"bid\" and a \"quotation\" in procurement?",
+    "options": [
+      "A bid is submitted verbally while a quotation is submitted in writing",
+      "A bid is a formal response to a tender while a quotation is a price offer for lower-value procurement",
+      "A quotation applies to works contracts while a bid applies to consulting services",
+      "A bid is used only in international procurement while a quotation is used domestically"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which factor most directly affects the choice of procurement method under Ethiopian law?",
+    "options": [
+      "The personal preference of the procurement officer",
+      "The estimated value of the contract",
+      "The geographic location of potential suppliers",
+      "The number of staff in the procurement unit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key purpose of a supplier performance evaluation after contract completion?",
+    "options": [
+      "To determine the salary increment for procurement staff",
+      "To document whether the supplier met contractual obligations and inform future procurement decisions",
+      "To notify the supplier of upcoming procurement opportunities",
+      "To calculate the profit margin achieved by the procuring entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In government procurement, what is the role of the finance department in the procurement process?",
+    "options": [
+      "To prepare technical specifications for all procurement",
+      "To confirm budget availability and process payments to suppliers",
+      "To evaluate bids and recommend contract awards",
+      "To maintain the approved supplier list"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly explains \"open tendering\" in the Ethiopian context?",
+    "options": [
+      "A procurement method where only pre-qualified suppliers are invited",
+      "A procurement method where any eligible supplier can submit a bid in response to a public notice",
+      "A procurement method reserved for goods above 5 million ETB",
+      "A procurement method used exclusively for emergency situations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key advantage of standardizing technical specifications in government procurement?",
+    "options": [
+      "It reduces the competitiveness of the procurement process",
+      "It ensures consistency, reduces procurement costs, and simplifies evaluation",
+      "It limits procurement to a single preferred supplier",
+      "It allows procurement officers to skip the advertisement stage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a direct financial loss to the government caused by poor procurement?",
+    "options": [
+      "Conducting too many competitive tenders in one fiscal year",
+      "Paying above-market prices for goods procured without competition",
+      "Publishing procurement notices on multiple platforms",
+      "Extending bid validity to accommodate late bidders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of the \"no objection\" requirement from a development partner in donor-funded procurement?",
+    "options": [
+      "To allow the donor to select the winning supplier",
+      "To ensure the procurement process complies with agreed procurement guidelines before proceeding",
+      "To transfer procurement responsibility to the donor organization",
+      "To eliminate the need for national procurement regulations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under the Ethiopian procurement framework, which entity is responsible for approving high-value contracts?",
+    "options": [
+      "The procurement officer",
+      "The head of the public body or a higher authority depending on the threshold",
+      "The bid evaluation committee alone",
+      "The PPAA in all cases"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"economy of scale\" mean in the context of government procurement?",
+    "options": [
+      "Buying goods in very small quantities to reduce storage costs",
+      "Achieving cost savings by purchasing larger quantities or consolidating requirements",
+      "Limiting procurement to local markets to reduce transportation costs",
+      "Using emergency procurement to save time on administrative processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of a sound procurement system?",
+    "options": [
+      "All procurement decisions are made by a single official",
+      "Clear rules, oversight mechanisms, competent staff, and regular auditing",
+      "Procurement is completed with minimal documentation to save time",
+      "Suppliers are selected based on their relationship with senior management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key element that differentiates public procurement from private procurement?",
+    "options": [
+      "Public procurement always uses electronic platforms",
+      "Public procurement uses public funds and must adhere to legal frameworks ensuring accountability",
+      "Public procurement is faster and more flexible than private procurement",
+      "Public procurement always requires international competitive bidding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a valid reason for cancelling a tender after bids are received?",
+    "options": [
+      "The lowest bid is slightly above the budget estimate",
+      "All bids are non-responsive, or there is evidence of collusion among bidders",
+      "The procurement officer disagrees with the evaluation outcome",
+      "Only one supplier submitted a bid"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of a \"no-objection letter\" in government-to-government procurement?",
+    "options": [
+      "It confirms that the goods have been delivered",
+      "It indicates that the relevant authority approves the procurement action before proceeding",
+      "It guarantees the lowest price from the selected supplier",
+      "It exempts the procuring entity from local procurement regulations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an effective measure to prevent collusion in tendering?",
+    "options": [
+      "Accepting bids from pre-identified suppliers only",
+      "Ensuring bid prices are kept confidential until the official bid opening",
+      "Sharing bidder information among all participants before submission",
+      "Limiting the tender to no more than two bidders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A government entity has completed a procurement and received goods. What is the next critical step?",
+    "options": [
+      "Immediately initiating a new procurement for similar items",
+      "Inspecting and verifying the goods against the contract specifications before authorizing payment",
+      "Paying the supplier as soon as goods arrive without inspection",
+      "Returning all procurement records to the PPAA for archiving"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key difference between goods and services procurement?",
+    "options": [
+      "Services procurement always requires international competitive bidding",
+      "Services procurement often involves assessing the quality of expertise and methodology rather than a physical product",
+      "Goods procurement requires a longer bid validity period than services",
+      "Services procurement is exempt from competitive bidding under Ethiopian law"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary function of a tender committee in Ethiopian public procurement?",
+    "options": [
+      "To prepare the annual budget of the procuring entity",
+      "To review, approve, and oversee major procurement decisions and contract awards",
+      "To deliver goods purchased under framework agreements",
+      "To train procurement staff on documentation requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a best practice in managing procurement records?",
+    "options": [
+      "Destroying procurement files after contract completion to save storage space",
+      "Keeping all procurement documents securely and accessibly for the legally required retention period",
+      "Restricting access to procurement records to the head of the procurement unit only",
+      "Transferring all procurement records to the winning supplier after contract award"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a \"force majeure\" clause in a government procurement contract?",
+    "options": [
+      "A clause allowing the procuring entity to cancel the contract without notice",
+      "A clause that excuses contract non-performance due to extraordinary events beyond either party's control",
+      "A clause that allows the supplier to increase prices during contract execution",
+      "A clause requiring the supplier to deliver goods before payment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key indicator of procurement process efficiency?",
+    "options": [
+      "High number of single-source contracts awarded",
+      "Reduction in procurement cycle time without compromising quality or compliance",
+      "Maximizing the number of suppliers on the approved list",
+      "Ensuring all contracts are awarded to the same suppliers annually"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main role of the internal control system in procurement?",
+    "options": [
+      "To speed up the contract award process",
+      "To prevent and detect errors, fraud, and non-compliance in procurement activities",
+      "To eliminate the need for external audits",
+      "To manage supplier relationships on behalf of the procuring entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"bid evaluation report\"?",
+    "options": [
+      "A document summarizing the annual procurement budget",
+      "A formal record detailing the evaluation process, criteria applied, and the recommendation for contract award",
+      "A notice published to inform all suppliers about the contract award",
+      "A document submitted by the winning bidder confirming acceptance of the contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In government procurement, what is meant by \"conflict of interest\"?",
+    "options": [
+      "A disagreement between two procurement officers during evaluation",
+      "A situation where a procurement official has a personal interest that could improperly influence their decisions",
+      "A legal dispute between the procuring entity and a supplier",
+      "A difference in opinion between the procurement and finance departments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following measures helps ensure fair competition in government procurement?",
+    "options": [
+      "Requiring bidders to use the procuring entity's preferred bank",
+      "Providing equal information to all bidders and allowing adequate time for bid preparation",
+      "Limiting participation to suppliers who have previously worked with the government",
+      "Awarding the contract before the bid submission deadline"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key purpose of a supplier registration system in government procurement?",
+    "options": [
+      "To guarantee contracts for registered suppliers",
+      "To maintain an up-to-date database of eligible suppliers for efficient procurement",
+      "To eliminate the need for competitive bidding",
+      "To restrict procurement to suppliers based in the capital city"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key obligation of a public procurement officer under Ethiopian law?",
+    "options": [
+      "Ensuring that contracts are always awarded to local suppliers",
+      "Acting impartially, following prescribed procedures, and protecting public interest",
+      "Approving all procurement requests from their department",
+      "Selecting suppliers based on their past relationship with the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary difference between \"open\" and \"restricted\" tendering?",
+    "options": [
+      "Open tendering is used for services while restricted tendering is for goods",
+      "Open tendering allows any eligible supplier to bid while restricted tendering limits invitations to a pre-selected group",
+      "Open tendering has no minimum bid validity period",
+      "Restricted tendering always results in a lower contract price than open tendering"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in public procurement in Ethiopia?",
+    "options": [
+      "Excessive number of registered suppliers",
+      "Capacity gaps in procurement staff, limited transparency, and delayed procurement cycles",
+      "Over-reliance on international competitive bidding",
+      "Too many procurement regulations limiting flexibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of a \"performance bond\" in a government works contract?",
+    "options": [
+      "It pays the contractor in advance for mobilization costs",
+      "It provides financial assurance that the contractor will complete the project as agreed",
+      "It guarantees that the government will pay the contractor on time",
+      "It exempts the contractor from penalty clauses in the contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors must be considered when evaluating bids for a consultancy service?",
+    "options": [
+      "The number of staff employed by the consulting firm",
+      "Technical competence, relevant experience, and proposed methodology",
+      "The geographic proximity of the firm to the procuring entity",
+      "The number of countries in which the firm has offices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the best approach to promoting sustainable procurement in the public sector?",
+    "options": [
+      "Choosing only the cheapest supplier regardless of environmental performance",
+      "Incorporating environmental and social criteria into procurement specifications and evaluation",
+      "Restricting procurement to locally produced goods regardless of quality",
+      "Eliminating supplier evaluation criteria related to social responsibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is meant by \"procurement cycle time\"?",
+    "options": [
+      "The number of procurement activities completed in a fiscal year",
+      "The total time taken from identifying a procurement need to contract award and delivery",
+      "The time required for the PPAA to approve a procurement plan",
+      "The duration of the bid validity period"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In government procurement, what is the purpose of issuing an addendum to bidding documents?",
+    "options": [
+      "To inform the winning bidder of contract conditions",
+      "To communicate changes or clarifications to all bidders before the submission deadline",
+      "To extend the bid validity period after bids are received",
+      "To notify unsuccessful bidders of their disqualification"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"competitive negotiation\" as a procurement method?",
+    "options": [
+      "A method where prices are negotiated secretly with a single supplier",
+      "A method where proposals are solicited and negotiations conducted with the most technically suitable offers",
+      "A method reserved exclusively for procurement of IT systems",
+      "A method used when the budget is insufficient for open tendering"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the ethical obligation of a procurement officer who discovers irregularities in a colleague's procurement activity?",
+    "options": [
+      "Ignore the matter to avoid workplace conflict",
+      "Report the irregularity to the appropriate authority following established procedures",
+      "Confront the colleague directly without involving management",
+      "Document the irregularity privately without reporting it"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key feature of e-procurement systems in government?",
+    "options": [
+      "They allow procurement to be conducted without any documentation",
+      "They automate and digitize procurement processes, improving transparency and efficiency",
+      "They restrict procurement to suppliers registered outside Ethiopia",
+      "They eliminate the requirement for bid security in all procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the most important outcome of effective contract management in the public sector?",
+    "options": [
+      "Minimizing the number of contract amendments",
+      "Ensuring that suppliers deliver the agreed goods or services on time, within budget, and to specification",
+      "Reducing the number of future procurement activities",
+      "Maximizing the number of suppliers retained for future contracts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a fundamental requirement for a valid government procurement contract?",
+    "options": [
+      "A verbal agreement between the procuring entity and the supplier",
+      "A written document signed by both parties, clearly defining rights, obligations, and deliverables",
+      "Approval from all unsuccessful bidders before signing",
+      "Submission of the contract to the PPAA before it takes effect"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"procurement audit\" primarily aim to achieve?",
+    "options": [
+      "To negotiate better prices with existing suppliers",
+      "To assess whether procurement activities comply with applicable laws and achieve value for money",
+      "To develop annual procurement plans for the next fiscal year",
+      "To certify the financial statements of the procuring entity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a legitimate use of the \"emergency procurement\" method?",
+    "options": [
+      "Procuring office furniture because the fiscal year is ending",
+      "Procuring life-saving medicines in response to an unexpected disease outbreak",
+      "Procuring vehicles to replace those that were regularly maintained",
+      "Procuring construction materials for a project planned over a year ago"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a key advantage of centralizing procurement in a government organization?",
+    "options": [
+      "It allows each department to procure independently and quickly",
+      "It achieves economies of scale, reduces duplication, and strengthens oversight",
+      "It eliminates the need for technical specifications",
+      "It ensures that procurement is completed without competitive bidding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"specifications by performance\" in procurement?",
+    "options": [
+      "Specifying the exact brand and model of the product required",
+      "Describing the functional outcomes required without prescribing how to achieve them",
+      "Providing a sample of the product that all bidders must match exactly",
+      "Listing the chemical composition of the required product in detail"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In public procurement, what does \"best evaluated bid\" mean?",
+    "options": [
+      "The bid with the absolute lowest price",
+      "The bid that offers the best combination of technical compliance and evaluated cost",
+      "The bid submitted first before all others",
+      "The bid with the most attractive packaging and presentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an obligation of the procuring entity regarding bid confidentiality?",
+    "options": [
+      "Publishing all bid prices on the government website before the bid opening date",
+      "Keeping bid contents confidential until the official bid opening to protect the integrity of the process",
+      "Sharing bid prices with all participants before submission to promote competition",
+      "Informing each bidder of the prices submitted by competitors after evaluation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What distinguishes \"supply\" from \"procurement\" in the public sector context?",
+    "options": [
+      "Supply involves sourcing while procurement involves delivery only",
+      "Procurement is the process of acquiring goods and services while supply encompasses the broader management of material flow into and within the organization",
+      "Supply is a government-specific term while procurement applies only to the private sector",
+      "Procurement and supply are identical concepts with no meaningful difference"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the most effective way to reduce procurement risks in the public sector?",
+    "options": [
+      "Avoiding competition by using single-source procurement",
+      "Applying thorough planning, following due process, and maintaining strong oversight mechanisms",
+      "Limiting procurement to a few trusted long-term suppliers",
+      "Delegating all procurement decisions to a single procurement officer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of establishing a \"supplier blacklist\" in government procurement?",
+    "options": [
+      "To give advantage to local suppliers over foreign competitors",
+      "To prevent suppliers found guilty of fraud, poor performance, or corruption from participating in future procurement",
+      "To reduce the number of suppliers competing in each tender",
+      "To ensure that all contracts go to suppliers in the capital city"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following situations would most justify the use of \"request for quotations\"?",
+    "options": [
+      "Procurement of a hospital construction project worth 50 million ETB",
+      "Procurement of low-value, standardized goods readily available in the market",
+      "Procurement of specialized consulting services for policy development",
+      "Procurement of complex military equipment requiring technical evaluation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of the \"standstill period\" between contract award notification and contract signing?",
+    "options": [
+      "It gives the procuring entity time to renegotiate the price with the winning bidder",
+      "It provides a window for unsuccessful bidders to submit complaints before the contract is finalized",
+      "It allows the winning bidder to withdraw from the contract without penalty",
+      "It ensures that the evaluation committee reviews the award decision again"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of maintaining a comprehensive procurement records management system?",
+    "options": [
+      "It reduces the number of bids received in each tender",
+      "It supports accountability, facilitates audits, and provides institutional memory for future procurement",
+      "It eliminates the need for bid security in future tenders",
+      "It allows procurement officers to waive compliance requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"equal treatment of bidders\" require in government procurement?",
+    "options": [
+      "Awarding the contract to the bidder with the most employees",
+      "Applying the same evaluation criteria and standards consistently to all bids received",
+      "Inviting only bidders who have previously worked with the government",
+      "Allowing bidders with stronger relationships to submit bids after the deadline"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the main reason why procurement planning is linked to budgeting in the public sector?",
+    "options": [
+      "To ensure that procurement staff have enough time for training",
+      "To align procurement activities with available funding and prevent unauthorized expenditure",
+      "To reduce the number of items procured during the fiscal year",
+      "To limit the number of competitive tenders conducted annually"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary risk of accepting unsolicited proposals in government procurement?",
+    "options": [
+      "It increases the number of suppliers in the market",
+      "It bypasses competitive processes, creating risks of favoritism and overpayment",
+      "It reduces the procurement cycle time significantly",
+      "It results in higher quality goods and services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In Ethiopian public procurement, which document is used to formally notify the winning bidder of the contract award before signing?",
+    "options": [
+      "The performance security form",
+      "The letter of acceptance or notification of award",
+      "The bid evaluation summary report",
+      "The procurement plan"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best defines \"public interest\" as a guiding principle in government procurement?",
+    "options": [
+      "Maximizing the profit of the procuring entity",
+      "Ensuring that procurement decisions serve the broader needs of citizens and society efficiently and ethically",
+      "Prioritizing the interests of domestic suppliers over international competition",
+      "Ensuring that all contracts are completed within the fiscal year"
+    ],
+    "correct": 1
+  }
+]
