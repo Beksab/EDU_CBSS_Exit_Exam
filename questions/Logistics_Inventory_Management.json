@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which of the following best describes demand forecasting in inventory management?",
+    "options": [
+      "The process of counting physical stock on hand",
+      "The process of estimating future customer demand for products",
+      "The process of ordering goods from suppliers",
+      "The process of evaluating supplier performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which forecasting method uses historical data patterns to predict future demand?",
+    "options": [
+      "Qualitative forecasting",
+      "Judgmental forecasting",
+      "Time series forecasting",
+      "Market research forecasting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A moving average forecast is best described as:",
+    "options": [
+      "A forecast based solely on expert opinion",
+      "An average of demand over a fixed number of the most recent periods",
+      "A forecast adjusted by seasonal indices only",
+      "A regression-based estimate of future demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a qualitative forecasting method?",
+    "options": [
+      "Exponential smoothing",
+      "Linear regression",
+      "Delphi method",
+      "Moving average"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Exponential smoothing assigns weights to historical data in which of the following ways?",
+    "options": [
+      "Equal weights to all historical periods",
+      "Higher weights to older data and lower weights to recent data",
+      "Higher weights to more recent data and lower weights to older data",
+      "Weights based solely on seasonal patterns"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If the smoothing constant (α) in exponential smoothing is close to 1, the forecast will:",
+    "options": [
+      "React slowly to changes in demand",
+      "Ignore recent demand completely",
+      "React very quickly to recent changes in demand",
+      "Produce a constant forecast regardless of demand"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following measures is used to evaluate forecast accuracy?",
+    "options": [
+      "Economic Order Quantity (EOQ)",
+      "Mean Absolute Deviation (MAD)",
+      "Reorder Point (ROP)",
+      "Safety stock level"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mean Squared Error (MSE) penalizes large forecast errors more heavily than MAD because it:",
+    "options": [
+      "Divides errors by the number of periods",
+      "Takes the absolute value of errors",
+      "Squares the forecast errors before averaging",
+      "Uses only the most recent period's error"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A tracking signal in forecasting is used to:",
+    "options": [
+      "Determine the optimal order quantity",
+      "Monitor whether a forecasting model remains accurate over time",
+      "Calculate safety stock levels",
+      "Identify the best supplier for procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which type of demand pattern shows a consistent upward or downward movement over time?",
+    "options": [
+      "Seasonal pattern",
+      "Cyclical pattern",
+      "Random variation",
+      "Trend pattern"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Seasonal demand patterns are characterized by:",
+    "options": [
+      "Random fluctuations with no predictable timing",
+      "Repetitive demand fluctuations tied to specific time periods within a year",
+      "A long-term upward or downward movement in demand",
+      "Demand that is perfectly constant across all periods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is TRUE about the Delphi forecasting method?",
+    "options": [
+      "It relies exclusively on mathematical models",
+      "It uses structured rounds of expert opinion to reach a consensus forecast",
+      "It is based on regression analysis of historical sales data",
+      "It requires point-of-sale data from retail outlets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Linear regression in forecasting is primarily used to:",
+    "options": [
+      "Calculate the reorder point for inventory",
+      "Identify the relationship between demand and one or more independent variables",
+      "Determine safety stock based on lead time variability",
+      "Assign weights to different historical periods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's forecast for Month 6 is 200 units, but actual demand was 240 units. The forecast error is:",
+    "options": [
+      "-40 units",
+      "40 units",
+      "200 units",
+      "440 units"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which forecasting approach is most appropriate when a new product has no historical demand data?",
+    "options": [
+      "Time series analysis",
+      "Exponential smoothing",
+      "Moving average",
+      "Qualitative methods such as market surveys"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The Mean Absolute Percentage Error (MAPE) expresses forecast accuracy as:",
+    "options": [
+      "The average of squared errors",
+      "The sum of all forecast errors divided by number of periods",
+      "The average absolute error as a percentage of actual demand",
+      "The difference between the highest and lowest forecast values"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Collaborative Planning, Forecasting, and Replenishment (CPFR) improves demand forecasting by:",
+    "options": [
+      "Eliminating the need for safety stock entirely",
+      "Sharing demand information between supply chain partners",
+      "Using only internal sales data for all forecasts",
+      "Replacing all qualitative methods with quantitative ones"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about forecast error is correct?",
+    "options": [
+      "A forecast error of zero means the model is always accurate",
+      "Positive forecast errors mean the forecast exceeded actual demand",
+      "Negative forecast errors mean the forecast was lower than actual demand",
+      "Forecast errors should always be ignored in inventory planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A three-period moving average uses the demand figures of:",
+    "options": [
+      "The three oldest periods in the data set",
+      "Any three randomly selected historical periods",
+      "The three most recent periods of historical demand",
+      "The three periods with the highest demand values"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Forecast bias occurs when:",
+    "options": [
+      "Forecast errors are randomly distributed around zero",
+      "There is a consistent tendency to over-forecast or under-forecast",
+      "The forecasting model uses too many historical periods",
+      "Seasonal adjustments are applied incorrectly"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following demand components refers to unpredictable fluctuations not explained by trend or seasonality?",
+    "options": [
+      "Cyclical variation",
+      "Trend",
+      "Random variation",
+      "Seasonal variation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company notices its tracking signal has exceeded the control limit. This most likely means:",
+    "options": [
+      "The forecast model is performing well and requires no changes",
+      "The safety stock level needs to be reduced",
+      "The forecasting model may be biased and needs review",
+      "The order quantity should be increased immediately"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes point-of-sale (POS) data in forecasting?",
+    "options": [
+      "Data generated from supplier invoices",
+      "Real-time demand data captured at the time and location of purchase",
+      "Demand estimates based on historical production records",
+      "Data collected through annual customer surveys"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Demand variability in forecasting refers to:",
+    "options": [
+      "The average demand level across all periods",
+      "The degree to which actual demand fluctuates around the forecast",
+      "The total demand over the planning horizon",
+      "The number of periods used in the moving average"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When using exponential smoothing, increasing the value of α will:",
+    "options": [
+      "Give more weight to older observations",
+      "Reduce the responsiveness of the forecast to recent demand changes",
+      "Give more weight to recent observations and less to older ones",
+      "Eliminate random variation from the forecast"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a limitation of the moving average forecasting method?",
+    "options": [
+      "It cannot be computed using historical data",
+      "It reacts too quickly to every single demand observation",
+      "It treats all periods in the average equally, regardless of recency",
+      "It requires knowledge of lead time demand"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Safety stock levels are most directly influenced by:",
+    "options": [
+      "The forecasting method chosen",
+      "Variability in demand and lead time",
+      "The number of suppliers used",
+      "The type of warehousing system employed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which statement best describes a causal forecasting model?",
+    "options": [
+      "It relies on expert panels to estimate future demand",
+      "It forecasts demand based on its relationship with external variables like economic indicators",
+      "It calculates demand as a fixed percentage of past sales",
+      "It uses only internal production records to estimate demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A high Mean Absolute Deviation (MAD) value indicates:",
+    "options": [
+      "The forecast is highly accurate",
+      "There is little variability between forecast and actual demand",
+      "There are large forecast errors on average",
+      "The smoothing constant is set too low"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes \"forecast horizon\"?",
+    "options": [
+      "The number of historical periods used to calculate the forecast",
+      "The length of time into the future for which a forecast is made",
+      "The acceptable range of forecast error",
+      "The maximum inventory level allowed in the warehouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Economic Order Quantity (EOQ) model minimizes:",
+    "options": [
+      "Total revenue from sales",
+      "Only ordering costs",
+      "The sum of total ordering and holding costs",
+      "Only holding costs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an assumption of the basic EOQ model?",
+    "options": [
+      "Demand varies significantly across periods",
+      "Lead time is variable and uncertain",
+      "Demand is constant and known with certainty",
+      "Shortages are allowed and backordered"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the EOQ formula Q* = √(2DS/H), the variable \"D\" represents:",
+    "options": [
+      "The unit purchase price of the item",
+      "The annual demand for the item",
+      "The cost of holding one unit for one year",
+      "The ordering cost per order"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Holding costs in inventory management include which of the following?",
+    "options": [
+      "Cost of placing a purchase order",
+      "Transportation cost from supplier to warehouse",
+      "Cost of capital tied up in inventory and storage costs",
+      "Supplier invoice processing fees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "As order quantity increases in the EOQ model, holding costs will:",
+    "options": [
+      "Decrease proportionally",
+      "Remain unchanged",
+      "Increase because average inventory level rises",
+      "Decrease because fewer orders are placed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Reorder Point (ROP) in inventory management is defined as:",
+    "options": [
+      "The maximum inventory level before disposal",
+      "The inventory level at which a new order should be placed",
+      "The quantity ordered each time an order is placed",
+      "The total demand for an item over one year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly represents the formula for Reorder Point (ROP) without safety stock?",
+    "options": [
+      "ROP = Annual Demand × Lead Time",
+      "ROP = Average Daily Demand × Lead Time in Days",
+      "ROP = EOQ / Lead Time",
+      "ROP = Holding Cost × Lead Time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Safety stock is added to the reorder point primarily to:",
+    "options": [
+      "Reduce the order quantity below EOQ",
+      "Eliminate the need for demand forecasting",
+      "Protect against stockouts caused by demand or lead time variability",
+      "Decrease the frequency of orders placed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following increases the Economic Order Quantity?",
+    "options": [
+      "Decrease in annual demand",
+      "Decrease in ordering cost",
+      "Increase in annual demand",
+      "Increase in holding cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The average inventory under the basic EOQ model (with no safety stock) is:",
+    "options": [
+      "Equal to the order quantity Q",
+      "Equal to half the order quantity Q/2",
+      "Equal to the reorder point",
+      "Equal to annual demand divided by order quantity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The number of orders placed per year in the EOQ model is calculated as:",
+    "options": [
+      "EOQ divided by holding cost",
+      "Annual demand multiplied by order quantity",
+      "Annual demand divided by the order quantity",
+      "Order quantity multiplied by ordering cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which inventory cost increases as order quantity decreases?",
+    "options": [
+      "Holding cost",
+      "Purchase price per unit",
+      "Annual ordering cost",
+      "Storage space cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A stockout occurs when:",
+    "options": [
+      "Inventory exceeds the maximum allowable level",
+      "An order arrives before the reorder point is reached",
+      "Demand cannot be fulfilled due to insufficient inventory",
+      "The reorder point is set too high"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The service level in inventory management refers to:",
+    "options": [
+      "The speed at which orders are processed by the supplier",
+      "The probability of not experiencing a stockout during the lead time",
+      "The ratio of on-hand inventory to total warehouse capacity",
+      "The percentage of orders delivered on time by suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"cycle stock\"?",
+    "options": [
+      "Inventory held as a buffer against demand uncertainty",
+      "Inventory that is obsolete and ready for disposal",
+      "The portion of inventory that results from replenishment ordering activity",
+      "Inventory reserved for seasonal demand peaks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A higher desired service level generally requires:",
+    "options": [
+      "Lower safety stock levels",
+      "Smaller order quantities",
+      "Higher safety stock levels",
+      "Fewer reorder points"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the EOQ model, the optimal total cost curve is relatively:",
+    "options": [
+      "Steep on both sides of the optimal point",
+      "Flat near the optimal point, making the model robust to small deviations",
+      "Highly sensitive to small changes in order quantity",
+      "Always minimized at the lowest possible order quantity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is TRUE about the Total Cost (TC) in the EOQ model?",
+    "options": [
+      "TC is minimized when ordering cost equals purchase cost",
+      "TC is minimized when ordering cost equals holding cost",
+      "TC is minimized when holding cost is zero",
+      "TC increases continuously as order quantity rises"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Lead time variability in inventory management primarily affects:",
+    "options": [
+      "The EOQ calculation",
+      "The determination of safety stock and reorder point",
+      "The annual ordering frequency",
+      "The holding cost per unit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which inventory reliability measure expresses the fraction of demand satisfied directly from stock?",
+    "options": [
+      "Reorder point",
+      "Economic order quantity",
+      "Fill rate",
+      "Cycle time"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements about safety stock is correct?",
+    "options": [
+      "Safety stock is consumed during normal demand periods",
+      "Safety stock increases the average cycle stock",
+      "Safety stock provides a buffer against demand and lead time uncertainty",
+      "Safety stock reduces the need for a reorder point"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"quantity discount\" model modifies the basic EOQ by:",
+    "options": [
+      "Eliminating ordering costs from the total cost equation",
+      "Considering the impact of lower unit prices at higher order quantities",
+      "Assuming demand is probabilistic rather than deterministic",
+      "Using variable lead times in the reorder point calculation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following will DECREASE the reorder point?",
+    "options": [
+      "Increase in average daily demand",
+      "Increase in lead time",
+      "Decrease in safety stock",
+      "Increase in demand variability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"bullwhip effect\" in supply chains is most directly related to which inventory concept?",
+    "options": [
+      "EOQ optimization",
+      "Demand variability amplification upstream in the supply chain",
+      "Safety stock elimination",
+      "Reorder point reduction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"pipeline inventory\"?",
+    "options": [
+      "Inventory stored in warehouses awaiting orders",
+      "Inventory in transit between supply chain nodes",
+      "Inventory reserved for seasonal demand fluctuations",
+      "Obsolete inventory pending disposal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that adopts a higher reorder point than necessary will most likely experience:",
+    "options": [
+      "Frequent stockouts",
+      "Reduced holding costs",
+      "Excess inventory and higher holding costs",
+      "Increased ordering frequency"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"two-bin system\" is an example of which inventory control approach?",
+    "options": [
+      "Periodic review system",
+      "Continuous review system",
+      "Material Requirements Planning (MRP)",
+      "Just-in-Time system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors does NOT directly affect the EOQ calculation?",
+    "options": [
+      "Annual demand",
+      "Ordering cost per order",
+      "Unit selling price to customers",
+      "Annual holding cost per unit"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a company's ordering cost doubles while all other factors remain constant, the EOQ will:",
+    "options": [
+      "Double",
+      "Remain unchanged",
+      "Increase by approximately 41%",
+      "Decrease by 50%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes \"order cycle time\"?",
+    "options": [
+      "The time from placing an order to receiving it from the supplier",
+      "The time between successive order placements",
+      "The time required to process a customer order internally",
+      "The total time goods spend in the warehouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Deterministic inventory models assume which of the following about demand?",
+    "options": [
+      "Demand is probabilistic and unknown",
+      "Demand is known with certainty",
+      "Demand follows a normal distribution",
+      "Demand changes randomly from period to period"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under a fixed order quantity system with known demand, an order is triggered when:",
+    "options": [
+      "A fixed time interval elapses",
+      "Inventory falls to the reorder point",
+      "The holding cost exceeds the ordering cost",
+      "The supplier sends a delivery confirmation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Production Order Quantity (POQ) model differs from EOQ in that:",
+    "options": [
+      "It assumes demand is probabilistic",
+      "It accounts for inventory being replenished gradually rather than instantaneously",
+      "It eliminates holding costs from the total cost equation",
+      "It is only applicable to service industries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the POQ model, the maximum inventory level is less than the order quantity because:",
+    "options": [
+      "Some units are damaged during production",
+      "Goods are consumed as they are produced simultaneously",
+      "The reorder point reduces the effective order size",
+      "Holding costs are subtracted from the order quantity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the correct formula for Economic Production Quantity (EPQ)?",
+    "options": [
+      "EPQ = √(2DS/H)",
+      "EPQ = √(2DS/H) × √(p/(p-d))",
+      "EPQ = D × S / H",
+      "EPQ = √(2DH/S)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the EPQ model, \"p\" represents:",
+    "options": [
+      "The unit price of the product",
+      "The production rate (units per time period)",
+      "The probability of a stockout",
+      "The percentage of defective items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A fixed-period (periodic review) inventory system places orders:",
+    "options": [
+      "Whenever inventory reaches the reorder point",
+      "At regular, predetermined time intervals",
+      "Only when a stockout has been detected",
+      "Based on supplier lead time recommendations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an advantage of the fixed-order quantity system over the periodic review system?",
+    "options": [
+      "It requires less frequent monitoring of inventory levels",
+      "It is simpler to administer for multiple items simultaneously",
+      "It typically results in lower average safety stock",
+      "It is easier to coordinate deliveries of multiple items"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under a periodic review system, the \"order-up-to\" level (target inventory level) is determined by:",
+    "options": [
+      "EOQ divided by average demand",
+      "Expected demand during the review period plus lead time, plus safety stock",
+      "Annual demand divided by the number of review periods",
+      "Reorder point multiplied by the review interval"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about the fixed-order quantity system is correct?",
+    "options": [
+      "The quantity ordered varies from order to order",
+      "The time between orders is always constant",
+      "The order quantity remains the same each time an order is placed",
+      "Orders are placed at fixed calendar intervals regardless of inventory level"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"ABC analysis\" approach to inventory management classifies items based on:",
+    "options": [
+      "Their physical size and weight",
+      "Their annual consumption value relative to total inventory value",
+      "Their lead time from suppliers",
+      "Their storage location in the warehouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"A\" items in ABC analysis typically represent:",
+    "options": [
+      "The largest number of SKUs but the smallest share of total value",
+      "The smallest number of SKUs but the largest share of total annual value",
+      "Items with the most variable demand",
+      "Items stored in the most accessible warehouse locations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of ABC analysis in inventory management?",
+    "options": [
+      "It eliminates the need for safety stock for all items",
+      "It allows managers to focus tighter controls on high-value items",
+      "It reduces lead times for all inventory categories",
+      "It replaces the need for a reorder point system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a deterministic inventory model, the total annual inventory cost is minimized when:",
+    "options": [
+      "Ordering cost is zero",
+      "Holding cost per unit is minimized",
+      "The annual ordering cost equals the annual holding cost",
+      "Order quantity equals annual demand"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which type of inventory model would be most appropriate for a manufacturer producing goods at a finite rate to meet steady demand?",
+    "options": [
+      "Basic EOQ model",
+      "Probabilistic demand model",
+      "Production Order Quantity (POQ) model",
+      "Periodic review model"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company produces 500 units per day and demand is 100 units per day. If the production run lasts 10 days, what is the maximum inventory level?",
+    "options": [
+      "5,000 units",
+      "1,000 units",
+      "4,000 units",
+      "500 units"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT an assumption of the basic deterministic EOQ model?",
+    "options": [
+      "Constant demand rate",
+      "Instantaneous replenishment",
+      "No quantity discounts",
+      "Probabilistic lead time"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The \"lot-for-lot\" ordering policy in inventory management means:",
+    "options": [
+      "Ordering one lot per month regardless of demand",
+      "Ordering exactly the quantity demanded in each period, with no excess",
+      "Ordering the economic order quantity in each period",
+      "Ordering based on supplier minimum order requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes the impact of shorter lead times on inventory management?",
+    "options": [
+      "They increase the required safety stock levels",
+      "They allow for lower reorder points and reduced inventory investment",
+      "They require larger order quantities to compensate",
+      "They increase total annual ordering costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A firm uses a continuous review system with known, constant demand. Which of the following will trigger a replenishment order?",
+    "options": [
+      "A predetermined calendar date is reached",
+      "Inventory on hand drops to or below the reorder point",
+      "The supplier notifies the firm that stock is available",
+      "The planning period ends and a review is conducted"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following inventory costs is most directly associated with capital investment in stock?",
+    "options": [
+      "Ordering cost",
+      "Shortage cost",
+      "Carrying/holding cost",
+      "Transportation cost"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the EOQ model with quantity discounts, a manager should select the order quantity that:",
+    "options": [
+      "Minimizes only the purchase price per unit",
+      "Minimizes total annual cost including purchasing, ordering, and holding costs",
+      "Always equals the EOQ calculated at the lowest price",
+      "Maximizes the quantity discount received"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"just-in-time\" (JIT) inventory philosophy in relation to known demand?",
+    "options": [
+      "Maintaining large safety stocks to avoid any disruption",
+      "Ordering and receiving inventory just as it is needed to minimize holding costs",
+      "Placing large infrequent orders to benefit from quantity discounts",
+      "Using periodic review systems exclusively for all inventory items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a fixed-period system, which of the following poses the greatest risk?",
+    "options": [
+      "Excess inventory due to over-ordering",
+      "Stockouts between review periods if demand surges unexpectedly",
+      "Increased ordering costs from frequent reviews",
+      "Inability to take advantage of quantity discounts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If demand is known and constant, safety stock in a deterministic model is:",
+    "options": [
+      "Set at 50% of the average cycle stock",
+      "Equal to one week's average demand",
+      "Not required since demand is certain",
+      "Determined by the service level target"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"silver-meal heuristic\" is a technique used for:",
+    "options": [
+      "Calculating safety stock under uncertainty",
+      "Lot sizing when demand varies across periods",
+      "Determining the optimal number of warehouses",
+      "Selecting the best transportation mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes \"dead stock\" in inventory management?",
+    "options": [
+      "Inventory currently in transit from the supplier",
+      "Stock that has been damaged during warehousing",
+      "Inventory that has not moved for an extended period and is unlikely to sell",
+      "Inventory reserved for emergency orders"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The annual holding cost in EOQ is calculated as:",
+    "options": [
+      "(Q/2) × H, where H is the holding cost per unit per year",
+      "(D/Q) × S, where S is the ordering cost per order",
+      "Q × D × unit purchase price",
+      "EOQ × average demand rate"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is TRUE when demand is perfectly known and constant?",
+    "options": [
+      "Safety stock is essential to maintain service levels",
+      "Stockouts will occur periodically regardless of ordering policy",
+      "The inventory system can be managed with zero safety stock",
+      "The reorder point must be set above the EOQ"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company orders 500 units each time it places an order. If demand is 5,000 units per year, how many orders are placed per year?",
+    "options": [
+      "5 orders",
+      "10 orders",
+      "20 orders",
+      "25 orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Independent demand inventory is best described as demand that is:",
+    "options": [
+      "Derived directly from the production schedule of a parent item",
+      "Driven by external market forces and not directly tied to other items",
+      "Known with certainty and remains constant over time",
+      "Managed exclusively through Material Requirements Planning (MRP)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of an independent demand item?",
+    "options": [
+      "A sub-assembly component used in manufacturing a finished product",
+      "A raw material required to produce a specific product",
+      "Finished goods sold directly to end customers",
+      "A fastener used exclusively in assembling a parent item"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The continuous review (Q) system for independent demand is also known as:",
+    "options": [
+      "The periodic order system",
+      "The fixed-time-period system",
+      "The fixed-order-quantity system",
+      "The material requirements planning system"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a continuous review system, which parameter triggers a replenishment order?",
+    "options": [
+      "A fixed review interval elapses",
+      "Inventory position drops to or below the reorder point",
+      "The supplier's lead time expires",
+      "The planning horizon is reached"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Inventory position\" in a continuous review system is defined as:",
+    "options": [
+      "On-hand inventory minus backorders",
+      "On-hand inventory plus on-order inventory minus backorders",
+      "On-hand inventory divided by average daily demand",
+      "On-order inventory minus safety stock"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the periodic review (P) system?",
+    "options": [
+      "Orders are placed whenever inventory reaches the reorder point",
+      "Orders are placed at fixed time intervals for variable quantities",
+      "Order quantity is always fixed at the EOQ",
+      "Orders are placed only when a stockout occurs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a periodic review system, which of the following increases the required safety stock compared to a continuous review system?",
+    "options": [
+      "Shorter review periods reduce the uncertainty window",
+      "The uncertainty window covers both the review period and lead time",
+      "Fixed order quantities reduce demand variability",
+      "Periodic systems always have lower ordering costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a major advantage of the continuous review system over the periodic review system?",
+    "options": [
+      "It requires less monitoring effort",
+      "It is easier to coordinate multi-item orders from a single supplier",
+      "It generally requires lower safety stock for the same service level",
+      "It eliminates the need for reorder point calculations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Demand during lead time\" is a critical input for which inventory calculation?",
+    "options": [
+      "Economic Order Quantity",
+      "Annual ordering cost",
+      "Reorder Point with safety stock",
+      "Production Order Quantity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If demand during lead time follows a normal distribution, safety stock is typically calculated as:",
+    "options": [
+      "Safety stock = z × σ(lead time demand), where z is the service level z-score",
+      "Safety stock = Average demand × Lead time",
+      "Safety stock = EOQ / 2",
+      "Safety stock = Annual demand / Number of orders"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A z-value of 1.65 in safety stock calculation corresponds to approximately which service level?",
+    "options": [
+      "84%",
+      "90%",
+      "95%",
+      "99%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes \"stockout cost\"?",
+    "options": [
+      "The cost of placing a purchase order",
+      "The cost of holding excess inventory in the warehouse",
+      "The cost of lost sales, backorders, and customer dissatisfaction from inventory shortages",
+      "The transportation cost of emergency shipments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In probabilistic inventory models, increasing the desired service level will generally:",
+    "options": [
+      "Decrease the required safety stock",
+      "Increase the required safety stock",
+      "Have no effect on safety stock",
+      "Reduce the reorder point"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is used to manage a large number of independent demand items with lower monitoring cost?",
+    "options": [
+      "MRP system",
+      "Continuous review with individual reorder points for each item",
+      "ABC analysis combined with differentiated review systems",
+      "Just-in-time delivery from all suppliers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"Type I service level\" in inventory management is defined as:",
+    "options": [
+      "The fraction of demand satisfied from stock on hand",
+      "The probability of not stocking out during a single replenishment cycle",
+      "The ratio of orders filled on time to total orders",
+      "The percentage of items maintained above the reorder point"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Type II service level\" (fill rate) measures:",
+    "options": [
+      "The probability of no stockout per replenishment cycle",
+      "The fraction of total demand satisfied without backorders",
+      "The number of orders placed per year without shortage",
+      "The ratio of safety stock to average cycle stock"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following will REDUCE the reorder point in a probabilistic demand model?",
+    "options": [
+      "Increase in average lead time",
+      "Increase in demand variability",
+      "Reduction in desired service level",
+      "Increase in average daily demand"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which inventory model is most appropriate when demand is uncertain and items are sold directly to end consumers?",
+    "options": [
+      "Basic EOQ with constant demand",
+      "Production Order Quantity model",
+      "Probabilistic independent demand model",
+      "MRP-based dependent demand model"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements correctly describes the relationship between lead time variability and safety stock?",
+    "options": [
+      "Higher lead time variability requires lower safety stock",
+      "Lead time variability has no effect on safety stock",
+      "Higher lead time variability requires higher safety stock",
+      "Safety stock is determined only by demand variability, not lead time"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company wants to achieve a 99% service level. Compared to a 90% service level, this will require:",
+    "options": [
+      "Less safety stock and a lower reorder point",
+      "More safety stock and a higher reorder point",
+      "The same safety stock but a lower reorder point",
+      "More safety stock but the same reorder point"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of independent demand inventory systems, \"lost sale\" refers to:",
+    "options": [
+      "A sale that was recorded incorrectly in the inventory system",
+      "Demand that is permanently lost because the item was out of stock",
+      "A purchase order that was cancelled by the supplier",
+      "Inventory that was damaged and written off"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of \"C\" items under ABC analysis?",
+    "options": [
+      "They represent a small number of SKUs with high annual value",
+      "They represent the largest number of SKUs but the smallest share of total value",
+      "They require the tightest inventory controls and most frequent reviews",
+      "They are typically managed with continuous review systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"vendor-managed inventory\" (VMI) in the context of independent demand?",
+    "options": [
+      "The buyer manages all inventory replenishment decisions independently",
+      "The supplier takes responsibility for monitoring and replenishing the buyer's inventory",
+      "A third-party logistics provider manages inventory for both buyer and supplier",
+      "Inventory management is outsourced to a government agency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A retail store maintains safety stock for a fast-moving consumer good. Which factor most directly determines the required safety stock level?",
+    "options": [
+      "The unit purchase price of the item",
+      "Variability in demand and supplier lead time",
+      "The physical size of the item's storage location",
+      "The number of competing products in the same category"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes \"obsolescence risk\" in inventory management?",
+    "options": [
+      "The risk of receiving defective goods from suppliers",
+      "The risk that inventory will lose value or become unsalable before it is used or sold",
+      "The risk of stockouts during the lead time period",
+      "The risk of supplier price increases affecting holding costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Dependent demand items are characterized by demand that is:",
+    "options": [
+      "Driven by external customers purchasing finished goods",
+      "Derived from the production requirements of a parent or finished item",
+      "Forecasted independently using time series methods",
+      "Managed through continuous review reorder point systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the primary tool used to manage dependent demand inventory?",
+    "options": [
+      "Economic Order Quantity (EOQ)",
+      "Periodic review system",
+      "Material Requirements Planning (MRP)",
+      "ABC analysis"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In MRP, the \"Master Production Schedule\" (MPS) serves as:",
+    "options": [
+      "A record of current on-hand inventory for all items",
+      "The primary input that drives all lower-level material requirements",
+      "A tool for evaluating supplier performance",
+      "A forecast of independent demand for raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Bill of Materials\" (BOM) in MRP is:",
+    "options": [
+      "A financial statement of inventory costs",
+      "A structured list of all components and quantities needed to produce one unit of a parent item",
+      "A supplier catalog listing prices and lead times",
+      "A warehouse location guide for all inventory items"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "MRP \"netting\" refers to the process of:",
+    "options": [
+      "Calculating the total ordering cost for all materials",
+      "Subtracting on-hand inventory and scheduled receipts from gross requirements to determine net requirements",
+      "Grouping similar items together for combined purchase orders",
+      "Allocating warehouse space based on item volume"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In MRP, \"gross requirements\" represent:",
+    "options": [
+      "The total quantity of an item needed before considering on-hand inventory",
+      "The quantity to be ordered after accounting for current stock",
+      "The maximum inventory level for an item",
+      "The total cost of all materials in the BOM"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an input to the MRP system?",
+    "options": [
+      "Finished goods selling price",
+      "Customer satisfaction surveys",
+      "On-hand inventory records",
+      "Annual financial statements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Lot sizing\" in MRP determines:",
+    "options": [
+      "The physical dimensions of each inventory item",
+      "The quantity to order or produce in each time period",
+      "The number of suppliers needed for each component",
+      "The warehouse location for each item"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"time bucket\" in MRP planning refers to:",
+    "options": [
+      "The storage container used for small components",
+      "The discrete time period (e.g., week) used to organize the MRP schedule",
+      "The lead time for the longest-lead item in the BOM",
+      "The time required to process a customer order"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Planned order release\" in MRP means:",
+    "options": [
+      "An order that has already been sent to the supplier",
+      "An order that MRP has scheduled to be released in a future time period",
+      "An order that was released in a previous planning period",
+      "An order that was cancelled due to demand changes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"scheduled receipts\" in MRP?",
+    "options": [
+      "Orders that have already been placed and are expected to arrive",
+      "Finished goods scheduled for delivery to customers",
+      "Inventory that has been physically received and counted",
+      "Production orders that have been completed in the current period"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The MRP system calculates the \"planned order release\" date by:",
+    "options": [
+      "Adding the lead time to the date net requirements are needed",
+      "Subtracting the lead time from the date net requirements are needed",
+      "Multiplying the lot size by the lead time",
+      "Dividing net requirements by the average daily demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a limitation of MRP systems?",
+    "options": [
+      "They cannot handle multi-level BOMs",
+      "They assume infinite production capacity which may not reflect reality",
+      "They are unable to calculate net requirements",
+      "They cannot integrate with master production schedules"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "MRP II (Manufacturing Resource Planning) extends MRP by incorporating:",
+    "options": [
+      "Only inventory management functions",
+      "Financial, human resources, and capacity planning in addition to material planning",
+      "Qualitative demand forecasting methods",
+      "Customer relationship management exclusively"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following describes \"pegging\" in MRP?",
+    "options": [
+      "The process of fixing order quantities to supplier minimum quantities",
+      "The ability to trace net requirements back to the parent demand that caused them",
+      "Linking inventory records to warehouse bin locations",
+      "Assigning priority to production orders based on due dates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Explosion\" in the context of MRP refers to:",
+    "options": [
+      "A sudden increase in demand that overwhelms the inventory system",
+      "The process of extending the MPS through the BOM to calculate all component requirements",
+      "A rapid deterioration of inventory quality",
+      "An unexpected increase in supplier lead time"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an advantage of MRP over independent demand models for managing component parts?",
+    "options": [
+      "MRP requires less data input and is easier to administer",
+      "MRP explicitly links component requirements to parent item production schedules",
+      "MRP eliminates the need for safety stock at all levels",
+      "MRP uses simpler lot sizing rules than EOQ-based systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In MRP, the \"low-level code\" of an item refers to:",
+    "options": [
+      "The item's priority ranking in ABC analysis",
+      "The lowest level in the BOM at which the item appears",
+      "The minimum order quantity allowed by the supplier",
+      "The item's location code in the warehouse system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"nervousness\" in MRP systems?",
+    "options": [
+      "The tendency of MRP to generate excessively large safety stocks",
+      "Frequent and significant changes in planned orders caused by small changes in the MPS",
+      "Inability of MRP to handle changes in the Bill of Materials",
+      "Errors caused by inaccurate inventory records in the MRP database"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Enterprise Resource Planning (ERP) systems relate to MRP in that ERP:",
+    "options": [
+      "Replaces MRP with a purely financial planning system",
+      "Integrates MRP with other business functions such as finance, HR, and sales",
+      "Eliminates the need for a Bill of Materials in manufacturing",
+      "Focuses exclusively on customer order management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is required to calculate net requirements in MRP?",
+    "options": [
+      "Selling price, gross profit, and tax rate",
+      "Gross requirements, on-hand inventory, and scheduled receipts",
+      "EOQ, holding cost, and ordering cost",
+      "Safety stock, reorder point, and lead time only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company produces a finished product that requires 3 units of component X per unit. If the MPS calls for 200 units of the finished product in Week 5, the gross requirement for component X in Week 5 is:",
+    "options": [
+      "67 units",
+      "200 units",
+      "400 units",
+      "600 units"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following best describes \"safety time\" in MRP, as opposed to safety stock?",
+    "options": [
+      "Scheduling orders to arrive earlier than needed to buffer against demand uncertainty",
+      "Adding extra units to planned order quantities to buffer against supply uncertainty",
+      "Extending lead time estimates to account for supplier unreliability",
+      "Adding a fixed number of units to each order regardless of demand variability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is TRUE about dependent demand compared to independent demand?",
+    "options": [
+      "Dependent demand must be forecasted using time series methods",
+      "Dependent demand is more uncertain and unpredictable than independent demand",
+      "Dependent demand is calculated directly from parent item requirements, not forecasted independently",
+      "Dependent demand items are always managed using EOQ-based systems"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A two-level BOM consists of a finished product at Level 0 and its components at Level 1. If the finished product has a lead time of 2 weeks and a component has a lead time of 3 weeks, what is the minimum total lead time to produce the finished product from scratch?",
+    "options": [
+      "2 weeks",
+      "3 weeks",
+      "5 weeks",
+      "6 weeks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best distinguishes dependent demand from independent demand?",
+    "options": [
+      "Independent demand is always higher in volume than dependent demand",
+      "Independent demand is derived from production schedules; dependent demand is market-driven",
+      "Dependent demand is derived from the requirements of parent items; independent demand comes from external customers",
+      "Independent demand is managed by MRP; dependent demand is managed by EOQ"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics manager wants to reduce total inventory costs. Which combination of actions is most effective under the EOQ framework?",
+    "options": [
+      "Increase order quantity and increase holding cost",
+      "Decrease order quantity and increase ordering frequency",
+      "Optimize order quantity at the EOQ level where ordering cost equals holding cost",
+      "Eliminate safety stock and reduce the reorder point to zero"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following inventory performance metrics measures the efficiency of inventory investment?",
+    "options": [
+      "Reorder point",
+      "Inventory turnover ratio",
+      "Economic order quantity",
+      "Mean absolute deviation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A high inventory turnover ratio indicates:",
+    "options": [
+      "Excess inventory is being carried relative to sales",
+      "Inventory is being sold and replaced rapidly, reflecting efficient inventory management",
+      "The reorder point is set too high",
+      "Safety stock levels are excessive"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain events would most likely cause a sudden increase in safety stock requirements?",
+    "options": [
+      "Demand becomes perfectly stable and predictable",
+      "A key supplier reduces its lead time significantly",
+      "Lead time variability from a major supplier increases substantially",
+      "The company implements vendor-managed inventory with all suppliers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes the relationship between forecast accuracy and inventory levels?",
+    "options": [
+      "Better forecast accuracy leads to higher safety stock requirements",
+      "Poor forecast accuracy increases the need for safety stock to maintain service levels",
+      "Forecast accuracy has no impact on safety stock or inventory levels",
+      "Higher forecast accuracy always results in higher reorder points"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company adopts a JIT (Just-in-Time) inventory system. Which of the following outcomes is most expected?",
+    "options": [
+      "Significant increase in warehouse storage requirements",
+      "Higher safety stock levels across all inventory categories",
+      "Reduction in inventory holding costs and waste",
+      "Increased reliance on large, infrequent orders from suppliers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following correctly describes the role of inventory management in supply chain coordination?",
+    "options": [
+      "Inventory management operates in isolation from other supply chain functions",
+      "Effective inventory management decouples supply chain stages and buffers against variability",
+      "Inventory management focuses exclusively on minimizing the number of suppliers",
+      "Inventory management is only relevant for manufacturing companies, not service organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager notices that upstream suppliers are holding significantly more inventory than downstream retailers require. This situation most likely reflects:",
+    "options": [
+      "Excellent demand forecasting by all supply chain members",
+      "The bullwhip effect causing demand signal amplification upstream",
+      "A successful implementation of vendor-managed inventory",
+      "Optimal lot sizing decisions by all supply chain participants"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST comprehensive approach to managing inventory across a supply chain?",
+    "options": [
+      "Each company independently minimizes its own inventory costs using EOQ",
+      "Applying ABC analysis uniformly to all items across all companies in the chain",
+      "Integrating demand information, collaborative forecasting, and synchronized replenishment across all supply chain partners",
+      "Centralizing all inventory at a single warehouse to reduce holding costs"
+    ],
+    "correct": 2
+  }
+]
