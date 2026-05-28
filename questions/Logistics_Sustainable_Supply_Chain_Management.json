@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "What is the primary goal of a sustainable supply chain?",
+    "options": [
+      "Maximizing short-term profits",
+      "Balancing economic, environmental, and social objectives",
+      "Reducing the number of suppliers",
+      "Increasing warehouse capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best defines the \"triple bottom line\" in supply chain sustainability?",
+    "options": [
+      "Profit, revenue, and market share",
+      "People, planet, and profit",
+      "Cost, quality, and speed",
+      "Suppliers, manufacturers, and retailers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which approach focuses on eliminating waste and reducing environmental impact throughout the supply chain?",
+    "options": [
+      "Lean supply chain management",
+      "Agile supply chain management",
+      "Responsive supply chain management",
+      "Traditional supply chain management"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Corporate Social Responsibility (CSR) in supply chain management primarily involves:",
+    "options": [
+      "Maximizing shareholder returns at all costs",
+      "Ensuring ethical, social, and environmental accountability",
+      "Reducing the number of supply chain partners",
+      "Focusing solely on cost reduction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key driver of sustainable supply chain adoption?",
+    "options": [
+      "Declining consumer interest in environmental issues",
+      "Reduced regulatory pressure",
+      "Stakeholder pressure from consumers, governments, and NGOs",
+      "Decreasing global trade volumes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The circular economy concept in supply chains emphasizes:",
+    "options": [
+      "Linear flow from production to disposal",
+      "Reuse, recycling, and remanufacturing to minimize waste",
+      "Expanding production capacity indefinitely",
+      "Outsourcing all manufacturing to low-cost countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which sustainability approach requires suppliers to meet specific environmental and social standards?",
+    "options": [
+      "Supplier diversification",
+      "Green supplier development",
+      "Sole sourcing",
+      "Reverse auctioning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that measures its carbon footprint across all supply chain stages is practicing:",
+    "options": [
+      "Scope 3 emissions accounting",
+      "Financial auditing",
+      "Demand forecasting",
+      "Inventory optimization"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following best describes \"green logistics\"?",
+    "options": [
+      "Using only green-colored vehicles for transportation",
+      "Minimizing the environmental impact of logistics operations",
+      "Maximizing the speed of deliveries at any cost",
+      "Outsourcing logistics to third-party providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable supply chain management integrates which three dimensions?",
+    "options": [
+      "Speed, flexibility, and cost",
+      "Economic, environmental, and social dimensions",
+      "Procurement, manufacturing, and distribution",
+      "Local, regional, and global sourcing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a characteristic of a sustainable supply chain?",
+    "options": [
+      "Transparency across all supply chain tiers",
+      "Short-term profit maximization regardless of environmental impact",
+      "Ethical labor practices among suppliers",
+      "Reduction of greenhouse gas emissions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"cradle-to-grave\" in sustainability refers to:",
+    "options": [
+      "Tracking a product from raw material extraction to end-of-life disposal",
+      "Managing only warehouse and distribution activities",
+      "Monitoring supplier performance during contract periods",
+      "Evaluating only manufacturing stage emissions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following frameworks is commonly used for sustainability reporting in supply chains?",
+    "options": [
+      "Just-in-Time (JIT)",
+      "Global Reporting Initiative (GRI)",
+      "Economic Order Quantity (EOQ)",
+      "Materials Requirements Planning (MRP)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable supply chain practices help organizations achieve competitive advantage primarily by:",
+    "options": [
+      "Reducing product quality standards",
+      "Enhancing brand reputation and reducing long-term operational costs",
+      "Increasing reliance on non-renewable resources",
+      "Limiting supply chain visibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which term describes a supply chain that continuously regenerates natural systems while delivering positive social outcomes?",
+    "options": [
+      "Lean supply chain",
+      "Agile supply chain",
+      "Regenerative supply chain",
+      "Efficient supply chain"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Environmental sustainability in supply chains involves:",
+    "options": [
+      "Reducing emissions, minimizing waste, and conserving natural resources",
+      "Paying lower wages to supply chain workers",
+      "Increasing the number of intermediaries in the supply chain",
+      "Prioritizing speed over environmental concerns"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following represents the social dimension of supply chain sustainability?",
+    "options": [
+      "Minimizing transportation costs",
+      "Ensuring fair wages and safe working conditions for workers",
+      "Reducing product lead times",
+      "Maximizing inventory turnover"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company adopting a \"closed-loop supply chain\" focuses on:",
+    "options": [
+      "Preventing any returns from customers",
+      "Recovering and reusing products at end of life",
+      "Eliminating all reverse logistics activities",
+      "Sourcing exclusively from domestic suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The ISO 14001 standard is primarily associated with:",
+    "options": [
+      "Quality management systems",
+      "Environmental management systems",
+      "Occupational health and safety",
+      "Information security management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Stakeholder engagement in sustainable supply chain management helps organizations to:",
+    "options": [
+      "Avoid regulatory compliance requirements",
+      "Identify and manage sustainability risks and opportunities",
+      "Concentrate decision-making at the top management level only",
+      "Reduce the number of supply chain tiers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain practices directly reduces carbon emissions?",
+    "options": [
+      "Increasing the frequency of small shipments",
+      "Consolidating shipments to maximize vehicle load",
+      "Sourcing from geographically distant suppliers only",
+      "Using air freight for all deliveries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Extended Producer Responsibility (EPR) in supply chains requires manufacturers to:",
+    "options": [
+      "Outsource all end-of-life product management",
+      "Take responsibility for the post-consumer stage of their products",
+      "Ignore product disposal issues",
+      "Transfer environmental costs to consumers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a socially unsustainable supply chain practice?",
+    "options": [
+      "Conducting supplier audits for labor standards",
+      "Using child labor in supplier factories",
+      "Providing fair wages to all supply chain workers",
+      "Ensuring safe working conditions at supplier sites"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain transparency is important for sustainability because it:",
+    "options": [
+      "Limits the flow of information between partners",
+      "Enables identification and correction of unethical or harmful practices",
+      "Reduces the need for supplier relationships",
+      "Increases the cost of supply chain operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"sustainable procurement\"?",
+    "options": [
+      "Purchasing goods at the lowest possible price regardless of source",
+      "Acquiring goods and services while considering long-term environmental and social impacts",
+      "Sourcing exclusively from local suppliers",
+      "Eliminating all procurement activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable procurement requires organizations to consider which factors when selecting suppliers?",
+    "options": [
+      "Price only",
+      "Environmental, social, and governance (ESG) performance",
+      "Geographic proximity only",
+      "Brand recognition only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key objective of green procurement?",
+    "options": [
+      "Purchasing the cheapest available products",
+      "Minimizing the environmental impact of purchased goods and services",
+      "Sourcing from a single global supplier",
+      "Eliminating all procurement controls"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Life Cycle Assessment (LCA) in procurement helps organizations to:",
+    "options": [
+      "Evaluate only the purchase price of goods",
+      "Assess environmental impacts of products from production to disposal",
+      "Determine the financial value of suppliers",
+      "Measure supplier delivery performance only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The practice of including sustainability criteria in supplier evaluation is known as:",
+    "options": [
+      "Strategic sourcing",
+      "Sustainable supplier selection",
+      "Cost-based sourcing",
+      "Reverse auctioning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about ethical procurement is CORRECT?",
+    "options": [
+      "It focuses purely on cost minimization",
+      "It ensures procurement processes adhere to legal, moral, and social standards",
+      "It eliminates the need for supplier audits",
+      "It applies only to international procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Fair trade procurement practices are designed primarily to:",
+    "options": [
+      "Maximize profit margins for buyers",
+      "Ensure producers in developing countries receive fair compensation",
+      "Reduce the number of international suppliers",
+      "Accelerate procurement processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supplier code of conduct in sustainable procurement typically covers:",
+    "options": [
+      "Only delivery timelines and product specifications",
+      "Labor rights, environmental practices, and anti-corruption measures",
+      "Supplier financial performance only",
+      "Packaging standards only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which procurement strategy best supports sustainable supply chain objectives?",
+    "options": [
+      "Awarding contracts based solely on the lowest bid",
+      "Integrating sustainability criteria alongside cost, quality, and delivery",
+      "Reducing supplier diversity to simplify management",
+      "Ignoring supplier environmental performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When evaluating suppliers for sustainability, organizations typically use:",
+    "options": [
+      "Credit scores only",
+      "Third-party audits, certifications, and sustainability scorecards",
+      "Sales volume reports only",
+      "Marketing rankings only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of environmentally preferable purchasing?",
+    "options": [
+      "Buying disposable single-use products in bulk",
+      "Sourcing recycled-content paper for office use",
+      "Purchasing from suppliers with no environmental policies",
+      "Maximizing procurement of plastic packaging"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Carbon offsetting in procurement involves:",
+    "options": [
+      "Ignoring emissions from purchased goods",
+      "Compensating for emissions by funding environmental projects",
+      "Increasing transportation emissions to reduce costs",
+      "Eliminating all supplier relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"total cost of ownership\" in sustainable procurement includes:",
+    "options": [
+      "Purchase price only",
+      "All costs including environmental and social impacts over the product's life",
+      "Only transportation costs",
+      "Only manufacturing costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Government procurement policies that prioritize sustainability are designed to:",
+    "options": [
+      "Increase government spending on luxury goods",
+      "Drive market demand for sustainable products and services",
+      "Reduce the number of government suppliers",
+      "Eliminate competitive bidding processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which international standard guides organizations in responsible procurement practices?",
+    "options": [
+      "ISO 9001",
+      "ISO 20400",
+      "ISO 31000",
+      "ISO 45001"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supplier development for sustainability involves:",
+    "options": [
+      "Terminating underperforming suppliers immediately",
+      "Collaborating with suppliers to improve their sustainability performance",
+      "Reducing supplier communication",
+      "Outsourcing supplier management to third parties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The risk of \"greenwashing\" in procurement refers to:",
+    "options": [
+      "Genuine improvement of supplier environmental performance",
+      "Suppliers making false or exaggerated environmental claims",
+      "Accurate reporting of carbon footprints",
+      "Transparent disclosure of supply chain practices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable procurement in the public sector is particularly important because:",
+    "options": [
+      "Governments are exempt from environmental regulations",
+      "Public spending can drive significant market shifts toward sustainable products",
+      "Public procurement involves only small volumes",
+      "Government suppliers do not require sustainability oversight"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a benefit of sustainable procurement for an organization?",
+    "options": [
+      "Increased exposure to reputational risks",
+      "Reduced supply chain risks and improved long-term supplier relationships",
+      "Higher procurement costs with no business benefit",
+      "Reduced stakeholder trust"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Local sourcing as a sustainable procurement strategy primarily helps to:",
+    "options": [
+      "Increase transportation distances and emissions",
+      "Reduce transportation emissions and support local economies",
+      "Eliminate the need for supplier audits",
+      "Increase dependence on global supply chains"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"responsible sourcing\"?",
+    "options": [
+      "Sourcing from the cheapest supplier regardless of practices",
+      "Ensuring that materials and products are sourced ethically and sustainably",
+      "Prioritizing speed over supplier ethics",
+      "Outsourcing procurement to reduce costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Conflict minerals policies in procurement are aimed at:",
+    "options": [
+      "Encouraging the use of all types of minerals",
+      "Preventing the purchase of minerals linked to human rights abuses",
+      "Reducing the cost of raw materials",
+      "Increasing mineral extraction activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager who prioritizes sustainable sourcing demonstrates which competency?",
+    "options": [
+      "Short-term cost minimization",
+      "Responsible leadership and ethical decision-making",
+      "Risk avoidance through non-engagement",
+      "Sole focus on financial returns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which tool helps procurement teams track and compare the sustainability performance of multiple suppliers?",
+    "options": [
+      "Gantt chart",
+      "Supplier sustainability scorecard",
+      "PERT diagram",
+      "Break-even analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable procurement adds value to an organization by:",
+    "options": [
+      "Limiting innovation in the supply base",
+      "Reducing long-term costs, risks, and reputational damage",
+      "Increasing the complexity of procurement processes unnecessarily",
+      "Discouraging supplier diversity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The practice of conducting supplier sustainability audits helps organizations to:",
+    "options": [
+      "Eliminate all underperforming suppliers",
+      "Verify that suppliers comply with environmental and social standards",
+      "Reduce communication with suppliers",
+      "Focus only on financial performance metrics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which production approach is most aligned with environmental sustainability?",
+    "options": [
+      "Mass production with no waste controls",
+      "Lean manufacturing that minimizes waste and resource use",
+      "Maximizing production output regardless of environmental impact",
+      "Using the oldest available machinery to reduce capital costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"eco-efficiency\" in production refers to:",
+    "options": [
+      "Producing more goods while using fewer resources and generating less waste",
+      "Maximizing energy consumption to increase output",
+      "Eliminating all production activities",
+      "Reducing product quality to cut costs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a sustainable production strategy?",
+    "options": [
+      "Using virgin raw materials exclusively",
+      "Incorporating renewable energy sources in manufacturing",
+      "Maximizing hazardous waste generation",
+      "Ignoring worker safety standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Industrial ecology in supply chains focuses on:",
+    "options": [
+      "Treating manufacturing waste as unusable",
+      "Creating systems where waste from one process becomes input for another",
+      "Maximizing resource extraction",
+      "Eliminating all environmental regulations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which certification demonstrates a company's commitment to sustainable production?",
+    "options": [
+      "ISO 9001 only",
+      "ISO 14001 Environmental Management System",
+      "ISO 31000 Risk Management",
+      "ISO 45001 only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Carbon-neutral production means a company:",
+    "options": [
+      "Emits more carbon than it offsets",
+      "Achieves net-zero carbon emissions through reduction and offsetting",
+      "Ignores all carbon emission measurements",
+      "Only measures Scope 1 emissions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents a social sustainability concern in production?",
+    "options": [
+      "Reducing factory energy consumption",
+      "Ensuring fair wages and safe working conditions for factory workers",
+      "Maximizing machine utilization",
+      "Reducing product defect rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Design for Sustainability (DfS) in manufacturing involves:",
+    "options": [
+      "Designing products for maximum profit only",
+      "Incorporating sustainability considerations throughout the product design process",
+      "Ignoring end-of-life product disposal",
+      "Focusing only on aesthetic product design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The use of renewable energy in manufacturing operations primarily helps to:",
+    "options": [
+      "Increase greenhouse gas emissions",
+      "Reduce the carbon footprint of production activities",
+      "Increase production costs significantly",
+      "Eliminate the need for energy efficiency measures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"cleaner production\"?",
+    "options": [
+      "Cleaning factory floors more frequently",
+      "Continuously applying preventive environmental strategies to products and processes",
+      "Outsourcing all production activities",
+      "Using more chemicals in the production process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Water stewardship in sustainable production involves:",
+    "options": [
+      "Maximizing water usage in manufacturing",
+      "Responsibly managing water use to minimize environmental and social impacts",
+      "Ignoring wastewater treatment requirements",
+      "Using water from protected natural sources without restriction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that redesigns its products to use fewer materials and generate less waste is practicing:",
+    "options": [
+      "Product line extension",
+      "Sustainable product design",
+      "Mass customization",
+      "Product obsolescence strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"polluter pays\" principle in sustainable production means:",
+    "options": [
+      "Consumers bear all environmental costs",
+      "Those who cause pollution must bear the costs of managing it",
+      "Governments pay for all industrial pollution",
+      "Pollution costs are ignored in production decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key performance indicator (KPI) for sustainable production?",
+    "options": [
+      "Number of product colors available",
+      "Energy consumption per unit of output",
+      "Number of executive bonuses paid",
+      "Marketing expenditure per product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Additive manufacturing (3D printing) contributes to sustainability by:",
+    "options": [
+      "Increasing material waste in production",
+      "Enabling on-demand production that reduces overproduction and waste",
+      "Requiring more energy than traditional manufacturing",
+      "Eliminating the need for supply chain management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which production philosophy eliminates non-value-adding activities and reduces environmental waste?",
+    "options": [
+      "Mass production",
+      "Lean production",
+      "Batch production",
+      "Job production"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social audits in production facilities are conducted to:",
+    "options": [
+      "Review only financial performance",
+      "Assess labor conditions, worker rights, and social compliance",
+      "Evaluate marketing strategies",
+      "Measure production speed only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable operations management requires balancing:",
+    "options": [
+      "Only cost and quality",
+      "Economic efficiency, environmental responsibility, and social equity",
+      "Speed and volume only",
+      "Profit and market share only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of sustainable packaging in production?",
+    "options": [
+      "Using non-recyclable materials to reduce cost",
+      "Using biodegradable or recyclable packaging materials",
+      "Increasing packaging weight to protect products better",
+      "Using excessive packaging for marketing appeal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"zero waste to landfill\" in production means:",
+    "options": [
+      "Producing zero products",
+      "Diverting all production waste from landfills through recycling, reuse, or recovery",
+      "Sending all waste to incineration regardless of environmental impact",
+      "Ignoring waste management in production planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following contributes to sustainable human resource management in production?",
+    "options": [
+      "Overworking employees without compensation",
+      "Providing fair wages, training, and safe working conditions",
+      "Eliminating employee benefits to reduce costs",
+      "Limiting workforce diversity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that measures and reports its production-related greenhouse gas emissions is complying with:",
+    "options": [
+      "Financial reporting standards only",
+      "GHG Protocol reporting requirements",
+      "Marketing transparency guidelines",
+      "Procurement audit standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Cradle-to-cradle\" design in production differs from \"cradle-to-grave\" by:",
+    "options": [
+      "Focusing only on the manufacturing phase",
+      "Designing products for continuous cycling of materials with no waste",
+      "Ignoring end-of-life product management",
+      "Using only virgin raw materials"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following supply chain actors has the most direct influence on sustainable production practices?",
+    "options": [
+      "End consumers",
+      "Manufacturers and producers",
+      "Retailers",
+      "Logistics providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable production practices primarily benefit supply chains by:",
+    "options": [
+      "Increasing short-term costs with no long-term benefits",
+      "Reducing resource consumption, waste, and long-term operational risks",
+      "Eliminating the need for supplier relationships",
+      "Limiting product innovation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Green logistics is primarily concerned with:",
+    "options": [
+      "Painting logistics vehicles green",
+      "Reducing the environmental impact of logistics and distribution activities",
+      "Maximizing the speed of deliveries",
+      "Increasing the number of distribution centers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following transportation modes has the lowest carbon emissions per tonne-kilometer?",
+    "options": [
+      "Air freight",
+      "Road trucking",
+      "Rail transport",
+      "Motorcycle delivery"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Reverse logistics in sustainable supply chains involves:",
+    "options": [
+      "Delivering products from manufacturer to consumer only",
+      "Managing the return flow of products for reuse, recycling, or disposal",
+      "Eliminating product return policies",
+      "Increasing forward logistics volumes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which strategy helps reduce the carbon footprint of distribution operations?",
+    "options": [
+      "Increasing the frequency of deliveries with smaller loads",
+      "Optimizing delivery routes and consolidating shipments",
+      "Using only air freight for speed",
+      "Expanding the number of warehouses without demand analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of the \"last mile\" in sustainable logistics refers to:",
+    "options": [
+      "The longest segment of the supply chain",
+      "The final delivery step from distribution center to end customer",
+      "The first stage of raw material procurement",
+      "International shipping routes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Intermodal transportation contributes to sustainability by:",
+    "options": [
+      "Limiting transport to a single mode",
+      "Combining multiple transport modes to optimize efficiency and reduce emissions",
+      "Increasing the reliance on air freight",
+      "Eliminating the use of rail transport"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable packaging design principles include:",
+    "options": [
+      "Using maximum packaging to ensure product safety",
+      "Reducing packaging material, using recyclable materials, and minimizing waste",
+      "Prioritizing aesthetics over environmental impact",
+      "Using non-biodegradable materials for durability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"eco-friendly packaging\"?",
+    "options": [
+      "Packaging made from non-recyclable petroleum-based materials",
+      "Packaging designed to minimize environmental impact throughout its life cycle",
+      "Packaging that maximizes use of virgin plastics",
+      "Packaging that prioritizes cost reduction over sustainability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Carbon footprint labeling on products helps consumers to:",
+    "options": [
+      "Make decisions based on taste preference only",
+      "Understand and compare the environmental impact of products",
+      "Ignore environmental considerations in purchasing",
+      "Focus only on price when making purchasing decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which warehousing practice supports sustainability in physical distribution?",
+    "options": [
+      "Operating warehouses 24/7 without energy management",
+      "Using energy-efficient lighting, solar panels, and smart energy management systems",
+      "Maximizing warehouse floor space with no efficiency considerations",
+      "Ignoring waste management in warehouse operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Environmental Protection Agency (EPA) SmartWay program is designed to:",
+    "options": [
+      "Certify organic food products",
+      "Improve freight transportation efficiency and reduce environmental impacts",
+      "Regulate financial reporting for logistics companies",
+      "Manage customs clearance procedures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a sustainable practice in urban logistics?",
+    "options": [
+      "Using large diesel trucks for all urban deliveries",
+      "Using electric vehicles and cargo bikes for last-mile urban delivery",
+      "Increasing traffic congestion by scheduling deliveries at peak hours",
+      "Eliminating all urban delivery services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Packaging minimization in supply chains refers to:",
+    "options": [
+      "Using more packaging to increase product protection",
+      "Reducing excess packaging while maintaining product safety",
+      "Eliminating all product packaging",
+      "Using heavier materials to improve packaging strength"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A distribution network redesign for sustainability would typically involve:",
+    "options": [
+      "Adding more distribution centers regardless of demand",
+      "Consolidating facilities and optimizing delivery routes to reduce emissions",
+      "Increasing transportation frequency to improve service levels",
+      "Eliminating all regional distribution centers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cold chain sustainability challenges include:",
+    "options": [
+      "Managing only ambient temperature products",
+      "Reducing energy consumption in refrigeration while maintaining product integrity",
+      "Eliminating cold chain logistics entirely",
+      "Maximizing the use of non-insulated containers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following metrics measures the environmental performance of logistics operations?",
+    "options": [
+      "Revenue per employee",
+      "CO2 emissions per tonne-kilometer",
+      "Number of customer complaints",
+      "Warehouse lease costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The use of biodegradable packaging materials in distribution helps to:",
+    "options": [
+      "Increase non-biodegradable waste in landfills",
+      "Reduce long-term environmental pollution from packaging waste",
+      "Increase packaging production costs with no benefit",
+      "Eliminate the need for waste management policies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable freight transport planning involves:",
+    "options": [
+      "Routing vehicles based solely on speed",
+      "Considering environmental, social, and economic factors in transport decisions",
+      "Ignoring fuel efficiency in vehicle selection",
+      "Maximizing the number of vehicle trips"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a social sustainability concern in logistics?",
+    "options": [
+      "Optimizing vehicle routing algorithms",
+      "Ensuring fair working conditions and safety for logistics workers",
+      "Reducing warehouse storage costs",
+      "Maximizing the speed of deliveries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"milk run\" delivery system in logistics contributes to sustainability by:",
+    "options": [
+      "Delivering only dairy products",
+      "Consolidating multiple pickups/deliveries on a single route to reduce trips and emissions",
+      "Using separate vehicles for each supplier",
+      "Increasing the number of delivery trips"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Digital logistics technologies such as IoT and AI contribute to sustainability by:",
+    "options": [
+      "Increasing energy consumption in logistics operations",
+      "Optimizing routes, reducing fuel consumption, and minimizing empty miles",
+      "Eliminating the need for human workers in logistics",
+      "Increasing the complexity of logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Reusable transport packaging (RTP) contributes to supply chain sustainability by:",
+    "options": [
+      "Increasing single-use packaging waste",
+      "Reducing packaging waste through repeated use of containers and pallets",
+      "Increasing logistics costs with no environmental benefit",
+      "Eliminating the need for packaging standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best illustrates the social dimension of sustainable logistics?",
+    "options": [
+      "Reducing transportation costs through route optimization",
+      "Ensuring that logistics workers receive fair wages and are not overworked",
+      "Maximizing vehicle utilization rates",
+      "Using the cheapest available fuel source"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable distribution network design aims to:",
+    "options": [
+      "Maximize the number of distribution facilities",
+      "Balance service level requirements with environmental and cost efficiency",
+      "Eliminate all warehousing activities",
+      "Prioritize speed over environmental considerations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Carbon-neutral logistics operations can be achieved through:",
+    "options": [
+      "Increasing fuel consumption to improve delivery speeds",
+      "Combining emission reduction initiatives with carbon offsetting programs",
+      "Ignoring Scope 3 emissions in logistics planning",
+      "Outsourcing all logistics to non-compliant third parties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainability in supply chain management is best described as:",
+    "options": [
+      "Achieving maximum profitability without regard for the environment",
+      "Meeting present needs without compromising future generations' ability to meet their own needs",
+      "Minimizing supply chain costs at all stages",
+      "Reducing supply chain complexity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key barrier to implementing sustainable supply chains?",
+    "options": [
+      "Excessive supplier cooperation",
+      "High initial costs and lack of awareness among supply chain partners",
+      "Over-regulation of sustainable practices",
+      "Too many available sustainability frameworks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company that measures and reports its Scope 3 emissions is tracking:",
+    "options": [
+      "Only direct emissions from its own operations",
+      "Indirect emissions from activities throughout its value chain",
+      "Only financial performance metrics",
+      "Emissions from competitors' operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social sustainability in supply chains requires organizations to:",
+    "options": [
+      "Focus exclusively on profit generation",
+      "Respect human rights and ensure fair labor standards across all supply chain tiers",
+      "Eliminate all subcontracting arrangements",
+      "Ignore community impacts of supply chain operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The UNGC (United Nations Global Compact) principles relevant to supply chains cover:",
+    "options": [
+      "Only financial reporting standards",
+      "Human rights, labor standards, environmental responsibility, and anti-corruption",
+      "Only carbon emission regulations",
+      "Only procurement procedures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key feature of a socially responsible supply chain?",
+    "options": [
+      "Using child labor to reduce production costs",
+      "Ensuring safe working conditions and fair wages throughout the supply chain",
+      "Ignoring supplier labor practices",
+      "Prioritizing speed over worker safety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Sustainable Development Goals (SDGs) most relevant to supply chain management include:",
+    "options": [
+      "Only SDG 1 (No Poverty)",
+      "SDGs related to decent work, responsible consumption, climate action, and partnerships",
+      "Only SDG 17 (Partnerships)",
+      "Only SDGs related to health"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"social license to operate\" for supply chain companies?",
+    "options": [
+      "A government-issued permit to conduct business",
+      "Ongoing community acceptance of a company's operations and practices",
+      "An ISO certification for social compliance",
+      "A financial performance benchmark"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Life cycle thinking in sustainable supply chains involves:",
+    "options": [
+      "Evaluating only the manufacturing phase of a product",
+      "Considering environmental and social impacts from raw material extraction to end of life",
+      "Focusing exclusively on packaging disposal",
+      "Measuring only distribution-related impacts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain transparency tools such as blockchain help sustainability by:",
+    "options": [
+      "Concealing supplier practices from stakeholders",
+      "Providing immutable, traceable records of supply chain activities and sustainability claims",
+      "Reducing data availability for decision-making",
+      "Increasing the cost of sustainability reporting with no benefit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of environmental unsustainability in a supply chain?",
+    "options": [
+      "Using renewable energy in manufacturing",
+      "Dumping industrial waste into water bodies",
+      "Implementing a supplier code of conduct",
+      "Conducting carbon footprint assessments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable supply chain management ultimately creates value for:",
+    "options": [
+      "Shareholders only",
+      "A broad range of stakeholders including communities, environment, and business partners",
+      "Only the focal company in the supply chain",
+      "Competitors in the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following ethical issues is most relevant to sustainable procurement?",
+    "options": [
+      "Optimizing inventory levels",
+      "Preventing bribery and corruption in supplier selection",
+      "Reducing procurement staff",
+      "Maximizing procurement automation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company that sources from suppliers certified by the Rainforest Alliance demonstrates:",
+    "options": [
+      "Commitment to sourcing the cheapest materials regardless of impact",
+      "Responsible sourcing that protects biodiversity and supports sustainable farming",
+      "Preference for only local suppliers",
+      "Focus on reducing all procurement costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a consequence of ignoring sustainability in supply chain operations?",
+    "options": [
+      "Enhanced brand reputation",
+      "Increased risk of regulatory penalties, reputational damage, and supply disruptions",
+      "Improved stakeholder relationships",
+      "Reduced operational costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"shared value\" in sustainable supply chains suggests that:",
+    "options": [
+      "Companies should distribute profits equally among employees",
+      "Business success and social progress are mutually reinforcing rather than conflicting",
+      "Sustainability initiatives always reduce profitability",
+      "Companies should focus only on shareholder returns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes environmental due diligence in supply chains?",
+    "options": [
+      "Conducting financial audits of suppliers",
+      "Investigating and managing environmental risks in supply chain relationships",
+      "Reducing the number of supplier relationships",
+      "Focusing only on price competitiveness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The UN Guiding Principles on Business and Human Rights require companies to:",
+    "options": [
+      "Maximize profits above all other considerations",
+      "Respect human rights and address adverse impacts in their operations and supply chains",
+      "Eliminate all subcontracting arrangements globally",
+      "Focus exclusively on domestic supply chain operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A sustainability risk assessment in supply chains helps organizations to:",
+    "options": [
+      "Identify and prioritize environmental, social, and governance risks across the supply chain",
+      "Eliminate all supplier relationships",
+      "Focus only on financial risks",
+      "Avoid engaging with international suppliers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a long-term benefit of sustainable supply chain management for a company?",
+    "options": [
+      "Increased short-term costs with no long-term gains",
+      "Improved resilience, reduced regulatory risk, and enhanced stakeholder trust",
+      "Reduced market competitiveness",
+      "Higher rates of supply chain disruptions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"natural step\" framework in sustainability guides organizations to:",
+    "options": [
+      "Increase the extraction of scarce natural resources",
+      "Systematically reduce dependence on fossil fuels and toxic substances",
+      "Eliminate all manufacturing activities",
+      "Focus only on short-term financial returns"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical labor standards in global supply chains are primarily enforced through:",
+    "options": [
+      "Price negotiations with suppliers",
+      "Supplier audits, certifications, and binding contractual commitments",
+      "Ignoring labor conditions in developing countries",
+      "Reducing the number of global suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best demonstrates a company's commitment to sustainable logistics?",
+    "options": [
+      "Maximizing delivery speed at any environmental cost",
+      "Investing in electric vehicles and route optimization to reduce emissions",
+      "Increasing the number of warehouse facilities indiscriminately",
+      "Outsourcing all logistics to avoid environmental responsibility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain sustainability reporting is important because it:",
+    "options": [
+      "Has no impact on stakeholder decision-making",
+      "Provides transparency and accountability on environmental, social, and governance performance",
+      "Is required only for marketing purposes",
+      "Reduces the need for operational improvements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"sustainable consumption\" in supply chains focuses on:",
+    "options": [
+      "Encouraging consumers to buy as much as possible",
+      "Promoting responsible consumption patterns that minimize environmental and social impacts",
+      "Eliminating all consumer goods",
+      "Ignoring consumer behavior in supply chain design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the BEST example of circular economy practice in logistics?",
+    "options": [
+      "Sending all packaging materials to landfill",
+      "Implementing a take-back program to recover and reuse packaging materials",
+      "Using single-use containers for all shipments",
+      "Increasing the weight of packaging to prevent damage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A sustainable supply chain strategy aligned with international climate agreements would prioritize:",
+    "options": [
+      "Maximizing fossil fuel use in logistics operations",
+      "Reducing greenhouse gas emissions and transitioning to renewable energy",
+      "Eliminating all cross-border trade",
+      "Ignoring Scope 3 emissions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the role of government in promoting sustainable supply chains?",
+    "options": [
+      "Governments should have no role in supply chain sustainability",
+      "Governments set regulations, standards, and incentives that drive sustainable supply chain practices",
+      "Governments should manage all supply chain activities directly",
+      "Governments should subsidize only unsustainable supply chain practices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable supply chain management is most effective when:",
+    "options": [
+      "Only the focal company implements sustainability initiatives",
+      "All supply chain partners collaborate to integrate sustainability throughout the chain",
+      "Sustainability is limited to marketing communications",
+      "Only large companies participate in sustainability programs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following represents a triple bottom line trade-off in supply chain management?",
+    "options": [
+      "Choosing between quality and speed",
+      "Balancing cost efficiency, environmental impact reduction, and worker welfare improvements",
+      "Deciding between domestic and international sourcing",
+      "Choosing between lean and agile supply chain strategies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Carbon pricing mechanisms in supply chains are designed to:",
+    "options": [
+      "Reward companies for increasing carbon emissions",
+      "Provide financial incentives for reducing greenhouse gas emissions",
+      "Eliminate international trade activities",
+      "Reduce the cost of fossil fuels for logistics companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain company that conducts biodiversity impact assessments is addressing which dimension of sustainability?",
+    "options": [
+      "Economic sustainability only",
+      "Environmental sustainability",
+      "Social sustainability only",
+      "Governance sustainability only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"dematerialization\" in sustainable supply chains involves:",
+    "options": [
+      "Increasing the physical weight of products",
+      "Reducing the amount of material needed to deliver a given level of service",
+      "Eliminating all product innovations",
+      "Maximizing resource consumption"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about sustainable supply chains is TRUE?",
+    "options": [
+      "Sustainability always increases costs and reduces competitiveness",
+      "Well-implemented sustainability initiatives can reduce costs and enhance competitiveness",
+      "Sustainability is only relevant for large multinational companies",
+      "Sustainable supply chains cannot achieve financial performance targets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Global Logistics Emissions Council (GLEC) framework provides standards for:",
+    "options": [
+      "Financial reporting in logistics companies",
+      "Measuring and reporting greenhouse gas emissions across logistics operations",
+      "Managing supplier relationships",
+      "Conducting procurement audits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Supply chain resilience and sustainability are related because:",
+    "options": [
+      "They are competing objectives that cannot be achieved simultaneously",
+      "Sustainable supply chains tend to be more resilient to disruptions",
+      "Resilience focuses only on financial recovery from disruptions",
+      "Sustainability initiatives always reduce supply chain resilience"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"responsible consumption and production\" in the context of SDG 12?",
+    "options": [
+      "Maximizing production output regardless of resource consumption",
+      "Ensuring that production and consumption patterns are sustainable and resource-efficient",
+      "Eliminating all industrial production",
+      "Reducing consumer access to goods and services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable supply chain management requires organizations to look beyond their immediate suppliers to:",
+    "options": [
+      "Only their direct customers",
+      "Multi-tier suppliers and the broader supply chain ecosystem",
+      "Only domestic supply chain partners",
+      "Only certified suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a primary motivation for companies to adopt sustainable supply chain practices?",
+    "options": [
+      "To increase regulatory burdens",
+      "To reduce long-term risks and respond to stakeholder expectations",
+      "To eliminate supplier relationships",
+      "To maximize short-term profits at the expense of sustainability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's sustainability strategy that includes both upstream and downstream supply chain activities demonstrates:",
+    "options": [
+      "A limited approach to sustainability",
+      "A comprehensive, value-chain-wide approach to sustainability management",
+      "Focus only on procurement activities",
+      "Exclusive attention to logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"access over ownership\" model in sustainable consumption refers to:",
+    "options": [
+      "Encouraging consumers to own as many products as possible",
+      "Providing services that meet consumer needs without requiring product ownership, reducing material consumption",
+      "Eliminating all service-based business models",
+      "Increasing product obsolescence rates"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an indicator of a mature sustainable supply chain program?",
+    "options": [
+      "Sustainability limited to public relations communications",
+      "Sustainability integrated into core business strategy, operations, and supplier relationships",
+      "Sustainability initiatives implemented only when required by regulation",
+      "Sustainability programs managed separately from business operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Environmental management systems (EMS) help supply chain companies to:",
+    "options": [
+      "Maximize resource consumption without monitoring",
+      "Systematically identify, manage, and reduce environmental impacts of operations",
+      "Eliminate all environmental reporting requirements",
+      "Focus only on financial performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"sustainable value\" in supply chain management means:",
+    "options": [
+      "Creating financial value only for shareholders",
+      "Creating value for all stakeholders while minimizing negative environmental and social impacts",
+      "Reducing the value delivered to customers to cut costs",
+      "Focusing only on cost reduction strategies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the relationship between innovation and sustainable supply chains?",
+    "options": [
+      "Innovation has no role in sustainable supply chain development",
+      "Innovation drives new sustainable technologies, processes, and business models in supply chains",
+      "Sustainable supply chains discourage innovation",
+      "Innovation only increases costs in sustainable supply chains"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Ethiopian context for sustainable supply chain management is particularly relevant because:",
+    "options": [
+      "Ethiopia has no logistics performance challenges",
+      "Ethiopia ranks low on logistics performance indices and requires sustainable, quality logistics education",
+      "Ethiopia has achieved full sustainability in its supply chains",
+      "Ethiopia does not need to adopt global sustainability standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain professional who promotes social responsibility in logistics operations demonstrates which competency?",
+    "options": [
+      "Short-term profit orientation",
+      "Ethical leadership and stakeholder awareness",
+      "Resistance to sustainability initiatives",
+      "Focus on individual performance only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following practices demonstrates corporate environmental stewardship in supply chain management?",
+    "options": [
+      "Ignoring supplier environmental performance",
+      "Actively reducing the environmental footprint of all supply chain operations",
+      "Maximizing resource consumption for production efficiency",
+      "Eliminating environmental reporting requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sustainable supply chain management is increasingly important globally because:",
+    "options": [
+      "Global trade is declining and sustainability is no longer relevant",
+      "Climate change, resource scarcity, and social inequality create growing risks that supply chains must address",
+      "Companies are reducing their focus on sustainability reporting",
+      "Stakeholders are less interested in sustainability performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A graduate of the Logistics and Supply Chain Management program who integrates sustainability into their professional practice contributes to:",
+    "options": [
+      "Increasing environmental degradation in logistics operations",
+      "Ethiopia's economic, social, and environmental development goals",
+      "Reducing the quality of logistics services",
+      "Limiting Ethiopia's participation in global trade"
+    ],
+    "correct": 1
+  }
+]
