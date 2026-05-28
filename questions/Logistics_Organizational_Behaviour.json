@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Organizational behaviour (OB) is best defined as:",
+    "options": [
+      "The study of financial performance and accounting practices within organizations",
+      "The systematic study of how individuals, groups, and structures affect and are affected by behaviour within organizations",
+      "The management of physical resources and production systems in organizations",
+      "The study of marketing strategies used by organizations to attract customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the primary goal of studying organizational behaviour?",
+    "options": [
+      "To maximize the financial returns of shareholders through efficient management",
+      "To improve organizational effectiveness by understanding and influencing human behaviour at work",
+      "To design optimal production processes that minimize waste and cost",
+      "To develop legal frameworks governing employment relationships"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following disciplines has contributed MOST significantly to the study of organizational behaviour?",
+    "options": [
+      "Engineering, physics, and chemistry",
+      "Psychology, sociology, anthropology, and political science",
+      "Accounting, finance, and economics only",
+      "Marketing, logistics, and supply chain management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The contribution of \"psychology\" to organizational behaviour is MOST evident in the study of:",
+    "options": [
+      "Organizational culture across different national contexts",
+      "Group dynamics and intergroup conflict in organizations",
+      "Individual behaviour, attitudes, perception, motivation, and learning",
+      "The distribution of power and authority in organizational structures"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Sociology\" contributes to organizational behaviour primarily through its focus on:",
+    "options": [
+      "Individual cognitive processes such as perception and decision-making",
+      "Group behaviour, organizational culture, formal structures, and intergroup dynamics",
+      "The psychological foundations of individual motivation and personality",
+      "The application of mathematical models to organizational decision-making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"systems perspective\" in organizational behaviour?",
+    "options": [
+      "Organizations are viewed as collections of independent individuals whose behaviours do not affect each other",
+      "Organizations are viewed as interconnected systems where individual, group, and organizational factors continuously interact",
+      "Organizational behaviour is determined exclusively by the formal authority structure",
+      "Individual behaviour in organizations is driven solely by financial incentives"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key dependent variable traditionally studied in organizational behaviour?",
+    "options": [
+      "Return on investment and earnings per share",
+      "Employee productivity, job satisfaction, absenteeism, and turnover",
+      "Market share and competitive positioning",
+      "Supplier performance and procurement lead times"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Organizational effectiveness\" in the context of OB refers to:",
+    "options": [
+      "The degree to which an organization maximizes its use of physical resources",
+      "The degree to which an organization achieves its goals while maintaining employee satisfaction and well-being",
+      "The financial profitability of the organization relative to its competitors",
+      "The compliance of the organization with all relevant legal and regulatory requirements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the relationship between individual behaviour and organizational outcomes in OB?",
+    "options": [
+      "Individual behaviour has no significant impact on organizational performance",
+      "Individual behaviour, shaped by personal characteristics and the work environment, directly influences group and organizational performance",
+      "Organizational outcomes are determined exclusively by structural and strategic factors, not human behaviour",
+      "Individual behaviour only matters at the senior management level, not among front-line employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"contingency approach\" in organizational behaviour suggests that:",
+    "options": [
+      "There is one universally effective way to manage people in all organizational situations",
+      "The most effective management approach depends on the specific situation, individuals involved, and organizational context",
+      "Employee behaviour is entirely determined by organizational structure and formal rules",
+      "Financial incentives are the most effective motivators in all organizational contexts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes the \"behavioural science approach\" to studying organizations?",
+    "options": [
+      "It relies exclusively on philosophical reasoning and managerial experience",
+      "It applies scientific research methods to study human behaviour in organizations to generate reliable, generalizable knowledge",
+      "It focuses solely on financial performance indicators to evaluate organizational effectiveness",
+      "It uses engineering principles to optimize production systems and work processes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Organizational behaviour research uses which of the following methods to study workplace behaviour?",
+    "options": [
+      "Financial auditing and budget variance analysis",
+      "Surveys, field studies, laboratory experiments, and case studies",
+      "Engineering time-and-motion studies exclusively",
+      "Marketing focus groups and customer satisfaction surveys"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of an \"organizational-level\" variable in OB?",
+    "options": [
+      "An individual employee's personality traits and cognitive abilities",
+      "The dynamics and cohesion of a work team",
+      "The organization's culture, structure, and human resource policies",
+      "The interpersonal relationship between two colleagues"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Job satisfaction\" in organizational behaviour is BEST defined as:",
+    "options": [
+      "The degree to which an employee earns compensation above the industry average",
+      "The positive emotional state resulting from an individual's appraisal of their job and job experiences",
+      "The extent to which an employee complies with organizational rules and procedures",
+      "The level of physical comfort provided by the employee's work environment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about organizational behaviour is TRUE?",
+    "options": [
+      "OB focuses exclusively on individual behaviour and ignores group and organizational factors",
+      "OB is a purely theoretical field with no practical applications in management",
+      "OB draws on multiple disciplines to provide a comprehensive understanding of human behaviour in work settings",
+      "OB is only relevant to human resources departments and has no value for operations or logistics managers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following personal characteristics MOST directly influences individual behaviour in organizations?",
+    "options": [
+      "The employee's geographic location and commute distance",
+      "Personality, values, attitudes, perception, and abilities",
+      "The employee's physical appearance and dress code compliance",
+      "The number of years the employee has worked in the same office location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Personality\" in organizational behaviour is BEST defined as:",
+    "options": [
+      "The physical appearance and social status of an individual",
+      "The stable pattern of behaviours, thoughts, and emotions that characterizes an individual and distinguishes them from others",
+      "The set of technical skills and competencies an individual brings to the workplace",
+      "The level of education and professional qualifications attained by an individual"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Big Five\" personality model identifies which of the following dimensions?",
+    "options": [
+      "Intelligence, creativity, ambition, resilience, and empathy",
+      "Openness to experience, conscientiousness, extraversion, agreeableness, and neuroticism",
+      "Motivation, attitude, perception, learning, and values",
+      "Leadership, teamwork, communication, problem-solving, and adaptability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which Big Five personality trait is MOST strongly associated with high job performance across a wide range of occupations?",
+    "options": [
+      "Extraversion",
+      "Agreeableness",
+      "Conscientiousness",
+      "Openness to experience"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Locus of control\" as a personality dimension refers to:",
+    "options": [
+      "The degree to which an individual prefers structured versus unstructured work environments",
+      "The extent to which individuals believe they control the events that affect their lives versus attributing outcomes to external forces",
+      "The level of emotional stability an individual demonstrates under work pressure",
+      "The degree to which an individual seeks social interaction and external stimulation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An employee with a high \"internal locus of control\" is MOST likely to:",
+    "options": [
+      "Attribute their success or failure to luck and external circumstances",
+      "Believe that their own efforts and abilities determine their outcomes and take responsibility for results",
+      "Rely heavily on their supervisor for direction and decision-making",
+      "Avoid challenging tasks to minimize the risk of failure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Self-efficacy\" in organizational behaviour refers to:",
+    "options": [
+      "The degree to which an individual values financial compensation above other work rewards",
+      "An individual's belief in their own ability to successfully perform a specific task or achieve a goal",
+      "The tendency of individuals to evaluate themselves more favorably than their peers",
+      "The level of social intelligence an individual demonstrates in group settings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes \"attitude\" in the context of organizational behaviour?",
+    "options": [
+      "A stable personality trait that determines how an individual responds to all situations",
+      "A learned predisposition to respond in a consistently favourable or unfavourable manner toward a given object, person, or situation",
+      "The set of technical skills and competencies an employee applies in their job",
+      "The formal evaluation of an employee's performance by their direct supervisor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The three components of an attitude are:",
+    "options": [
+      "Motivation, ability, and opportunity",
+      "Cognitive, affective, and behavioural components",
+      "Input, process, and output components",
+      "Strategic, tactical, and operational components"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Cognitive dissonance\" in organizational behaviour occurs when:",
+    "options": [
+      "An employee experiences a gap between their current skill level and job requirements",
+      "An individual holds two or more conflicting attitudes or beliefs simultaneously, creating psychological discomfort",
+      "A team is unable to reach consensus on a decision due to conflicting opinions",
+      "An organization's goals conflict with the personal values of its employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Organizational commitment\" refers to:",
+    "options": [
+      "The formal employment contract between an employee and the organization",
+      "The degree to which an employee identifies with and is emotionally attached to the organization and its goals",
+      "The financial investment an employee has made in the organization through stock ownership",
+      "The legal obligation of an employee to fulfill the terms of their employment agreement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Perception\" in organizational behaviour is BEST defined as:",
+    "options": [
+      "The objective measurement of external stimuli by an individual's sensory system",
+      "The process by which individuals select, organize, and interpret sensory information to give meaning to their environment",
+      "The formal evaluation of organizational performance against set targets",
+      "The mathematical calculation of probability and expected outcomes in decision-making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"halo effect\" in perception refers to:",
+    "options": [
+      "The tendency to attribute the behaviour of others to situational factors rather than personal characteristics",
+      "The tendency to draw a general impression of a person based on a single prominent characteristic",
+      "The tendency to perceive one's own group as superior to other groups",
+      "The tendency to evaluate others more favorably when they are physically attractive"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Stereotyping\" in organizational behaviour refers to:",
+    "options": [
+      "Evaluating an individual based on a direct observation of their actual behaviour",
+      "Judging an individual based on generalizations about the group to which they belong",
+      "The tendency to perceive recent events as more significant than earlier events",
+      "Forming impressions of others based exclusively on their professional qualifications"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the \"fundamental attribution error\" in organizational behaviour?",
+    "options": [
+      "The tendency to attribute one's own failures to situational factors while crediting personal ability for successes",
+      "The tendency to overestimate the influence of personal dispositions and underestimate situational factors when explaining others' behaviour",
+      "The tendency to perceive group members as more similar to each other than they actually are",
+      "The tendency to evaluate others based on the most recently observed behaviour"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Learning\" in organizational behaviour is BEST defined as:",
+    "options": [
+      "A temporary change in behaviour caused by fatigue or physical injury",
+      "A relatively permanent change in behaviour or knowledge that results from experience or practice",
+      "The acquisition of formal academic qualifications through university education",
+      "The memorization of organizational rules and procedures during employee orientation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Classical conditioning\" as a learning theory was pioneered by:",
+    "options": [
+      "B.F. Skinner",
+      "Albert Bandura",
+      "Ivan Pavlov",
+      "Abraham Maslow"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Operant conditioning\" in organizational behaviour suggests that behaviour is shaped by:",
+    "options": [
+      "The unconscious drives and instincts of the individual",
+      "The consequences that follow behaviour — reinforcement increases behaviour, punishment decreases it",
+      "The social observation and imitation of role models in the work environment",
+      "The cognitive reasoning and conscious decision-making of the individual"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"positive reinforcement\" in the workplace?",
+    "options": [
+      "Suspending an employee without pay for repeated tardiness",
+      "Removing an unpleasant task from an employee's workload when they meet performance targets",
+      "Awarding a bonus to an employee who consistently exceeds their sales targets",
+      "Issuing a formal written warning to an employee for a policy violation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Negative reinforcement\" in operant conditioning refers to:",
+    "options": [
+      "Punishing undesirable behaviour by applying an unpleasant consequence",
+      "Strengthening a behaviour by removing an unpleasant stimulus when the desired behaviour occurs",
+      "Ignoring undesirable behaviour until it is extinguished",
+      "Reducing a desired behaviour by applying an unpleasant consequence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Social learning theory,\" proposed by Albert Bandura, emphasizes that learning occurs through:",
+    "options": [
+      "The systematic application of rewards and punishments by managers",
+      "Observation and imitation of others, combined with self-regulation and cognitive processes",
+      "The classical conditioning of automatic responses to environmental stimuli",
+      "The formal instruction provided by trainers in classroom settings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Self-reinforcement\" as a concept in social learning theory refers to:",
+    "options": [
+      "Receiving praise and recognition from a supervisor for good performance",
+      "Individuals regulating their own behaviour by setting internal standards and rewarding themselves when those standards are met",
+      "The automatic repetition of behaviour patterns without conscious awareness",
+      "The process of learning new skills through structured mentoring programs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following reinforcement schedules produces the MOST resistant-to-extinction behaviour?",
+    "options": [
+      "Continuous reinforcement schedule",
+      "Fixed-ratio reinforcement schedule",
+      "Fixed-interval reinforcement schedule",
+      "Variable-ratio reinforcement schedule"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Organizational behaviour modification\" (OB Mod) applies which learning principle to improve employee performance?",
+    "options": [
+      "Social learning theory through role modelling and mentoring programs",
+      "Classical conditioning through stimulus-response pairing in the workplace",
+      "Operant conditioning principles — systematically reinforcing desirable behaviours and extinguishing undesirable ones",
+      "Cognitive learning theory through structured training and development programs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Values\" in organizational behaviour are BEST described as:",
+    "options": [
+      "The specific skills and technical competencies an employee brings to the job",
+      "Basic convictions about what is right, good, or desirable that guide individual behaviour and judgment",
+      "The formal performance standards set by management for each employee",
+      "The financial compensation and benefits package provided to employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"group\" in organizational behaviour is BEST defined as:",
+    "options": [
+      "Any collection of people who happen to be in the same physical location",
+      "Two or more individuals who interact, are interdependent, and come together to achieve particular objectives",
+      "A formally designated organizational unit with a defined reporting structure",
+      "A permanent committee established by senior management to oversee a specific function"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST distinguishes a \"team\" from a \"group\" in organizational behaviour?",
+    "options": [
+      "Teams are larger than groups and include more members",
+      "Teams have synergistic performance, shared accountability, and complementary skills; groups may simply share information",
+      "Groups are always formally designated by management; teams are always informal",
+      "Teams are temporary; groups are permanent fixtures of the organizational structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Formal groups\" in organizations are BEST described as:",
+    "options": [
+      "Groups that emerge spontaneously based on friendship and shared interests",
+      "Groups defined by the organization's structure with designated work assignments and established relationships",
+      "Groups formed by employees without management involvement or approval",
+      "Groups that operate outside the formal organizational hierarchy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Informal groups\" in organizations typically form due to:",
+    "options": [
+      "Formal management directives assigning employees to specific project teams",
+      "Common interests, friendships, social proximity, or shared values among employees",
+      "Organizational restructuring that creates new reporting relationships",
+      "The need to comply with regulatory requirements for employee consultation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Tuckman's model of group development identifies which of the following stages in sequence?",
+    "options": [
+      "Forming, performing, storming, norming, adjourning",
+      "Storming, forming, norming, performing, adjourning",
+      "Forming, storming, norming, performing, adjourning",
+      "Norming, forming, storming, performing, adjourning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "During the \"storming\" stage of group development, which of the following is MOST likely to occur?",
+    "options": [
+      "Group members are polite and cautious, getting to know one another",
+      "Intragroup conflict emerges as members resist constraints and assert their individuality",
+      "The group develops cohesion and establishes strong norms and working relationships",
+      "The group focuses intensely on task completion with high levels of performance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Group norms\" in organizational behaviour are BEST described as:",
+    "options": [
+      "The formal performance standards set by management for each team",
+      "Acceptable standards of behaviour shared by group members that define what members should and should not do",
+      "The written rules documented in the organization's employee handbook",
+      "The individual behavioural tendencies each member brings to the group"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Group cohesiveness\" refers to:",
+    "options": [
+      "The degree to which group members have complementary technical skills",
+      "The degree to which group members are attracted to each other and motivated to remain in the group",
+      "The level of agreement among group members on the tasks to be performed",
+      "The formal authority structure governing interactions among group members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a potential NEGATIVE consequence of high group cohesiveness combined with low performance norms?",
+    "options": [
+      "Excessive competition among group members for leadership positions",
+      "High productivity driven by strong interpersonal relationships",
+      "Strong social bonds that support individual performance regardless of group norms",
+      "Low productivity as the cohesive group enforces norms of restricting output"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Social loafing\" in group behaviour refers to:",
+    "options": [
+      "The tendency of individuals to work harder when in a group than when alone",
+      "The tendency of individuals to exert less effort when working in a group than when working alone",
+      "The conflict that arises when group members disagree about task assignments",
+      "The tendency of groups to make riskier decisions than individuals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following strategies is MOST effective for reducing social loafing in work groups?",
+    "options": [
+      "Increasing the size of the group to distribute responsibility more broadly",
+      "Making individual contributions identifiable and holding each member accountable for specific outcomes",
+      "Eliminating all performance standards so members feel less pressured",
+      "Reducing the importance and visibility of the group's task"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Groupthink\" in organizational behaviour occurs when:",
+    "options": [
+      "Group members engage in vigorous debate to arrive at the best possible decision",
+      "The desire for conformity and harmony in a cohesive group overrides realistic appraisal of alternatives, leading to poor decisions",
+      "Diverse perspectives within a group create conflict that prevents decision-making",
+      "Group members defer all major decisions to the most senior or expert member"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a symptom of \"groupthink\"?",
+    "options": [
+      "Encouragement of diverse opinions and devil's advocacy within the group",
+      "Rigorous critical evaluation of all proposed alternatives before a decision is made",
+      "The illusion of invulnerability and collective rationalization of contrary evidence",
+      "Assignment of a formal devil's advocate to challenge all group decisions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Group polarization\" in decision-making refers to:",
+    "options": [
+      "The tendency of groups to reach a compromise position between extreme individual views",
+      "The tendency of groups to make more extreme decisions than the average initial position of individual members",
+      "The tendency of groups to avoid making decisions due to excessive conflict",
+      "The tendency of groups to defer to the most senior member's initial position"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"role\" in a group context?",
+    "options": [
+      "The formal job title assigned to an individual by the organization",
+      "A set of expected behaviour patterns attributed to someone occupying a given position in a group",
+      "The level of authority delegated to an individual within the group hierarchy",
+      "The financial compensation associated with an individual's position in the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Role conflict\" in organizational behaviour occurs when:",
+    "options": [
+      "An individual is assigned too many tasks to complete within the available time",
+      "An individual faces incompatible expectations from different role senders or role requirements",
+      "Two group members compete for the same leadership position within a team",
+      "A group member lacks the technical skills required to fulfill their assigned role"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Role ambiguity\" in organizational behaviour refers to:",
+    "options": [
+      "Conflict between the demands of two different roles held simultaneously by an individual",
+      "Uncertainty about what behaviours are expected of a person in a given role",
+      "The tendency of individuals to take on more roles than they can effectively fulfill",
+      "Disagreement among group members about who should lead the team"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Status\" in group dynamics refers to:",
+    "options": [
+      "The formal rank assigned to a position in the organizational hierarchy",
+      "A socially defined position or rank given to groups or group members by others, reflecting their perceived prestige",
+      "The level of technical expertise demonstrated by a group member",
+      "The financial compensation and benefits associated with an employee's position"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the concept of \"intergroup conflict\" in organizations?",
+    "options": [
+      "Disagreements between individual employees about task assignments",
+      "Conflict that arises between different groups or departments within an organization",
+      "Conflict that occurs within a single team due to personality differences",
+      "Disagreements between managers and subordinates about performance standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST effective approach for managing and resolving intergroup conflict?",
+    "options": [
+      "Ignoring the conflict and hoping it resolves itself over time",
+      "Separating the conflicting groups by eliminating all interaction between them",
+      "Identifying superordinate goals that both groups share and encouraging collaborative problem-solving",
+      "Replacing the leaders of both groups with new managers from outside"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Motivation\" in organizational behaviour is BEST defined as:",
+    "options": [
+      "The financial compensation provided to employees in exchange for their work",
+      "The processes that account for an individual's intensity, direction, and persistence of effort toward achieving a goal",
+      "The formal performance management system used to evaluate employee productivity",
+      "The set of rules and procedures that govern employee behaviour in the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Maslow's hierarchy of needs theory arranges human needs in which of the following orders from LOWEST to HIGHEST?",
+    "options": [
+      "Social, physiological, safety, esteem, self-actualization",
+      "Self-actualization, esteem, social, safety, physiological",
+      "Physiological, safety, social, esteem, self-actualization",
+      "Safety, physiological, social, esteem, self-actualization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to Maslow's theory, which of the following workplace conditions addresses \"safety needs\"?",
+    "options": [
+      "Providing opportunities for promotion and career advancement",
+      "Organizing company social events and team-building activities",
+      "Offering job security, safe working conditions, and health benefits",
+      "Recognizing outstanding employee contributions publicly"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Alderfer's ERG theory modifies Maslow's model by proposing which of the following need categories?",
+    "options": [
+      "Existence, relatedness, and growth needs",
+      "Physiological, safety, and social needs",
+      "Achievement, power, and affiliation needs",
+      "Hygiene, motivator, and growth needs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A key difference between Alderfer's ERG theory and Maslow's hierarchy is that ERG theory:",
+    "options": [
+      "Proposes a strict hierarchical progression through needs levels with no regression",
+      "Allows for simultaneous pursuit of multiple need levels and includes a frustration-regression principle",
+      "Identifies only two categories of needs rather than five",
+      "Focuses exclusively on the needs of managers rather than all employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to Herzberg's two-factor theory, which of the following is a \"hygiene factor\"?",
+    "options": [
+      "Achievement and recognition",
+      "The nature and content of the work itself",
+      "Opportunities for advancement and personal growth",
+      "Company policy, supervision quality, and working conditions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Herzberg's theory implies that to truly MOTIVATE employees, managers should focus on:",
+    "options": [
+      "Improving physical working conditions and increasing base salaries",
+      "Ensuring job security and providing adequate employee benefits",
+      "Enriching jobs with more responsibility, recognition, achievement, and growth opportunities",
+      "Strengthening organizational policies and improving supervisory practices"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "McClelland's need for \"achievement\" (nAch) is BEST characterized by a preference for:",
+    "options": [
+      "Controlling and influencing the behaviour of other people",
+      "Maintaining warm, close relationships and social acceptance",
+      "Moderately challenging tasks with clear feedback and personal responsibility for outcomes",
+      "Highly routine tasks that offer consistent and predictable results"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "McClelland's need for \"power\" (nPow) refers to the desire to:",
+    "options": [
+      "Accomplish challenging tasks and receive recognition for personal achievement",
+      "Influence, control, and have an impact on the behaviour of others",
+      "Build and maintain close, cooperative relationships with colleagues",
+      "Achieve progressively higher levels of personal and professional growth"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "McClelland's need for \"affiliation\" (nAff) is MOST evident in employees who:",
+    "options": [
+      "Seek positions of authority and control over others",
+      "Prefer competitive, high-stakes tasks with significant performance pressure",
+      "Prioritize social relationships, teamwork, and being liked by colleagues over task achievement",
+      "Focus intensely on personal achievement and prefer to work independently"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Vroom's expectancy theory proposes that motivation is a function of which three variables?",
+    "options": [
+      "Needs, goals, and rewards",
+      "Expectancy, instrumentality, and valence",
+      "Reinforcement, punishment, and extinction",
+      "Equity, fairness, and social comparison"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Expectancy\" in Vroom's theory refers to:",
+    "options": [
+      "The perceived value or attractiveness of the outcome to the individual",
+      "The belief that a given level of performance will lead to a desired outcome or reward",
+      "The belief that effort will result in the desired level of performance",
+      "The fairness of the relationship between inputs and outcomes"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Instrumentality\" in Vroom's expectancy theory refers to:",
+    "options": [
+      "The individual's belief that increased effort will lead to higher performance",
+      "The degree to which the individual values the reward being offered",
+      "The individual's belief that achieving a certain performance level will lead to a desired reward",
+      "The comparison of one's own input-outcome ratio with that of a reference person"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Valence\" in Vroom's expectancy theory refers to:",
+    "options": [
+      "The belief that effort will lead to the desired performance level",
+      "The belief that performance will lead to a specific outcome",
+      "The value or attractiveness the individual places on a particular outcome or reward",
+      "The perception of fairness in the distribution of rewards in the organization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Adams' equity theory predicts that employees who perceive they are being UNDER-rewarded relative to a comparison person will MOST likely:",
+    "options": [
+      "Increase their inputs to justify the higher reward they feel they deserve",
+      "Reduce their effort, increase their outcomes through other means, or distort their perception to restore equity",
+      "Accept the inequity and continue performing at the same level",
+      "Request additional responsibilities to demonstrate their value to the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Goal-setting theory, proposed by Locke and Latham, suggests that motivation and performance are HIGHEST when goals are:",
+    "options": [
+      "Vague and open-ended to allow employee creativity and flexibility",
+      "Set exclusively by management without employee involvement",
+      "Specific, challenging, and accompanied by feedback",
+      "Easy to achieve to build employee confidence and self-efficacy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following correctly describes the application of goal-setting theory in a logistics firm?",
+    "options": [
+      "Allowing employees to set their own highly personal goals with no connection to organizational targets",
+      "Setting specific delivery performance targets, communicating them clearly, providing regular feedback, and involving employees in the goal-setting process",
+      "Setting goals so challenging that they are rarely achievable to maximize employee effort",
+      "Avoiding formal goal-setting to preserve employee autonomy and creativity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Job enrichment\" as a motivational strategy involves:",
+    "options": [
+      "Adding more tasks of the same difficulty and complexity to an employee's job",
+      "Increasing the pay and financial benefits associated with an employee's position",
+      "Redesigning jobs to include greater responsibility, autonomy, skill variety, and opportunities for growth",
+      "Assigning employees to work in different departments on a rotating basis"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Hackman and Oldham's \"Job Characteristics Model\" identifies which of the following as a core job dimension that influences motivation?",
+    "options": [
+      "Compensation level, working hours, and physical work environment",
+      "Skill variety, task identity, task significance, autonomy, and feedback",
+      "Organizational culture, management style, and peer relationships",
+      "Job security, promotion opportunities, and training availability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to the Job Characteristics Model, \"task identity\" refers to:",
+    "options": [
+      "The degree to which the job has a substantial impact on the lives of others",
+      "The degree to which the job requires a variety of different activities and skills",
+      "The degree to which the job involves completing a whole and identifiable piece of work from beginning to end",
+      "The degree to which the job provides direct and clear information about performance effectiveness"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST describes \"intrinsic rewards\" in the context of work motivation?",
+    "options": [
+      "Salary increases, bonuses, and promotions provided by the organization",
+      "Personal satisfaction, sense of achievement, and pride derived from the work itself",
+      "Recognition awards and certificates presented at annual company events",
+      "Additional paid leave and flexible working arrangements offered by the employer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Extrinsic rewards\" in motivation refer to:",
+    "options": [
+      "The personal satisfaction and fulfilment an employee derives from doing meaningful work",
+      "Tangible rewards such as pay, benefits, promotions, and recognition provided by the organization",
+      "The intrinsic pleasure an employee experiences from mastering a challenging task",
+      "The emotional support and encouragement provided by a supervisor or mentor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST direct application of motivation theory in a logistics and supply chain context?",
+    "options": [
+      "Using financial penalties to discourage all forms of employee error or delay",
+      "Designing jobs with clear performance targets, providing regular feedback, recognizing achievement, and creating opportunities for growth",
+      "Standardizing all job roles to maximize predictability and operational efficiency",
+      "Eliminating all forms of employee discretion to ensure consistent operational execution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics manager notices that experienced warehouse employees are disengaged despite receiving competitive salaries. Applying Herzberg's theory, which action is MOST likely to re-engage them?",
+    "options": [
+      "Further increasing their base salaries and adding overtime bonuses",
+      "Improving the physical working conditions of the warehouse",
+      "Enriching their jobs by delegating more decision-making authority and providing challenging assignments",
+      "Reducing supervision to give them more freedom in how they perform their routine tasks"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST explains why motivation theories are important for managers in supply chain organizations?",
+    "options": [
+      "Motivation theories provide legal frameworks for managing employment contracts",
+      "Understanding motivation enables managers to design work environments and incentive systems that enhance employee performance, commitment, and retention",
+      "Motivation theories eliminate the need for formal performance management systems",
+      "Motivation theory applies only to senior managers, not to front-line logistics workers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Power\" in organizational behaviour is BEST defined as:",
+    "options": [
+      "The formal authority granted to a manager by the organization's hierarchy",
+      "The capacity to influence the behaviour of others to act in accordance with one's wishes",
+      "The financial resources available to a manager to reward or punish subordinates",
+      "The legal right of senior management to make binding decisions for the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "French and Raven identified five bases of social power. Which of the following is NOT one of them?",
+    "options": [
+      "Reward power",
+      "Coercive power",
+      "Financial power",
+      "Referent power"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Legitimate power\" in an organization derives from:",
+    "options": [
+      "The personal qualities and charisma of the power holder",
+      "The ability to control valued resources and provide desired rewards",
+      "The formal position held by the individual in the organizational hierarchy",
+      "The special knowledge and expertise possessed by the individual"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Reward power\" in organizational behaviour refers to the ability to:",
+    "options": [
+      "Threaten and apply punishment for non-compliance with directives",
+      "Influence others through the distribution of valued positive outcomes such as pay, promotions, and recognition",
+      "Influence others through personal charm and the desire to be associated with the power holder",
+      "Influence others through access to and control of important organizational information"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Coercive power\" is based on:",
+    "options": [
+      "The power holder's access to information and knowledge that others need",
+      "The respect and admiration others have for the power holder's personal qualities",
+      "The ability to threaten or apply punishment to influence others' behaviour",
+      "The formal authority assigned to a position in the organizational hierarchy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Expert power\" derives from:",
+    "options": [
+      "The formal authority granted by the organizational hierarchy",
+      "The ability to reward compliant behaviour with valued outcomes",
+      "The possession of special knowledge, skills, or expertise that others value and need",
+      "The personal attractiveness and charisma of the power holder"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Referent power\" in organizational behaviour is based on:",
+    "options": [
+      "The formal authority associated with a managerial position",
+      "The ability to administer punishments and withhold valued rewards",
+      "Identification with and admiration for the power holder's personal qualities and characteristics",
+      "Access to critical organizational information that others do not have"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following types of power is MOST closely associated with transformational leadership?",
+    "options": [
+      "Legitimate power",
+      "Coercive power",
+      "Reward power",
+      "Referent power"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Organizational politics\" in OB refers to:",
+    "options": [
+      "The formal process by which organizational policies and rules are developed",
+      "Activities that are not required as part of one's formal role but that influence the distribution of advantages and disadvantages in the organization",
+      "The process of negotiating employment contracts and collective bargaining agreements",
+      "The formal decision-making procedures established by the organization's governance structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"political behaviour\" in an organization?",
+    "options": [
+      "A manager submitting a formal performance appraisal for a direct report",
+      "An employee forming alliances with influential colleagues to gain support for a project proposal",
+      "A department head allocating the annual budget according to established organizational procedures",
+      "A supervisor conducting a disciplinary meeting with an underperforming employee"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following factors MOST contributes to political behaviour in organizations?",
+    "options": [
+      "Clear, objective performance measurement systems and transparent decision-making processes",
+      "Ambiguity in roles and performance criteria, scarce resources, and high-stakes decisions",
+      "Strong organizational cultures with well-established norms and values",
+      "Highly centralized decision-making with little discretion at lower organizational levels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Impression management\" in organizational behaviour refers to:",
+    "options": [
+      "The formal performance evaluation process conducted by management",
+      "The process by which individuals attempt to control the impression others form of them",
+      "The management of organizational reputation through public relations activities",
+      "The process of designing and maintaining the physical appearance of the workplace"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a LEGITIMATE political behaviour in organizations?",
+    "options": [
+      "Spreading false information about a colleague to undermine their reputation",
+      "Withholding critical information from a competitor within the organization",
+      "Building a broad base of support by networking, developing coalitions, and demonstrating competence",
+      "Claiming credit for a colleague's achievements to gain favor with senior management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Dependency\" is a key concept in understanding power. According to this concept, power increases when:",
+    "options": [
+      "Resources become widely available and easily substitutable",
+      "The power holder controls resources that are scarce, important, and non-substitutable",
+      "The power holder reduces their control over organizational resources",
+      "Decision-making authority is equally distributed across all organizational members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST describes the relationship between power and leadership in organizations?",
+    "options": [
+      "Power and leadership are identical concepts that always occur together",
+      "Effective leadership requires the use of coercive power to ensure compliance",
+      "Leadership involves influencing others toward goals, and power is the resource that makes this influence possible",
+      "Leaders rely exclusively on legitimate authority and never use informal power sources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A warehouse supervisor always meets the team in the morning, greets each worker by name, and acknowledges good performance publicly. According to OB, this behaviour is MOST likely to influence which of the following?",
+    "options": [
+      "The formal organizational structure and reporting relationships",
+      "Employee job satisfaction, motivation, and organizational commitment",
+      "The organization's financial performance and budget allocation",
+      "The design of the warehouse layout and material handling systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain analyst consistently attributes delivery failures to external factors such as traffic or supplier delays, while crediting personal skill for successful deliveries. This pattern BEST illustrates which perceptual bias?",
+    "options": [
+      "The halo effect",
+      "Stereotyping",
+      "The fundamental attribution error",
+      "Self-serving bias"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A logistics manager wants to reduce absenteeism among warehouse staff. Applying operant conditioning, which of the following approaches is MOST likely to be effective?",
+    "options": [
+      "Explaining the organizational policy on absenteeism in the employee handbook",
+      "Implementing a reward system that recognizes employees with perfect attendance records",
+      "Increasing base salaries for all warehouse employees",
+      "Reorganizing the warehouse layout to improve physical working conditions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A newly formed procurement team is experiencing significant disagreements about roles and decision-making authority. According to Tuckman's model, this team is MOST likely in which stage of development?",
+    "options": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Performing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics team has been working together for two years and performs at a consistently high level. Members trust each other, communicate openly, and resolve conflicts constructively. According to Tuckman's model, this team is MOST likely in which stage?",
+    "options": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Performing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A supply chain manager who consistently delivers on promises, treats all team members fairly, and demonstrates technical expertise is building which types of power MOST effectively?",
+    "options": [
+      "Legitimate and coercive power",
+      "Expert and referent power",
+      "Reward and coercive power",
+      "Legitimate and reward power"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An experienced logistics coordinator believes she has no control over her career outcomes and that promotions are determined by luck and favoritism. This belief BEST reflects which personality characteristic?",
+    "options": [
+      "High internal locus of control",
+      "High self-efficacy",
+      "High conscientiousness",
+      "External locus of control"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A freight forwarding manager wants to motivate a high-achieving employee who values personal growth and challenge. Applying McClelland's theory, which approach is MOST appropriate?",
+    "options": [
+      "Assigning the employee to a stable, routine role with predictable outcomes",
+      "Increasing the employee's base salary and annual bonus",
+      "Assigning the employee to a challenging, high-visibility project with clear accountability for results",
+      "Organizing social events to strengthen the employee's relationships with colleagues"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A procurement team's performance has declined despite receiving pay raises. Applying Herzberg's two-factor theory, which conclusion is MOST justified?",
+    "options": [
+      "The team needs additional hygiene factor improvements to become motivated",
+      "Salary is a motivator and should be increased further to restore performance",
+      "The pay raises only addressed hygiene factors; motivators such as recognition and meaningful work must also be addressed",
+      "The team's performance decline is unrelated to motivation and requires structural reorganization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Two departments in a logistics company — operations and procurement — are in conflict over resource allocation. To resolve this, the CEO introduces a company-wide efficiency drive that requires both departments to collaborate. This approach BEST reflects:",
+    "options": [
+      "Competing strategy for conflict resolution",
+      "Avoidance of intergroup conflict",
+      "Introduction of a superordinate goal to reduce intergroup conflict",
+      "Accommodation strategy where one group surrenders to the other"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A transport manager sets a specific target of reducing fuel costs by 15% within six months and provides weekly performance feedback to the team. This approach is MOST consistent with which motivational theory?",
+    "options": [
+      "Maslow's hierarchy of needs",
+      "Herzberg's two-factor theory",
+      "Locke and Latham's goal-setting theory",
+      "Adams' equity theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An employee who learns to complete customs documentation accurately by watching a more experienced colleague and then practicing the process independently is BEST demonstrating which type of learning?",
+    "options": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Social learning",
+      "Fixed-ratio reinforcement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics company promotes a junior analyst to team leader based on technical excellence. However, the analyst struggles to manage the team. This situation MOST likely reflects:",
+    "options": [
+      "A failure of the operant conditioning learning process",
+      "The halo effect — assuming technical excellence predicts managerial effectiveness",
+      "Inadequate reward power in the new leadership role",
+      "A groupthink problem in the promotion decision process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST illustrates \"organizational commitment\" among logistics employees?",
+    "options": [
+      "Employees who comply with organizational rules only to avoid disciplinary action",
+      "Employees who identify strongly with the organization's mission, stay during difficult periods, and go beyond their formal job requirements",
+      "Employees who remain with the organization only because switching jobs is inconvenient",
+      "Employees who perform well only when directly supervised by their manager"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager notices that a team member reduces effort when working in groups but performs well individually. This MOST likely reflects:",
+    "options": [
+      "Role ambiguity causing the employee to be unclear about expectations",
+      "Groupthink suppressing individual initiative in team settings",
+      "Social loafing due to diffused responsibility in the group context",
+      "Group polarization causing the employee to adopt more extreme positions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to equity theory, which of the following employees is MOST at risk of reducing their work effort?",
+    "options": [
+      "An employee who perceives their rewards are perfectly proportional to their contributions",
+      "An employee who perceives they are receiving more than colleagues doing equivalent work",
+      "An employee who perceives they are contributing more than colleagues but receiving equivalent or lower rewards",
+      "An employee who recently received a promotion and a significant pay increase"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics director uses data and logical reasoning to persuade the board to invest in a new warehouse management system. This approach to influence MOST reflects the use of which type of power?",
+    "options": [
+      "Coercive power",
+      "Referent power",
+      "Legitimate power",
+      "Expert power"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An employee behaves differently when interacting with customers compared to when working with colleagues, consciously adjusting their communication style and professional image. This BEST illustrates:",
+    "options": [
+      "Role conflict causing inconsistent behaviour across different contexts",
+      "Impression management — consciously controlling the image projected to different audiences",
+      "Cognitive dissonance — holding contradictory attitudes about the work role",
+      "The fundamental attribution error — misjudging others' intentions in different settings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager discovers that two team members hold opposing attitudes about a new supplier evaluation policy and are avoiding each other. Which OB concept BEST explains the root cause if both employees privately agree the policy is good but publicly criticize it to maintain group acceptance?",
+    "options": [
+      "Social loafing",
+      "Groupthink and conformity pressure",
+      "Role ambiguity",
+      "Group polarization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A warehouse team that has high cohesiveness but maintains low performance norms will MOST likely demonstrate which outcome?",
+    "options": [
+      "High individual performance driven by strong interpersonal relationships",
+      "High productivity due to the motivating effect of social bonds",
+      "Consistently low productivity as the group enforces restrictive output norms",
+      "High levels of innovation and creative problem-solving"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST explains why understanding perception is important for logistics managers?",
+    "options": [
+      "Perception determines the physical layout of the workplace and workflow design",
+      "Managers' perceptions of employee performance and potential directly influence decisions about promotions, assignments, and development",
+      "Perception is relevant only in customer-facing roles and has no bearing on internal management decisions",
+      "Perceptual accuracy is determined entirely by the manager's level of education and formal training"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain company introduces a mentoring program where experienced employees guide new recruits. This program MOST directly leverages which learning mechanism?",
+    "options": [
+      "Operant conditioning through reward and punishment",
+      "Classical conditioning through stimulus-response pairing",
+      "Social learning through observation and modelling",
+      "Fixed-interval reinforcement to shape behaviour systematically"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics manager who has referent power but no formal authority succeeds in influencing colleagues in other departments to cooperate on a cross-functional project. This situation BEST illustrates which OB concept?",
+    "options": [
+      "Legitimate authority as the basis of organizational influence",
+      "The ability to exercise influence without formal authority through personal power",
+      "The use of coercive power to compel compliance from reluctant colleagues",
+      "Organizational politics through self-serving manipulation of colleagues"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST likely consequence of unresolved \"role conflict\" among supply chain managers?",
+    "options": [
+      "Increased clarity about job expectations and performance standards",
+      "Higher levels of job satisfaction and organizational commitment",
+      "Increased stress, reduced job satisfaction, and potential decline in performance",
+      "Stronger group cohesiveness and improved inter-departmental coordination"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A team of logistics professionals is making a critical procurement decision. Initially, most members slightly favour a particular supplier. After group discussion, the team selects that supplier with much greater conviction and dismisses all concerns about risk. This BEST illustrates:",
+    "options": [
+      "Social loafing causing disengagement from the decision-making process",
+      "Group polarization amplifying the initial preference during discussion",
+      "Groupthink suppressing individual dissent to maintain harmony",
+      "The fundamental attribution error distorting the team's risk assessment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Work ethic\" in organizational behaviour is BEST described as:",
+    "options": [
+      "The set of technical skills required to perform a job at an acceptable standard",
+      "A set of values based on the moral virtues of hard work, diligence, responsibility, and commitment to doing one's job well",
+      "The formal code of conduct documented in the organization's employee handbook",
+      "The level of financial compensation an employee believes they deserve for their work"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following behaviours BEST demonstrates a strong work ethic in a logistics environment?",
+    "options": [
+      "Completing only the minimum required tasks and leaving promptly at the end of the shift",
+      "Taking personal responsibility for delivery errors and proactively identifying and communicating solutions",
+      "Delegating all challenging tasks to colleagues to avoid the risk of failure",
+      "Prioritizing personal comfort and convenience over team and organizational needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Professional ethics\" in the context of supply chain management involves:",
+    "options": [
+      "Maximizing personal financial gain through all available means",
+      "Adhering to accepted standards of conduct, fairness, transparency, and integrity in all professional dealings",
+      "Complying with organizational rules only when directly observed by a supervisor",
+      "Prioritizing speed and cost efficiency above all other professional considerations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An employee who consistently arrives on time, meets deadlines, communicates proactively about challenges, and maintains high quality standards is demonstrating which of the following OB concepts?",
+    "options": [
+      "High neuroticism and low agreeableness",
+      "External locus of control and low self-efficacy",
+      "Conscientiousness and strong organizational commitment",
+      "High need for affiliation and low need for achievement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST illustrates the application of work ethic in procurement management?",
+    "options": [
+      "Selecting suppliers based on personal relationships rather than objective evaluation criteria",
+      "Accepting gifts from suppliers in exchange for preferential treatment in the bidding process",
+      "Conducting fair, transparent, and rigorous supplier evaluations based on established criteria",
+      "Approving procurement decisions without proper documentation to save time"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A customs clearing officer who consistently follows established procedures, maintains accurate documentation, and refuses bribes regardless of external pressure is demonstrating which professional quality?",
+    "options": [
+      "Social loafing and lack of initiative",
+      "Referent power based on personal charisma",
+      "Professional integrity and strong work ethic",
+      "External locus of control and low self-efficacy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the PRIMARY reason why work ethic and professional conduct are emphasized as competencies in the Logistics and Supply Chain Management program?",
+    "options": [
+      "Logistics professionals work in low-risk environments where ethical lapses have minimal consequences",
+      "Professional integrity and ethical conduct are foundational to building trust with clients, suppliers, and regulatory authorities in logistics operations",
+      "Ethical conduct is enforced exclusively by regulatory agencies and requires no personal commitment from professionals",
+      "Work ethic is relevant only for senior managers and not for operational staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following behaviours represents a violation of professional ethics in supply chain management?",
+    "options": [
+      "Disclosing a conflict of interest to management before participating in a supplier selection process",
+      "Sharing confidential supplier pricing information with a competing supplier",
+      "Reporting suspected procurement fraud through the organization's formal reporting channels",
+      "Refusing to approve a purchase order that does not comply with organizational procurement policy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Organizational citizenship behaviour\" (OCB) refers to:",
+    "options": [
+      "Behaviours that employees are explicitly required to perform as part of their formal job description",
+      "Discretionary behaviours that go beyond formal job requirements and contribute positively to the organization",
+      "Behaviours regulated by the organization's formal code of conduct and disciplinary policy",
+      "Behaviours required by law as conditions of employment in regulated industries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of \"organizational citizenship behaviour\" in a logistics firm?",
+    "options": [
+      "Completing assigned delivery routes within the required time window",
+      "Voluntarily assisting a new colleague to learn the warehouse management system after hours",
+      "Submitting a formal complaint about a workplace policy through the grievance procedure",
+      "Requesting overtime pay for additional hours worked beyond the standard shift"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST explains why OB is relevant to logistics and supply chain managers?",
+    "options": [
+      "OB provides the technical knowledge needed to operate warehouse management systems",
+      "Understanding individual and group behaviour enables logistics managers to build motivated, high-performing teams that deliver superior supply chain outcomes",
+      "OB is primarily a theoretical academic discipline with limited application in operational settings",
+      "OB is only relevant for human resources professionals and has no bearing on logistics management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company wants to build a culture of continuous improvement. Which combination of OB concepts would MOST effectively support this goal?",
+    "options": [
+      "High coercive power, strict rule enforcement, and autocratic leadership",
+      "Strong work ethic, intrinsic motivation, positive reinforcement of improvement behaviours, and psychological safety in teams",
+      "High levels of social loafing, groupthink, and conformity to established norms",
+      "External locus of control, low self-efficacy, and avoidance of challenging tasks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager is assigned to lead a cross-functional team for the first time. To build trust and influence without formal authority, which approach is MOST aligned with OB principles?",
+    "options": [
+      "Relying exclusively on legitimate power derived from the formal managerial title",
+      "Using coercive power to ensure compliance from team members",
+      "Demonstrating expertise, treating all members fairly, communicating openly, and building referent power through integrity and competence",
+      "Avoiding conflict at all costs by accommodating all team members' preferences"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An organization's logistics division is experiencing high turnover among experienced staff. Applying OB frameworks, which of the following is the MOST comprehensive diagnostic approach?",
+    "options": [
+      "Immediately increasing salaries for all logistics staff to prevent further departures",
+      "Examining job satisfaction, organizational commitment, motivation factors, leadership quality, work group dynamics, and the organizational culture to identify root causes",
+      "Replacing all departing employees with new hires and focusing exclusively on onboarding efficiency",
+      "Reducing job demands to decrease stress and prevent further attrition"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST summarizes the contribution of organizational behaviour to effective supply chain management?",
+    "options": [
+      "OB provides the mathematical and quantitative tools needed to optimize supply chain operations",
+      "OB provides insights into how individual, group, and organizational factors shape the human systems that make supply chains function effectively or ineffectively",
+      "OB is irrelevant to supply chain management since supply chains are technical systems driven by data and technology",
+      "OB contributes only to the HR function of supply chain organizations, not to operational or strategic management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A transport company's management team wants to improve team performance across its depot locations. Based on OB research, which of the following interventions is MOST likely to be effective?",
+    "options": [
+      "Standardizing all job roles to eliminate individual discretion and variability",
+      "Increasing surveillance and monitoring of all employee activities",
+      "Building clear team goals, fostering cohesion, ensuring role clarity, providing feedback, and recognizing performance",
+      "Eliminating all informal communication channels to prevent social loafing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following scenarios BEST illustrates the application of the \"Big Five\" personality model in a logistics recruitment context?",
+    "options": [
+      "Selecting warehouse supervisors based exclusively on their technical knowledge of inventory systems",
+      "Using personality assessments to identify candidates high in conscientiousness and emotional stability for high-responsibility logistics roles",
+      "Recruiting candidates based solely on their educational qualifications and years of experience",
+      "Selecting candidates based on the halo effect created by impressive physical appearance and confident body language"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager who always acknowledges uncertainty, seeks input from the team before making decisions, and openly admits mistakes is demonstrating which combination of OB qualities?",
+    "options": [
+      "High coercive power and autocratic leadership style",
+      "External locus of control and low self-efficacy",
+      "Intellectual humility, psychological safety promotion, and authentic leadership",
+      "Social loafing and avoidance of personal accountability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST explains why diversity in work groups can enhance organizational performance?",
+    "options": [
+      "Diverse groups always experience less conflict than homogeneous groups",
+      "Diverse groups bring a broader range of perspectives, experiences, and ideas that can improve problem-solving and decision quality",
+      "Diversity reduces the need for formal coordination mechanisms within groups",
+      "Homogeneous groups consistently outperform diverse groups on routine operational tasks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics firm's senior management observes that front-line employees consistently go beyond their formal job requirements — helping colleagues, suggesting process improvements, and representing the company positively to customers. This MOST likely reflects:",
+    "options": [
+      "Social loafing being masked by surface-level compliance with organizational rules",
+      "Employees acting to avoid coercive punishment from their supervisors",
+      "A strong organizational culture that fosters high organizational citizenship behaviour and intrinsic motivation",
+      "The application of external locus of control beliefs in the workplace"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following correctly describes the relationship between \"attitudes\" and \"behaviour\" in organizational behaviour research?",
+    "options": [
+      "Attitudes always perfectly predict behaviour with no exceptions",
+      "Attitudes and behaviour are completely unrelated and should be studied separately",
+      "Attitudes generally predict behaviour, but the relationship is influenced by situational constraints, attitude strength, and the specificity of the attitude",
+      "Behaviour always determines attitudes, and attitudes never influence behaviour"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A procurement team completes a major supplier negotiation successfully ahead of schedule. The team leader publicly praises each member's contribution in the next department meeting. According to OB principles, this action MOST directly reinforces:",
+    "options": [
+      "Coercive power through the threat of public humiliation for poor performance",
+      "Positive reinforcement of desirable behaviour, strengthening the likelihood of similar performance in future",
+      "The fundamental attribution error by attributing success to individual effort alone",
+      "Groupthink by discouraging any future dissent from team members"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following OB concepts MOST directly explains why two employees in identical job roles with identical salaries can have very different levels of job satisfaction?",
+    "options": [
+      "The formal authority structure determines job satisfaction equally for all employees in the same role",
+      "Individual differences in personality, values, expectations, and perception mean that the same objective conditions are experienced differently",
+      "Job satisfaction is determined exclusively by salary level and has no relationship to other individual or contextual factors",
+      "Job satisfaction is a fixed personality trait that does not change regardless of the work environment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company implements a new shift rotation system. Some employees embrace the change enthusiastically while others resist it strongly. Applying OB, which of the following BEST explains this difference?",
+    "options": [
+      "The employees who resist have lower intelligence and cannot adapt to new systems",
+      "Individual differences in personality, values, locus of control, and past experiences with change shape how each employee perceives and responds to the new system",
+      "Resistance to change is always motivated by laziness and unwillingness to work",
+      "Employees who embrace change are always motivated by financial incentives while resisters are not"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST summarizes the role of a logistics manager who applies OB principles effectively?",
+    "options": [
+      "A manager who focuses exclusively on technical process efficiency and ignores the human dimensions of the work environment",
+      "A manager who uses coercive power to enforce compliance and eliminate all forms of individual discretion",
+      "A manager who understands and leverages individual motivation, builds cohesive and high-performing teams, manages power and politics ethically, and fosters a culture of integrity and continuous improvement",
+      "A manager who applies a single fixed management style consistently to all employees regardless of their individual characteristics and needs"
+    ],
+    "correct": 2
+  }
+]
