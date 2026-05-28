@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Management is best defined as:",
+    "options": [
+      "The process of producing goods and services for customer consumption",
+      "The process of planning, organizing, leading, and controlling resources to achieve organizational goals",
+      "The process of buying and selling goods in competitive markets",
+      "The process of recruiting, training, and compensating employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the role of a \"manager\" in an organization?",
+    "options": [
+      "A person who performs technical tasks on the production floor",
+      "A person who is responsible for achieving organizational goals through the efforts of others",
+      "A person who exclusively handles financial transactions for the firm",
+      "A person who designs the products offered by the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT one of the four classical functions of management?",
+    "options": [
+      "Planning",
+      "Motivating",
+      "Organizing",
+      "Controlling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "At which level of management are decisions typically most strategic and long-term in nature?",
+    "options": [
+      "First-line management",
+      "Middle management",
+      "Top management",
+      "Supervisory management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"First-line managers\" in an organization are primarily responsible for:",
+    "options": [
+      "Setting the overall strategic direction of the organization",
+      "Coordinating activities between top management and operational staff",
+      "Directly supervising non-managerial employees and day-to-day operations",
+      "Managing relationships with external stakeholders and investors"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes \"middle managers\" in an organizational hierarchy?",
+    "options": [
+      "Managers who set the overall vision and corporate strategy",
+      "Managers who supervise front-line workers and handle daily operational tasks",
+      "Managers who translate top management strategies into operational plans for their departments",
+      "Managers who exclusively handle external communications and public relations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Henry Fayol is best known for his contribution to management theory through:",
+    "options": [
+      "Developing the concept of scientific management and time-and-motion studies",
+      "Identifying the 14 principles of management and the five functions of management",
+      "Proposing the hierarchy of needs theory of motivation",
+      "Developing the theory of bureaucracy and formal organizational structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Frederick Winslow Taylor is associated with which school of management thought?",
+    "options": [
+      "Human relations management",
+      "Systems management",
+      "Scientific management",
+      "Contingency management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Scientific management, as proposed by Taylor, focuses primarily on:",
+    "options": [
+      "Understanding the social and psychological needs of workers",
+      "Improving efficiency through the systematic study of work methods and standardization",
+      "Designing flexible organizational structures to adapt to environmental changes",
+      "Empowering employees through participative decision-making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"Hawthorne Studies\" contributed to management theory by demonstrating that:",
+    "options": [
+      "Workers perform best when their physical working conditions are optimized",
+      "Workers are primarily motivated by financial incentives and piece-rate pay",
+      "Social factors and human attention significantly influence worker productivity",
+      "Organizational efficiency is best achieved through strict division of labor"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which management theorist is associated with the concept of \"bureaucracy\" as an ideal organizational structure?",
+    "options": [
+      "Frederick Taylor",
+      "Henri Fayol",
+      "Max Weber",
+      "Elton Mayo"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best characterizes the \"systems approach\" to management?",
+    "options": [
+      "It views organizations as collections of independent departments that operate separately",
+      "It views organizations as interconnected systems where each part affects the whole",
+      "It focuses exclusively on the technical efficiency of production processes",
+      "It emphasizes the importance of individual worker performance over group dynamics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"contingency approach\" to management suggests that:",
+    "options": [
+      "There is one best way to manage all organizations regardless of circumstances",
+      "The best management approach depends on the specific situation and context",
+      "Managers should always apply classical management principles regardless of the environment",
+      "Management decisions should be based solely on financial performance data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key difference between \"effectiveness\" and \"efficiency\" in management?",
+    "options": [
+      "Efficiency is about achieving goals; effectiveness is about minimizing resource use",
+      "Effectiveness is about achieving the right goals; efficiency is about achieving goals with minimum resource waste",
+      "Both terms mean the same thing and are used interchangeably in management",
+      "Efficiency applies to production management only; effectiveness applies to human resource management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Robert Katz identified three essential managerial skills. Which of the following correctly lists these skills?",
+    "options": [
+      "Financial, marketing, and operational skills",
+      "Technical, human, and conceptual skills",
+      "Communication, analytical, and leadership skills",
+      "Strategic, tactical, and operational skills"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Conceptual skills\" in management are MOST important for:",
+    "options": [
+      "First-line managers supervising daily production activities",
+      "Technical specialists performing specialized engineering tasks",
+      "Top managers who must understand and navigate the organization as a whole system",
+      "Middle managers coordinating activities between departments"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Technical skills\" in management refer to:",
+    "options": [
+      "The ability to inspire and motivate employees toward organizational goals",
+      "The ability to work effectively with and through other people",
+      "Proficiency in a specific type of work or activity, including knowledge of methods and equipment",
+      "The ability to think abstractly and see the organization as an integrated whole"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Human skills\" in management are MOST critical for:",
+    "options": [
+      "Top-level managers setting long-term corporate strategy",
+      "All levels of management, as working with people is fundamental at every level",
+      "Technical specialists performing highly specialized tasks",
+      "Financial analysts preparing corporate budget reports"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes an \"organization\" in the context of management?",
+    "options": [
+      "A group of individuals with no defined goals who work together informally",
+      "A deliberately structured group of people working together to achieve specific goals",
+      "A government agency responsible for regulating business activity",
+      "A physical location where production or service activities take place"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about management is TRUE?",
+    "options": [
+      "Management is only applicable to for-profit business organizations",
+      "Effective management requires the exclusive use of quantitative analytical tools",
+      "Management principles apply to all types of organizations, including businesses, governments, and nonprofits",
+      "Management is primarily concerned with the technical production of goods and services"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"classical management perspective\" includes which of the following schools of thought?",
+    "options": [
+      "Human relations theory, systems theory, and contingency theory",
+      "Scientific management, administrative management, and bureaucratic management",
+      "Behavioral management, systems management, and quantitative management",
+      "Strategic management, operational management, and financial management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the concept of \"division of labor\" in management?",
+    "options": [
+      "The equal distribution of profits among all employees of an organization",
+      "The breakdown of work into specialized tasks performed by different individuals to increase efficiency",
+      "The separation of management responsibilities between top, middle, and first-line managers",
+      "The allocation of the annual budget across different organizational departments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Henri Fayol's principle of \"unity of command\" states that:",
+    "options": [
+      "All employees should receive orders from multiple supervisors to ensure comprehensive oversight",
+      "Each employee should receive orders from only one superior to avoid confusion and conflict",
+      "All departments in an organization should follow the same set of operational procedures",
+      "Management authority should be concentrated at the top level of the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is Henri Fayol's principle regarding the relationship between authority and responsibility?",
+    "options": [
+      "Authority should always exceed responsibility to ensure effective control",
+      "Responsibility should always exceed authority to motivate managers to perform",
+      "Authority and responsibility should be balanced, with authority commensurate with responsibility",
+      "Authority and responsibility are independent concepts that should be managed separately"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The \"scalar chain\" principle in Fayol's management theory refers to:",
+    "options": [
+      "The measurement of worker productivity using quantitative performance metrics",
+      "The formal line of authority that runs from the top to the bottom of an organization",
+      "The sequence of steps in a production process from raw material to finished product",
+      "The chain of suppliers and customers in a supply chain network"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following management theories emphasizes the importance of understanding the informal social groups that form within organizations?",
+    "options": [
+      "Scientific management",
+      "Administrative management theory",
+      "Bureaucratic management theory",
+      "Human relations theory"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Chester Barnard's contribution to management theory is best known for:",
+    "options": [
+      "Developing the principles of scientific management and time studies",
+      "Emphasizing the importance of communication and cooperation in organizations and the concept of the informal organization",
+      "Proposing the 14 principles of administration for managing organizations",
+      "Developing the concept of bureaucracy as the ideal organizational form"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of Max Weber's ideal bureaucracy?",
+    "options": [
+      "Decisions based on personal relationships and manager discretion",
+      "Flexible, informal rules that change frequently based on circumstances",
+      "Clear hierarchy, formal rules, impersonal relationships, and merit-based advancement",
+      "Decentralized authority with maximum employee autonomy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes the \"quantitative management perspective\"?",
+    "options": [
+      "Using human relations techniques to improve employee motivation and satisfaction",
+      "Applying mathematical models, statistics, and operations research to management decisions",
+      "Emphasizing the importance of organizational culture in driving performance",
+      "Focusing on the social responsibility of organizations to their communities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"open systems\" view of an organization recognizes that:",
+    "options": [
+      "Organizations are self-sufficient and operate independently of their external environment",
+      "Organizations interact with and are influenced by their external environment, taking in inputs and releasing outputs",
+      "Organizations should minimize their interactions with external stakeholders to maintain stability",
+      "Organizational performance depends solely on internal management decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The planning function of management involves:",
+    "options": [
+      "Evaluating employee performance against set standards",
+      "Assigning tasks and responsibilities to individuals and departments",
+      "Setting organizational goals and determining the best course of action to achieve them",
+      "Guiding and motivating employees toward goal achievement"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the CORRECT sequence of the basic management functions?",
+    "options": [
+      "Organizing, Planning, Controlling, Leading",
+      "Planning, Organizing, Leading, Controlling",
+      "Leading, Planning, Organizing, Controlling",
+      "Controlling, Organizing, Leading, Planning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Strategic plans\" in management are characterized by:",
+    "options": [
+      "Short time horizons and specific operational details",
+      "Long time horizons, broad scope, and alignment with the overall organizational mission",
+      "Focus on departmental activities and resource allocation within a division",
+      "Day-to-day operational scheduling and task assignment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Tactical plans\" in management differ from strategic plans in that they:",
+    "options": [
+      "Cover longer time horizons and broader organizational scope",
+      "Are developed by first-line managers to direct daily operations",
+      "Translate strategic plans into specific departmental actions over a medium-term horizon",
+      "Focus exclusively on financial budgeting and cost control"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Operational plans\" in management are BEST described as:",
+    "options": [
+      "Long-term plans developed by top management to guide the overall direction of the organization",
+      "Medium-term departmental plans that support the strategic plan",
+      "Short-term, specific plans that guide day-to-day activities of operational units",
+      "Plans developed by external consultants to restructure the organization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A \"mission statement\" in organizational planning serves to:",
+    "options": [
+      "Specify the detailed financial targets for the next fiscal year",
+      "Communicate the fundamental purpose and reason for the organization's existence",
+      "Outline the specific operational procedures for each department",
+      "Define the hierarchical structure of management levels in the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An organizational \"vision statement\" describes:",
+    "options": [
+      "The current financial performance of the organization",
+      "The detailed tactical plan for the next operating period",
+      "The desired future state or long-term aspiration of the organization",
+      "The specific rules and regulations governing employee behavior"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"SWOT analysis\" as a planning tool examines which of the following?",
+    "options": [
+      "Sales, workforce, operations, and technology factors",
+      "Strengths, weaknesses, opportunities, and threats",
+      "Strategy, workflow, objectives, and tactics",
+      "Systems, workflow, outcomes, and targets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"management by objectives\" (MBO)?",
+    "options": [
+      "A control technique where managers monitor employee behavior closely at all times",
+      "A planning and appraisal system where managers and employees jointly set goals and evaluate performance against those goals",
+      "A budgeting method where objectives are set based on historical financial data",
+      "A scheduling tool where managers assign specific tasks to employees daily"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The organizing function of management primarily involves:",
+    "options": [
+      "Setting goals and developing plans to achieve them",
+      "Grouping activities, assigning tasks, and establishing authority relationships to achieve goals",
+      "Monitoring performance and taking corrective action when necessary",
+      "Inspiring and directing employees toward goal achievement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Organizational structure\" refers to:",
+    "options": [
+      "The physical layout of workstations and equipment in a production facility",
+      "The formal system of task and authority relationships that coordinates and motivates members to work together",
+      "The informal social network of relationships among employees in an organization",
+      "The hierarchy of product lines offered by the organization to the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Span of control\" in organizational structure refers to:",
+    "options": [
+      "The range of products and services offered by a firm to the market",
+      "The number of subordinates a manager directly supervises",
+      "The authority a manager has to make financial decisions",
+      "The geographic area covered by an organization's operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A \"wide span of control\" in an organization generally results in:",
+    "options": [
+      "More management layers and a taller organizational hierarchy",
+      "Fewer management layers and a flatter organizational structure",
+      "Greater centralization of decision-making authority",
+      "More detailed supervision of individual employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Centralization\" in organizational structure means:",
+    "options": [
+      "Decision-making authority is distributed widely throughout the organization",
+      "Decision-making authority is concentrated at the top levels of the organization",
+      "All departments are located in a single geographic location",
+      "Operational decisions are made by front-line employees without management approval"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Decentralization\" in organizational management refers to:",
+    "options": [
+      "Concentrating all decision-making at the senior management level",
+      "Distributing decision-making authority to lower levels of the organization",
+      "Eliminating all management layers to create a flat organization",
+      "Moving all production facilities to a single centralized location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an advantage of a \"decentralized\" organizational structure?",
+    "options": [
+      "Greater consistency in decision-making across all parts of the organization",
+      "Faster decision-making at the local level and greater responsiveness to local conditions",
+      "Reduced need for coordination between organizational units",
+      "Easier implementation of uniform organizational policies and standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Departmentalization\" in organizing refers to:",
+    "options": [
+      "The process of assigning financial budgets to different cost centers",
+      "The grouping of jobs and activities into organizational units based on common characteristics",
+      "The separation of strategic and operational planning responsibilities",
+      "The assignment of individual employees to specific geographic territories"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which type of departmentalization groups activities based on the specific products or product lines of the organization?",
+    "options": [
+      "Functional departmentalization",
+      "Geographic departmentalization",
+      "Customer departmentalization",
+      "Product departmentalization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Functional departmentalization\" groups organizational activities based on:",
+    "options": [
+      "The geographic regions served by the organization",
+      "The types of customers served by different units",
+      "The business functions performed, such as marketing, finance, and operations",
+      "The specific product lines produced by the organization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A \"matrix organizational structure\" combines:",
+    "options": [
+      "Functional and geographic departmentalization only",
+      "Product and customer departmentalization",
+      "Functional departmentalization with product or project-based departmentalization, creating dual reporting relationships",
+      "Centralized authority with decentralized operations at the department level"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a disadvantage of the matrix organizational structure?",
+    "options": [
+      "It limits specialization by grouping all employees into one functional department",
+      "It can create confusion and conflict due to dual authority and reporting relationships",
+      "It reduces flexibility by locking employees into permanent functional roles",
+      "It prevents collaboration between employees from different functional backgrounds"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Delegation\" in management refers to:",
+    "options": [
+      "The transfer of decision-making authority from a subordinate to a superior",
+      "The assignment of tasks, authority, and responsibility to a subordinate by a manager",
+      "The process of evaluating employee performance against set standards",
+      "The formal communication of organizational goals to all employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of effective delegation?",
+    "options": [
+      "Delegating authority without assigning corresponding responsibility",
+      "Retaining all decision-making authority at the managerial level",
+      "Matching the authority delegated to the subordinate with the responsibility assigned",
+      "Delegating only routine tasks that do not require managerial judgment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Line authority\" in an organization refers to:",
+    "options": [
+      "Authority that flows horizontally across departments and functions",
+      "The direct authority a manager has over subordinates in the chain of command",
+      "Advisory authority held by staff specialists who support line managers",
+      "Authority shared equally between all members of a project team"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Staff authority\" in an organizational structure is best described as:",
+    "options": [
+      "The direct supervisory authority over subordinates in the chain of command",
+      "Advisory authority that supports line managers by providing expertise and recommendations",
+      "The authority of senior managers to override decisions made at lower levels",
+      "The authority delegated to front-line employees to make operational decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the leading function of management?",
+    "options": [
+      "Setting goals and determining plans to achieve organizational objectives",
+      "Grouping activities and establishing authority relationships within the organization",
+      "Directing, influencing, and motivating employees to work toward organizational goals",
+      "Comparing actual performance with planned standards and taking corrective action"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Leadership\" in management is best distinguished from \"management\" in that:",
+    "options": [
+      "Leadership focuses on maintaining stability; management focuses on creating change",
+      "Leadership focuses on inspiring and influencing people; management focuses on planning and controlling systems and processes",
+      "Leadership is only relevant at the top management level; management applies at all levels",
+      "Leadership involves financial decision-making; management involves people management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following leadership styles involves the leader making decisions without consulting subordinates?",
+    "options": [
+      "Democratic leadership",
+      "Laissez-faire leadership",
+      "Transformational leadership",
+      "Autocratic leadership"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Democratic\" or \"participative\" leadership style is characterized by:",
+    "options": [
+      "The leader making all decisions independently and communicating them to subordinates",
+      "Involving subordinates in the decision-making process and considering their input",
+      "Giving subordinates complete freedom to make all decisions without leader involvement",
+      "Rotating leadership responsibility among all team members equally"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Laissez-faire\" leadership style is best described as:",
+    "options": [
+      "A highly directive approach where the leader makes all decisions",
+      "A collaborative approach where the leader involves the team in decision-making",
+      "A hands-off approach where the leader provides minimal direction and allows subordinates full autonomy",
+      "A transactional approach where rewards are given for specific performance targets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Transformational leadership\" focuses on:",
+    "options": [
+      "Maintaining existing organizational structures and rewarding compliance with established rules",
+      "Inspiring and motivating followers to exceed expectations by appealing to higher ideals and transforming organizational culture",
+      "Managing day-to-day operational activities and monitoring employee performance closely",
+      "Setting clear performance targets and rewarding employees who meet those targets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Transactional leadership\" is best described as a leadership style that:",
+    "options": [
+      "Focuses on inspiring employees to pursue a shared vision beyond self-interest",
+      "Emphasizes the exchange between leader and follower — rewards for performance and penalties for non-compliance",
+      "Gives employees complete autonomy to manage their own work without leader guidance",
+      "Relies exclusively on the leader's personal charisma to influence followers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following theories of motivation proposes a hierarchy of five needs from physiological to self-actualization?",
+    "options": [
+      "Herzberg's two-factor theory",
+      "McClelland's acquired needs theory",
+      "Maslow's hierarchy of needs",
+      "Vroom's expectancy theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to Maslow's hierarchy of needs, which level must be satisfied FIRST before higher-level needs become motivating?",
+    "options": [
+      "Esteem needs",
+      "Social/belonging needs",
+      "Safety needs",
+      "Physiological needs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Herzberg's two-factor theory distinguishes between \"hygiene factors\" and \"motivators.\" Which of the following is a \"motivator\" according to this theory?",
+    "options": [
+      "Company policy and administration",
+      "Salary and compensation",
+      "Working conditions and job security",
+      "Recognition, achievement, and the work itself"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Hygiene factors\" in Herzberg's theory, if absent, cause:",
+    "options": [
+      "Strong positive motivation and high job satisfaction",
+      "Dissatisfaction, but their presence does not motivate employees beyond neutral",
+      "Employees to exceed performance expectations consistently",
+      "Higher levels of creativity and innovation among workers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Vroom's \"expectancy theory\" of motivation proposes that motivation depends on:",
+    "options": [
+      "The degree to which employees' basic physiological and safety needs are satisfied",
+      "The relationship between effort, performance, and the value of the resulting reward",
+      "The comparison employees make between their own inputs and outcomes and those of others",
+      "The leadership style adopted by the manager in directing employee activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Equity theory\" of motivation, proposed by Adams, suggests that employees are motivated by:",
+    "options": [
+      "The belief that effort will lead to high performance and valued rewards",
+      "The desire to satisfy progressively higher-level needs as lower ones are met",
+      "The perception of fairness in the ratio of their inputs and outcomes compared to others",
+      "The need for achievement, power, and affiliation in the workplace"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "McClelland's acquired needs theory identifies three dominant needs that motivate people. Which of the following correctly lists these needs?",
+    "options": [
+      "Physiological, safety, and social needs",
+      "Achievement, power, and affiliation needs",
+      "Intrinsic, extrinsic, and social needs",
+      "Motivators, hygiene factors, and growth needs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"intrinsic motivation\"?",
+    "options": [
+      "Motivation driven by external rewards such as salary, bonuses, and promotions",
+      "Motivation that comes from within the individual, such as personal satisfaction and enjoyment of the work itself",
+      "Motivation resulting from peer pressure and social comparison with colleagues",
+      "Motivation driven by fear of punishment or negative consequences"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The controlling function of management involves:",
+    "options": [
+      "Setting goals and determining the best way to achieve them",
+      "Grouping activities and assigning tasks to organizational units",
+      "Monitoring performance, comparing it to standards, and taking corrective action",
+      "Guiding and influencing employees to achieve organizational goals"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The basic control process in management follows which sequence?",
+    "options": [
+      "Measure performance → set standards → take corrective action → compare to standards",
+      "Set standards → measure performance → compare performance to standards → take corrective action",
+      "Take corrective action → set standards → measure performance → compare results",
+      "Compare standards → measure performance → set targets → implement corrections"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Feedforward control\" in management refers to:",
+    "options": [
+      "Control that occurs after the work is completed to evaluate outcomes",
+      "Control that occurs during the work process to correct problems as they arise",
+      "Proactive control that anticipates and prevents problems before they occur",
+      "Control based on employee self-assessment and peer feedback"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Concurrent control\" takes place:",
+    "options": [
+      "Before the work process begins to prevent anticipated problems",
+      "During the work process to monitor and correct activities in real time",
+      "After the work process is completed to evaluate final outcomes",
+      "Annually during the performance appraisal review process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Feedback control\" in management is applied:",
+    "options": [
+      "Before activities begin to prevent anticipated errors",
+      "During activities to monitor and adjust ongoing work",
+      "After activities are completed to evaluate results and inform future actions",
+      "Continuously throughout all stages of the management process simultaneously"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a \"financial control\" tool used in management?",
+    "options": [
+      "Employee satisfaction survey",
+      "Customer complaint analysis report",
+      "Budget variance analysis",
+      "Production process flowchart"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Balanced scorecard\" as a control tool measures organizational performance across which of the following dimensions?",
+    "options": [
+      "Revenue, cost, profit, and market share",
+      "Financial, customer, internal processes, and learning and growth perspectives",
+      "Inputs, processes, outputs, and outcomes",
+      "Strategic, tactical, operational, and functional levels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"benchmarking\" as a management control tool?",
+    "options": [
+      "Setting internal performance standards based solely on past organizational performance",
+      "Comparing the organization's performance against industry best practices or leading competitors",
+      "Evaluating individual employee performance against their personal development goals",
+      "Monitoring financial ratios to assess the organization's liquidity and solvency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of an effective control system in management?",
+    "options": [
+      "It should be applied only to financial performance metrics",
+      "It should be timely, accurate, flexible, and focused on critical performance areas",
+      "It should be controlled exclusively by top management with no employee involvement",
+      "It should be applied uniformly to all activities regardless of their strategic importance"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Management by exception\" as a control approach means:",
+    "options": [
+      "Managers review and respond to all performance deviations regardless of their size",
+      "Managers focus their attention on significant deviations from standards, ignoring minor variations",
+      "Managers delegate all control responsibilities to front-line supervisors",
+      "Managers apply control only during periods of organizational crisis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"classical\" approach to management?",
+    "options": [
+      "It emphasizes the social and psychological aspects of work and employee motivation",
+      "It focuses on improving organizational efficiency through systematic study of management and work methods",
+      "It views organizations as open systems interacting with their environment",
+      "It argues that the best management approach depends on the situation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The \"behavioral\" management perspective emerged primarily as a response to:",
+    "options": [
+      "The limitations of financial management tools in measuring organizational performance",
+      "The failure of classical management theories to adequately account for the human side of work",
+      "The need to apply mathematical models to management decision-making",
+      "The growing complexity of global supply chains and international trade"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contribution of the \"human relations movement\" to management theory?",
+    "options": [
+      "The development of time-and-motion study techniques to optimize worker productivity",
+      "The recognition that social relationships, group norms, and employee feelings significantly affect productivity",
+      "The introduction of formal organizational charts and hierarchical authority structures",
+      "The application of statistical methods to quality control in manufacturing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Theory X\" as proposed by Douglas McGregor assumes that workers:",
+    "options": [
+      "Are self-motivated, creative, and seek responsibility in their work",
+      "Naturally enjoy work and will exercise self-direction if committed to objectives",
+      "Are inherently lazy, dislike work, and must be coerced and controlled to perform",
+      "Are motivated primarily by higher-order needs such as self-actualization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Theory Y\" as proposed by Douglas McGregor assumes that workers:",
+    "options": [
+      "Must be closely supervised and controlled because they naturally avoid responsibility",
+      "Are primarily motivated by financial rewards and fear of punishment",
+      "Are capable of self-direction, creativity, and seek responsibility under the right conditions",
+      "Prefer highly structured work environments with clear rules and little ambiguity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to McGregor, a manager who adopts a Theory Y perspective would MOST likely:",
+    "options": [
+      "Rely heavily on close supervision, strict rules, and financial incentives to motivate employees",
+      "Empower employees, involve them in decision-making, and create opportunities for growth",
+      "Maintain a highly centralized authority structure with minimal employee autonomy",
+      "Focus exclusively on monitoring and correcting employee behavior through formal controls"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Theory Z,\" associated with William Ouchi, emphasizes which of the following management characteristics?",
+    "options": [
+      "Strict individual performance measurement and short-term employment contracts",
+      "Long-term employment, collective decision-making, and concern for employee well-being",
+      "Highly centralized authority and top-down communication structures",
+      "Maximum application of scientific management principles to all organizational activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following management principles advocates that organizational structure should reflect environmental conditions rather than follow a single best design?",
+    "options": [
+      "Bureaucratic management theory",
+      "Scientific management theory",
+      "Contingency theory",
+      "Human relations theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"Total Quality Management\" (TQM) as a management philosophy emphasizes:",
+    "options": [
+      "Maximizing production output regardless of product quality",
+      "Continuous improvement, customer focus, and involving all employees in quality management",
+      "Applying strict financial controls to reduce quality-related costs",
+      "Delegating all quality management responsibilities to a specialized quality control department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes the \"systems theory\" view of an organization?",
+    "options": [
+      "Each department operates independently to maximize its own performance",
+      "The organization is viewed as a set of interrelated parts that function as a whole in relation to the external environment",
+      "Management decisions are made based solely on internal financial data",
+      "Workers are viewed as isolated individuals whose performance does not affect other parts of the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Henri Fayol's principle of \"esprit de corps\" in management refers to:",
+    "options": [
+      "The strict enforcement of rules and regulations to maintain discipline",
+      "The promotion of team spirit, harmony, and unity among employees",
+      "The concentration of authority at the top management level",
+      "The formal division of work into specialized tasks and roles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Fayol's principle of \"remuneration\" states that:",
+    "options": [
+      "Workers should be paid the minimum legally required wage to control labor costs",
+      "Compensation should be fair to both employees and the organization, reflecting effort and contribution",
+      "Pay should be determined solely by seniority and length of service",
+      "Financial rewards should be the only form of compensation provided to employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"organizational culture\" in management?",
+    "options": [
+      "The formal rules and procedures documented in the organization's policy manual",
+      "The shared values, beliefs, norms, and assumptions that shape how members of the organization think and behave",
+      "The organizational chart showing the formal hierarchy of authority",
+      "The financial performance targets set by senior management for each fiscal year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"formal organization\"?",
+    "options": [
+      "A group of employees who gather informally during lunch to discuss work concerns",
+      "The officially documented organizational structure with defined roles, authority, and reporting relationships",
+      "A spontaneous team formed to address an immediate operational crisis",
+      "A social network of colleagues who share information outside official channels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Corporate social responsibility\" (CSR) in management refers to:",
+    "options": [
+      "The legal obligation of managers to maximize shareholder returns",
+      "The voluntary commitment of organizations to contribute positively to society and minimize negative impacts on stakeholders",
+      "The financial reporting requirements imposed on corporations by regulatory authorities",
+      "The management practice of reducing operating costs to improve profitability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Ethical decision-making in management requires managers to consider:",
+    "options": [
+      "Only the financial implications of their decisions for the organization",
+      "The impact of their decisions on all relevant stakeholders, including employees, customers, and the community",
+      "Exclusively the preferences of the organization's shareholders and investors",
+      "Only the legal requirements governing business operations in their industry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"stakeholder management\" in organizations?",
+    "options": [
+      "Managing the financial investments made by shareholders in the company",
+      "Identifying and managing relationships with all groups who have an interest in or are affected by the organization's activities",
+      "Supervising the management team responsible for running the organization",
+      "Managing the supply of raw materials and components from external suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Business communication\" in the management context refers to:",
+    "options": [
+      "The formal financial reporting required by regulatory agencies",
+      "The exchange of information within and outside the organization to achieve business goals",
+      "The advertising and marketing activities used to promote the organization's products",
+      "The legal contracts and agreements between the organization and its suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of effective \"downward communication\" in an organization?",
+    "options": [
+      "An employee submitting a suggestion to senior management through the suggestion box system",
+      "A manager communicating performance expectations and organizational goals to subordinates",
+      "Two managers from different departments sharing information about a joint project",
+      "An employee reporting a workplace safety concern to their immediate supervisor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "\"Upward communication\" in an organization flows from:",
+    "options": [
+      "Top management to middle management and then to front-line employees",
+      "Employees at lower levels to managers at higher levels in the hierarchy",
+      "One department to another department at the same organizational level",
+      "The organization to external stakeholders such as customers and suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manager sets annual sales targets, allocates budgets, and determines staffing levels for the coming year. Which management function is PRIMARILY being performed?",
+    "options": [
+      "Organizing",
+      "Leading",
+      "Controlling",
+      "Planning"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A regional logistics manager redesigns the departmental structure to improve coordination between the transportation and warehousing teams. Which management function is PRIMARILY being applied?",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Controlling",
+      "Leading"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager notices that actual delivery performance has fallen below the target of 95% on-time delivery and initiates an investigation to identify and correct the cause. Which management function is PRIMARILY being performed?",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Leading",
+      "Controlling"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A procurement manager holds a team meeting to explain the organization's new supplier diversification strategy and encourages team members to share their ideas for implementation. Which management function is PRIMARILY being applied?",
+    "options": [
+      "Controlling",
+      "Organizing",
+      "Leading",
+      "Planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following scenarios best illustrates the application of \"scientific management\" principles in a logistics firm?",
+    "options": [
+      "Empowering warehouse employees to redesign their own work processes without management guidance",
+      "Conducting time-and-motion studies to determine the most efficient method for picking and packing warehouse orders",
+      "Allowing managers to make staffing decisions based on personal relationships rather than performance data",
+      "Encouraging spontaneous team formation to address operational problems as they arise"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's top management has decided to push decision-making authority down to regional managers who are closer to local markets. This decision reflects a move toward:",
+    "options": [
+      "Centralization of authority",
+      "Increased bureaucracy and formalization",
+      "Decentralization of authority",
+      "A wider span of control for top management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the MOST likely reason a rapidly growing logistics firm would choose to add more management layers to its organizational structure?",
+    "options": [
+      "To reduce the cost of management salaries and benefits",
+      "To provide closer supervision as the number of employees and complexity of operations grows",
+      "To increase the span of control of each manager in the organization",
+      "To move toward a flatter, more decentralized organizational structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A warehouse manager applies Maslow's hierarchy of needs and determines that workers' basic safety needs are not fully met due to poor working conditions. According to the theory, which of the following actions would be MOST effective in motivating workers?",
+    "options": [
+      "Offering performance bonuses and promotion opportunities",
+      "Organizing team-building activities to strengthen social bonds",
+      "Improving workplace safety conditions and providing job security",
+      "Providing opportunities for skill development and self-fulfillment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A transport company implements a new performance monitoring system that tracks driver delivery times and compares them against set targets. Managers are alerted only when performance falls significantly below the target. This approach BEST reflects:",
+    "options": [
+      "Feedforward control",
+      "Concurrent control",
+      "Management by exception",
+      "Balanced scorecard management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to contingency theory, a logistics firm operating in a highly uncertain and rapidly changing environment would MOST likely benefit from:",
+    "options": [
+      "A highly centralized, bureaucratic organizational structure with strict rules and procedures",
+      "A flexible, decentralized organizational structure that can adapt quickly to change",
+      "A fixed, standardized set of management practices applied uniformly across all situations",
+      "Maximum application of scientific management principles to standardize all operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A newly appointed operations manager believes workers dislike responsibility and must be closely supervised to perform. This belief is consistent with which of McGregor's theories?",
+    "options": [
+      "Theory Y",
+      "Theory Z",
+      "Theory X",
+      "Human relations theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A logistics company's HR manager introduces a performance appraisal system where employees and their supervisors jointly set performance targets and evaluate outcomes at the end of the year. This approach is MOST consistent with:",
+    "options": [
+      "Management by exception",
+      "Management by objectives (MBO)",
+      "Balanced scorecard management",
+      "Bureaucratic management theory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following correctly describes a \"flat\" organizational structure?",
+    "options": [
+      "An organization with many hierarchical levels and narrow spans of control",
+      "An organization with few hierarchical levels and wide spans of control",
+      "An organization where all authority is concentrated at the top management level",
+      "An organization structured primarily around functional departmentalization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain firm groups its employees into teams responsible for specific customer accounts, with team members drawn from procurement, logistics, and finance. This structure BEST reflects which type of organizational design?",
+    "options": [
+      "Functional departmentalization",
+      "Geographic departmentalization",
+      "Matrix organizational structure",
+      "Bureaucratic organizational structure"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A manager delegates the authority to approve purchase orders up to $10,000 to a procurement officer. The manager REMAINS responsible for outcomes. This illustrates which principle of management?",
+    "options": [
+      "Unity of command",
+      "Span of control",
+      "Responsibility cannot be fully delegated even when authority is",
+      "Scalar chain of authority"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following BEST explains why effective communication is critical to the management function of leading?",
+    "options": [
+      "Communication allows managers to monitor financial performance and compare it to budget",
+      "Without effective communication, managers cannot inspire, direct, or coordinate employees toward organizational goals",
+      "Communication is primarily relevant to the planning function, not the leading function",
+      "Effective communication reduces the need for formal organizational structures and reporting systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A freight forwarding company expands into three new countries and restructures its operations by establishing separate divisions for East Africa, West Africa, and Southern Africa. This structural change BEST illustrates which type of departmentalization?",
+    "options": [
+      "Functional departmentalization",
+      "Product departmentalization",
+      "Customer departmentalization",
+      "Geographic departmentalization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Applying Herzberg's two-factor theory, a logistics manager who improves salaries and working conditions but sees no improvement in employee motivation should MOST likely:",
+    "options": [
+      "Continue increasing salaries until motivation improves",
+      "Recognize that hygiene factors alone do not motivate and focus on providing recognition, growth, and meaningful work",
+      "Reduce the salary improvements and use stricter supervision instead",
+      "Conclude that financial incentives are ineffective for all employees"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to equity theory, an employee who perceives that they are being underpaid relative to a colleague doing the same work is MOST likely to:",
+    "options": [
+      "Increase their effort to justify a pay raise",
+      "Reduce their effort or seek other forms of compensation to restore perceived equity",
+      "Accept the situation and continue performing at the same level",
+      "Immediately resign and seek employment elsewhere"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manager uses a balanced scorecard to evaluate organizational performance. The manager notices strong financial results but poor scores on customer satisfaction and internal process quality. The MOST appropriate managerial response is to:",
+    "options": [
+      "Focus exclusively on maintaining financial performance and ignore the other dimensions",
+      "Recognize that short-term financial gains may be undermined by poor customer and process performance, and address all dimensions",
+      "Conclude that the balanced scorecard is not an appropriate tool for this organization",
+      "Reward top management for financial performance and separately discipline operational staff"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST explains why the four management functions are interdependent rather than sequential?",
+    "options": [
+      "Each function is performed by a different level of management simultaneously",
+      "In practice, managers perform all four functions continuously and simultaneously, with each function informing and reinforcing the others",
+      "The functions are sequential but can be skipped depending on organizational circumstances",
+      "The functions are independent processes that different departments handle separately"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics company has excellent plans and a well-designed structure but consistently fails to achieve targets. The MOST likely cause is a weakness in which management function?",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Leading and controlling",
+      "Strategic management"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following scenarios BEST illustrates the application of \"contingency theory\" in practice?",
+    "options": [
+      "A manager applies the same leadership style to all employees regardless of their experience or motivation",
+      "A manager uses a participative leadership style with experienced, motivated employees and a more directive style with new, inexperienced workers",
+      "A manager follows a strict bureaucratic rulebook in all situations without exception",
+      "A manager applies scientific management principles uniformly across all departments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST significant limitation of the classical management perspective?",
+    "options": [
+      "It placed too much emphasis on understanding the social and emotional needs of workers",
+      "It focused excessively on informal organizational structures at the expense of formal authority",
+      "It largely ignored the human and social dimensions of work, treating workers primarily as economic units",
+      "It was too flexible and provided insufficient guidance for managing large organizations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A manager responsible for a team of experienced logistics professionals finds that the team performs best when given autonomy to make their own decisions. This observation is MOST consistent with which of the following management theories?",
+    "options": [
+      "Scientific management",
+      "Theory X",
+      "Bureaucratic management",
+      "Theory Y"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following BEST describes why the \"open systems\" view is particularly relevant to logistics and supply chain management?",
+    "options": [
+      "Logistics firms operate in completely controlled internal environments with no external dependencies",
+      "Logistics and supply chain organizations are highly dependent on external inputs such as demand signals, supplier performance, and regulatory conditions",
+      "The open systems view applies only to manufacturing organizations, not logistics firms",
+      "Open systems theory suggests that logistics firms should minimize their external relationships to reduce uncertainty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager must communicate a significant change in supplier policy to their team. Which of the following communication approaches would MOST effectively ensure understanding and acceptance?",
+    "options": [
+      "Sending a formal written memo with no opportunity for questions or feedback",
+      "Clearly explaining the rationale for the change, using appropriate language, and inviting questions and feedback from the team",
+      "Delegating the communication responsibility entirely to a team leader",
+      "Posting the policy change on the company intranet without direct discussion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST illustrates effective \"upward communication\" in a logistics organization?",
+    "options": [
+      "A logistics manager briefs the team on new operational procedures for the coming quarter",
+      "A warehouse supervisor submits a detailed report to senior management identifying bottlenecks limiting throughput",
+      "The finance director communicates the annual budget to all department heads",
+      "A regional manager distributes performance targets to all branch managers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following management activities BEST exemplifies the integration of all four management functions?",
+    "options": [
+      "A manager prepares the monthly payroll report for the human resources department",
+      "A manager develops a plan to improve delivery performance, restructures the team to implement it, motivates employees through recognition, and monitors results to ensure improvement",
+      "A manager attends a weekly operations meeting to review financial performance data",
+      "A manager purchases new vehicles for the logistics fleet within the approved capital budget"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST important reason why managers in logistics and supply chain organizations need strong \"conceptual skills\"?",
+    "options": [
+      "They need to operate vehicles and equipment in the field",
+      "They must understand how changes in one part of the supply chain affect the entire system and make strategic decisions accordingly",
+      "They primarily supervise front-line workers who handle day-to-day operations",
+      "They need proficiency in specific logistics software applications"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A new logistics company is entering a highly competitive market. Which combination of management activities would MOST effectively position the company for success?",
+    "options": [
+      "Focusing exclusively on cost reduction while ignoring customer service and employee development",
+      "Developing a clear strategy, building an appropriate organizational structure, leading employees effectively, and implementing strong performance controls",
+      "Copying the management practices of the market leader without adapting them to the company's unique context",
+      "Prioritizing short-term financial results over long-term organizational development"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST explains the relationship between organizational culture and management effectiveness?",
+    "options": [
+      "Organizational culture is irrelevant to management effectiveness in logistics firms",
+      "A strong, positive organizational culture aligns employee behavior with organizational goals, making management more effective",
+      "Organizational culture always supports management initiatives regardless of its characteristics",
+      "Management effectiveness depends solely on formal organizational structures, not cultural factors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manager identifies that a subordinate's performance has declined significantly. Applying the control process correctly, the manager should FIRST:",
+    "options": [
+      "Immediately place the employee on a performance improvement plan",
+      "Investigate to determine the root cause of the performance decline before taking corrective action",
+      "Reassign the employee to a different role without investigation",
+      "Increase monitoring frequency for all team members to prevent similar issues"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST illustrates the application of Fayol's principle of \"order\" in a logistics warehouse?",
+    "options": [
+      "Ensuring that all employees are paid fairly for the work they perform",
+      "Maintaining a place for everything and ensuring everything is in its place to maximize efficiency",
+      "Promoting harmony and team spirit among all warehouse staff",
+      "Ensuring that each employee receives instructions from only one supervisor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following MOST accurately describes the difference between a \"goal\" and a \"plan\" in management?",
+    "options": [
+      "Goals and plans are identical concepts used interchangeably in management literature",
+      "A goal specifies a desired end state to be achieved; a plan describes the actions and resources required to achieve the goal",
+      "A plan specifies the desired end state; a goal describes the resources required to reach it",
+      "Goals are short-term and operational; plans are always long-term and strategic"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics firm's management team notices that competitors are increasingly using digital platforms to manage freight bookings. Conducting a SWOT analysis, this trend would MOST appropriately be categorized as:",
+    "options": [
+      "A strength of the firm if it has already adopted digital platforms",
+      "A weakness of the firm if it has not yet adopted digital technology",
+      "An opportunity if the firm can leverage digital technology to improve competitiveness",
+      "Both B and C depending on the firm's current capabilities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to Fayol's principle of \"centralization,\" the appropriate degree of centralization in an organization depends on:",
+    "options": [
+      "The personal preferences of the chief executive officer",
+      "The size of the organization, the experience of employees, and the nature of activities being performed",
+      "The industry in which the organization operates",
+      "The number of management layers in the organizational hierarchy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST explains why effective planning is considered the foundation of all other management functions?",
+    "options": [
+      "Planning generates the financial resources needed to implement all other management activities",
+      "Without clear goals and plans, organizing, leading, and controlling activities lack direction and purpose",
+      "Planning is the most time-consuming management function and therefore receives the most management attention",
+      "Effective planning eliminates the need for organizing, leading, and controlling activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A supply chain manager must decide whether to authorize overtime for the entire warehouse team or hire temporary workers to meet a peak demand period. This decision MOST directly involves which management function?",
+    "options": [
+      "Leading",
+      "Controlling",
+      "Organizing",
+      "Planning"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following BEST describes the role of feedback in improving management communication effectiveness?",
+    "options": [
+      "Feedback confirms that the message was sent but not necessarily understood",
+      "Feedback allows the sender to verify that the message was received and correctly understood, enabling clarification if needed",
+      "Feedback is only necessary for upward communication, not for downward communication",
+      "Feedback is primarily useful for financial reporting and performance evaluation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics firm implements a TQM program. Which of the following management principles is MOST closely aligned with TQM?",
+    "options": [
+      "Division of labor and task specialization to maximize individual efficiency",
+      "Close supervision and strict financial controls to minimize quality deviations",
+      "Continuous improvement, customer focus, and total employee involvement in quality",
+      "Centralized quality control managed exclusively by the quality assurance department"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following correctly identifies the MAIN difference between \"authority\" and \"power\" in a management context?",
+    "options": [
+      "Authority is informal and personal; power is formal and position-based",
+      "Authority is the formal right to make decisions and direct others; power is the broader ability to influence others' behavior, which may come from multiple sources",
+      "Power applies only to top management; authority applies to all organizational members",
+      "Authority and power are identical concepts that describe the same management phenomenon"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A manager who consistently gives credit to team members for successes while accepting responsibility for failures is demonstrating which managerial quality?",
+    "options": [
+      "Autocratic leadership and centralized authority",
+      "Ethical leadership and accountability",
+      "Laissez-faire management and lack of control",
+      "Transactional management focused on reward and punishment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the MOST important characteristic of an effective organizational goal according to management theory?",
+    "options": [
+      "Goals should be set exclusively by top management without employee input",
+      "Goals should be specific, measurable, achievable, relevant, and time-bound (SMART)",
+      "Goals should be broad and flexible to accommodate changing circumstances",
+      "Goals should focus exclusively on financial performance metrics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A procurement manager communicates the same message about a new supplier policy to different team members using different communication styles based on each person's preferences and experience level. This approach BEST reflects:",
+    "options": [
+      "Inconsistent communication that undermines organizational policy",
+      "Adaptive communication that tailors the message delivery to the audience for maximum effectiveness",
+      "Decentralized communication that allows employees to interpret policies independently",
+      "Informal communication that bypasses formal organizational channels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the PRIMARY reason why managers must understand and apply motivational theories in logistics and supply chain operations?",
+    "options": [
+      "Motivational theories provide legal justification for performance-based pay systems",
+      "Understanding what motivates employees enables managers to design work environments and incentive systems that improve performance and retention",
+      "Motivational theories are required by government labor regulations in most countries",
+      "Applying motivational theories eliminates all forms of workplace conflict and dissatisfaction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics firm's management team is evaluating two organizational design options: a functional structure and a matrix structure. Which of the following is the MOST significant advantage of the matrix structure for this firm?",
+    "options": [
+      "It simplifies reporting relationships by giving each employee a single supervisor",
+      "It enables cross-functional collaboration and flexibility in deploying resources across multiple projects",
+      "It reduces coordination costs by keeping all similar functions in separate, independent departments",
+      "It is easier to implement and requires less management expertise than a functional structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following management activities BEST illustrates the principle that \"management is a universal process\"?",
+    "options": [
+      "The management functions of planning, organizing, leading, and controlling apply only in manufacturing industries",
+      "The same fundamental management functions are applicable across all types of organizations, industries, and cultures",
+      "Management practices that work in developed countries cannot be applied in developing economies",
+      "Management principles apply only to profit-making business organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A newly appointed logistics manager wants to build a high-performing team. Drawing on management theory, which of the following approaches would MOST likely be effective?",
+    "options": [
+      "Setting extremely high targets without providing resources or support to maximize employee stretch",
+      "Clearly communicating expectations, providing necessary resources and training, recognizing achievement, and fostering a collaborative team culture",
+      "Using strict discipline and close supervision to ensure all team members comply with rules",
+      "Avoiding all formal performance evaluation to prevent employee anxiety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following BEST summarizes the contribution of management theory to professional practice in logistics and supply chain management?",
+    "options": [
+      "Management theory provides rigid prescriptions that must be applied unchanged in all logistics contexts",
+      "Management theory provides frameworks, principles, and tools that help logistics professionals understand organizational behavior, make better decisions, and improve performance",
+      "Management theory is purely academic and has no practical relevance to logistics and supply chain operations",
+      "Management theory applies only to the human resources function and is irrelevant to operational logistics decisions"
+    ],
+    "correct": 1
+  }
+]
