@@ -1,0 +1,1502 @@
+[
+  {
+    "questionText": "Which of the following best defines logistics management?",
+    "options": [
+      "The process of manufacturing goods for distribution",
+      "The process of planning, implementing, and controlling the efficient flow and storage of goods, services, and information from origin to consumption",
+      "The process of managing financial transactions in a supply chain",
+      "The process of recruiting and training supply chain personnel"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary goal of lean logistics?",
+    "options": [
+      "To increase the number of warehouses in a supply chain",
+      "To eliminate waste and non-value-adding activities from logistics processes",
+      "To maximize inventory levels to prevent stockouts",
+      "To increase the speed of production regardless of demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of waste (muda) in logistics operations?",
+    "options": [
+      "Delivering goods to customers on time",
+      "Transporting goods unnecessarily between intermediate locations before final delivery",
+      "Conducting regular maintenance on delivery vehicles",
+      "Training logistics staff on customer service skills"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A logistics manager wants to reduce lead time and improve delivery reliability. Which lean principle is most directly applicable?",
+    "options": [
+      "Increasing safety stock levels",
+      "Mapping and eliminating non-value-adding steps in the logistics process",
+      "Outsourcing all warehousing operations",
+      "Adding more transportation modes to the distribution network"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"customer accommodation\" in logistics?",
+    "options": [
+      "Providing free transportation to all customers",
+      "Aligning logistics capabilities and services to meet specific customer requirements and expectations",
+      "Reducing logistics costs by standardizing all delivery options",
+      "Increasing warehouse capacity to store more customer orders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"operational integration\" in logistics mean?",
+    "options": [
+      "Using a single transportation mode for all deliveries",
+      "Coordinating and synchronizing logistics activities across functions and organizations to achieve seamless flow",
+      "Centralizing all logistics decisions in the headquarters",
+      "Outsourcing logistics operations to a third-party provider"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a contemporary issue in logistics management?",
+    "options": [
+      "The declining use of technology in transportation",
+      "Growing emphasis on sustainability, digitalization, and resilience in logistics networks",
+      "Decreasing importance of last-mile delivery",
+      "Reduction in global trade volumes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of logistics performance measurement?",
+    "options": [
+      "To justify increasing logistics budgets",
+      "To monitor, evaluate, and improve logistics activities against set standards and objectives",
+      "To determine the number of logistics staff required",
+      "To compare the performance of competing logistics companies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key dimension of logistics performance?",
+    "options": [
+      "Marketing effectiveness and brand recognition",
+      "Cost, quality, time, flexibility, and dependability",
+      "Number of warehouses operated by the company",
+      "Size of the logistics department's annual budget"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"reverse logistics\"?",
+    "options": [
+      "The process of delivering goods from warehouse to customer",
+      "The process of moving goods back from the point of consumption to the point of origin for return, reuse, recycling, or disposal",
+      "The process of reversing a procurement decision after goods are ordered",
+      "The process of transporting goods in the opposite direction of normal trade flows"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes a \"lean supply chain\"?",
+    "options": [
+      "A supply chain that uses only domestic suppliers",
+      "A supply chain designed to eliminate waste while delivering value to customers efficiently",
+      "A supply chain that maintains high inventory levels at every stage",
+      "A supply chain that relies exclusively on air transportation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the \"bullwhip effect\" in logistics and supply chain management?",
+    "options": [
+      "The phenomenon where customer demand is consistently higher than forecasted",
+      "The amplification of demand variability as orders move upstream in the supply chain",
+      "The effect of increasing transportation costs on customer prices",
+      "The impact of seasonal demand fluctuations on warehouse capacity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of operational integration in logistics?",
+    "options": [
+      "Increased inventory levels across all supply chain stages",
+      "Improved information sharing, reduced duplication, and enhanced responsiveness across logistics functions",
+      "Elimination of competition among logistics service providers",
+      "Reduction in the number of suppliers used in the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"last-mile delivery\" in logistics?",
+    "options": [
+      "The final stage of manufacturing before goods are packaged",
+      "The final leg of the delivery process from a distribution hub to the end customer",
+      "The longest distance traveled by goods in the supply chain",
+      "The last shipment made before the end of a fiscal year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best defines \"logistics performance index (LPI)\"?",
+    "options": [
+      "A financial ratio measuring logistics department profitability",
+      "A benchmarking tool developed by the World Bank to measure the trade logistics performance of countries",
+      "An internal scorecard used by logistics companies to rank their employees",
+      "A customer satisfaction survey conducted by logistics service providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key principle of \"just-in-time\" (JIT) in lean logistics?",
+    "options": [
+      "Maintaining large safety stocks to prevent production disruptions",
+      "Delivering the right goods in the right quantity at the right time to minimize inventory and waste",
+      "Shipping goods in bulk to reduce transportation costs",
+      "Storing goods at multiple locations to ensure availability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a value-adding activity in logistics?",
+    "options": [
+      "Re-handling goods due to incorrect initial sorting",
+      "Transporting goods from a distribution center to a customer's location as requested",
+      "Storing goods beyond their required time due to poor planning",
+      "Waiting for customs clearance due to incorrect documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"service level\" mean in logistics performance?",
+    "options": [
+      "The number of logistics staff assigned to each customer account",
+      "The degree to which logistics services meet or exceed customer expectations and requirements",
+      "The total volume of goods handled by a logistics company per year",
+      "The maximum weight capacity of the logistics company's fleet"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company regularly receives complaints about late deliveries. Which logistics performance dimension is most affected?",
+    "options": [
+      "Cost efficiency",
+      "Delivery reliability and time performance",
+      "Warehouse capacity utilization",
+      "Supplier qualification standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"third-party logistics (3PL)\"?",
+    "options": [
+      "A logistics model where the buyer handles all logistics in-house",
+      "The outsourcing of logistics activities to an external service provider",
+      "A government-run logistics service for public sector organizations",
+      "A logistics model exclusive to international trade transactions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"cross-docking\" in logistics operations?",
+    "options": [
+      "Storing goods in a central warehouse for long-term inventory management",
+      "Transferring goods directly from incoming to outgoing transport with minimal or no storage time",
+      "Crossing international borders with goods under customs bond",
+      "Using multiple transportation modes for a single shipment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key driver of contemporary logistics transformation?",
+    "options": [
+      "Decrease in global trade and reduction in consumer expectations",
+      "Digital technologies such as IoT, big data analytics, and artificial intelligence",
+      "Reduction in the use of automation in warehousing",
+      "Growing preference for manual processes in order management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics network design\"?",
+    "options": [
+      "Designing the visual appearance of a logistics company's website",
+      "Determining the optimal locations, number, and roles of facilities such as warehouses and distribution centers to serve customers efficiently",
+      "Creating the organizational chart of a logistics department",
+      "Selecting the software used for logistics management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a characteristic of lean logistics?",
+    "options": [
+      "Maximizing batch sizes to reduce production costs",
+      "Continuous improvement (kaizen), waste elimination, and pull-based flow",
+      "Increasing the number of intermediaries in the supply chain",
+      "Maintaining buffer stocks at all levels of the supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"demand-driven logistics\"?",
+    "options": [
+      "A logistics approach where production schedules drive inventory decisions",
+      "A logistics approach where actual customer demand signals trigger logistics activities rather than forecasts",
+      "A logistics model where logistics companies set their own delivery schedules",
+      "A logistics approach focused on increasing supply regardless of demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following global trends is most significantly affecting logistics management today?",
+    "options": [
+      "Decline in e-commerce and online purchasing",
+      "Rise of e-commerce, increasing customer expectations for faster and more flexible delivery",
+      "Reduction in global trade volumes and supply chain complexity",
+      "Decreasing importance of sustainability in logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"information technology\" in modern logistics management?",
+    "options": [
+      "To replace all human logistics workers with automated systems",
+      "To enable real-time visibility, improve coordination, and enhance decision-making across the logistics network",
+      "To eliminate the need for physical warehousing",
+      "To reduce the number of transportation modes used in logistics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of sustainable logistics?",
+    "options": [
+      "Excessive competition from logistics service providers",
+      "Balancing cost efficiency with environmental responsibility, including reducing carbon emissions from transportation",
+      "Increasing the number of warehouses in the logistics network",
+      "Eliminating the use of information technology in logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"cold chain logistics\"?",
+    "options": [
+      "Logistics operations conducted exclusively in cold-weather countries",
+      "A temperature-controlled supply chain used to maintain the quality of perishable goods from origin to consumption",
+      "The process of refrigerating warehouses regardless of the goods stored",
+      "A logistics method for transporting frozen goods by air freight only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"agile logistics\"?",
+    "options": [
+      "A logistics approach focused solely on cost reduction",
+      "A logistics approach that emphasizes speed, flexibility, and responsiveness to changing customer needs",
+      "A logistics model that prioritizes long-term supplier contracts over flexibility",
+      "A logistics approach that uses only one transportation mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary objective of \"customer service\" in logistics?",
+    "options": [
+      "To maximize the number of transportation modes used",
+      "To meet customer requirements regarding availability, delivery speed, and order accuracy",
+      "To reduce the number of warehouses in the logistics network",
+      "To minimize logistics costs regardless of service levels"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a lean tool applied in logistics?",
+    "options": [
+      "Increasing safety stock to prevent disruptions",
+      "Value stream mapping to identify and eliminate waste in logistics processes",
+      "Adding more intermediaries to the distribution network",
+      "Standardizing all customer orders to a single delivery option"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"order cycle time\" measure in logistics performance?",
+    "options": [
+      "The time taken to manufacture goods after an order is received",
+      "The total time from when a customer places an order to when they receive it",
+      "The time required to transport goods from one warehouse to another",
+      "The time taken to process supplier invoices"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a contemporary challenge in last-mile logistics?",
+    "options": [
+      "Excess supply of delivery vehicles in urban areas",
+      "High cost, traffic congestion, and growing customer expectations for same-day or next-day delivery",
+      "Declining e-commerce demand reducing delivery volumes",
+      "Oversupply of delivery personnel in metropolitan areas"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of the \"Logistics Performance Index (LPI)\" for a country like Ethiopia?",
+    "options": [
+      "It measures the financial profitability of Ethiopian logistics companies",
+      "It provides a comparative measure of logistics efficiency, highlighting areas such as customs, infrastructure, and competency that affect Ethiopia's trade competitiveness",
+      "It ranks Ethiopian logistics companies against global competitors",
+      "It determines the import tariff rates applicable to goods entering Ethiopia"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of lean thinking applicable to logistics?",
+    "options": [
+      "Push as much inventory as possible into the supply chain",
+      "Identify value from the customer's perspective and align logistics activities to deliver it",
+      "Maximize the use of safety stock at all logistics nodes",
+      "Increase the number of handling steps to improve accuracy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"humanitarian logistics\"?",
+    "options": [
+      "Logistics services provided exclusively to government entities",
+      "The process of planning and implementing the efficient flow of goods and services to meet the needs of vulnerable populations in disaster or crisis situations",
+      "A logistics model focused on delivering luxury goods to high-income customers",
+      "The process of providing free logistics services to non-profit organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key metric for measuring logistics cost performance?",
+    "options": [
+      "Number of employees in the logistics department",
+      "Logistics cost as a percentage of revenue or total supply chain cost",
+      "Number of logistics service providers in the market",
+      "Size of the company's warehouse footprint"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"perfect order fulfillment\" mean in logistics?",
+    "options": [
+      "Delivering all orders in the largest possible batch sizes",
+      "Delivering an order that is complete, on time, undamaged, and accurately documented",
+      "Filling all customer orders within 24 hours regardless of complexity",
+      "Fulfilling orders using only the fastest available transportation mode"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"green logistics\"?",
+    "options": [
+      "Using environmentally themed packaging for all shipments",
+      "Incorporating environmental sustainability into logistics strategies by reducing emissions, waste, and energy consumption",
+      "Transporting goods exclusively through forests and green corridors",
+      "Using only electric vehicles for all logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"postponement\" in logistics strategy?",
+    "options": [
+      "Delaying payment to logistics service providers",
+      "Delaying the final configuration or customization of products until closer to the point of customer demand to reduce inventory risk",
+      "Postponing delivery of goods due to transportation capacity constraints",
+      "Delaying procurement of goods until market prices decrease"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of using a \"logistics management information system (LMIS)\"?",
+    "options": [
+      "It eliminates the need for physical logistics infrastructure",
+      "It provides real-time data on inventory levels, shipment status, and logistics performance to support decision-making",
+      "It replaces all logistics staff with automated systems",
+      "It guarantees the lowest transportation rates from all carriers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"intermodal transportation\" in logistics?",
+    "options": [
+      "Using only one transportation mode for international shipments",
+      "Using two or more transportation modes in a single journey, with goods in the same container or unit throughout",
+      "Transporting goods between two countries using road transport only",
+      "A transportation method exclusive to bulk commodity shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of customer accommodation in logistics?",
+    "options": [
+      "Standardizing all delivery options to reduce complexity",
+      "Understanding individual customer needs and tailoring logistics services to meet them",
+      "Reducing the number of customer contact points to improve efficiency",
+      "Limiting delivery windows to reduce transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"supply chain visibility\" in logistics management?",
+    "options": [
+      "To restrict access to logistics data to senior management only",
+      "To provide all supply chain partners with real-time information on inventory, orders, and shipment status to improve coordination",
+      "To display logistics performance data on public websites",
+      "To enable customers to design their own logistics networks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of operational integration in logistics?",
+    "options": [
+      "Each logistics function operating independently with its own data systems",
+      "Procurement, warehousing, and transportation sharing real-time data to coordinate the seamless flow of goods",
+      "Outsourcing all logistics functions to different service providers",
+      "Centralizing procurement while decentralizing transportation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics outsourcing\"?",
+    "options": [
+      "Transferring logistics ownership to a government entity",
+      "Contracting a third-party provider to perform logistics activities on behalf of the organization",
+      "Moving logistics operations from the capital city to rural areas",
+      "Eliminating all logistics costs through automation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a contemporary sustainability issue in logistics?",
+    "options": [
+      "Excessive use of paper-based documentation in procurement",
+      "Carbon emissions from transportation, packaging waste, and the environmental impact of logistics operations",
+      "Declining demand for sustainable logistics solutions",
+      "Oversupply of electric vehicles in the logistics market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"inventory visibility\" mean in logistics?",
+    "options": [
+      "Displaying inventory data on a public website",
+      "The ability to track and monitor inventory levels and locations in real time across the supply chain",
+      "Making inventory management reports available to all customers",
+      "The physical inspection of inventory by logistics auditors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"logistics mix\"?",
+    "options": [
+      "The blend of financial and operational metrics used to assess logistics performance",
+      "The combination of logistics activities — transportation, warehousing, inventory, and information — that together deliver value to customers",
+      "The variety of transportation modes available in a logistics network",
+      "The mix of domestic and international logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a \"distribution center\" in logistics?",
+    "options": [
+      "A facility used exclusively for manufacturing finished goods",
+      "A facility that receives goods from suppliers and redistributes them to customers or retail outlets",
+      "A government facility for customs inspection of imported goods",
+      "A transportation hub exclusively for air freight operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key characteristic of \"responsive logistics\"?",
+    "options": [
+      "Prioritizing cost reduction over customer service levels",
+      "Quickly adapting logistics operations to meet changing customer demands and market conditions",
+      "Maintaining fixed logistics schedules regardless of demand fluctuations",
+      "Reducing the number of distribution centers to cut costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"dwell time\" refer to in logistics operations?",
+    "options": [
+      "The time a logistics employee spends on a single task",
+      "The time goods spend waiting at a port, warehouse, or border crossing without being processed",
+      "The time required to plan a logistics operation",
+      "The time taken to negotiate a logistics contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of lean logistics for customers?",
+    "options": [
+      "Increased product variety through higher inventory levels",
+      "Faster delivery times, lower costs, and improved service reliability through waste reduction",
+      "More complex ordering processes ensuring quality",
+      "Higher prices due to improved logistics service quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"vendor-managed inventory (VMI)\" in logistics?",
+    "options": [
+      "The customer manages the supplier's production schedule",
+      "The supplier takes responsibility for managing and replenishing inventory at the customer's location based on agreed targets",
+      "A government agency manages inventory for all public sector entities",
+      "The logistics provider sets minimum inventory levels for all customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a contemporary issue related to logistics and climate change?",
+    "options": [
+      "Declining use of fossil fuels in logistics operations globally",
+      "Pressure on logistics companies to reduce greenhouse gas emissions and adopt low-carbon transportation solutions",
+      "Increasing use of coal-powered transportation in emerging markets",
+      "Reduction in regulatory requirements for logistics sustainability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"route optimization\" in logistics?",
+    "options": [
+      "To increase the number of delivery stops per route",
+      "To determine the most efficient delivery routes to minimize cost, time, and fuel consumption",
+      "To standardize all delivery routes across the logistics network",
+      "To eliminate the need for GPS tracking in logistics vehicles"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key factor in measuring \"logistics quality performance\"?",
+    "options": [
+      "The total number of shipments processed per year",
+      "Order accuracy rate, damage rate, and customer complaint rate",
+      "The number of logistics providers contracted by the company",
+      "The total square footage of warehouse space used"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"supply chain resilience\" in the context of contemporary logistics?",
+    "options": [
+      "The ability of a company to increase profits during supply chain disruptions",
+      "The ability of a supply chain to anticipate, adapt to, and recover from disruptions while maintaining continuity of service",
+      "The capacity of logistics infrastructure to handle maximum volumes",
+      "The ability of logistics managers to negotiate better rates during crises"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"omnichannel logistics\"?",
+    "options": [
+      "Using a single distribution channel for all customer segments",
+      "Integrating multiple distribution channels — such as online, retail, and direct delivery — to provide a seamless customer experience",
+      "Using only online channels for logistics order management",
+      "Maintaining separate logistics networks for each distribution channel"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of Ethiopia's ranking on the Logistics Performance Index?",
+    "options": [
+      "It determines the import tariff rates Ethiopia charges on foreign goods",
+      "It reflects weaknesses in customs efficiency, infrastructure, and logistics competency that affect the country's trade competitiveness",
+      "It ranks Ethiopian logistics companies against African competitors",
+      "It sets the minimum standards for logistics service providers operating in Ethiopia"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"total logistics cost\" management?",
+    "options": [
+      "Minimizing transportation costs while ignoring other logistics cost elements",
+      "Optimizing the overall logistics cost across all elements — transportation, inventory, warehousing, and information — rather than minimizing each individually",
+      "Reducing logistics costs by eliminating customer service standards",
+      "Focusing exclusively on warehousing cost reduction"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a \"milk run\" in logistics operations?",
+    "options": [
+      "A cold chain logistics method for dairy products",
+      "A scheduled route where a vehicle picks up goods from multiple suppliers and delivers them to a central location in a single trip",
+      "A transportation method for liquid cargo",
+      "A logistics practice of delivering goods only to a single customer per trip"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"collaborative logistics\"?",
+    "options": [
+      "Each company independently manages its own logistics to maximize control",
+      "Sharing logistics resources, information, and infrastructure among supply chain partners to reduce costs and improve efficiency",
+      "Limiting logistics collaboration to companies within the same industry",
+      "Assigning all logistics responsibilities to a single dominant supply chain member"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"lead time variability\" mean in logistics?",
+    "options": [
+      "The difference between the fastest and slowest transportation modes",
+      "Unpredictable fluctuations in the time required to complete logistics activities, which complicate planning and increase safety stock requirements",
+      "The variation in logistics costs over a fiscal year",
+      "The difference in delivery times between domestic and international shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key enabler of lean logistics?",
+    "options": [
+      "Maintaining high levels of safety stock at all supply chain nodes",
+      "Standardizing processes, reducing setup times, and improving information flow to enable responsive, waste-free operations",
+      "Increasing the number of intermediaries in the supply chain",
+      "Outsourcing all logistics operations without performance monitoring"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of a \"logistics audit\"?",
+    "options": [
+      "To determine the annual salary of logistics staff",
+      "To systematically evaluate logistics processes, costs, and performance against standards to identify improvement opportunities",
+      "To approve procurement contracts for logistics service providers",
+      "To certify logistics vehicles for roadworthiness"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary challenge for logistics in Africa?",
+    "options": [
+      "Oversupply of logistics infrastructure across the continent",
+      "Poor road infrastructure, high logistics costs, fragmented markets, and limited use of technology",
+      "Excessive competition among logistics service providers",
+      "Over-regulation of logistics operations by African governments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"postponement strategy\" and how does it benefit logistics?",
+    "options": [
+      "It delays all logistics activities until customer demand is confirmed, increasing lead times",
+      "It delays final product customization until closer to the point of demand, reducing inventory costs and improving responsiveness",
+      "It postpones investment in logistics infrastructure to reduce capital costs",
+      "It delays supplier payment to improve cash flow"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key dimension of logistics customer service?",
+    "options": [
+      "The number of logistics facilities operated by the company",
+      "Pre-transaction, transaction, and post-transaction service elements including order placement, delivery, and returns handling",
+      "The total logistics cost incurred per customer",
+      "The number of transportation modes available to each customer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"blockchain technology\" in contemporary logistics management?",
+    "options": [
+      "To replace all physical documentation in logistics operations",
+      "To provide a secure, transparent, and immutable record of transactions across the supply chain, improving traceability and trust",
+      "To automate all warehouse operations without human intervention",
+      "To eliminate the need for customs clearance in international logistics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of using \"radio frequency identification (RFID)\" in logistics?",
+    "options": [
+      "It eliminates the need for transportation planning",
+      "It enables automatic, real-time tracking and identification of goods throughout the supply chain without manual scanning",
+      "It replaces the need for warehouse management systems",
+      "It guarantees the quality of goods during transit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"demand forecasting\" in logistics management?",
+    "options": [
+      "To set the annual logistics budget",
+      "To predict future customer demand to enable proactive planning of inventory, transportation, and warehousing capacity",
+      "To determine the number of logistics staff required",
+      "To negotiate better rates with transportation providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes \"hub-and-spoke\" distribution in logistics?",
+    "options": [
+      "A distribution model where goods are delivered directly from each supplier to each customer",
+      "A distribution model where goods flow from multiple origins to a central hub for consolidation and redistribution to destinations",
+      "A distribution model exclusive to air freight operations",
+      "A distribution model used only for bulk commodity logistics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"customer segmentation\" in logistics service design?",
+    "options": [
+      "It allows logistics companies to charge different prices to different customers arbitrarily",
+      "It enables logistics providers to tailor service offerings to the specific needs and values of different customer groups",
+      "It restricts logistics services to premium customers only",
+      "It standardizes logistics operations across all customer segments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"supply chain digitalization\" for logistics?",
+    "options": [
+      "Eliminating the need for physical logistics infrastructure",
+      "Improving real-time visibility, operational efficiency, and decision-making across the logistics network",
+      "Reducing the number of suppliers in the supply chain",
+      "Replacing all logistics workers with digital systems"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"throughput\" measure in a logistics or warehouse context?",
+    "options": [
+      "The total weight of goods stored in a warehouse at any time",
+      "The volume or number of units processed through a logistics facility in a given period",
+      "The time taken to unload a delivery vehicle",
+      "The number of logistics staff employed in a facility"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"sustainable logistics\"?",
+    "options": [
+      "Maximizing logistics speed regardless of environmental impact",
+      "Reducing environmental harm by minimizing carbon emissions, waste, and resource consumption in logistics operations",
+      "Outsourcing all logistics to countries with lower environmental standards",
+      "Eliminating the use of packaging to reduce material costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"logistics cost benchmarking\"?",
+    "options": [
+      "Setting a maximum logistics budget for the fiscal year",
+      "Comparing a company's logistics costs against industry standards or best-in-class competitors to identify cost reduction opportunities",
+      "Evaluating the cost of new logistics technology investments",
+      "Negotiating lower logistics rates with transportation providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"logistics strategy\"?",
+    "options": [
+      "Focusing exclusively on reducing transportation costs",
+      "Aligning logistics capabilities, network design, and service levels with overall business objectives",
+      "Maximizing the number of logistics service providers used",
+      "Standardizing all logistics operations across all markets"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"total cost of ownership (TCO)\" in logistics decision-making?",
+    "options": [
+      "The purchase price of logistics equipment and vehicles",
+      "The complete cost of acquiring, operating, maintaining, and disposing of logistics assets and services over their useful life",
+      "The total logistics budget allocated for a fiscal year",
+      "The cost of outsourcing logistics compared to in-house operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key driver of logistics costs in developing countries like Ethiopia?",
+    "options": [
+      "Excessive competition among logistics providers",
+      "Poor infrastructure, inefficient customs procedures, and high fuel costs",
+      "Over-investment in logistics technology",
+      "Surplus of trained logistics professionals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"track and trace\" systems in logistics?",
+    "options": [
+      "To train logistics staff on transportation safety",
+      "To provide real-time visibility of shipment location and status to both logistics operators and customers",
+      "To audit logistics costs at the end of each financial year",
+      "To replace customs clearance procedures in international trade"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge of implementing lean logistics in a developing country context?",
+    "options": [
+      "Excessive availability of logistics infrastructure",
+      "Underdeveloped infrastructure, limited technology adoption, and supply chain unpredictability making waste elimination difficult",
+      "Overabundance of trained lean logistics practitioners",
+      "Too much competition driving down logistics costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"service-level agreement (SLA)\" in logistics?",
+    "options": [
+      "A contract that sets the salary of logistics service providers",
+      "A formal agreement defining expected logistics service standards, performance metrics, and consequences for non-compliance",
+      "An agreement between logistics companies to share transportation routes",
+      "A government regulation setting minimum logistics service standards"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is an example of a \"push\" logistics strategy?",
+    "options": [
+      "Producing and distributing goods only after customer orders are received",
+      "Producing and distributing goods based on forecasts, pushing inventory through the supply chain before demand is confirmed",
+      "Waiting for customer demand signals before initiating any logistics activity",
+      "Delivering goods exclusively through online ordering platforms"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"continuous replenishment\" in logistics?",
+    "options": [
+      "Continuously increasing inventory levels to prevent stockouts",
+      "Automatically replenishing inventory based on consumption data to maintain optimal stock levels with minimal waste",
+      "Replacing all logistics staff with automated replenishment systems",
+      "Continuously renegotiating contracts with logistics service providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"logistics iceberg\" concept?",
+    "options": [
+      "The risk of goods being damaged during cold chain logistics",
+      "The idea that visible logistics costs such as transportation are only a small portion of total logistics costs, with many hidden costs below the surface",
+      "The challenge of operating logistics in cold climates",
+      "The process of consolidating multiple small shipments into a single large one"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"logistics parks\" or \"freight villages\" in modern logistics?",
+    "options": [
+      "To provide recreational facilities for logistics workers",
+      "To create integrated logistics hubs where multiple logistics service providers co-locate to improve efficiency and reduce costs",
+      "To store agricultural products during harvest seasons",
+      "To serve as government inspection facilities for imported goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"consolidation\" in logistics?",
+    "options": [
+      "Delivering goods to customers in smaller, more frequent shipments",
+      "Combining smaller shipments into full loads to reduce transportation costs per unit",
+      "Increasing the number of delivery stops per route",
+      "Eliminating the need for warehousing by delivering directly from suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"safety stock\" in logistics?",
+    "options": [
+      "To maximize inventory turnover",
+      "To provide a buffer against demand uncertainty and supply variability, preventing stockouts",
+      "To reduce warehousing costs by maintaining minimum inventory",
+      "To ensure that all goods are delivered before the end of the fiscal year"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary trend in logistics technology?",
+    "options": [
+      "Declining use of automation in warehouse operations",
+      "Adoption of autonomous vehicles, drones, and robotics to improve logistics efficiency and speed",
+      "Reduction in the use of data analytics in logistics planning",
+      "Shift back to paper-based logistics documentation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"fill rate\" measure in logistics performance?",
+    "options": [
+      "The percentage of warehouse space occupied by inventory",
+      "The percentage of customer orders fulfilled completely from available stock",
+      "The rate at which fuel is consumed by the logistics fleet",
+      "The proportion of shipments arriving without damage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"logistics collaboration\" between competing companies?",
+    "options": [
+      "Eliminating competition in the logistics market",
+      "Sharing transportation and warehousing capacity to reduce costs and improve network efficiency",
+      "Giving one company exclusive control over all logistics resources",
+      "Reducing the number of logistics service providers in the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"fourth-party logistics (4PL)\"?",
+    "options": [
+      "A model where four separate logistics companies jointly manage a client's supply chain",
+      "A logistics model where a single provider manages and integrates the entire supply chain, including overseeing multiple 3PL providers",
+      "A government-managed logistics model for public sector supply chains",
+      "A logistics model that uses four different transportation modes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best explains why logistics is considered a strategic function in business?",
+    "options": [
+      "Logistics departments have the largest budgets in most organizations",
+      "Logistics directly impacts customer satisfaction, competitive advantage, and cost efficiency, making it central to business success",
+      "Logistics employs the most people in a typical supply chain organization",
+      "Logistics is the only function that interacts with both suppliers and customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"logistics process reengineering\"?",
+    "options": [
+      "To replace all logistics staff with technology",
+      "To fundamentally redesign logistics processes to achieve significant improvements in cost, speed, and service quality",
+      "To gradually improve logistics operations through small incremental changes",
+      "To standardize logistics processes across all industry sectors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key indicator of effective logistics customer service?",
+    "options": [
+      "High logistics costs as a percentage of revenue",
+      "High on-time delivery rate, low order error rate, and high customer satisfaction scores",
+      "Maximum utilization of all warehouse space at all times",
+      "Use of the highest number of transportation modes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"integrated logistics management\" in modern supply chains?",
+    "options": [
+      "Centralizing all logistics decisions in one department",
+      "Coordinating all logistics activities — transportation, warehousing, inventory, and information — as an integrated system to maximize value and minimize cost",
+      "Outsourcing all logistics to a single third-party provider",
+      "Using only one transportation mode to simplify logistics management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the contemporary concept of \"logistics as a competitive weapon\"?",
+    "options": [
+      "Using logistics costs to undercut competitors' pricing",
+      "Leveraging superior logistics capabilities such as speed, reliability, and flexibility to differentiate the company and win customers",
+      "Competing with other logistics companies for government contracts",
+      "Using logistics assets such as vehicles and warehouses to generate additional revenue"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the key purpose of \"logistics network optimization\"?",
+    "options": [
+      "To maximize the number of warehouses in a distribution network",
+      "To design and configure the logistics network to minimize total cost while meeting customer service requirements",
+      "To standardize all delivery routes across the network",
+      "To eliminate all transportation costs through consolidation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"vendor-managed inventory (VMI)\" for the buyer?",
+    "options": [
+      "The buyer takes full control of the supplier's production schedule",
+      "Reduced inventory management burden and improved replenishment efficiency as the supplier manages stock at the buyer's location",
+      "The buyer pays lower prices for all goods managed under VMI",
+      "The supplier assumes all financial risk for inventory held at the buyer's location"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"logistics flexibility\" mean?",
+    "options": [
+      "The ability to change logistics service providers frequently",
+      "The ability of a logistics system to adapt to varying customer requirements, demand fluctuations, and supply chain disruptions",
+      "Using multiple transportation modes for a single shipment",
+      "Offering unlimited delivery options to all customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a contemporary issue related to urban logistics?",
+    "options": [
+      "Declining e-commerce demand in urban areas",
+      "Traffic congestion, emission regulations, restricted delivery windows, and the complexity of last-mile delivery in dense urban environments",
+      "Oversupply of delivery vehicles in major cities",
+      "Reduction in urban consumer demand for home delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"logistics benchmarking\"?",
+    "options": [
+      "Setting a maximum budget for logistics expenditures",
+      "Comparing logistics performance metrics against industry standards or best-in-class organizations to identify gaps and improvement opportunities",
+      "Evaluating logistics staff against key performance indicators",
+      "Negotiating lower transportation rates with benchmark suppliers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the role of \"logistics in humanitarian operations\"?",
+    "options": [
+      "Providing free transportation services to government agencies",
+      "Ensuring the rapid, efficient delivery of relief goods and services to affected populations during disasters or crises",
+      "Managing the long-term supply chains of development organizations",
+      "Coordinating logistics operations exclusively for international aid agencies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"demand sensing\" in modern logistics?",
+    "options": [
+      "Installing sensors in warehouses to monitor temperature",
+      "Using real-time data from sales, social media, and market signals to detect and respond to demand changes faster than traditional forecasting",
+      "Measuring customer satisfaction through surveys",
+      "Tracking vehicle locations using GPS technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"logistics service quality\"?",
+    "options": [
+      "The total number of logistics employees",
+      "Reliability, responsiveness, assurance, empathy, and tangibles — dimensions that determine how well logistics services meet customer expectations",
+      "The total square footage of all warehouses",
+      "The number of transportation modes operated"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"logistics process standardization\"?",
+    "options": [
+      "To restrict all logistics activities to a single approved method",
+      "To create consistent, repeatable logistics processes that reduce errors, improve efficiency, and facilitate training and performance measurement",
+      "To eliminate the need for logistics technology investments",
+      "To centralize all logistics decision-making in the head office"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"real-time logistics visibility\"?",
+    "options": [
+      "Eliminating the need for logistics planning",
+      "Enabling proactive issue resolution, improving customer communication, and enhancing supply chain agility",
+      "Reducing the number of logistics service providers needed",
+      "Automatically rerouting shipments without human involvement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics postponement\" in the context of mass customization?",
+    "options": [
+      "Delaying all procurement activities until market prices stabilize",
+      "Delaying product differentiation or customization in the logistics process until the latest possible point to reduce inventory and improve responsiveness",
+      "Postponing delivery to customers until demand forecasts are confirmed",
+      "Delaying logistics investment until the company achieves profitability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"multimodal logistics\"?",
+    "options": [
+      "Simplifying customs procedures by using a single transport mode",
+      "Combining the strengths of different transportation modes to optimize cost, speed, and reliability for different legs of a journey",
+      "Eliminating the need for freight forwarding in international logistics",
+      "Guaranteeing the fastest delivery time for all shipments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"logistics cost as a percentage of GDP\" as a macro-level indicator?",
+    "options": [
+      "It measures the profitability of the logistics industry",
+      "It reflects the overall efficiency of a country's logistics system; high logistics costs as a percentage of GDP indicate inefficiency and competitiveness challenges",
+      "It determines the import duty rates for logistics equipment",
+      "It sets the benchmark for logistics company profitability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"logistics customer relationship management\"?",
+    "options": [
+      "Reducing the number of customer contact points to cut costs",
+      "Building long-term, mutually beneficial relationships with customers through consistent service quality, communication, and responsiveness",
+      "Offering the same logistics service to all customers regardless of their needs",
+      "Maximizing revenue from each customer through premium pricing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"inventory turnover\" as a logistics performance metric?",
+    "options": [
+      "To measure the speed at which logistics vehicles complete delivery routes",
+      "To measure how many times inventory is sold and replaced in a given period, indicating inventory efficiency",
+      "To track the number of new products added to inventory each year",
+      "To measure the rate at which warehouse staff process incoming goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary issue in pharmaceutical logistics?",
+    "options": [
+      "Declining demand for temperature-controlled logistics",
+      "Maintaining cold chain integrity, regulatory compliance, serialization, and managing short shelf life products",
+      "Oversupply of pharmaceutical logistics providers",
+      "Reduction in the complexity of pharmaceutical supply chains"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"logistics complexity\" refer to in modern supply chains?",
+    "options": [
+      "The difficulty of hiring qualified logistics personnel",
+      "The increasing number of variables, stakeholders, regulations, and uncertainties that logistics managers must manage in global supply chains",
+      "The challenge of maintaining multiple transportation modes",
+      "The complexity of logistics accounting and financial reporting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"lean-agile\" logistics hybrid approach?",
+    "options": [
+      "Using lean principles for luxury goods and agile principles for commodity goods",
+      "Using lean logistics for predictable, high-volume flows and agile logistics for unpredictable, variable demand segments within the same supply chain",
+      "Alternating between lean and agile approaches on a quarterly basis",
+      "Using lean principles exclusively for transportation and agile for warehousing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the role of \"logistics strategy\" in achieving organizational objectives?",
+    "options": [
+      "To manage the day-to-day operational details of transportation and warehousing",
+      "To define how logistics capabilities and resources will be deployed to support the organization's competitive strategy and meet customer needs",
+      "To set the annual logistics budget",
+      "To determine which logistics service providers to contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"supply chain integration\" for logistics performance?",
+    "options": [
+      "Increasing the independence of each logistics function",
+      "Reducing redundancies, improving information flow, and enabling coordinated responses to demand and supply variability",
+      "Eliminating the need for logistics planning",
+      "Centralizing all supply chain decisions in one department"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics decoupling point\"?",
+    "options": [
+      "The point where a logistics provider hands over goods to the customer",
+      "The point in the supply chain where demand-driven operations begin, separating forecast-driven upstream activities from customer-order-driven downstream activities",
+      "The point where goods are transferred from one transportation mode to another",
+      "The boundary between domestic and international logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key challenge in managing humanitarian logistics?",
+    "options": [
+      "Too many donors providing excess funding for logistics operations",
+      "Unpredictable demand, damaged infrastructure, security risks, and the need for rapid deployment under pressure",
+      "Oversupply of logistics resources in disaster-affected areas",
+      "Excessive competition among humanitarian logistics providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary purpose of \"logistics segmentation\"?",
+    "options": [
+      "To divide the logistics department into specialized units",
+      "To identify different customer segments with different logistics needs and design differentiated service offerings accordingly",
+      "To separate domestic from international logistics operations",
+      "To classify logistics costs into fixed and variable components"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key indicator of logistics operational efficiency?",
+    "options": [
+      "Number of logistics employees per unit of output",
+      "Vehicle utilization rate, warehouse space utilization, and cost per unit delivered",
+      "Total value of logistics contracts signed per year",
+      "Number of logistics service providers operating in the market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does \"supply chain agility\" mean in logistics management?",
+    "options": [
+      "The speed at which logistics vehicles travel between destinations",
+      "The ability of the supply chain to rapidly respond to sudden changes in demand, supply, or market conditions",
+      "The flexibility of logistics contracts to accommodate price changes",
+      "The capacity of warehouses to handle unexpected volumes"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"automated warehousing\" in logistics?",
+    "options": [
+      "It eliminates the need for inventory management systems",
+      "It improves picking accuracy, increases throughput, and reduces labor costs through the use of automated storage and retrieval systems",
+      "It replaces the need for transportation management",
+      "It reduces the need for customer service in logistics operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"logistics capacity planning\"?",
+    "options": [
+      "Determining the number of logistics staff to hire each year",
+      "Ensuring that logistics resources — vehicles, warehouse space, and labor — are adequate to meet current and future demand without excess or shortage",
+      "Setting the maximum number of shipments processed per day",
+      "Planning the annual logistics budget for capital investments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary trend shaping logistics in Ethiopia?",
+    "options": [
+      "Declining investment in transport infrastructure",
+      "Expansion of industrial parks, dry ports, and multimodal corridors driving demand for modern logistics services",
+      "Reduction in international trade volumes affecting logistics demand",
+      "Oversupply of logistics professionals in the Ethiopian market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"logistics performance dashboards\"?",
+    "options": [
+      "To replace annual logistics reports with visual summaries",
+      "To provide logistics managers with real-time visual overviews of key performance indicators to support timely decision-making",
+      "To display logistics marketing data to customers",
+      "To eliminate the need for logistics audits"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the \"total logistics concept\"?",
+    "options": [
+      "Managing each logistics function independently to maximize its individual performance",
+      "Viewing all logistics activities as an integrated system and managing trade-offs to optimize total cost and service performance",
+      "Outsourcing the entire logistics function to a 4PL provider",
+      "Maximizing the use of technology in all logistics activities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics value creation\"?",
+    "options": [
+      "The financial value of logistics assets owned by a company",
+      "The contribution logistics makes to business performance by improving customer service, reducing costs, and enabling competitive differentiation",
+      "The revenue generated by logistics service providers",
+      "The monetary value of inventory held in logistics facilities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"responsive supply chain\" design in logistics?",
+    "options": [
+      "Minimizing costs at the expense of customer service flexibility",
+      "Building logistics capabilities that enable rapid response to customer orders and market changes, even at higher cost",
+      "Standardizing all logistics processes to reduce variability",
+      "Using only long-term contracts with logistics service providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is \"logistics carbon footprint\"?",
+    "options": [
+      "The physical size of a company's logistics network",
+      "The total amount of greenhouse gas emissions generated by a company's logistics activities, including transportation and warehousing",
+      "The area of land occupied by logistics facilities",
+      "The environmental certification level of a logistics provider"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"cross-docking\" in a lean logistics system?",
+    "options": [
+      "It maximizes warehouse storage capacity",
+      "It eliminates unnecessary storage, reduces handling costs, and speeds up the flow of goods through the supply chain",
+      "It allows goods to be stored for long periods without damage",
+      "It reduces the number of transportation modes needed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"lead time reduction\" in logistics performance?",
+    "options": [
+      "It increases safety stock requirements across the supply chain",
+      "It improves customer responsiveness, reduces inventory carrying costs, and enhances competitive position",
+      "It increases the complexity of logistics planning",
+      "It reduces the need for logistics performance measurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a contemporary challenge in managing global logistics networks?",
+    "options": [
+      "Declining complexity of international trade regulations",
+      "Geopolitical risks, trade policy changes, port congestion, and the increasing frequency of supply chain disruptions",
+      "Oversupply of global logistics capacity reducing service quality",
+      "Reduction in the number of global logistics service providers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics postponement\" as applied to packaging?",
+    "options": [
+      "Delaying the procurement of packaging materials until production begins",
+      "Delaying the labeling or final packaging of products until customer orders are received to allow for customization",
+      "Postponing the design of packaging until market testing is complete",
+      "Delaying packaging operations during peak demand periods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key element of \"logistics risk management\"?",
+    "options": [
+      "Eliminating all logistics risks through automation",
+      "Identifying, assessing, and mitigating risks that could disrupt logistics operations, such as supplier failures, transportation disruptions, and natural disasters",
+      "Transferring all logistics risks to third-party providers",
+      "Avoiding international logistics to reduce risk exposure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of \"information flow\" in logistics management?",
+    "options": [
+      "To replace physical goods flow in digital supply chains",
+      "To coordinate logistics activities by providing timely and accurate data on demand, inventory, orders, and shipment status to all relevant parties",
+      "To generate logistics cost reports for senior management",
+      "To automate all logistics transactions without human involvement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes the logistics concept of \"decoupling inventory\"?",
+    "options": [
+      "Inventory held exclusively for emergency situations",
+      "Inventory held at the decoupling point to separate forecast-driven and demand-driven logistics activities, buffering against variability",
+      "Inventory that is removed from the supply chain to reduce waste",
+      "Inventory kept in transit between two distribution centers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"logistics cost modeling\"?",
+    "options": [
+      "To set fixed transportation rates for all logistics contracts",
+      "To analyze the cost implications of different logistics strategies and configurations to support informed decision-making",
+      "To determine the annual salary budget for logistics staff",
+      "To compare logistics costs between different countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key advantage of \"shared logistics infrastructure\"?",
+    "options": [
+      "Giving one company exclusive control over logistics assets",
+      "Reducing per-unit logistics costs and improving asset utilization by sharing facilities and transportation among multiple users",
+      "Eliminating the need for logistics service level agreements",
+      "Restricting logistics network access to premium customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics as a service (LaaS)\"?",
+    "options": [
+      "Providing free logistics services to government organizations",
+      "Offering logistics capabilities on a flexible, subscription or pay-per-use basis enabled by digital platforms, without the need for physical asset ownership",
+      "A model where logistics companies provide consulting services to clients",
+      "A government program providing subsidized logistics to small businesses"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key benefit of \"predictive analytics\" in logistics?",
+    "options": [
+      "Replacing all logistics planning with automated decision-making",
+      "Using historical data and statistical models to anticipate future logistics needs, disruptions, and performance issues before they occur",
+      "Eliminating the need for safety stock through perfect demand prediction",
+      "Automatically rerouting all shipments based on real-time data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the significance of \"port efficiency\" for a landlocked country like Ethiopia?",
+    "options": [
+      "It determines the import tariff rates applicable to Ethiopian goods",
+      "It directly affects the cost and speed of Ethiopia's trade, as inefficient ports increase transit time and logistics costs for imports and exports",
+      "It sets the standard for domestic road transportation rates",
+      "It measures the performance of Ethiopian customs authorities"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key principle of \"ethical logistics management\"?",
+    "options": [
+      "Maximizing profits by reducing logistics service standards",
+      "Conducting logistics operations with integrity, transparency, and respect for legal, social, and environmental standards",
+      "Using the cheapest logistics providers regardless of their ethical practices",
+      "Prioritizing shareholder returns over customer service commitments"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the concept of \"logistics outsourcing decision\"?",
+    "options": [
+      "A decision made by customers on how to manage their own logistics",
+      "The strategic assessment of whether to perform logistics activities in-house or contract them to external providers based on cost, competency, and strategic fit",
+      "A government decision on which logistics companies to license",
+      "A decision made by logistics providers on which routes to operate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a key contemporary application of \"artificial intelligence (AI)\" in logistics?",
+    "options": [
+      "Replacing all human logistics managers with AI systems",
+      "Using AI for demand forecasting, route optimization, warehouse automation, and predictive maintenance of logistics assets",
+      "Eliminating the need for physical logistics infrastructure",
+      "Automating customer complaint resolution without human oversight"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the purpose of \"logistics master planning\"?",
+    "options": [
+      "To create daily operational schedules for logistics staff",
+      "To develop a long-term strategic plan aligning logistics network, capabilities, and investments with future business objectives and market demands",
+      "To set the annual logistics expenditure budget",
+      "To determine the number of logistics service providers to contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best summarizes the contemporary view of logistics management?",
+    "options": [
+      "Logistics is primarily a cost center focused on minimizing transportation expenses",
+      "Logistics is a strategic enabler of business performance, customer value, and competitive advantage when managed as an integrated, customer-focused system",
+      "Logistics is a purely operational function with no strategic significance",
+      "Logistics management is only relevant for large multinational corporations"
+    ],
+    "correct": 1
+  }
+]
