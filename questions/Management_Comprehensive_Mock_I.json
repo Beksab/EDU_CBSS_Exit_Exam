@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "Which of the following is NOT a source of new product ideas?",
+    "options": [
+      "Market research",
+      "Random guessing",
+      "Customers",
+      "Competitors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements best distinguishes qualitative from quantitative research?",
+    "options": [
+      "Quantitative research focuses on meanings and experiences",
+      "Quantitative research is always less reliable",
+      "Qualitative research uses numerical data",
+      "Qualitative research is exploratory and subjective"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following best explains the impact of power and organizational politics on employee behavior?",
+    "options": [
+      "They influence decisions and can shape employee attitudes and actions",
+      "They eliminate conflicts in the workplace",
+      "They always improve fairness and equality",
+      "They have no effect on employee performance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an example of C2C e-commerce?",
+    "options": [
+      "Company selling to customers",
+      "Customer selling to another customer",
+      "Government selling to business",
+      "Business selling to business"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which scenario best represents a \"blue ocean strategy\"?",
+    "options": [
+      "Acquiring competitors to gain market share",
+      "Reducing costs to match competitors",
+      "Competing aggressively in an existing saturated market",
+      "Creating a new market space with little competition"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which brand strategy occurs when the company decides to use an existing brand name to launch a product in a new category?",
+    "options": [
+      "Line Extension",
+      "Brand Extension",
+      "Multi Brands",
+      "Co-brands"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Reliability in research refers to:",
+    "options": [
+      "The consistency of measurement over time",
+      "The relevance of research results",
+      "The accuracy of measurement",
+      "The generalizability of findings"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In the context of Human Resource Planning (HRP), which process involves determining the future human resource needs of an organization?",
+    "options": [
+      "Supply Analysis",
+      "Demand Forecasting",
+      "Recruitment",
+      "Job Design"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The component of a business plan considered as the first impression of a business for any interested parties or investors is the:",
+    "options": [
+      "Executive summary",
+      "The cover",
+      "Table of content",
+      "Business description"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which is an example of unethical behavior in management information systems?",
+    "options": [
+      "Protecting passwords",
+      "Using licensed software",
+      "Accessing data without permission",
+      "Encrypting files"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements about critical path analysis (CPA) is true?",
+    "options": [
+      "Tasks with float will never become critical",
+      "The critical path is the shortest path through the network",
+      "The network should remain constant throughout the project",
+      "The critical path is the longest path through the network"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a consumer product or service that the consumer does not know about or knows about but does not normally think of buying?",
+    "options": [
+      "Specialty products",
+      "Shopping products",
+      "Unsought products",
+      "Industrial products"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which leadership style is best for creative teams?",
+    "options": [
+      "Autocratic",
+      "Bureaucratic",
+      "Laissez-faire",
+      "Authoritative"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Contingency theory is based on the assumption that the ideal leader:",
+    "options": [
+      "Spends time with their followers and therefore listens and responds to their needs",
+      "Shapes their leadership style depending on the situation",
+      "Provides clear instructions to the followers so that they know what they are doing",
+      "Knows what their strengths are and makes the most out of them"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is the primary reason for locating near or at the source of raw materials for operations such as farming, forestry, and fishing?",
+    "options": [
+      "Cost",
+      "Perishability",
+      "Necessity",
+      "Processing Difficulty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the Simplex Method, what is the purpose of the pivot operation?",
+    "options": [
+      "To eliminate all negative values from the constraints",
+      "To double-check if the objective function is linear",
+      "To move from one basic feasible solution to another",
+      "To calculate the shadow price of a resource"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A disease affects 2% of a population. A test detects the disease correctly 95% of the time, but gives a false positive 3% of the time. If a person tests positive, what is the approximate probability they actually have the disease?",
+    "options": [
+      "65%",
+      "49%",
+      "39%",
+      "95%"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A research study designed to describe characteristics of a population or phenomenon is known as:",
+    "options": [
+      "Experimental research",
+      "Exploratory research",
+      "Descriptive research",
+      "Causal research"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A performance appraisal method where a manager rates an employee based on specific, observable behaviors using a scale is known as:",
+    "options": [
+      "Behaviorally Anchored Rating Scale (BARS)",
+      "Graphic Rating Scale",
+      "Critical Incident Method",
+      "Management by Objectives (MBO)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following research designs is most appropriate for establishing cause-and-effect relationships?",
+    "options": [
+      "Descriptive design",
+      "Case study design",
+      "Experimental design",
+      "Exploratory design"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A method for improving the usefulness of a product without increasing its cost, or reducing the cost without reducing the usefulness of the product, is called:",
+    "options": [
+      "Commercialization",
+      "Value analysis",
+      "Prototype testing",
+      "Business analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which motivation theory proposes that individuals are motivated by fairness and comparison with others?",
+    "options": [
+      "Equity Theory",
+      "Expectancy Theory",
+      "Herzberg's Two-Factor Theory",
+      "Maslow's Hierarchy of Needs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a characteristic of an effective group?",
+    "options": [
+      "High level of trust and cooperation",
+      "Lack of clear goals",
+      "Poor communication among members",
+      "Frequent conflicts without resolution"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following best explains why first-mover advantage can sometimes turn into a disadvantage?",
+    "options": [
+      "First movers always face lower costs",
+      "They bear high pioneering costs and risks",
+      "They avoid uncertainty in the market",
+      "They have strong brand loyalty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which distribution strategy provides maximum market coverage?",
+    "options": [
+      "Intensive distribution",
+      "Exclusive distribution",
+      "Selective distribution",
+      "Direct distribution"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the primary purpose of planning in management?",
+    "options": [
+      "To control employees",
+      "To increase supervision",
+      "To hire workers",
+      "To set goals and determine how to achieve them"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A firm installs real-time monitoring software to track employee performance during operations. This is an example of:",
+    "options": [
+      "Feedback control",
+      "Feed forward control",
+      "Concurrent control",
+      "Preventive control"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When comparing two mutually exclusive projects of different sizes, the best capital budgeting method to use is:",
+    "options": [
+      "Net present value (NPV)",
+      "Accounting rate of return",
+      "Internal rate of return (IRR)",
+      "Payback period"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the macro environmental factors, which one is the most dramatic force shaping our destiny?",
+    "options": [
+      "Technological environment",
+      "Cultural environment",
+      "Political environment",
+      "Economic environment"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Organizations that are good at developing relevant capabilities to respond to a changing context are known as:",
+    "options": [
+      "Unknowing organizations",
+      "Learning organizations",
+      "Stretch organizations",
+      "Knowing organizations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In hypothesis testing, the value of the sample statistic that separates the regions of acceptance and rejection is the:",
+    "options": [
+      "Critical Value",
+      "Acceptance Region",
+      "Rejection Region",
+      "Indecision"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following assumptions must be satisfied in order to apply cost-volume analysis?",
+    "options": [
+      "More than one product should be involved",
+      "Variable cost per unit should be greater than revenue per unit",
+      "Variable cost per unit should be constant",
+      "Fixed cost should change with volume"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which path-goal leadership style leads to greater satisfaction when tasks are ambiguous or stressful?",
+    "options": [
+      "Supportive",
+      "Participative",
+      "Mixed",
+      "Directive"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following best illustrates a core management principle in organizational behavior?",
+    "options": [
+      "Focusing exclusively on individual performance without considering team dynamics",
+      "Prioritizing task completion over employee well-being",
+      "Eliminating all forms of informal communication to increase efficiency",
+      "Understanding that employee behavior is shaped by the interaction of individual, group, and organizational systems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In which process group does the team measure and analyze the work being done on the project?",
+    "options": [
+      "Closing",
+      "Initiating",
+      "Monitoring and controlling",
+      "Executing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A written statement that outlines what a job holder does, how it is done, and under what conditions the job is performed is known as a:",
+    "options": [
+      "Job Evaluation",
+      "Job Description",
+      "Job Specification",
+      "Job Analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best illustrates the concept of dynamic capabilities?",
+    "options": [
+      "Increasing market share through acquisitions",
+      "Owning valuable patents",
+      "Reducing production costs through automation",
+      "Continuously adapting resources to changing environments"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If a company's cost of equity is 12%, cost of debt is 6%, tax rate is 30%, and the market value weights are 60% equity and 40% debt, the weighted average cost of capital (WACC) is:",
+    "options": [
+      "8.88%",
+      "10.20%",
+      "9.60%",
+      "8.40%"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which type of system is used for routine daily transactions?",
+    "options": [
+      "ESS (Executive Support System)",
+      "DSS (Decision Support System)",
+      "MIS",
+      "TPS (Transaction Processing System)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Mr. Alemu is a manager of ABC Company and perceives that employees from different cultural backgrounds feel excluded during team meetings. What is the appropriate way to successfully manage diversity in the organization?",
+    "options": [
+      "Transfer the employees to different teams based on their cultural similarity",
+      "Ignore the feelings and focus only on productivity metrics",
+      "Show genuine empathy and willingness to understand their feelings of exclusion",
+      "Write a new policy requiring all employees to speak only one language"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A manager delegates authority to a subordinate but remains accountable for the results. This reflects which principle?",
+    "options": [
+      "Responsibility without authority",
+      "Span of control",
+      "Accountability cannot be delegated",
+      "Unity of command"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is a key benefit of knowledge management?",
+    "options": [
+      "Improved decision-making",
+      "Data loss",
+      "Reduced communication",
+      "Increased errors"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The primary objective of acquiring financial resources from diverse sources is to:",
+    "options": [
+      "Ensure all funds come from internal sources only",
+      "Achieve an optimal capital structure that minimizes the cost of capital",
+      "Eliminate the need for financial planning",
+      "Maximize the cost of capital"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the main role of leadership in good governance?",
+    "options": [
+      "Promoting transparency and accountability",
+      "Reducing employee participation",
+      "Enforcing strict control",
+      "Increased bureaucracy"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Japanese prefer to shop for small refrigerators in order to fit with their compact homes. As a result, Sears redesigned its refrigerators to be smaller in dimensions without sacrificing the original capacity. This modification is called:",
+    "options": [
+      "Mandatory modification",
+      "Product standards and systems",
+      "Optional product modification",
+      "Measurement standard"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following refers to how individual differences influence behavior in organizations?",
+    "options": [
+      "All employees will respond the same way to the same reward system if training is adequate",
+      "Only observable behaviors matter; internal differences like perceptions have no real effect",
+      "Employees' emotions should be ignored to maintain professional objectivity",
+      "Personality, attitudes, emotions, and perceptions interact to shape each person's unique work behavior"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A manager notices that employees feel valued and emotionally connected to their organization. How does this emotional outcome most directly contribute to sustaining the organization?",
+    "options": [
+      "It eliminates the need for any formal policies or rules",
+      "It increases absenteeism and turnover rates",
+      "It reduces collaboration among team members",
+      "It fosters a positive organizational culture and strengthens employee commitment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Given the assignment table where Worker 1 costs are 9, 2, 7; Worker 2 costs are 6, 4, 3; and Worker 3 costs are 5, 8, 1 for Jobs 1, 2, and 3 respectively, what is the optimal assignment?",
+    "options": [
+      "W1 to J1, W2 to J2, W3 to J3",
+      "W1 to J1, W2 to J3, W3 to J2",
+      "W1 to J2, W2 to J3, W3 to J1",
+      "W1 to J3, W2 to J2, W3 to J1"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In decision theory, if two alternatives have equal EMV, the decision maker should:",
+    "options": [
+      "Choose any of them",
+      "Reject both",
+      "Change method",
+      "Add probabilities"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a positively skewed distribution, which statement is correct?",
+    "options": [
+      "Mean < Median",
+      "Mean > Median",
+      "Mean = Median = Mode",
+      "Mode > Mean"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is true regarding the IRR?",
+    "options": [
+      "IRR is the discount rate when NPV is equal to zero",
+      "IRR is the discount rate when NPV is greater than zero",
+      "IRR is a constrained optimization method",
+      "IRR assumes reinvestment at the cost of capital"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What differentiates projects from daily operations?",
+    "options": [
+      "Projects are temporary and create unique outcomes, while operations are ongoing and repetitive",
+      "Operations produce unique products, services, or results, while projects do not",
+      "Operations have a definite beginning and end, while projects do not",
+      "Both projects and operations are temporary and produce unique results"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Failing to reject the null hypothesis when it is false is:",
+    "options": [
+      "Type I error",
+      "Alpha",
+      "Beta",
+      "Type II error"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The principle of unity of command reflects that:",
+    "options": [
+      "One manager supervises many employees",
+      "An employee receives orders from one superior only",
+      "Tasks are divided",
+      "Authority is shared"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is not a principle of great man theory?",
+    "options": [
+      "We can learn from the biographies of great leaders",
+      "A great leader is only great in certain situations",
+      "Great men rise up in times of crisis",
+      "Leaders are born not made"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The process of continuous improvement at every level of an organization is an essential part of:",
+    "options": [
+      "Benchmarking",
+      "International Quality Standards",
+      "Total Quality Management",
+      "Acceptable Quality Level"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to Ethiopian labor law and general HRM practices, collective bargaining primarily refers to:",
+    "options": [
+      "The process of hiring a large group of employees at once",
+      "Setting the national minimum wage by the government",
+      "Negotiations between employers and labor unions regarding working conditions",
+      "Negotiations between individual employees and their supervisor"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A firm experiences declining performance because its strategy no longer aligns with environmental changes. This is an example of:",
+    "options": [
+      "Competitive parity",
+      "Strategic fit",
+      "Strategic drift",
+      "First-mover advantage"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which probability rule is used to find the probability that two independent events occur together?",
+    "options": [
+      "Complement rule",
+      "Division rule",
+      "Addition rule",
+      "Multiplication rule"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Two analysts interpret the same dataset differently due to different assumptions about data accuracy. What does this scenario best demonstrate?",
+    "options": [
+      "Numbers always lead to a single correct conclusion",
+      "Statistics eliminates uncertainty",
+      "Data collection is always objective",
+      "Statistical analysis involves uncertainty and possible error"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Given the transportation model where Source 1 has supply 40 with costs 3 and 1; Source 2 has supply 60 with costs 2 and 5; and demand for Destination 1 and Destination 2 are both 50, what is the total cost for the first allocation using VAM?",
+    "options": [
+      "50",
+      "60",
+      "40",
+      "90"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the 12 Cs of international marketing analysis, the description of unforeseen risks, entry barriers, and ethical issues is for:",
+    "options": [
+      "Contractual Obligations",
+      "Country",
+      "Culture/Consumer Behavior",
+      "Caveats"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is considered the primary goal of Human Resource Management in an organization?",
+    "options": [
+      "Reducing the total cost of labor to its minimum",
+      "Managing financial investments and portfolios",
+      "Achieving competitive advantage through people",
+      "Increasing the physical production of goods"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In the reversal stage of the international product life cycle (IPLC), competition comes from:",
+    "options": [
+      "Innovating nations' firms",
+      "Other advanced nations",
+      "Least developing countries (LDCs)",
+      "Other advanced nations and LDCs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When an employee is permanently separated from an organization due to a mismatch in skills or poor performance, it is termed as:",
+    "options": [
+      "Retirement",
+      "Resignation",
+      "Dismissal",
+      "Layoff"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Staffing is a function of management that primarily focuses on:",
+    "options": [
+      "Human resources",
+      "Financial resources",
+      "Physical resources",
+      "Technical resources"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A null hypothesis can only be rejected at the 5% significance level if and only if:",
+    "options": [
+      "The null hypothesis includes sampling error",
+      "The null hypothesis is void",
+      "A 95% confidence interval included the hypothesized value of the parameter",
+      "A 95% confidence interval does not include the hypothesized value of the parameter"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A firm operating in a highly competitive industry decides to focus on a narrow market segment and offer premium products. Which strategy is being applied?",
+    "options": [
+      "Focused differentiation",
+      "Broad differentiation",
+      "Vertical integration",
+      "Cost leadership"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is a responsibility of a first-line manager?",
+    "options": [
+      "Translate long-term plan into medium-term plan",
+      "Co-ordinate input productivity and output",
+      "Provide effective organizational structure",
+      "Keeping watch on workers performance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In which marketing strategy does a firm launch a new product at a high price with heavy promotion?",
+    "options": [
+      "Slow penetration",
+      "Rapid skimming",
+      "Rapid penetration",
+      "Slow skimming"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a network model, if two activities share the same start and end nodes, we use:",
+    "options": [
+      "Parallel path",
+      "Loop",
+      "Dummy activity",
+      "Merge node"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is an iconic model in Operations Research?",
+    "options": [
+      "A model that uses properties like color or flow to represent variables",
+      "A physical, scaled-down representation of a real-world object",
+      "A mathematical representation using variables and equations",
+      "A set of logical instructions used in a computer program"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not a reason for organizations to be involved in product or service design:",
+    "options": [
+      "To minimize operational efficiency",
+      "To make the business grow and increase profits",
+      "It is an alternative to downsizing",
+      "To be competitive by offering new products or services"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which target marketing strategy focuses on selecting one segment from within the total market as the target market?",
+    "options": [
+      "Concentrated marketing",
+      "Undifferentiated Marketing",
+      "Multiple-Segment strategy",
+      "Differentiated Marketing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a graphical solution of an LP problem, where is the optimal solution always located if a bounded feasible region exists?",
+    "options": [
+      "At one of the corner points of the feasible region",
+      "At the origin (0, 0)",
+      "At any point outside the feasible region",
+      "Outside the feasible region"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which term refers to the format in which departments, workgroups within departments, workstations, machines, and stock-holding points within a production facility are arranged?",
+    "options": [
+      "Facility location",
+      "Facility decision",
+      "Facility layout",
+      "Facility planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Operationalization in research refers to:",
+    "options": [
+      "Designing questionnaires",
+      "Converting abstract concepts into measurable variables",
+      "Analyzing statistical relationships",
+      "Collecting raw data from respondents"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company is considering investing surplus funds in a project with an initial investment of 100 at Year 0 and cash inflows of 100 at Year 1 and 100 at Year 2. What is the NPV at a 10% discount rate?",
+    "options": [
+      "73.5",
+      "100",
+      "273.5",
+      "173.5"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All are objectives of a business plan, except:",
+    "options": [
+      "To monitor the progress after implementing the plan",
+      "To give directions to the vision formulated by the entrepreneurs",
+      "To objectively evaluate the prospects of business",
+      "To prevent others from joining the business"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to Path-Goal Theory, which leader is friendly and shows concern for the needs of followers?",
+    "options": [
+      "The supportive leader",
+      "The achievement-oriented leader",
+      "The laissez-faire leader",
+      "The directive leader"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A contemporary theme of operations management concerned with eliminating waste (non-value-adding) activities in every part of operations and the business is:",
+    "options": [
+      "Lean operations",
+      "Customer directed operation",
+      "Environmentally concerned operations",
+      "Supply chain management"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Contingency theory suggests that:",
+    "options": [
+      "Management depends on the situation",
+      "One best way to manage exists",
+      "Employees do not matter",
+      "Rules are always fixed"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which sampling technique gives every member of the population an equal chance of selection?",
+    "options": [
+      "Stratified sampling",
+      "Simple random sampling",
+      "Convenience sampling",
+      "Judgmental sampling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following does not reflect the paramount importance of capacity layout decisions?",
+    "options": [
+      "Long-term commitment of resources",
+      "Their revocability nature",
+      "Having a profound impact on operating efficiency",
+      "Significant investment of money and effort"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The process of introducing a new employee to the organization's culture, rules, and their specific work unit is called:",
+    "options": [
+      "Placement",
+      "Orientation (Induction)",
+      "Training",
+      "Selection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Find the sum of the areas under the standard normal curve to the left of and to the right of z = 1.25:",
+    "options": [
+      "0.7888",
+      "0.3944",
+      "0.2113",
+      "0.1056"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following shows effective communication in an organization?",
+    "options": [
+      "Ignoring feedback from team members",
+      "Listening and responding clearly to messages",
+      "Avoiding interaction with colleagues",
+      "Sending unclear and incomplete information"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A project requires an initial investment of $50,000 and generates annual cash inflows of $15,000 for 5 years. If the company's required rate of return is 10%, what is the Net Present Value (NPV) of the project?",
+    "options": [
+      "$7,500",
+      "$10,000",
+      "$6,862",
+      "$25,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a key feature of entrepreneurship?",
+    "options": [
+      "Risk-taking",
+      "Routine work",
+      "Stability",
+      "Job security"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which is a more complete form of licensing in which a parent company grants another independent entity the right to do business by providing more support and training?",
+    "options": [
+      "Franchising",
+      "Greenfield investments",
+      "Turnkey operation",
+      "Joint venture"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company's core competency leads to sustained competitive advantage only if it meets which combination of criteria?",
+    "options": [
+      "Valuable and rare",
+      "Tangible and easy to scale",
+      "Valuable, rare, inimitable, and non-substitutable",
+      "Rare and costly to imitate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following best describes the nature of business research?",
+    "options": [
+      "A method of recording business transactions",
+      "A systematic and scientific process of inquiry",
+      "A trial-and-error approach to solving business problems",
+      "A casual observation of business trends"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following organizations seems better equipped for internationalization?",
+    "options": [
+      "A firm that has a culturally diverse employee profile",
+      "A firm that has experienced increased profits in the home market for three consecutive years",
+      "A firm that has a production capacity that is much greater than home market demand",
+      "A firm that has more than three production facilities in the home market"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a firm wants to build long-term relationships with customers while also explaining complex product features, which promotional tool is most appropriate?",
+    "options": [
+      "Publicity",
+      "Personal Selling",
+      "Sales Promotion",
+      "Advertising"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which training method allows an employee to learn by actually performing the task at the workplace?",
+    "options": [
+      "Vestibule Training",
+      "Case Study Method",
+      "Simulation",
+      "On-the-Job Training (OJT)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which term describes growth through acquiring another company?",
+    "options": [
+      "Outsourcing",
+      "Franchising",
+      "Licensing",
+      "Merger/Acquisition"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The firm seeks to achieve growth with existing products in their current market segments, aiming to increase its market share. This strategy is called:",
+    "options": [
+      "Product Development",
+      "Diversification",
+      "Market Development",
+      "Market Penetration"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Bahirdar Textile Factory reaches the European market through a European intermediary who has exclusive rights to carry out distribution in Europe. Which type of middlemen does the factory use?",
+    "options": [
+      "State-controlled trading company",
+      "Foreign distributor",
+      "Webb-Pomerenes Association",
+      "Export Management Company (EMC)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the present value of an ordinary annuity that pays $500 at the end of each year for 4 years, assuming an interest rate of 8% per year?",
+    "options": [
+      "$1,850.00",
+      "$1,500.00",
+      "$2,000.00",
+      "$1,656.07"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following does not emanate from the macro level of project ideas?",
+    "options": [
+      "Unusual events such as droughts, floods, earthquakes",
+      "Identification of unsatisfied demand or needs",
+      "Multilateral or bilateral development agencies",
+      "National, sector or regional plans"
+    ],
+    "correct": 1
+  }
+]
