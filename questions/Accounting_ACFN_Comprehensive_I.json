@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "In the Conceptual Framework for financial reporting, what provides the \"why\" of accounting?",
+    "options": [
+      "Measurement and recognition concept",
+      "Qualitative characteristic of accounting information",
+      "Element of financial statement",
+      "Objective of financial reporting"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements is true concerning the Conceptual Framework for Financial Reporting?",
+    "options": [
+      "It is not a reporting standard and does not define standard for any particular measurement or disclosure issue.",
+      "It is concerned with general purpose financial statements including consolidated financial statements.",
+      "Nothing in the framework overrides any specific IFRS.",
+      "All are true."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of these statements regarding the IFRS and U.S. GAAP is correct?",
+    "options": [
+      "U.S. GAAP is considered to be \"principles-based\" and more detailed than IFRS.",
+      "U.S. GAAP is considered to be \"rules-based\" and less detailed than IFRS.",
+      "IFRS is considered to be \"principles-based\" and U.S. GAAP is rule-based",
+      "Both U.S. GAAP and IFRS are considered to be \"rules-based\", but U.S. GAAP tends to be more complex."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following characteristics means that information is reasonably free from error and bias?",
+    "options": [
+      "Relevance",
+      "Faithful Representation",
+      "Consistency",
+      "Predictive Value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Fair value is defined as which of the following?",
+    "options": [
+      "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date",
+      "The price that would be received to sell an asset or paid to transfer a liability in a distressed sale between market participants at the measurement date",
+      "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between related parties at the measurement date",
+      "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the original purchase date"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Fair value measurements are categorized into a three-level hierarchy, based on the type of inputs to the valuation techniques used. What inputs are required for a fair value measurement to be classified as level 3 inputs?",
+    "options": [
+      "Inputs which must be developed to reflect the assumptions that market participants would use when determining an appropriate price for the asset or liability",
+      "Inputs based on the highest and best use of the asset as determined by a market participant",
+      "Inputs other than quoted prices that are directly or indirectly observable for that asset or liability",
+      "Unadjusted quoted prices in active markets for items identical to the asset or liability being measured"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The market with the greatest volume and level of activity for the asset or liability is defined as the:",
+    "options": [
+      "active market",
+      "principal market",
+      "liquid market",
+      "most advantageous market"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements is true with regards to an investment property?",
+    "options": [
+      "An investment property generates cash flows largely independently of the other assets held by an entity.",
+      "The value in use of investment property is significantly higher than of owner-occupied property.",
+      "An investment property unlike owner-occupied property shall not be depreciated over its useful life.",
+      "An investment property unlike owner-occupied property shall always be measured at its historical cost."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A transaction in which the entity acquires goods or services and pays for them by issuing its own equity instruments is:",
+    "options": [
+      "Cash-settled share-based payment",
+      "Equity-settled share-based payment",
+      "Share-based payment with cash alternatives",
+      "None of them"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Subsequent to initial recognition, the investment property shall be measured using:",
+    "options": [
+      "Fair value model or revaluation model",
+      "Fair value through profit or loss",
+      "Cost model or fair value model",
+      "Cost model or revaluation model"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How are assets and liabilities held for sale presented in the statement of financial position?",
+    "options": [
+      "Separately from other assets in the statement of financial position, on one line",
+      "Separately from other assets, but included in similar sub-groups as other assets",
+      "Included in other assets, until the sale is completed",
+      "As a separate column in the balance sheet"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Under which circumstances shall an entity classify a non-current asset as held for sale?",
+    "options": [
+      "If its carrying amount will be recovered principally through continuing use rather than through a sale",
+      "If its carrying amount exceeds its market price",
+      "If its carrying amount will be recovered principally through a sale transaction rather than through continuing use",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How does IAS-38 define an intangible asset?",
+    "options": [
+      "A non-monetary asset without physical substance",
+      "A non-physical asset without monetary substance",
+      "A non-physical asset",
+      "A non-monetary asset"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The cost of goodwill purchased as part of an acquisition of an on-going business shall be:",
+    "options": [
+      "Amortized over twenty years",
+      "Never amortized, but there shall be an annual impairment review",
+      "Written off immediately after the acquisition",
+      "Amortized over forty years"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Bonds that have an option exercisable by the issuer to retire them at a stated dollar amount prior to maturity are known as:",
+    "options": [
+      "Convertible bonds",
+      "Sinking fund bonds",
+      "Callable bonds",
+      "Serial bonds"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Star Inc. issued bonds with a maturity amount of Br. 5,000,000 and a maturity eight years from date of issue. If the bonds were issued at a premium, this indicates that:",
+    "options": [
+      "the market and stated rates coincided.",
+      "the market rate of interest exceeded the stated rate.",
+      "no necessary relationship exists between the two rates.",
+      "the stated rate of interest exceeded the market rate."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A lease to be a financial lease:",
+    "options": [
+      "A lease that transfers ownership of the leased asset to the lessee at the end of the lease term",
+      "A lease term greater than or equal to 75% of the asset's economic life",
+      "A lease where the present value of the minimum lease payments was greater than or equal to 90% of the fair value of the leased asset at the inception of the lease.",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following relating to the definition and recognition of provisions and liabilities is correct?",
+    "options": [
+      "A provision is a liability with uncertain amount or timing.",
+      "A liability can be reliably estimated but the timing is uncertain.",
+      "A liability is a present obligation that results in an inflow of economic benefits.",
+      "A provision can be reliably measured but the flow of economic benefits is not probable."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A difference between the tax basis of an asset or liability and its reported amount in the financial statements, which will result in taxable or deductible amounts in future years when recovering or settling the reported amount of the asset or liability, respectively is:",
+    "options": [
+      "Temporary difference",
+      "Permanent difference",
+      "Deferred tax asset",
+      "Deferred tax Liability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is wrong?",
+    "options": [
+      "The tax base of a liability is its carrying amount, less any amount that will be deductible for tax purposes with respect to that liability in future periods.",
+      "Net operating loss can be carried back 2 years and can be carried forward 20 years for set off against the income in the past and future periods, respectively.",
+      "The net deferred tax asset or net deferred tax liability is reported in the current section of the statement of financial position.",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a subsequent measurement of insurance contract, the carrying amount of a group of insurance contracts at the end of each reporting period shall be:",
+    "options": [
+      "The difference between the liability for remaining coverage and the liability for incurred claims.",
+      "The sum of the assets that the insurance company owns and the liability for incurred claims",
+      "The sum of the liability for remaining coverage and the liability for incurred claims.",
+      "The sum of the present value of the future expected cash flows to the insurance company and the liability for incurred claims."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Interest paid by an investment company will come under which kind of activity while preparing a cash flow statement?",
+    "options": [
+      "Cash flow from investing activities",
+      "Cash flow from financing activities",
+      "Not included in the cash flow",
+      "Cash flow from operating activities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is incorrect about insurance contract?",
+    "options": [
+      "The carrying amount of insurance contracts issued for assets and reinsurance contracts held that assets must be presented separately.",
+      "An entity shall present income or expenses from reinsurance contracts held and expenses or income from insurance contracts issued in an aggregate way.",
+      "IFRS 17 to insurance contracts can be applied to investment contracts with discretionary participation features with some exceptions.",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Of the following one is a right reflection regarding the role of accounting in business:",
+    "options": [
+      "Accounting supports businesses solely in a way that enable to determine the resources, obligations and net assets",
+      "Accounting is the only means to communicate worthy company data to any interested users",
+      "The role of accounting in business is restricted only to provide financial data regarding the organization.",
+      "Accounting is a value adding profession since it provides financial information to interested business participants for making the right decision"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assume that on January 1, 2023 the book of Success Business revealed 100,000 ETB asset; 65,000 ETB Liability and 35,000 Owners equity. At the end of year 2023 Success Business generated a net income of 25,000 ETB. Assuming other things being unchanged; how much asset and net asset is reported by Success Business?",
+    "options": [
+      "100,000 ETB & 60,000 ETB",
+      "125,000 ETB & 90,000 ETB",
+      "75,000 ETB & 35,000 ETB",
+      "125,000 ETB & 60,000 ETB"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assume that the prepaid Insurance amount of the company reflected on the respective journal amounting 20,000 ETB. As of the reporting date the unexpired portion of prepaid yields 12,000 ETB. Which entries reflect the right adjusting entry that will be made by the company?",
+    "options": [
+      "Debit prepaid Insurance 20,000 ETB; Credit Insurance expenses 20,000 ETB",
+      "Debit Insurance expenses 8,000 ETB; Credit prepaid Insurance 8,000 ETB",
+      "Debit prepaid Insurance 12,000 ETB; Credit Insurance expenses 12,000 ETB",
+      "Debit Insurance expenses 12,000 ETB; Credit prepaid Insurance 12,000 ETB"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Assume that on March 02, 2023 ABC Co. sold 1000 ETB worth inventory to Alem Supermarket in a credit term of 2/10, n/45 FOB destination. Freight cost of 50 ETB was paid by ABC. Which entry will be made by ABC to record the transaction if the company uses a periodic inventory system?",
+    "options": [
+      "Debit Accounts Receivable 1,050 ETB; Credit inventory 1050 ETB",
+      "Debit Accounts Receivable 1,000 ETB; Credit inventory 1000 ETB",
+      "Debit Accounts Receivable 1,000 ETB; Debit Freight out 50 ETB; Credit sales revenue 1050 ETB",
+      "Debit Accounts Receivable 1,000 ETB; Debit Freight out 50 ETB; Credit sales revenue 1000 ETB; Credit cash 50 ETB"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is incorrect regarding manual and computerized accounting system?",
+    "options": [
+      "Computerized accounting system requires an electronic storage device, whereas Manual accounting requires more physical storage space for paper records",
+      "Computerized accounting system is time consuming due to fragility of data; whereas manual accounting system process transaction and updates data quickly",
+      "Computerized accounting provides clear audit trials whereas manual accounting system is challenging to audit",
+      "Computerized accounting may not require huge labor whereas manual accounting often requires a larger staff to process business transactions and other accounting tasks."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Of the following one is correct about the accounting treatment of bank overdrafts as per IFRS:",
+    "options": [
+      "Bank overdrafts that will be paid when it is demanded by the bank will be reported as accounts payable by the company",
+      "Bank overdrafts that will be paid when it is demanded will be reported as cash",
+      "Bank overdrafts will never demand reporting in the statement of financial position",
+      "Bank overdrafts are guided to be classified as an expense and reported in the statement of profit or loss statement"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following distinguishes Sales agencies and branches?",
+    "options": [
+      "Sales agency is not autonomous; it acts on behalf of head office whereas branch has autonomy.",
+      "Sales agency do not stock inventory whereas branch stock merchandise to fulfil customers orders.",
+      "Sales agency may demonstrate and display merchandise, takes orders and arrange for delivery whereas branch fulfil customers orders and provides greater range of services.",
+      "All of the above are the distinguishing characteristics of sales agencies and branches"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "If the home office of ABC Co. maintains the accounting records of the plant assets of its branch and that branch acquired equipment for $5,000 cash, the appropriate journal entry for the branch is:",
+    "options": [
+      "Debit the Home Office ledger account and credit a plant asset account for $5,000",
+      "Debit the Home Office account and credit Cash for $5,000",
+      "Debit a plant asset account and credit the Home Office account for $5,000",
+      "Debit Cash and credit the Home Office account for $5,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which Methods of Arranging Business Combinations refers to one company acquiring a second company and the second company ceasing to exist?",
+    "options": [
+      "Merger",
+      "Statutory consolidation",
+      "Asset (stock) Acquisition",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In a business combination, which of the following will occur?",
+    "options": [
+      "All identifiable assets and liabilities are recorded at fair value at the date of acquisition.",
+      "All identifiable assets and liabilities are recorded at book value at the date of acquisition.",
+      "Goodwill is recorded if the fair value of the net assets acquired exceeds the book value of the net assets acquired.",
+      "None of the above is correct."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In business combination through Stock Acquisition:",
+    "options": [
+      "Both combining companies are dissolved and the assets and liabilities of both companies are transferred to a newly created corporation.",
+      "Only one of the combining companies survives and the other loses its separate identity.",
+      "The two companies continue to operate as separate, but related, legal entities.",
+      "The acquired company's assets and liabilities are transferred to the acquiring company, and the acquired company is dissolved"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Joint ventures are accounted for using:",
+    "options": [
+      "The relevant IFRS",
+      "The equity method",
+      "Proportional consolidation",
+      "The cost method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What needs to be eliminated from a business combination to prepare a consolidated financial statement?",
+    "options": [
+      "The parent's investment account",
+      "The parent's income from subsidiary account.",
+      "The subsidiary's equity accounts.",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The primary currency of the foreign entity's operating environment is known as the:",
+    "options": [
+      "Translation currency.",
+      "Functional currency.",
+      "Reporting currency.",
+      "Recording currency."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following examples could be classified as a direct cost?",
+    "options": [
+      "The printing costs incurred for payroll cheque processing; the payroll cheque processing",
+      "The salary of a maintenance supervisor in the manufacturing plant; Product A is the cost object.",
+      "The costs incurred for electricity in the office; the accounting office is the cost object.",
+      "The costs of an entire factory's electricity related to a product; the product line is the cost object."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "ZAK Ethiopia Manufacturing applies manufacturing overhead costs to products at a budgeted indirect-cost rate of Birr 60 per direct manufacturing labor-hour. A retail outlet has requested a bid on a special order of the Laundry soap product. Estimates for this order include: Direct materials Birr 40,000; 500 direct manufacturing labor-hours at Birr 20 per hour; and a 20% markup rate on total manufacturing costs. Manufacturing overhead cost estimates for this special order total is:",
+    "options": [
+      "Birr 10,000",
+      "Birr 30,000",
+      "Birr 36,000",
+      "Birr 50,000"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is/are not true about auditing and auditors?",
+    "options": [
+      "Accounting, as a separate field of study, focuses on analytical work whereas auditing is constructive in nature.",
+      "External auditors have no connection to the firm as an owner or employee",
+      "Internal auditors are paid salary auditors",
+      "Auditor must be qualified to understand the criteria used and must be competent to know the types and amount of evidence to accumulate"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following alternative/s is/are not an example of compliance audits for a private business?",
+    "options": [
+      "Determine whether accounting personnel are following the procedures prescribed by the company controller.",
+      "Review wage rates for compliance with minimum wage laws.",
+      "Evaluate the efficiency and accuracy of processing payroll transactions in a newly installed computer system",
+      "Examine contractual agreements with bankers and other lenders to be sure the company is complying with legal requirements"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Auditors are responsible for which of the following?",
+    "options": [
+      "To design their audit procedures in such a way to provide reasonable assurance of detecting errors and irregularities that are materiality to the financial statement.",
+      "To exercise due professional care in planning and conducting the audit",
+      "Communicate errors and irregularities and any consequences to the audit committee of the client.",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assume Alemayehu Tassie is an auditor and he has to do his audit work diligently and with awareness. Which International audit standard supports this statement?",
+    "options": [
+      "Adequate training and Proficiency",
+      "Independence",
+      "Due Professional care",
+      "Sufficient understanding of internal control"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When a product is the result of a joint process, the decision to process the product past the split-off point further should be influenced by the:",
+    "options": [
+      "Total amount of the joint costs",
+      "Portion of the joint costs allocated to the individual products",
+      "Extra revenue earned past the split-off point",
+      "Extra operating income earned past the split-off point"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The weighted-average process-costing method calculates the equivalent units by:",
+    "options": [
+      "considering only the work done during the current period",
+      "the units started during the current period minus the units in ending inventory",
+      "the units started during the current period plus the units in ending inventory",
+      "the equivalent units completed during the current period plus the equivalent units in ending inventory"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following audit opinion is issued when the auditor, having obtained sufficient appropriate audit evidence, concludes that misstatements are both material and pervasive to the financial statements?",
+    "options": [
+      "Disclaimer of opinion",
+      "An adverse opinion",
+      "Qualified opinion",
+      "Unqualified opinion"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which audit opinion is issued when financial statements are prepared, in all material respects, in accordance with the applicable financial reporting framework?",
+    "options": [
+      "Disclaimer of opinion",
+      "An adverse opinion",
+      "Qualified opinion",
+      "Unqualified opinion"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One is not true about finance in relation to the other disciplines:",
+    "options": [
+      "Finance is less concerned with theory than economics.",
+      "Finance is basically concerned with the application of theories and principles.",
+      "In accounting income measurement is on accrual basis but in finance, the cash method is employed to recognize the revenue and expenses.",
+      "The primary function of finance is to gather and present financial data (focuses on the past event)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statement is false?",
+    "options": [
+      "The purpose of audit sampling is to provide a reasonable basis for the auditor to draw conclusions about the population",
+      "Absolute assurance can be achieved through sampling procedures.",
+      "For tests of controls, the tolerable rate of deviation is the minimum deviation rate that can be accepted to conclude that the audit objective has been achieved.",
+      "The specific audit objectives for auditing cash are not identical to the specific objectives for auditing inventory."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is wrong about current ratio?",
+    "options": [
+      "Low ratio suggests that a firm may face difficulty in paying its short term obligations.",
+      "High ratio indicates that too low capital is tied up in current assets and a firm may be sacrificing some return",
+      "A very high current ratio indicate excessive current asset due to poor current asset management",
+      "Creditors want a company to have higher current ratio"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A key internal control in the sales and collection cycle is the separation of duties between cash handling and record keeping. The objective most directly associated with this control is to verify that:",
+    "options": [
+      "Cash receipts recorded in the cash receipts journal are reasonable.",
+      "Cash receipts are correctly classified.",
+      "Recorded cash receipts result from legitimate transactions.",
+      "Existing cash receipts are recorded."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Of the following which one is not correct about the formula used to compute ROE?",
+    "options": [
+      "ROE = Net Profit Margin x Total Assets Turnover x Equity Multiplier",
+      "ROE = NI/Sales x Sales/Total Assets x Total Assets/Common Equity",
+      "Little or no influence over the investee company",
+      "ROE = Gross Profit Margin x Total Assets Turnover x Equity Multiplier"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "All of the following statements are true except one:",
+    "options": [
+      "The aim of a substantive procedure is to ensure that there are no material errors at the assertion level in the client's financial statements.",
+      "Accuracy is a test used to ensure that all of the company's transactions have been included in the correct period.",
+      "The objective of an audit of financial statements is to enable the auditor to express an opinion whether the financial statements are prepared in all material respects, with an identified financial reporting framework.",
+      "The auditor's primary concern in determining whether presentation and disclosure objectives for retained earnings are satisfied primarily relates to disclosure of any restrictions on the payment of dividends."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements is true regarding the time value of money?",
+    "options": [
+      "A dollar received in the future is worth less than a dollar received today",
+      "The present value of a future payment increases as the discount rate decreases",
+      "The future value of an investment decreases as the time horizon increases",
+      "A dollar received in the future is worth more than a dollar received today"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All of the following are considered as advantages of auditing, except:",
+    "options": [
+      "It is a tool for control",
+      "It enhances the credibility of information",
+      "It helps to detect misstatements-errors or frauds",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following statements regarding risk and return is true?",
+    "options": [
+      "The greater the risk, the higher is the expected return",
+      "The lower the risk, the higher is the expected return",
+      "Risk and returns are not related to each other",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following expenditure responsibilities is/are not common for both federal and regional governments?",
+    "options": [
+      "Socio-economic development policies formulation and implementation",
+      "Monetary and foreign investment policies formulation and implementation",
+      "Maintenance of peace and order",
+      "Maintenance of peace and order"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements correctly describes the net present value (NPV) method for evaluating capital budgeting decisions?",
+    "options": [
+      "NPV calculates the rate of return on an investment by dividing the total present value of future cash flows by the initial outlay",
+      "NPV incorporates the time value of money by discounting future cash flows to their present value using a specified discount rate",
+      "NPV compares the present value of cash inflows to the present value of cash outflows and selects the investment with the highest ratio",
+      "NPV ignores the timing and magnitude of cash flows and relies solely on accounting earnings to evaluate investment decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following investments would have the highest profitability index (PI) assuming all the factors are equal?",
+    "options": [
+      "An investment with a net present value of $10,000 and an initial outlay of $6,000",
+      "An investment with a net present value of $20,000 and an initial outlay of $11,000",
+      "An investment with a net present value of $50,000 and an initial outlay of $25,000",
+      "An investment with a net present value of $40,000 and an initial outlay of $30,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is not used as the major heading of revenue budget in federal government of Ethiopia?",
+    "options": [
+      "Ordinary revenue",
+      "External assistance",
+      "Capital revenue",
+      "External borrowing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which theory of taxation requires that tax should be imposed to maximize a social welfare function subject to economic constraints?",
+    "options": [
+      "Expediency theory",
+      "Theory of market neutrality",
+      "Optimal tax theory",
+      "Benefit theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is true about categories of tax payers as per the Ethiopian tax law?",
+    "options": [
+      "All bodies are category A tax payers regardless of their annual turnover/sales",
+      "A sole proprietorship whose annual sales is higher than Br 100,000 is category B tax payer",
+      "All tax payers are supposed to maintain books of records regardless of their category.",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statements best explains the difference between operating leverage and financial leverage?",
+    "options": [
+      "Operating leverage refers to the use of debt financing to fund a company's operations, while financial leverage refers to the extent to which a company relies on fixed costs.",
+      "Operating leverage is the degree to which a company's income is affected by changes in sales volume, while financial leverage is the degree to which a company's net income changes in response to changes in its capital structure.",
+      "Operating leverage measures how sensitive a company's income is to changes in market interest rates, while financial leverage measures how sensitive the company's stock price is to changes in market conditions.",
+      "Operating leverage is the degree to which a company's revenues are tied to its cost of goods sold, while financial leverage is the degree to which a company has access to funding from external sources."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the definition of dividend policy?",
+    "options": [
+      "The process through which a company decides on its investment strategy.",
+      "The practice of distributing a portion of a company's profits to shareholders, in the form of cash or additional shares.",
+      "The process of evaluating the performance of a portfolio of financial assets.",
+      "The practice of evaluating potential business ventures and deciding whether to pursue them."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following ways is not advisable for Depositary institutions to accommodate withdrawal and loan demands:",
+    "options": [
+      "Attract additional deposits from depositors",
+      "Borrow from a federal agency by using existing securities as collateral.",
+      "Buy corporate bonds",
+      "Raise short term funds in the money market."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following are advantages of derivatives?",
+    "options": [
+      "Help to minimize risk of price volatility.",
+      "Make spot prices stay closer to their true values",
+      "Lower transaction costs than securities and commodities",
+      "Reveal information about expected prices and volatility"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "YD Business is a VAT registered merchandising company. During the month of December it has purchased inventories at the cost of Br 10,000 before VAT and has sold items at selling price of Br 12,000 before VAT on cash. Determine input VAT for the month?",
+    "options": [
+      "Br 1,500",
+      "Br 1,800",
+      "Br 1,300",
+      "Br 3,300"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Financial markets play different functions one of which is they allow lenders to earn interest/dividend on their surplus investible funds. What function is this?",
+    "options": [
+      "Enhancing income",
+      "Transfer of resources",
+      "Capital formations",
+      "Sale mechanism"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the definition of working capital management?",
+    "options": [
+      "The process of buying and selling products or services that generates revenue for a company",
+      "The process of managing a company's short-term assets and liabilities to ensure its financial health",
+      "The process of setting long-term goals and strategies for a company",
+      "The process of identifying and measuring risks in a company's operations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Of the following one is false about the characteristics of money market:",
+    "options": [
+      "Funds are traded for a maximum period of a year.",
+      "Dealings may be conducted with or without the help of brokers.",
+      "Securities traded provide higher return as compared with capital markets.",
+      "Less price fluctuations in the markets in which they trade than do capital market."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following capital budgeting decision methods is dependent on a project's discount rate and the expected cash flows?",
+    "options": [
+      "Payback period",
+      "Net present value (NPV)",
+      "Internal rate of return (IRR)",
+      "Profitability index"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The process of buying and selling a currency, with an intention to get a benefit from exchange rate differences, at the same time at different markets is:",
+    "options": [
+      "Currency investment",
+      "Foreign Exchange risk",
+      "Market difference",
+      "Currency arbitrage."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A country whose financial markets function poorly is likely to:",
+    "options": [
+      "Efficiently allocate its capital resources.",
+      "Enjoy high productivity.",
+      "Experience economic hardship and financial crises.",
+      "Increase its standard of living."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Is the risk that doesn't affect a single bank or financial institution but it affects the whole industry?",
+    "options": [
+      "Systemic risk",
+      "Firm specific Risk",
+      "Credit risk",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The term \"proprietary funds\" applies to:",
+    "options": [
+      "All funds that use accrual accounting.",
+      "Enterprise and internal service funds only.",
+      "Enterprise, internal service, and private-purpose trust funds.",
+      "None of the above answers are correct."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following function of the financial system enables the government to stabilize the economy and avoid excessive inflation?",
+    "options": [
+      "Policy Function",
+      "Credit Function",
+      "Payments Function",
+      "Risk Function"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An encumbrance in a capital project fund is created:",
+    "options": [
+      "When the project is paid for in full",
+      "When a contract is signed or issued",
+      "When the work on the project begins",
+      "When the work on the project is finished"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following fund types is present in every general-purpose government?",
+    "options": [
+      "Permanent",
+      "Special revenue",
+      "General",
+      "Capital projects"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a governmental fund?",
+    "options": [
+      "Agency",
+      "Enterprise",
+      "Special revenue",
+      "Internal service"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not included in the financial section of the Comprehensive Annual Financial Report?",
+    "options": [
+      "Required supplementary information",
+      "Letter of transmittal",
+      "Financial Statements",
+      "Notes to the statements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The modified accrual basis is a distinct system of accounting that:",
+    "options": [
+      "Differs from accrual accounting only in its failure to recognize long term assets and liabilities.",
+      "Records expenses and revenues the same as accrual accounting",
+      "Records expenditures and fund balances",
+      "Is equivalent to cash basis accounting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Company determined that it must expand its capacity to accept a special order. Which situation is likely?",
+    "options": [
+      "Unit variable costs will increase",
+      "Fixed costs will not be relevant",
+      "Both variable and fixed costs will be relevant",
+      "The company should accept the order"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The formula for Sales volume variance (where absorption costing is used):",
+    "options": [
+      "(Actual selling price – budgeted selling price) x standard profit per unit",
+      "(Actual Unit Sold - Budgeted Unit Sales) x Standard Contribution per Unit",
+      "(Actual Unit Sold - Budgeted Unit Sales) x Standard price Per Unit",
+      "(Actual unit sold – budgeted unit sales) x standard profit per unit"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A factory is operating at less than 100% capacity. Potential additional business will not use up the remainder of the plant capacity. Given the following list of costs, which one should be ignored in a decision to produce additional units of product?",
+    "options": [
+      "Contribution margin of additional units",
+      "Variable selling expenses",
+      "Fixed factory overhead",
+      "Direct labor"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "It costs Habesha Company Birr 14 of variable costs and Birr 6 of allocated fixed costs to produce an industrial trash can that sells for Birr 30. A buyer in Kenya offers to purchase 3,000 units at Birr 18 each. Habesha Company has excess capacity and can handle the additional production. What effect will acceptance of the offer have on net income?",
+    "options": [
+      "Increase Birr 12,000",
+      "Decrease Birr 6,000",
+      "Increase Birr 6,000",
+      "Increase Birr 54,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Of the following one is incorrect about presenting items as inventory on the statement of financial position:",
+    "options": [
+      "Machineries that are acquired by the company aimed at using it in the production process for more than one operating cycle",
+      "Items that are purchased by the company to be used in the production and become a part of finished goods",
+      "Items that are purchased by the company that will be sold to consumers/customers",
+      "Items in the production process but not yet completed"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Of the following one is incorrect about quantifying the inventories held by a merchandising business:",
+    "options": [
+      "Goods purchased through FOB destination agreement should be counted as a part of inventory by the purchaser even though the goods are not yet received",
+      "Goods sold on FOB destination agreement can be counted as a part of inventory by the seller since the goods are not yet arrived on the purchaser's place",
+      "Goods received on a consignment agreement should be included to the inventory of the consignor (who sent goods) when determining quantity of ending inventory",
+      "Goods bought on FOB shipping agreement should be included to the inventory of the buyer even though not yet received"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Suppose that on January 1, 2023 Menkorer construction purchased a coveter equipment with an invoice price of 2,500,000 ETB. To place the coveter the company incurred an additional transportation cost of 120,000 ETB and pre-use test cost of 50,000 ETB. How will Menkorer recognize the value of the equipment on January 1, 2023?",
+    "options": [
+      "Debit Equipment-coveter 2,670,000 ETB; Credit cash 2,670,000 ETB",
+      "Debit Equipment-coveter 2,570,000 ETB; Credit cash 2,570,000 ETB",
+      "Debit Equipment-coveter 2,620,000 ETB; Credit cash 2,620,000 ETB",
+      "Debit Equipment-coveter 2,500,000 ETB; Credit cash 2,500,000 ETB"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "IFRS permits companies to use revaluation model in subsequent measurement and reporting of their property, plant and equipment. During revaluation companies may incur a revaluation gain or revaluation loss. How and where shall they report the respective revaluation gain and surplus?",
+    "options": [
+      "Revaluation gain is reported on the statement of financial position as other comprehensive income, whereas revaluation loss is required to be reported on the statement of profit/loss as other income and expense section",
+      "Both revaluation gain/loss are reported on the statement of financial position non-current asset section separately as a revaluation surplus",
+      "Both revaluation gain/loss are reported on the statement of profit/loss as other income/expense",
+      "No accounting treatment is required for any revaluation gain/loss because it will be compensated for the next measurement"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Assume that Mr. ABEBE is hired by an employer at a basic salary of 12,000 ETB and Position allowance of 4,000 ETB per month. During the Month of January Abebe works an overtime of 10 hours on weekly rest. Considering that all earnings by Abebe is subject to the nation's employment income tax; How much net salary will be earned by Abebe?",
+    "options": [
+      "12,020.24 ETB",
+      "11,872.50 ETB",
+      "16,000.00 ETB",
+      "13,250.00 ETB"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Assume that Phebela Edible oil Company has a monthly payroll of ETB 100,000 for the month of January. Of this amount 7% is for employee's pension and 20% for employees' income tax. So, how much current liability will be reported on the statement of financial position as of Jan 31?",
+    "options": [
+      "20,000 ETB",
+      "7,000 ETB",
+      "27,000 ETB",
+      "13,000 ETB"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "On Dec. 1, Mr. Samuel and Mr. Tsega agreed to form a partnership by contributing 40,000 and 60,000 ETB respectively. How will this transaction be recorded in the journal of the partnership?",
+    "options": [
+      "Debit Cash with 100,000 ETB; Credit Capital 100,000 ETB",
+      "Debit Cash with 60,000 ETB; Credit Capital 60,000 ETB",
+      "Debit Cash with 60,000 ETB; Credit S. Capital 20,000 ETB; Credit T. capital 40,000 ETB",
+      "Debit Cash with 100,000 ETB; Credit S. Capital 40,000 ETB; Credit T. capital 60,000 ETB"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assume that on January 20, 2023 Golden P.L.C sold a 1000 ETB par value 200 ordinary shares at a market price of 2,000 ETB. What entry will be made by Golden on January 20, 2023?",
+    "options": [
+      "Debit cash 200,000 ETB; Credit ordinary shares 200,000 ETB",
+      "Debit cash 400,000 ETB; Credit ordinary shares 200,000 ETB; Credit ordinary premium 200,000 ETB",
+      "Debit cash 200,000 ETB; Credit ordinary shares 100,000 ETB; Credit ordinary premium 100,000 ETB",
+      "Debit cash 400,000 ETB; Credit ordinary shares 400,000 ETB"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Assume that Golden P.L.C repurchased its 100 outstanding shares on March 23, 2023 at a tender offer price of 250 ETB per share. Which of the following is a correct entry regarding this transaction?",
+    "options": [
+      "Debit cash 250,000 ETB; Credit ordinary shares 250,000 ETB",
+      "Debit ordinary shares 250,000 ETB; Credit cash 250,000 ETB",
+      "Debit treasury stock 250,000 ETB; Credit cash 250,000 ETB",
+      "Debit cash 200,000 ETB; Credit treasury stock 200,000 ETB"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cash set aside by the company for the purpose of liquidating a long term liability will be reported in the statement of financial position as:",
+    "options": [
+      "Cash in the current asset section",
+      "Restricted cash in the non-current asset section",
+      "Notes payable long term liability section",
+      "Accounts payable current liability section"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements is TRUE about product costing systems?",
+    "options": [
+      "Process-costing systems separate costs into cost categories according to the timing of when costs are introduced into the process.",
+      "Estimating the degree of completion for the calculation of equivalent units is usually easier for conversion costs than it is for direct materials.",
+      "Job-order costing would be most likely used by a firm that produces homogeneous products.",
+      "When identical or similar units of products or services are mass produced, job-costing is used to calculate an average production cost for all units produced."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following which tax system best satisfies ability to pay principles of taxation?",
+    "options": [
+      "Degressive tax system",
+      "Regressive tax system",
+      "Proportional tax system",
+      "Progressive tax system"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The step-down cost allocation method:",
+    "options": [
+      "recognizes the total amount of services that support departments provide to each other",
+      "typically begins with the support department that provides the highest percentage of its total services to other support departments",
+      "allocates complete reciprocated costs",
+      "offers key input for outsourcing decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A check that is not paid by a bank because of insufficient funds in a customer's bank account is:",
+    "options": [
+      "Outstanding Checks",
+      "Not Sufficient Fund Checks",
+      "Deposit in transit",
+      "Bank Service Charge"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Relevant information has all of these characteristics EXCEPT:",
+    "options": [
+      "past costs are irrelevant",
+      "all future revenues and expenses are relevant",
+      "different alternatives can be compared by examining differences in total revenue and expenses",
+      "qualitative factors should be considered"
+    ],
+    "correct": 1
+  }
+]
