@@ -1,0 +1,1006 @@
+Here is the JSON array for the law, taxation, and related questions you provided, following the same format.
+
+```json
+[
+  {
+    "questionText": "Which of the following principle of taxation is best explains the idea that \"tax should be collected with minimal administrative and compliance costs\"?",
+    "options": [
+      "Productivity",
+      "Efficiency",
+      "Elasticity",
+      "Certainty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following statements does not properly describe Positive law?",
+    "options": [
+      "Law is a social fact rather than a set of rules derived from natural law.",
+      "It is the theory and study of law that studies the origin and concept of law.",
+      "It advocates a sharp separation between law and morality.",
+      "Legal rules derive their legitimacy from universal moral principles"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is the correct correlation of the legal theory with the legal philosopher?",
+    "options": [
+      "Law as social fact: Hans Kelsen",
+      "Law as social rules: Ronald Dworkin",
+      "Law as commands: J. Austin",
+      "Law as norms: Joseph Raz"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify wrong statement about legal profession.",
+    "options": [
+      "Fees to the advocate depend on winning of the case.",
+      "Legal profession is related to administration of justice.",
+      "The motive in legal profession is safeguarding liberty and attaining justice.",
+      "Legal profession is characterized by cooperation between the professionals."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is not categorized under the theories of moral obligation?",
+    "options": [
+      "Meta-ethics",
+      "Utilitarianism",
+      "Categorical Imperatives",
+      "Golden Rule"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following cannot serve as a mechanism of ensuring employment stability under Ethiopian employment law?",
+    "options": [
+      "Legal presumption in favour of indefinite period employment.",
+      "Flexible rules for termination of employment contract at will",
+      "Procedure for judicial review of the legality or otherwise of termination",
+      "Limitation of the duration of probationary employment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Assume an agency wants to design and implement a development project in a society. Which of the following principles is most useful to the success of its project?",
+    "options": [
+      "Principle of rule of law.",
+      "Principle of due process of law.",
+      "Principle of participation.",
+      "Principle of accountability."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The power that enables an agency to collect relevant information for decision-making is known as:",
+    "options": [
+      "Directing power.",
+      "Organizing power.",
+      "Licensing power",
+      "Investigating power."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following amounts to Universal legacy, except?",
+    "options": [
+      "Giving a portion of an estate to two or more persons.",
+      "Giving the whole estate to one person.",
+      "Giving the whole estate to two or more persons.",
+      "Giving a particular thing from an estate to someone."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following does not result in the lapse of will.",
+    "options": [
+      "Dissolution of marriage after the will is made.",
+      "The death of legatee before the testator.",
+      "Failure to deposit a public will in a court.",
+      "The birth of a child after the will is made."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the principal means of proving marriage as per FRFC?",
+    "options": [
+      "Wedding pictures.",
+      "Contract of marriage",
+      "Certificate of marriage.",
+      "Possession of status."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is agreements that set forth the rights of each spouse and the property division in the event of a divorce?",
+    "options": [
+      "Adhesion agreement.",
+      "Gratuitous agreement.",
+      "Betrothal.",
+      "Ante nuptial agreement"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A child who does not have a father neither through the operation of the presumption of paternity or by acknowledgement can have a father only by:",
+    "options": [
+      "Agreement of adoption.",
+      "Ascertainment of Paternity.",
+      "Judicial declaration of paternity.",
+      "Acknowledgement of paternity."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is a term applied to the act; the purpose of which is to wipe out the presumption of paternity established against the husband, when he cannot be the child's father?",
+    "options": [
+      "Contestation.",
+      "Cancellation.",
+      "Disowning.",
+      "Annulment."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is false about termination of contract?",
+    "options": [
+      "Termination have prospective effect",
+      "Termination may not affect the performance of the contract in the future",
+      "Termination may not have retrospective effect",
+      "Termination of a contract is a contract by itself"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Set-off is not prohibited for one of the following conditions.",
+    "options": [
+      "When the obligation is owing to non-state parties.",
+      "When the special nature of the obligation requires that the creditor be actually paid.",
+      "When the debt is maintenance or wages necessary for the livelihood of the creditor and his family.",
+      "When the obligation is to restore a thing of which the owner has been unjustly deprived."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Identify false statement about merger.",
+    "options": [
+      "The obligation may not revive where merger comes to an end.",
+      "Merger shall not affect the rights of third parties.",
+      "The obligation shall be extinguished where the position of creditor and debtor are merged in the same person.",
+      "Merger is a ground for extinction of contract"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is false about period of limitation under general contract law?",
+    "options": [
+      "Action for performance of a contract shall be barred if not brought within ten years.",
+      "The period of limitation shall run from the day when the obligation is due.",
+      "Interests and collateral claims may not be barred where the principal claim is barred.",
+      "In respect of annuities, the period of limitation shall run from the day when the first payment not made was due."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one is True about provision as to time?",
+    "options": [
+      "Provisions as to time generally deals with the time at which performance is due in order that the creditor can be clear as to exactly when to perform his obligation.",
+      "Provisions as to time generally deals with the time at which performance is due in order that the debtor can be clear as to exactly when to perform his obligation.",
+      "If the time is fixed in weeks, the day of the last week that corresponds by its number to the day of the formation of the contract is the due date.",
+      "Where the period expires in the middle of a month such period shall expire on the fifteenth of next month."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Form is not required for one of the following contracts.",
+    "options": [
+      "Sale of House",
+      "Contract with public administration",
+      "Contract of House Rent",
+      "Contract of insurance"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Contract may not be validly performed, if it is performed to:",
+    "options": [
+      "The creditor",
+      "The agent of the creditor",
+      "Creditors of the creditor",
+      "Incapable creditor benefited from the payment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is false concerning performance of a contract?",
+    "options": [
+      "The creditor may refuse part payment where the debt is liquidated and fully due",
+      "The debtor may choose whatever the quality of the thing to be delivered where fungible things are due",
+      "If there is doubt about identity of the creditor, the debtor may deposit the amount due with the court",
+      "If there is doubt about identity of the creditor, the debtor shall pay at his own risk where he is aware of litigation."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One is different from others, in light of searching the common intention of the parties for interpretation of contract.",
+    "options": [
+      "General conduct of the parties before and after the making of the contract",
+      "General terms parties intended to contract",
+      "Contextual interpretation",
+      "Interpretation in favour of the debtor"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Identify a statement that best describes the Latin expression injura sin damno.",
+    "options": [
+      "The conduct is actionable without proof of damage.",
+      "It entails the situation a person makes the damage good for an act committed by a minor.",
+      "It refers to harm recognized as attracting legal liability.",
+      "It entails the unforeseeability of the consequence of the act."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Where technology has not reached to determine the cause of the damage, a judge may use:",
+    "options": [
+      "The \"but for\" test Principle.",
+      "A balance of probabilities test.",
+      "The egg-shell-skull rule.",
+      "Economic loss of the physical injury."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One among the given alternatives does not serve to show a point of divergence between extra-contractual liability, contract, and criminal laws.",
+    "options": [
+      "Parties to the case.",
+      "Period of limitation.",
+      "Age of the parties.",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not attribute of rights in rem under the Ethiopian law:",
+    "options": [
+      "Rights in rem consist of usus, fructus and abusus.",
+      "Rights in rem are not absolute.",
+      "Rights in rem are invoked only against a specific person or group of persons.",
+      "Rights in rem can be obtained in an original or derivative means"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is true about right in personam?",
+    "options": [
+      "Are also known as real rights",
+      "Is a right that arises out of the contract between the parties",
+      "They can be exercised against the whole world",
+      "Property right is one of the right found under this category"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not the characteristics of patrimony.",
+    "options": [
+      "Every patrimony presupposes a person who is its holder",
+      "Every person has a patrimony",
+      "A person can have more than one patrimony",
+      "Patrimony is inseparable from the person of its holder."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is not the requirement to have possession constructively under Ethiopian law of property?",
+    "options": [
+      "The thing has to be non-fungible",
+      "The thing has to be certainty",
+      "Individualization",
+      "Declaration"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the followings is not true about transfer of ownership?",
+    "options": [
+      "Intestate succession is one way of transferring ownership",
+      "It is governed by the principle of nemo dat qoud non habate",
+      "The same rules apply on the transfer of movable and immovable properties",
+      "It is a must to have a cause to transfer ownership"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Among the following is Incorrect about ownership.",
+    "options": [
+      "Ownership is perpetual since it can't be extinguished by none use",
+      "An owner may in any case can not be prevented from freely alienating a thing he owns.",
+      "Although ownership is the widest and most comprehensive right, it is not an absolute right",
+      "A person may be prevented from collecting the fruits or exploiting the object of the right."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is false about precarious possession?",
+    "options": [
+      "It refers to the possession of those who hold a thing for another on agreement",
+      "The element of physical control is present.",
+      "It involves the duty to return an object at the end of the use time.",
+      "It arises from lack of right of ownership"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under the FDRE criminal code, robbery is different from theft in that:",
+    "options": [
+      "It involves abstracting other's property.",
+      "It could be committed with the intent to get unlawful enrichment.",
+      "It could be committed to enable a third party to obtain unlawful enrichment.",
+      "It involves violence or intimidation."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following statements does not explain the nature of constitutions in general?",
+    "options": [
+      "Constitution is binding on everyone in the state including law-making institutions.",
+      "Constitutions are less permanent when compared with ordinary laws.",
+      "Constitution concerns the structure and operation of the institutions of government.",
+      "Constitutions are based on widespread public legitimacy."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following alternatives does not included under feature of the constitution?",
+    "options": [
+      "Rigidity",
+      "Generality",
+      "Flexibility",
+      "Supremacy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify the wrong statement among the following alternatives?",
+    "options": [
+      "Facade constitutions take the appearance of \"true constitutions\"",
+      "The role of nominal constitution is mere formalization of political power to the benefit of actual power holders.",
+      "Facade constitutions give reliable information about the real government process.",
+      "Nominal constitutions do not abide by the principles of constitutionalism."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify the false requirement of normative standards for constitution making?",
+    "options": [
+      "Exclusiveness of the process",
+      "Inclusiveness of the process",
+      "Consultation on the process",
+      "Consultation on the content"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following principles does not explain rule of law?",
+    "options": [
+      "Laws should be prospective",
+      "Laws should be relatively stable",
+      "The independence of the judiciary must be guaranteed.",
+      "The discretion power of crime preventing agencies should be wide."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Among the following may not explain the presidential system.",
+    "options": [
+      "Existence of Executive Veto power.",
+      "Existence of Legislative Override power.",
+      "Existence of impeachment powers against the president.",
+      "Existence of presidents with unstable term of power."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Among the following one is not explain the nature of Parliamentary System:",
+    "options": [
+      "Election of the Prime Minister/Head of Government through the parliament",
+      "The prime Minister is primarily accountable to the public directly",
+      "Vote of no confidence is a means to dissolve the executive",
+      "Fusion of power between the executive and the legislature is apparent"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is true about the equality principle of criminal law?",
+    "options": [
+      "Equality before the law dictates that everyone should be able to ascertain criminal law",
+      "Equality before the law is a limit against state power of criminalization",
+      "Equal protection of law proscribes equal treatment in all cases",
+      "Equal protection of law dictates for peoples in all circumstance to be treated on equality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is true about Stephen's definition of crime?",
+    "options": [
+      "Crime is wrong pursued by the sovereign or his subordinate",
+      "Crime is an act condemned by both law and morality",
+      "There are some cases in which criminal prosecution is initiated at the instance of injured party",
+      "Crime is an act done in violation of positive law"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is not correct concerning the nature of right as distinction between tort and crime in one hand and breach of contract on the other?",
+    "options": [
+      "Right in personum mostly correlated by positive duties, may yet embrace negative duties",
+      "Right in rem are rights residing in persons and availing against indeterminate persons",
+      "Right in personum is unique right residing in a person and availing against definite persons",
+      "Rights in rem correspond to positive duties"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is true about the protection of double jeopardy?",
+    "options": [
+      "Double jeopardy prevents defendants from being sued in any court case over their involvement in the same act.",
+      "The newly discovered evidence proving guilty negates the protection of double jeopardy",
+      "The double jeopardy defence may be raised against offences appearing under different nomenclature",
+      "The verdict of conviction suffice to raise the defence of double jeopardy notwithstanding the punishment is enforced."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is not true regarding Probation and Suspension of Sentences?",
+    "options": [
+      "Probation refers to a sentence served within the community",
+      "Probation is a sentence its enforcement is delayed",
+      "Suspension is the prison sentence its execution is conditioned upon the breach of terms of suspension",
+      "Probation and suspension are granted taking into consideration of the nature of crime and criminal defendant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The canon of criminal law providing for criminal laws is a threat to the life and liberty of a person; hence criminalization of a conduct demands strong justification is:",
+    "options": [
+      "The principle of individual autonomy",
+      "The principle of legality",
+      "The principle of strict construction",
+      "The equality principle"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Mr. Eyasu, Mr. Oboya, and Ms. Bethelhem have borrowed 200,000 Birr from Alemu on 21/03/2023 to be returned back on 21/03/2024. In the meantime, Mr. Mebrat became a joint surety to Mr. Eyasu. Unfortunately, the whereabouts of Eyasu and Bethelihem was not known when the maturity date due. Having the case at hand, which one of the following is incorrect?",
+    "options": [
+      "Mr. Alemu can claim all his money from Mr. Oboya",
+      "Mr. Oboya is required to pay only his share",
+      "Mr. Alemu can claim the share of Mr. Eyasu from Mr. Mebrat before he sued the principal debtor",
+      "B and C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is correct about the quasi-territoriality principle of jurisdiction incorporated under article 13 of the FDRE criminal code?",
+    "options": [
+      "It relates to crimes that do not directly and chiefly concern Ethiopia",
+      "The discharge or acquittal in a foreign court impede fresh proceedings in Ethiopia",
+      "Delegation of jurisdiction of Ethiopian courts may be effected if the criminal-foreigner is not found in Ethiopia",
+      "Procedures in case of default may be applied if the criminal-foreigner flees and takes refuge in his country of origin"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Ingredient of an offence that distinguishes between accident and crime is:",
+    "options": [
+      "The principle of Nulla poena, sine culp",
+      "Actus reus",
+      "The principle of nullem crimen sine lege",
+      "The principle of Non bis in idem"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In Ethiopian tax law, which one of the following is true about withholding tax?",
+    "options": [
+      "All withholding tax are final tax",
+      "Withholding tax is useful only for schedule D",
+      "Withholding tax is useful for government and tax payers",
+      "Withholding tax is a tax collected by the seller/service provider"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is not true about administrative penalty in Ethiopian tax law?",
+    "options": [
+      "It is subjects to reduction or wave in the existence of good cause",
+      "It is subject to civil procedure law of the country.",
+      "All penalties imposed should be aggregated for payment",
+      "Its imposition cannot avoid criminal liability and civil liability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which tax assessment expected applicable on a tax payer terminating his/her business activity?",
+    "options": [
+      "Self-assessment",
+      "Estimated assessment",
+      "Jeopardy Assessment",
+      "Amended assessment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "For which tax payers installment tax can be applicable?",
+    "options": [
+      "Schedule A tax payers",
+      "Schedule B tax payers",
+      "Schedule C tax payers",
+      "Schedule D tax payers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Among the following for which one of the following total cost/price of a commodity or a service considered as base of computation of payable tax?",
+    "options": [
+      "Income tax",
+      "Turn over tax",
+      "Value added tax",
+      "Mining tax"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following statements is wrong?",
+    "options": [
+      "The prohibition of genocide is considered to be a jus cogens norm.",
+      "Custom has shifted from a law based on the principles of \"nature\" to a law based on the consent of sovereign governments.",
+      "Customs of any order always come next to treaties in their importance as sources of international law.",
+      "Custom is the oldest and the original source of international law as well as of law in general."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one is different from the rest?",
+    "options": [
+      "State Sovereignty",
+      "Pacta Sunt Servanda",
+      "peremptory norms",
+      "The stability of International borders"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which treaties are considered as source of international law under Article 38 ICJ Statute?",
+    "options": [
+      "All treaties that are in force at the time of the dispute",
+      "Only the treaties that are in force and binding upon the parties to the dispute",
+      "All treaties that have been concluded between the parties to the dispute, regardless whether they are in force",
+      "Only treaties that are multilateral and of paramount significance."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is a treaty according to the Vienna Convention on the Law of Treaties (VCLT)?",
+    "options": [
+      "Treaties are all agreements concluded between states, international organizations and non-state entities.",
+      "Treaties are both the written and oral agreements between states",
+      "Treaties are agreements concluded between states in written form and governed by international law.",
+      "Treaties are agreements concluded between states in written form governed either by international or domestic law"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How the consent to be bound of a state may be expressed?",
+    "options": [
+      "The consent of a state to be bound is expressed only by ratification",
+      "The consent of a state to be bound by a treaty may be expressed by signature, ratification, acceptance, approval or accession",
+      "The consent of a state to be bound is expressed by signature",
+      "The consent of a state to be bound is expressed by whatever means they choose."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When is a reservation considered invalided under the law of treaties?",
+    "options": [
+      "A reservation is invalid when the majority of the state parties object to it",
+      "A reservation is invalid only when an international tribunal says so",
+      "A reservation is invalid when it is incompatible with the object and purpose of the treaty.",
+      "A reservation is invalid only when it is incompatible with certain principles of international law"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the meaning of secondary rules in the law of international responsibility?",
+    "options": [
+      "Secondary rules are the rules of interpretation of international law",
+      "Secondary rules are the rules that govern the legal consequences arising from a breach of primary rules or international obligations of states",
+      "Secondary rules are the rules that govern exclusively the concept of attribution in the law of international responsibility",
+      "Secondary rules are the rules that govern exclusively the law countermeasures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following does not correctly describe the nature of human Rights?",
+    "options": [
+      "They are commonly understood as moral entitlements.",
+      "They attach to persons possessing the nationalist of a given state",
+      "They primarily impose duties on states and their agents",
+      "They are conceived as universal and apply equally for all human beings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "From the alternatives below, identify the one that does not represent an initial effort of the UN to recognize and internationalize the protection and promotion of human rights.",
+    "options": [
+      "Adoption of general resolutions to inspire human rights initiatives at national levels.",
+      "Establishing ad hoc international criminal tribunals for serious violations of human rights.",
+      "Creating institutions mandated with the power and promoting human rights.",
+      "Incorporation of exhaustive list of protected human rights and Corresponding obligations of the member states in the UN Charter."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A distinguishing feature of the International Covenant on Economic Social and Cultural Rights (ICESCR) as compared to its counterpart Civil and Political Rights (ICCPR) is:",
+    "options": [
+      "The provision of judicial remedies for violation of the rights.",
+      "The principle of progressive realization in the implementation",
+      "Its inclusion of derogation clauses during public emergency situations.",
+      "Its imposition of obligations on non-state actors as duty-bearer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A unique feature of the substantive contents of human right in the FDRE Constitution as compared to other human rights instruments is:",
+    "options": [
+      "Its recognition of the right to self-determination of the nation nationality and peoples",
+      "Its recognition of absolute individual rights and freedoms.",
+      "Its recognition to the right to development",
+      "Its recognition legally justiciable labour rights"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following makes human rights different from other types of rights such as contractual rights.",
+    "options": [
+      "Unlike contractual rights, human rights do not emanate from the consent of human persons.",
+      "Unlike contractual rights, human rights can be assigned to third party.",
+      "Human rights and contractual rights are entitlements of every human person",
+      "Unlike contractual right human rights required capacity to be exercised"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Of the following Conventions one does not deal with the protection of certain category of persons who need special protection.",
+    "options": [
+      "The Convention on the Rights of the Child.",
+      "The Convention on Elimination of All Forms Discrimination against Women.",
+      "Convention on the Rights of Persons with Disabilities.",
+      "The Convention for the Protection of All Persons from Enforced Disappearance."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Of the following one is not true about the United Nations Charter.",
+    "options": [
+      "The Charter has given recognition to the notion of equality, dignity and worth of each and every human person.",
+      "The Charter has made reference to human rights without real articulation of human rights.",
+      "It has created treaty based enforcement mechanism",
+      "Human rights provisions of the Charter can be described as scattered, terse and cryptic."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Mechanisms established by the Commission on Human Rights and assumed by the Human Rights Council to address either specific country situations or thematic issues in all parts of the world are said to be:",
+    "options": [
+      "Special Procedures",
+      "Individual Complaint.",
+      "Shadow report",
+      "State report."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following rights is not recognized under the FDRE Constitution as absolute right?",
+    "options": [
+      "The right of the security of person.",
+      "The right not to be tortured.",
+      "The right not to be held in slavery.",
+      "The right to privacy."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not true about the Ethiopian Human Rights system?",
+    "options": [
+      "The FDRE Constitution allows the application of international human rights instruments.",
+      "The Ethiopian Human Rights Commission is the only organ legally empowered to implement human rights.",
+      "The FDRE Constitution guarantees the three generations of human rights.",
+      "Economic and social rights are constitutionally recognized."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following statements is true about issues?",
+    "options": [
+      "Whenever there is a civil suit, it is mandatory for the court to frame an issue or issues.",
+      "There might be circumstances where a decision may be made by without framing an issue.",
+      "A civil suit is expected to contain either a legal issue or a factual issue.",
+      "Issues are framed only by the judge under all circumstances."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is a mechanism of review of judgment by the court of rendition?",
+    "options": [
+      "Impleader",
+      "Opposition",
+      "Interpleader",
+      "Third party defendant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "An appellate proceeding does not normally involve:",
+    "options": [
+      "Framing of issues",
+      "Examination in chief of witnesses",
+      "Hearing",
+      "Giving a ruling on any preliminary objection"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The cassation Division of the Federal Supreme Court entertains civil cases where:",
+    "options": [
+      "One of the parties is a government administrative agency or a public enterprise.",
+      "The case contains both factual error and error of law.",
+      "The case involves only issues of private international law.",
+      "The decision is final and contains fundamental error of law."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is Not Correct about foreign arbitral awards to be enforced in Ethiopia?",
+    "options": [
+      "The award has been made following a regular arbitration agreement.",
+      "Reciprocity is not sought to enforce foreign arbitral awards.",
+      "The parties have had equal rights in appointing the arbitrators.",
+      "The award must be enforceable on the condition laid down in Ethiopian Laws"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is true under the Ethiopian Law of Civil Procedure?",
+    "options": [
+      "Absence of the defendant at the time of hearing without any sufficient cause entails dismissal of the suit.",
+      "Absence of an appellant at the time of hearing without good cause entails dismissal of the appeal.",
+      "Absence of the plaintiff at the time of hearing without any sufficient cause entails ex parte proceeding.",
+      "Absence of an appellant at the time of hearing entails no legal consequence."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under the Ethiopian legal system, an individual person can be a plaintiff in civil suit where:",
+    "options": [
+      "He believes that the interest of his friend or relative or national interest is affected by the action or inaction of a certain individual or a legal person.",
+      "He is an Ethiopian national or foreign national of Ethiopian origin.",
+      "He shows to the court that he has a vested interest in the suit and that his suit has a cause of action.",
+      "He has the capacity to pay court fees under all situations."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is correct about the difference between striking out of a suit and dismissing a suit under civil procedure code.",
+    "options": [
+      "Dismissing a suit does not avoid the submission of a fresh suit.",
+      "When the plaintiff fails to appear a suit is dismissed unless admitted by the defendant.",
+      "A suit is strike out when a plaintiff fails to appear but defendant appears.",
+      "Striking out does not avoid the submission of a fresh suit only if there is a good cause."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is in favor of other side to strike a balance between the public and accused's interests?",
+    "options": [
+      "Deprivation of life and liberty",
+      "Death penalty and imprisonment",
+      "Confiscation and fine",
+      "Concern of human rights"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is not the source of criminal procedure rules in Ethiopia?",
+    "options": [
+      "The FDRE constitution",
+      "Regional constitutions, policies and legislations",
+      "Sentencing guideline enacted by the Federal Supreme Court",
+      "Federal Supreme Court cassation division decisions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is incorrect about the procedures and processes utilized for adjudicating criminal cases?",
+    "options": [
+      "Islamic procedural law is a mixed system combining adversarial and inquisitorial aspects.",
+      "In the adversarial system, most of the procedural advantages are on the side of the prosecutor.",
+      "The adversarial system is often considered the successor to the private vengeance.",
+      "Criminal procedure in civil law countries is characterized as inquisitorial."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "All are the condition precedents for setting the criminal justice in motion except:",
+    "options": [
+      "Complaint",
+      "Bail",
+      "Accusation",
+      "Denunciation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is wrong about the nature of Evidence Rules.",
+    "options": [
+      "Evidence rules are part of adjective laws.",
+      "Evidence rules are part of procedural laws.",
+      "Evidence rules are interacting with both substantive and procedural laws.",
+      "Rules of evidences are enacted to govern facts that may be considered in court."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following statement best explains the major difference between common law and civil law legal systems regarding evidence rules.",
+    "options": [
+      "Common law legal systems have separate rules of evidence whereas the civil law legal systems have no separate rules of evidence.",
+      "Both legal systems employ the Adversarial system of evidence gathering.",
+      "In continental legal system the greatest weight and importance is attached to oral testimony, however common law legal system lays more emphasis on documentary evidence.",
+      "In both legal systems parties themselves are competent witnesses in their own case."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following is wrong about evidence rules in Ethiopian legal system.",
+    "options": [
+      "All substantive, procedural and other proclamations or laws are used as source of evidence rules.",
+      "Federal Supreme Court cassation court rulings are source of evidence rules.",
+      "The purpose of evidence rule in Ethiopia is to assist the court in establishing the truth.",
+      "The Ethiopian evidence system belongs to the civil law legal system evidence rules."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statement on evidence rules in Ethiopia is incorrect regarding civil and criminal cases.",
+    "options": [
+      "There are no mandatory rules requiring the exclusion of evidence in civil cases.",
+      "One of the purposes of evidence rule is relating to protect the accused person's right to a fair trial.",
+      "The plaintiff is a party bears the legal burden of proving a fact in issue in a civil trial.",
+      "Oral evidence is less important in civil case compared with criminal case."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is correct statement about employment law regimes of Ethiopia?",
+    "options": [
+      "Civil service law regime follows a single and unified system throughout the country.",
+      "Civil service law is usually limited to defining minimum conditions of work.",
+      "Labor law is best known for its dual and parallel system.",
+      "Unlike Civil service law, Labor law regime recognizes both individual and collective employments relations."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not among the defining elements of employment contract under labour proclamation of Ethiopia.",
+    "options": [
+      "Remuneration for the service",
+      "Rendering of personal service",
+      "Professional responsibility and risk of the employee",
+      "Authority of the employer over the employee"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following events has negatively contributed to the development of labor law both globally and nationally?",
+    "options": [
+      "The establishment of ILO",
+      "Consolidation of land-based feudal system",
+      "Evolution of industrial revolution and manufacturing sectors",
+      "Socialist revolutions from the eastern world"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "As far as labor relation regulation is concerned, the 1960 Civil Code of Ethiopia was criticized for its:",
+    "options": [
+      "Permission of termination at will",
+      "Denial of any social benefits like paid leaves",
+      "Non-recognition of collective labor relation",
+      "Denial of benefits for illegal dismissal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following cannot be a valid ground for suspension under the current Ethiopian employment laws?",
+    "options": [
+      "Suspension of work due to self-induced financial crisis of the employer",
+      "Agreement of the parties",
+      "Detention of an employee after involving in a fighting during his/her weekend vacation time.",
+      "Suspicion on engaging in dishonest behavior against the interests of the employer"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One is not among the legal benefits of employees with disability under Ethiopian law.",
+    "options": [
+      "The right to reasonable accommodation",
+      "The right to get representation from their associations",
+      "The protection from discrimination based on disability",
+      "The right to claim for reservation of certain job posts (quota) during recruitment."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In Ethiopia, the determination of the degree of individual guilt requires the consideration of all but one of the following factors.",
+    "options": [
+      "The age of the criminal.",
+      "The level of education of the criminal.",
+      "The nationality of the criminal.",
+      "The gravity of the crime committed."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following penalties does not apply to petty offences?",
+    "options": [
+      "Arrest.",
+      "Imprisonment.",
+      "Fine.",
+      "B and C"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following rights could be regarded as a third generation human right.",
+    "options": [
+      "The right to education.",
+      "Freedom of expression.",
+      "The right to clean environment.",
+      "Freedom from torture."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following international instruments was an express demonstration of a general consensus by states on the indivisibility, inter-dependence, and universal nature of human rights.",
+    "options": [
+      "The Vienna Convention on the Law of Treaties.",
+      "The Universal Declaration of Human Rights.",
+      "The Vienna Declaration and Programme of Action.",
+      "The International Covenant on Economic, Social and Cultural Rights."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is a major milestone in the development of modern international law?",
+    "options": [
+      "The Rise of the Nation State.",
+      "The Decline of the Church.",
+      "The Conclusion of the Peace of Westphalia in 1648.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The theory of prohibition against retroactive criminalization is also explained in the maxim:",
+    "options": [
+      "Ex post facto laws",
+      "Autrefois acquit and autrefois convict",
+      "Nullem crimen sine lege",
+      "Lex praevia rule"
+    ],
+    "correct": 3
+  }
+]
+```
