@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "Which one of the following statement is correct about formation of contracts under the Ethiopian law of contracts?",
+    "options": [
+      "Contracts can be formed without the expression of consent of the contracting parties as long as there is a meeting of mind of the contracting parties",
+      "Contract cannot be formed unless the contracting parties meet physically and sign the contract in person",
+      "A contract can be formed even between absent parties as long as there are appropriate offer and acceptance between the contracting parties",
+      "Any valid contract is said to be formed where the form requirement is completely satisfied by the contracting parties"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Contracting parties have complete \"freedom to carry out\" any of the following acts, with the exception of:",
+    "options": [
+      "Choosing the appropriate payment method.",
+      "Establishing the location, timing, and manner of the contract's performance.",
+      "Providing a grace period to a non-performing party.",
+      "Determining a contract's requirements regarding legality of a contract"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following assertions, out of the options provided, is correct?",
+    "options": [
+      "Unlike criminal law, Ethiopian extra contractual liability law disregards the defendant's mental state when determining whether or not he is at fault.",
+      "When the defendant's negligence is shown, remedies may be available, regardless of whether there is actual or perceived material damage to the plaintiff's interest.",
+      "According to Ethiopian extra-contractual liability law, insanity is not a defence that can exempt a person from liability.",
+      "All"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following asserts, out of the options provided, is incorrect?",
+    "options": [
+      "According to Ethiopian tort law, there must be damage in order to make a tortfeasor accountable.",
+      "Uncertainty as to the exact amount of damage caused is a defense for a perpetrator to escape liability under the Ethiopian tort law.",
+      "Under Ethiopian tort law, causation is generally a requirement for strict liability for damage.",
+      "A and B."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following claims, out of the alternatives, is false?",
+    "options": [
+      "The only form of compensation under Ethiopian tort law is monetary compensation.",
+      "The existence or absence of intention is never relevant under Ethiopian law when determining whether the defendant is at fault.",
+      "The Ethiopian Law of Strict Liability prohibited the assessment of fault on the part of either of the parties in a tort case.",
+      "All."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following reasons for contract extinction requires unanimous consent from both contractual parties?",
+    "options": [
+      "Cancellation",
+      "Termination",
+      "Novation",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following concepts is unrelated to Ethiopian tort law?",
+    "options": [
+      "Injunction",
+      "Compensation",
+      "Enforcement of parties' commitment",
+      "Restitution"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following statements is correct about formation of contracts under the Ethiopian law of contracts?",
+    "options": [
+      "Contracts can be formed without the expression of consent of the contracting parties as long as there is a meeting of mind of the contracting parties",
+      "Contract cannot be formed unless the contracting parties meet physically and sign the contract in person",
+      "A contract can be formed even between absent parties as long as there are appropriate offer and acceptance between the contracting parties",
+      "Any valid contract is said to be formed where the form requirement is completely satisfied by the contracting parties"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is incorrect in relation to extra contractual liability under Ethiopian law?",
+    "options": [
+      "There must be a proximate cause and effect relationship between the faulty act and an interest harmed",
+      "The interest harmed must be a legitimate one",
+      "There must be a breach of duty on the part of the tortfeasor",
+      "The interest harmed must have always monetary value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements is not true about the applicability of the Civil Code on the status and activities of traders",
+    "options": [
+      "The Civil Code provisions of general contract law apply to the formation of contracts between traders",
+      "The Commercial Code is a self – contained law on traders and there is no need for the application of the Civil Code on traders",
+      "The applicability of the Civil Code on traders can be excluded if otherwise provided in the Commercial Code",
+      "The Civil Code provisions other than the general contract law can also apply to traders"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following aspects typically characterizes a joint venture form of business organization under the Ethiopian law",
+    "options": [
+      "It is not required to be registered",
+      "It can be managed by one partner",
+      "It is useful especially for wealthy people who what to carry out business secretly",
+      "If its existence is disclosed, it is regarded as a general partnership"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is beyond the power of contracting parties?",
+    "options": [
+      "Setting the period of limitation",
+      "Determining the object of the contract",
+      "Determining time of performance",
+      "Determining the place of performance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is different among the given alternatives?",
+    "options": [
+      "Strict liability",
+      "Liability without fault",
+      "Liability which does not depend on actual negligence or intent to harm",
+      "Vicarious liability"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hanna deposited her watch with Solomon on contract of bailment for two years but Solomon sold the watch to Yafet in open market in violation of terms of the contract. Yafet did not know Solomon lacks title against the watch. Which one of the following is correct?",
+    "options": [
+      "Hanna cannot claim the watch from Yafet",
+      "Hanna can claim the market price of the watch from Yafet",
+      "Yafet in no way acquire title against the watch",
+      "The contract between Solomon and Yafet is not a valid contract"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following matters is not required by the Commercial Code to be indicated by the Memorandum of Association",
+    "options": [
+      "The capital of the company",
+      "The general manager of the company",
+      "The business purpose of the company",
+      "The head office of the company"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is true about elements of business?",
+    "options": [
+      "Incorporeal elements, such as goods and equipment constitute the main element",
+      "Corporeal elements, such as goods and equipment constitute the main element",
+      "Patents and copyright constitute the main element",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following organ has the power to call general meeting of shareholders of Share Company?",
+    "options": [
+      "Liquidators",
+      "Board of Directors",
+      "Person nominated by the court",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Who are the founders of Share Company under the Commercial Code",
+    "options": [
+      "Persons who sign the MoA and AoA and subscribe the whole capital of the company",
+      "In the case of public Share Company, persons who sign prospectus",
+      "Any outsider who initiated the plans of facility for the formation of the company",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is not true about special meeting of shareholders in Share Company?",
+    "options": [
+      "Special meeting is a meeting in which all shareholders shall attend",
+      "Special meeting must be called to approve decisions of general meetings modifying special right of share",
+      "The rule of extra ordinary meeting as to quorum and majority is applicable to special meeting",
+      "All"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Partnerships under Commercial Code of Ethiopia",
+    "options": [
+      "Are always legal persons",
+      "Are either commercial or non-commercial",
+      "Have legal personalities",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "General partnership",
+    "options": [
+      "Has unlimited liability",
+      "Is a partnership whose partners are jointly, severally and personally liable to the firm’s debt",
+      "All",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Joint venture is",
+    "options": [
+      "A partnership whose formation is not required to be in a written form",
+      "The only business organization which does not have legal personality",
+      "A partnership which owes the property of its partners",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Shares in private limited company",
+    "options": [
+      "Are freely transferred among their shareholders",
+      "Need a majority vote of at least 75%to transfer them to outsiders",
+      "Shall be transmitted to the heirs of the shareholders",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Companies under Commercial Code of Ethiopia are always",
+    "options": [
+      "Civil in nature",
+      "Commercial in nature",
+      "Either commercial or civil in nature",
+      "Neither commercial nor civil in nature"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is true about a share?",
+    "options": [
+      "Share is a financial asset to the shareholder.",
+      "Share gives rights to the holder.",
+      "Shareholder is a part-owner of the company",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What does the \"doctrine of privity\" of contract presupposes",
+    "options": [
+      "The government can benefit from a contract concluded between private parties even if the government is not a contracting party",
+      "It is the contracting parties who enjoy rights and assume obligations from the contract they have concluded",
+      "Third parties should benefit from a contract concluded by the contracting parties",
+      "Third parties should assume obligations as a result of a contract concluded with other contracting parties"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In contractual relations, good faith of the contracting parties should be seriously considered by a court of law or an arbitral tribunal in relation to one of the following except",
+    "options": [
+      "The fulfillment of a conditional contract",
+      "Interpretation of contracts",
+      "Cancellation of contracts",
+      "Novation of a contract"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following situations does not bring about extra-contractual liability for the author of an act even though his act causes material damage?",
+    "options": [
+      "A person intentionally fails to perform his contractual obligation",
+      "A person diverted to his own benefit a power entrusted to him for the benefit of the public",
+      "A doctor negligently misdiagnoses the plaintiff’s illness",
+      "A driver negligently caused accident on the plaintiff"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "If compensation is associated with non-performance of a contract, invalidation is associated with",
+    "options": [
+      "Termination of a contract",
+      "Defect in the formation of a contract",
+      "Privity of contract",
+      "Non-retroactivity of contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following cannot be embraced by the expression \"vice of consent\" under the Ethiopian law of contracts?",
+    "options": [
+      "Mistake",
+      "Duress",
+      "Fraud",
+      "Immorality of object of contract"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements is not true about the nature of marriage?",
+    "options": [
+      "All types of marriage shall satisfy the same validity requirements",
+      "All type of marriage shall be registered before competent officer of civil status",
+      "All type of marriage produces similar legal consequence",
+      "All type of marriage follows the same celebration formality"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to the revised family code marriage shall produce effect from",
+    "options": [
+      "time of registration of marriage",
+      "time of celebration of marriage",
+      "time of betrothal of marriage",
+      "time of issuance of certificate of marriage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the absence of contract of marriage or where contract of marriage invalid under the law, one of the following is a common property",
+    "options": [
+      "the property which the spouse posses on the day of their marriage",
+      "the property which a spouse acquires by succession after marriage",
+      "all property acquired by during marriage by onerous title",
+      "property which a spouse acquirer by donation after their marriage"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "As a matter of rule, one of the statements is true about administration of personal property",
+    "options": [
+      "The spouses shall jointly administer their respective personal property",
+      "Each of the spouse shall freely dispose his/her personal property",
+      "Each of the spouse shall freely dispose the personal property of the other spouse",
+      "Each of the spouse shall freely administer the personal property of the other spouse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A spouse can do one of the following transactions without the agreement of the other spouse",
+    "options": [
+      "Renting out a commonly owned house",
+      "exchanging a commonly owned chair which has a value of birr 700",
+      "Giving a birth day gift which has value birr 400",
+      "Borrowing birr 400 from another person"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A husband may not be presumed to be the father of the child",
+    "options": [
+      "If the child is born more than 180 days after the conclusion of the marriage",
+      "If the child is born within 300 after the dissolution of marriage",
+      "If the child is born 300 days after the court declared the absence of the husband",
+      "If the child is born within 180 days after the conclusion of marriage"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is not the obligation to supply maintenance",
+    "options": [
+      "An obligation to supply maintenance exists between ascendants and descendants",
+      "An obligation to supply maintenance exists between person related by affinity in direct line",
+      "An obligation to supply maintenance does not exist between brothers and sisters",
+      "An obligation to supply maintenance subsists between a man and a great grand parent"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Who will be the guardian or tutor of a child who used to live with his mother that has passed away?",
+    "options": [
+      "the father of the child",
+      "the ascendants of the child",
+      "the brothers or sisters of the child",
+      "aunt or uncle of the child"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following alternatives which one is characteristic patrimony?",
+    "options": [
+      "A patrimony vested on privilege persons",
+      "Patrimony is attached to its holder",
+      "Only capable persons have a patrimony",
+      "A person can have more than one patrimony"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following alternatives is among the characteristic of ownership?",
+    "options": [
+      "It is a narrow right",
+      "It is a specific right",
+      "It is a bundle of right",
+      "It is not an Absolut right"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following alternatives is true about protection of possession through with of force",
+    "options": [
+      "Circumstances do not matter to use of force",
+      "The possessor should use force before any legal action",
+      "Force can be used any time until the period for legal action is barred",
+      "The possessor or the holder should use a reasonable force"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Among the following one is mandatory requirement to acquire ownership via possession in good faith",
+    "options": [
+      "There should be a contractual agreement that could be a gratuitous",
+      "The Purchaser should buy a corporal movable thing from its owner",
+      "The purchaser should purchase the thing from a person who has a valid title",
+      "The buyer should purchase the thing from a person who has no a valid title"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "From the following alternatives one is illegitimate cause of transferring and acquiring ordinary corporal chattels",
+    "options": [
+      "Delivery of the thing itself by the transferor to the transferee",
+      "Delivery of the document representing the thing to be transferred",
+      "Snatching a good and lapse of a period of limitation for a legal action",
+      "Transfer and acquisitions of perfect ownership right over a thing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Among the following alternatives which one is the characteristics of servitude under the Ethiopian property law",
+    "options": [
+      "It is a right in-personna",
+      "It is a personal right",
+      "It could exist in relation to one plot of land",
+      "It is aright in rem"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following alternatives is true about expropriation of private properties",
+    "options": [
+      "It is the power of the sovereign that could be delegated",
+      "It requires the consent of the owner of private property",
+      "Properties are expropriated in the interest of the public at large",
+      "An owner who has opposed an expropriation is not entitled for compensation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What could be the possible cause for departure from the rule of equivalence in extracontractual claims?",
+    "options": [
+      "Lack of sufficient evidence proving the exact amount of damage",
+      "Victim innocence",
+      "Victim contribution to the materialization of damage",
+      "Wrongful acts committed without superior order"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not a source of extra-contractual liability?",
+    "options": [
+      "Fault",
+      "Activities one engages in or things possessed by a person",
+      "Where a third party for whom a person is responsible incurs liability",
+      "Unlawful termination of a worker contract of employment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is not the possible rational for holding a person liable for the wrongful conduct of another",
+    "options": [
+      "Control test",
+      "Analogy for causation",
+      "Abuse of power",
+      "Deep pockets"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is not qualified to claim maintenance of a person/ victim of moral accident under our civil code of Ethiopia",
+    "options": [
+      "Deceased person’s son",
+      "Deceased person’s daughter",
+      "Deceased person’s brother",
+      "Deceased person’s father"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is not a remedy under the law of Ethiopia extra-contractual liability",
+    "options": [
+      "Monetary compensation for economic loss",
+      "Restitution",
+      "Remedial publication",
+      "Forced performance"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Non-performance of a contract cannot in any case entail",
+    "options": [
+      "Cancellation of the contract",
+      "Criminal liability and forced labor",
+      "Payment of compensation",
+      "Forced performance of a contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following statements is necessarily true about the rights of a guarantor as per the Ethiopian Civil Code of 1960?",
+    "options": [
+      "A guarantor who has paid to the creditor has the right to claim indemnity from the principal debtor under circumstances",
+      "Generally speaking, the guarantor has the right to set up defenses that could be set up by the principal debtor against the creditor even if the principal debtor declines to raise such defenses",
+      "The guarantor does not have the right to summon the creditor to proceed against the principal debtor before the maturity date of the obligation",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is different from the rest?",
+    "options": [
+      "Secondary guarantor",
+      "Simple guarantor",
+      "Joint guarantor",
+      "Counter guarantor"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following relationship may create vicarious liability under Ethiopian extra contractual liability?",
+    "options": [
+      "Children for their parents",
+      "Employers for employees",
+      "Wife to her husband",
+      "Husband to his wife"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Art.1714 (2) of the 1960 Civil Code of Ethiopia stipulates that the court may not make a contract under the guise of interpretation of the contract. Which one of the following inferences can validly be made from this legal provision?",
+    "options": [
+      "Ethiopian courts are prohibited to interpret contractual provisions even if the provisions are vague, ambiguous or contradictory since it is the contracting parties who have the power to determine the contents of the contract",
+      "Ethiopian courts are not prohibited from interpreting contracts where interpretation is genuinely called for because of ambiguity, vagueness or contradiction of contractual provisions",
+      "Contracts should come from interpretation where the parties have not clearly defined their respective contractual rights and obligations",
+      "All"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under the Ethiopian law of contracts, the validity of any contract necessarily requires the cumulative presence of:",
+    "options": [
+      "Object, consent capacity, and form when the law requires",
+      "Form, capacity and consent",
+      "Consent, capacity and object",
+      "Consent, object and form"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All irrelevant condition for the application the rule Paterna Patenis materna maternis is_______",
+    "options": [
+      "The will of the testator",
+      "The fact that deceased must be die intestate",
+      "The fact that deceased does not have surviving descendants",
+      "The immovable nature of the property"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The court may invalidate a will made under undue influence having regard to______",
+    "options": [
+      "The condition of the testator",
+      "The identity of the person who exerts the undue influence on the testator",
+      "The gravity of the influence",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The law does not regulate the personal and pecuniary effect of marriage where:",
+    "options": [
+      "The contract of marriage is invalid",
+      "There is no contract of marriage",
+      "The contract of marriage is in harmony with mandatory provisions of the law",
+      "The contract of spouses is incapable to entering into such contract"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A common ground of nullity for public and holographic will is__________",
+    "options": [
+      "Failure to reduce the will in writing",
+      "Failure to write the will in the presence of witness",
+      "The testator incapability to read what are included in the will",
+      "The will contains additions in the margins or between the lines"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following does not vitiate consent with respect to will?",
+    "options": [
+      "Fraud",
+      "Duress",
+      "Error",
+      "Undue influence"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Where Ato Ayalew, in his will, ordered a legacy in favor of his friend, Adamu, he ordered the legate to change his religion as a requirement to take a legacy. Which one of the following is true about this legacy?",
+    "options": [
+      "Adamu can benefit from the legacy only after complying with the requirement",
+      "Adamu can benefit from the legacy even without complying with the requirement",
+      "The liquidator should ensure the accomplishment of the requirement",
+      "A and C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mohammed bequeathed the only Ox he had to Almaz in his first will. Lather however, he made another will through which he bequeathed the same Ox to Sara. Who is the write beneficiary of the Ox?",
+    "options": [
+      "Both Almaz and Sara",
+      "Almaz",
+      "Sara",
+      "None of them"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "___________Does not in any way result in lapse of will",
+    "options": [
+      "Dissolution of marriage after the will is made",
+      "The death of the legate before the testator",
+      "The birth of the child after the will is made",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one among the following is the legal consequence of the merger of the property of the inheritance with personal property of the heirs",
+    "options": [
+      "It negatively affects the interest of creditors of the deceased",
+      "It is advantageous to creditors of the deceased",
+      "It negatively affects the interest of the personal creditors of the heirs",
+      "A and C"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following incorrect about acceptance or renunciation of succession",
+    "options": [
+      "An heir may accept or renounce the succession through his /her agent",
+      "A creditors of an heir who renounced a succession to their disadvantage do not have a legal right to apply to the court for the invalidation of the renunciation",
+      "The heirs at liberty to make conditional renunciation or acceptance",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is true about personal creditors of the heirs and creditors of the heirs",
+    "options": [
+      "Pending liquidation, personal creditors of the heirs have a write to claim from the property forming part of a succession",
+      "Creditors of the deceased cannot claim a payment from a property forming part of a succession after the closure of a liquidation",
+      "Creditors of the deceased can claim a payment from a properties part of succession after the closure of liquidation",
+      "Post -liquidation creditors of the inheritance may claim payment from legatees by universal title even beyond the value of the property the legatee has received as his share from succession."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify a choice that is incorrect about the opening of succession",
+    "options": [
+      "It shall open after the closure of liquidation",
+      "It shall open just forty days following the death of the deceased",
+      "It shall open at the main residence of the deceased at the time of making a will",
+      "It shall open at the main residence of the legatees and heirs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following relationships may create vicarious liability under the Ethiopia law?",
+    "options": [
+      "Husband for his wife",
+      "parents for their minor children",
+      "wife for Husband",
+      "children for parents"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of subject to rules governing transaction involving corporal chattel",
+    "options": [
+      "Immovable by destination",
+      "Immovable",
+      "Movable by nature",
+      "Accessories of immovable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An owner does not lose ownership of a property under the Ethiopian property law on the following ground",
+    "options": [
+      "Acquisitive prescriptions",
+      "Usucapion",
+      "Loss of physical control",
+      "Mortgage"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following concepts is unrelated to Ethiopia tort law",
+    "options": [
+      "Restitution",
+      "injunction",
+      "enforcement of parties' commitment",
+      "declaration"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is not regarded as special movable under the Ethiopian law",
+    "options": [
+      "Aircraft",
+      "Ship",
+      "Business",
+      "Cellphone"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Under the Ethiopian law, the finder of lost corporal chattel has",
+    "options": [
+      "No obligation to preserve the things he/she found",
+      "The write to transfer the valid tittle to third parties",
+      "The obligation to take measure of publicity with a view to informing the owner of the fact that he found the chattel",
+      "The write to personal use the thing he./she found"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is incorrect in relation to extra-contractual liability under the Ethiopian law",
+    "options": [
+      "there must be a proximate cause and effect relationship between the faulty act and an interest harmed",
+      "the interest harmed must be a legitimate one",
+      "there must be breach of duty on the part of Tortfeasor",
+      "the interest harmed must always have monetary value"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not correct about a State?",
+    "options": [
+      "It has a sovereign power.",
+      "It has defined territory.",
+      "Government.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following cases is not an external checking mechanism of government's power?",
+    "options": [
+      "Decentralization,",
+      "Separation of powers,",
+      "Judicial review,",
+      "Bill of rights,"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following correctly explains the case of FDRE Constitution in relation to sovereignty:",
+    "options": [
+      "Parliamentary Sovereignty,",
+      "Monarchical Sovereignty,",
+      "Popular Sovereignty,",
+      "b & d are the right answers,"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements holds true with regard to state and nation?",
+    "options": [
+      "A nation may not exist without a state,",
+      "A state may exist without even a single nation,",
+      "A state may not exist without at least a single nation,",
+      "Only one nation for the entire state is a reality everywhere in the globe"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of constitutionalism refers to________________?",
+    "options": [
+      "Existence of a State with a constitution.",
+      "Development of constitutional culture.",
+      "Existence of liberal constitution.",
+      "State/Government which operates abiding by the constitution."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not given in the FDRE Constitution as expression of the sovereign power of the Nations, Nationalities, and People of Ethiopia:",
+    "options": [
+      "The Constitution itself,",
+      "Through the representatives whom they elect periodically,",
+      "Through direct exercise of their sovereign power in such instances as public discussions on piece of legislations,",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following terms doesn't represent the basic feature of constitution?",
+    "options": [
+      "Generality",
+      "Permanency",
+      "Supremacy",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Principle of Secularism refers to __________________?",
+    "options": [
+      "State and religion are separate.",
+      "There shall be no state religion.",
+      "None interference of State on the affairs of religion and vice-versa.",
+      "All of the above."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following features doesn't the fundamental principle of an ideal Constitution?",
+    "options": [
+      "Supremacy of the Constitution.",
+      "Popular Sovereignty",
+      "Separation of State and Religion (Principle of Secularism)",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The national oppression thesis and the question of nationalities in the history of modern Ethiopia represents______________?",
+    "options": [
+      "The land to the tiller catchphrase which emancipated the Ethiopian peasantry.",
+      "The ethno-nationalist movements.",
+      "The class struggle which holds the rights of the working class.",
+      "All of the above."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following perspectives of nation building processes holds the idea where a central government devolving political authority to the regions to maintain a single unified state.",
+    "options": [
+      "Coming to together.",
+      "Holding together.",
+      "Asymmetric federalism.",
+      "Symmetric federalism."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not related with constitution-making process;",
+    "options": [
+      "Constituent Assembly,",
+      "Initiation,",
+      "Federalism,",
+      "Promulgation,"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In polities founded by convent/compact, the constitutional making process often involves _____________?",
+    "options": [
+      "Series of acts negotiated among the established bodies that share in the governance of the polity.",
+      "Convention of the partners to the pact, or their representatives.",
+      "Process of handing down a constitution from the top.",
+      "Constitutional making and change come in bits and pieces on a piecemeal basis."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following statements is not correct about unwritten constitution?",
+    "options": [
+      "It refers to a constitution through which its rules are scattered in different documents and sources.",
+      "It refers to a constitution which is not available in a written form.",
+      "It is prominently known for being flexible.",
+      "The hierarchy of the constitution vis-à-vis ordinary laws is the same."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Parliamentary constitution refers to ________________?",
+    "options": [
+      "Congressional system.",
+      "The executive branch presides over the legislative branch of the State.",
+      "The executive branch remains unaccountable to the legislative organ.",
+      "There is no clear-cut separation of powers between the executive and legislative branches."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "By looking at the nature of the executive branch, constitutions can be classified as _________?",
+    "options": [
+      "Republican and monarchical constitutions.",
+      "Mono-cephalous, Bi-cephalous and A-cephalous.",
+      "Presidential and Parliamentary Constitutions.",
+      "Unicameral, Bicameral, Tri-cameral and Tetra-cameral."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following statements is correct about presidential system?",
+    "options": [
+      "The President has a fixed tenure in office.",
+      "The president‘s leadership is much looser than that of the prime minister.",
+      "As the president is directly chosen by the people, it is more democratic than a leadership chosen by a parliament.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements doesn't represent the merit of parliamentary system?",
+    "options": [
+      "Comparing to presidential system, there is strong separation of powers and check and balance in parliamentary system.",
+      "The party or coalition of parties which has won majority vote in the parliament forms government.",
+      "The executive-legislative relation is one of co-ordination.",
+      "Parliamentary system is a lot easier to pass legislation."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following statements is not consistent with general concept, principles and legal traditions visa-vise constitutional interpretation?",
+    "options": [
+      "Common Law Countries prefer a strict interpretation of statutory law.",
+      "Civil law legal opts to legal interpretation.",
+      "Strict or literal way is not pertinent to the Ethiopian.",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The creation of associated federating units represents to a situation where_____________?",
+    "options": [
+      "Various groups or communities inhabit a region with cooperative spirit on matters of common concern and subsidiary principle towards their exclusive interest.",
+      "Member states are recognized as independent states under international law, nevertheless constitutional wise members of a federal state.",
+      "Richard Nixon’s thought of federalism.",
+      "The separatist theory of federalism exists."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One is not correct about distribution of judicial power under the FDRE Constitution?",
+    "options": [
+      "There is exclusive powers of the federal and States courts,",
+      "There is concurrent powers of the federal and States courts,",
+      "It duly recognizes delegation of judicial power.",
+      "Jurisdiction of courts follows the pattern of legislative power."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following principles doesn't represent the fundamental principles of criminal law?",
+    "options": [
+      "The Principle of Legality,",
+      "The Principle of Equality",
+      "The principle of territoriality",
+      "The Principle of Individual Autonomy."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The general objective of criminal law can be described as _______________?",
+    "options": [
+      "Protection of persons and property.",
+      "Deterrence of criminal behavior.",
+      "Rehabilitation of the criminal.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The principle of legality comprises all but not one of the following doctrins?",
+    "options": [
+      "Principle of maximum certainty of crimes and penalities.",
+      "Principle of double effect of euthanasia.",
+      "Principle of strict interpretation and prohibition of analogy.",
+      "Prohibition of double jeopardy."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In contrast with private law, one of the following statements correctly describes the nature of criminal law?",
+    "options": [
+      "Often private law inclines towards regulating coordination, whereas criminal law concerns with regulation of prohibitions that can dismantle social bonds.",
+      "Violation of criminal law is regarded as public wrong whereas violation of civil is considered as private wrong.",
+      "Criminal law often entails sanctions of physical restraint, fines and other penalties, whereas, penalty for civil wrong are limited to payment of damages.",
+      "All of the above."
+    ],
+    "correct": 3
+  }
+]
