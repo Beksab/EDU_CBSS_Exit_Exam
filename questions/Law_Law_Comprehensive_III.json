@@ -1,0 +1,1152 @@
+[
+  {
+    "questionText": "The main objective of criminal science is _______________?",
+    "options": [
+      "To discover the causes of crime.",
+      "To devise the most effective methods of reducing crime.",
+      "To devise a perfect machinery dealing with crimes.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements is not correct about the scope of derivative criminal jurisdiction of Ethiopian courts?",
+    "options": [
+      "Crimes committed by members of Ethiopian defence forces against the ‘ordinary law’ of a foreign country.",
+      "Crimes committed in a foreign country against international law or international crimes specified in Ethiopian legislation.",
+      "Crimes committed against an international treaty or convention to which Ethiopia has adhered.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements correctly depicts the relationship between criminal law and morality?",
+    "options": [
+      "All crimes are often morally indefensible.",
+      "Morality is the sole impute of criminal law.",
+      "All moral wrongs are not crimes and Vice versa.",
+      "Criminal wrong often evolves from moral wrongs which are duly recognized by criminal law."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The principle of equality before the law strictly prohibits making differences or discrimination in the treatment of criminals, except in case of __________________?",
+    "options": [
+      "Immunities sanctioned by Public International law.",
+      "Immunities sanctioned by Constitutional law.",
+      "Requirements of individualization of Criminal Justice.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statement doesn’t depict the essence of principle of individual autonomy?",
+    "options": [
+      "Individuals should be treated as responsible agents of their own behavior.",
+      "As per factual element of autonomy individuals posses sufficient free-will to make meaningful choices.",
+      "As per normative element of autonomy individuals have free-will of choosing their commissions/omissions and recognized as moral persons.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following doesn’t fit with the elements of Advertent (conscious) Negligence?",
+    "options": [
+      "Existence of a clear forsight.",
+      "Acceptance of consequence.",
+      "Rejection of consequence.",
+      "All of the above."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "As the FDRE criminal code envisages the extra-territorial application of criminal jurisdiction of Ethiopian courts comprises __________________?",
+    "options": [
+      "Crimes committed by any person in a foreign country against interests of Ethiopia.",
+      "Crime committed by foreign deplomats residing in Ethiopian.",
+      "Crimes committed by an Ethiopian enjoying immunity in a foreign country.",
+      "Crimes committed by a member of Ethiopian Defense Forces in a foreign Country."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following statement doesn’t hold true about territorial application of criminal jurisdiction of Ethiopia courts?",
+    "options": [
+      "It assumes jurisdiction on crimes committed by any person, except persons with immunity.",
+      "It tries crimes punishable under the Ethiopian law.",
+      "The crime must have been committed on the Ethiopian territory.",
+      "All of the above."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In assessing appropriate punishment of a perpetrator court in Ethiopia are dutybound to consider the special aggravating circumstances which comprise all but not one of following cases?",
+    "options": [
+      "Notional concurrence",
+      "Matetial concurrence of the offence",
+      "Recidivism,",
+      "Antecedents"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following doesn’t represent the element of indirect intention?",
+    "options": [
+      "A clear foresight of consequences,",
+      "Lack of desire for the consequences.",
+      "Rejection of consequence.",
+      "Acceptance of consequences."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is not correct about taxation?",
+    "options": [
+      "Tax is a compulsory contribution of persons toward the needs of government.",
+      "Taxation is one means to shape the political and socio-economic aspects of a state.",
+      "Non-rivalry and non-excludability are the main characteristics of tax and public goods and services.",
+      "None of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Efficiency of taxation is often measured against the following costs, except ___________?",
+    "options": [
+      "Administrative costs,",
+      "Externality cost",
+      "Compliance costs",
+      "Excess costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following statement doesn’t comprise as underlying rationales of transfer of revenue in Ethiopia?",
+    "options": [
+      "Lack of locally generated own revenue to finance own expenditure,",
+      "Differences in level of economic development among regional states,",
+      "Differences in endowment with natural resources lead to the formation of a fiscal gap,",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The very purpose of taxation is ____________?",
+    "options": [
+      "Rising revenue to fund public goods and services.",
+      "As instrument to optimize the tradeoff between distribution and economic distortion.",
+      "To correct externalities and other objectives, notably economic stabilization.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements holds incorrect about the essence of Fiscal federalism?",
+    "options": [
+      "It refers to the study of how expenditure and revenue powers of a government devolved.",
+      "It is exclusively relevant for States with federal system.",
+      "It often takes the form of vertical and horizontal structures.",
+      "Its ultimate purpose is to Improve efficiency of public resource utilization,"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Exise tax in Ethiopia refers to _______________?",
+    "options": [
+      "One variety of sales tax.",
+      "Tax imposed on luxury and basic goods and services which are demand inelastic.",
+      "Tax imposed on goods and services having externalities and societal problems.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The VAT which is one of the tax bases levied in Ethiopia is criticized to have some drawbacks, thus, which one of the following statements clearly shows the demerit of the VAT regime?",
+    "options": [
+      "It is regressive in nature,",
+      "It requires advanced economic structure,",
+      "It enables buyers and sellers to strike secret deals with regards the issuance of receipts;",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In strict sense one of the following doesn’t represent the obligation of a VAT registered person?",
+    "options": [
+      "Collection of VAT payment,",
+      "Preparation of tax invoice,",
+      "Tax records",
+      "Reverse taxation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements correctly depict the meaning of excess cost of taxation?",
+    "options": [
+      "It refers costs incurred by the government to administer the tax system.",
+      "It refers to costs of making tax payments to the government.",
+      "It refers to tax-induced changes in the behavior displayed by tax payers.",
+      "All of the above."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following statements holds not correct about Equity principle of taxation?",
+    "options": [
+      "This principle holds the idea that the amount of taxes that people pay should be based on their ability to pay.",
+      "Practically it holds the idea of progressive taxation.",
+      "It imbeds the element of benefit principle.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following arrengements of revenue power doesn’t qualify under the FDRE constitution?",
+    "options": [
+      "Federal revenue powers,",
+      "Regional revenue powers,",
+      "Manicupal revenue powers,",
+      "Concurrent revenue powers,"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The concept of Stamp duty in Ethiopia represents ____________________?",
+    "options": [
+      "Tax imposed on official services provided to individuals through affixing seals.",
+      "Official mark or seal placed on a document especially to indicate that a requirement tax has been paid.",
+      "One kind of revenue to the government’s treasury.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "With regard to turn over tax (TOT) in Ethiopia, one of the following statements is not correct?",
+    "options": [
+      "It is one family of sales tax.",
+      "It is imposed on supply of goods and services provided by persons not registered for VAT.",
+      "It is imposed on taxable transaction with annual dealings of below 500,000 Birr.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following clearly reveal the merit of the VAT in Ethiopia?",
+    "options": [
+      "It avoids cascading effect of a tax (Tax on Tax).",
+      "It promotes capital investment and saving,",
+      "It enhances exports,",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Global system of taxation refers to ______________?",
+    "options": [
+      "A system of taxation where income is separately identified by its sources with peculiar procedures and rates of income determination.",
+      "A system of taxation where an individual taxpayer is required to declare his aggregate income for the purpose of taxation.",
+      "A system of taxation where individual taxpayer is required to declare his income from each source separately.",
+      "All of the above."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How state express their consent to be bound by a treaty obligation?",
+    "options": [
+      "Ratification is a State’s non- formal expression of consent to be bound by a treaty.",
+      "Accession entails the consent to be bound by a State that has previously signed the instrument.",
+      "States ratify treaties only before the treaty has entered into force.",
+      "A State may also become party to a treaty by succession, which takes place by virtue of a specific treaty provision or by declaration."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is public international law referring?",
+    "options": [
+      "Public international law is the law that applies to international actions, only committed by States.",
+      "Public international law is the law that applies to international actions, whether committed by States, international organizations, or even individuals.",
+      "There is international government that has authority to pass such laws.",
+      "Public international law involves a super-legal system that operates between States and it is parts of domestic laws."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not true about international law applied at the international level and international law applied in domestic courts.",
+    "options": [
+      "The domestic laws of Ethiopia not relevant in deciding Ethiopia’s international obligations in disputes before international tribunals.",
+      "Nation in an international court generally may use its domestic laws as an excuse to alter its international obligations.",
+      "The domestic laws of Ethiopia are extremely important in determining how international laws will apply in the domestic courts of Ethiopia.",
+      "Domestic courts often refer to treaties (and international customs) when deciding disputes between the individual litigants before them."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not true about State and that State’s government.",
+    "options": [
+      "The stability of the State System rests on the stability of States, and for this reason international law places a great deal of emphasis on a State’s continued legal existence and relative permanence of its borders.",
+      "The government of a State may change, through normal constitutional processes or otherwise, and the State itself will continue to exist.",
+      "The total change in the structure of government for example, by rewriting the constitution will change a State’s legal obligations to other States at the international level.",
+      "(Option D missing in source, but given answer C)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is correct with regard to international law?",
+    "options": [
+      "There was no international law before the 17th century and the international law started emerging at world stage since 17th century.",
+      "The rights and obligations under international law are, on the international plane, inferior to any rights or duties it may have under its national law.",
+      "The sates and international organizations are the subjects of international in equal pace with individuals",
+      "International law governs inter-state relations merely and it is irrelevant on the national legal level."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is a typical example of Open International Organization?",
+    "options": [
+      "The Organization of American States",
+      "The European Union",
+      "The Southern African Development Community",
+      "The World Trade Organization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Pick the right statement with regard to national and international legal systems",
+    "options": [
+      "The executive branch of government enforces laws in national legal system, there is very minor international government with the authority to command States in the international legal system.",
+      "While the state legislatures are deficient of the power of making laws in the international legal system, States need not give consent to the international laws individually.",
+      "The international tribunals have compulsory jurisdiction to decide on the rights and duties of States international legal system, while the judiciary decides on the rights and duties of individual people in national legal system.",
+      "Nationals of states are equal before the law under the national legal system, the wealthy nations are more equal than the poor nations before the international legal system."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following statements is wrong with regard to the sources of international law",
+    "options": [
+      "The term ‘source of International law’ is clearly mentioned under Article 38 of the ICJ statute",
+      "The sources of international law appearing in the ICJ statute were intended to rank in the order of their appearance in Article 38(1).",
+      "The General principles of law, writing of publicists, and judicial decisions are Secondary sources of international law, while the international customs and Protocols being the primary sources of international law.",
+      "International custom binds the States that say nothing during the time when a custom is developing and even the new state will be bound by that custom, except the persistently protesting states."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is criteria for statehood under the international Law?",
+    "options": [
+      "Reasonably ascertainable Territory",
+      "Democratically elected Government",
+      "Territory with free from any dispute",
+      "Non-transitory or non-migratory population"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following terms is different from the rest of choices provided",
+    "options": [
+      "Covenant",
+      "Protocols",
+      "Custom",
+      "Pacts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statement is true regarding to treaty reservations?",
+    "options": [
+      "When reservation is made on a provision of treaty, the rest provisions of a treaty lose its validity automatically.",
+      "Treaty reservation might not be formulated when it is either prohibited by treaty itself, or compatible with the purpose and object of the treaty.",
+      "Treaty reservation is a multilateral statement made by state to admit the legal effect of a treaty provision.",
+      "The VCLT lacks provisions determining who would decide whether a reservation is valid or not under International Law."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following sentences is true with respect to Persistent objector rule",
+    "options": [
+      "It constitutes a general rule that all States must consent to a particular custom for it to be enforceable against them.",
+      "It states that States that do not consent to a given custom must specifically object to it.",
+      "The persistent objector state disputes the existence of the customary rule at all.",
+      "The persistent objector does keep silent and never resist against custom/usage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the followings is incorrect about fundamental characteristics of human rights?",
+    "options": [
+      "In principle human rights are universal, eternal and inalienable, indivisible and interrelated natural entitlements.",
+      "Human rights norms serve as international standards of criticism and evaluation.",
+      "Human rights consists a set of specific and numerous norms and principles.",
+      "The ultimate burden to implement human rights lies with individuals."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the followings is does not constitute binding sources of international human rights law?",
+    "options": [
+      "Treaties",
+      "International Conventions",
+      "Customary international law norms",
+      "Decisions of international tribunals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is an example of Charter based human rights monitoring mechanisms?",
+    "options": [
+      "UN Human Rights Council",
+      "International Court of Justice",
+      "UN Security Council",
+      "UN Office of High Commissioner for Human Rights (UNOHCHR)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the followings is not correct about the developments of regional human rights systems?",
+    "options": [
+      "Regional human rights systems serve the interest of convenience in enforcement of human rights.",
+      "African, European and American continents have already developed their respective regional human rights systems working parallel to universal systems.",
+      "The regional human rights systems can carry out only certain human rights related activities as expressly authorized by UN.",
+      "The relations ship between UN human rights system and regional human rights system is complementary and cooperative rather than competitive."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What makes derogations of human rights different from restrictions of human rights?",
+    "options": [
+      "Restrictions of human rights may involve potential suspension of rights temporarily while Derogation constitute the borderline of legitimate enjoyment of the rights.",
+      "Restrictions is applicable only in exceptional circumstances threatening the existence of a nation while derogation are permanent and applicable in all circumstances.",
+      "The legitimate national security interest or public order justifies derogation of human rights while only rights of other fellow individuals justify restriction of human rights.",
+      "(Option D missing in source, but given answer C)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is not lawful interest of post-conflict societies in transition process in the aftermath of grave and systematic human rights violations?",
+    "options": [
+      "The interest to know the truth",
+      "The interest of justice",
+      "The interest of peace and reconciliation",
+      "The interest to get Revenge"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is incorrect about the nexus of human rights with globalization process in contemporary international community?",
+    "options": [
+      "The idea of human rights is one of the strategies currently being employed in the globalization process.",
+      "International trade as one of strategies being employed in the globalization process can affect human rights positively and negatively.",
+      "Foreign direct investment (FDI) is always useful for the promotion and enjoyment of human rights in host states.",
+      "(Option D missing)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the is correctly explain the concept of Jus Cogens under international law?",
+    "options": [
+      "Exceptions to prohibition of use of force",
+      "believing that something is already law",
+      "restriction of imports and suspension of aid",
+      "Preemptory norm with no derogation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Retorsion is_________",
+    "options": [
+      "Embargo of ships and imposition of sanctions",
+      "self-defense and enforcement action by security council",
+      "Self-defense, retorsions, and reprisals",
+      "Exceptions to prohibition of use of force"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What are the grounds of invalidation of treaties according to Vena convection on law of treaties?",
+    "options": [
+      "In principle a state can invoke its municipal law to invalidate its treaty obligation.",
+      "The principle is that error might vitiate consent even if it isn’t relating to something fundamental.",
+      "Corruption of its representative directly or indirectly by another negotiating State is not a ground for invalidation of treaty obligation",
+      "Treaties conflicting with a peremptory norm of general international law."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The term opinion juris refers___",
+    "options": [
+      "Exceptions to prohibition of use of force",
+      "believing that something is already law",
+      "Preemptory norm with no derogation",
+      "General principle of Law with derogation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Exceptions to prohibition of use of force Under U.N charter",
+    "options": [
+      "Embargo of ships and imposition of sanctions",
+      "self-defense and enforcement action by security council",
+      "Self-defense, retorsions, and reprisals",
+      "believing that something is already law"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is correctly explain the power of international court of justice.",
+    "options": [
+      "When ICJ gives decisions based on its contentious jurisdiction the decision would not be binding on the parties to the case.",
+      "In its contentious jurisdiction the court handles disputes.",
+      "The advisory jurisdiction does entertain disputes per se and opinions of the ICJ are legally binding.",
+      "The advisory opinions despite not being binding has an influential character."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When we talk about hierarchy of laws under international law which sources of international law prevails over the other?",
+    "options": [
+      "International Treaties",
+      "Costumery international law",
+      "Peremptory norm",
+      "Convention"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is false about Monism theory of international law and national law relationship.",
+    "options": [
+      "Monism considers international law and national law as belonging to the same legal order and it treats them as different versions of a single body of law.",
+      "Monism considers international law and national law operate concurrently over the same subject matter.",
+      "When a conflict arises between the international law and national law, national law prevails and national law is considered as having a higher position or a better standing in the ladder of hierarchy.",
+      "Monism theory is incorporated under Vienna convention on the law of treaties."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Assumes that international law and municipal law are two separate legal systems which exist independently of each other; then which of the following is correct.",
+    "options": [
+      "One deals with intra state relations and the other inter state matters respectively.",
+      "In cases where there is a contradiction between national law and international law the dualist law suggest that national law would prevail on international matters and international law would prevail under national matters.",
+      "A state’s action could be unlawful under international law but it still justifies its action under its national law.",
+      "For dualists states can enact national laws that contradict its international duty. In such cases the state will, not held liable under international law."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "How do international courts treat national laws? Or when do they make use of national laws?",
+    "options": [
+      "National laws are never used as sources of international law in determining its content.",
+      "National law can clarify state practice to determine the contents of a given international law rule.",
+      "International law does not leaves any questions to be handled by national law.",
+      "The general rule of international law provides that a state can plead a rule or a gap in their own national law as a defense to a claim under international law."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Domestic application of international law is _____",
+    "options": [
+      "According to the doctrine of transformation rules of international law become part of national law without the need for express adoption.",
+      "According to doctrine of transformation, once a state consents to be bound by a given international law rule then that given international law rule would be considered s forming part of the national law.",
+      "The doctrine of transformation stipulate that rules of international law don’t become part of national law until they have been expressly adopted by a state.",
+      "The doctrine of transformation formalities isn’t required at all after ratification based of the national laws of each state for instance approval legislature or publications."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following may not be considered as a relevant fact to prove or disprove a fact under inquiry in a given civil or criminal proceeding?",
+    "options": [
+      "A fact which is the occasion, cause or effect of that fact under investigation.",
+      "A fact which constitutes part of the same transaction with that of the fact under inquiry.",
+      "A fact which manifests similar characteristics with that of the fact under inquiry.",
+      "A fact which afforded an opportunity for the occurrence of that fact under inquiry."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following may have the effect of relieving a party to a dispute of the obligation to adduce evidence in respect of a particular fact in issue?",
+    "options": [
+      "The operation of a legal presumption.",
+      "Presumption of innocence.",
+      "Oath.",
+      "Compurgation."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is true under the present criminal justice system of Ethiopia?",
+    "options": [
+      "Silence of an accused may sometimes be considered as amounting to admitting of the commission of the criminal act in the charge.",
+      "An antecedent of an accused may not be disclosed before judges determine the kind and extent of punishment that an accused person has to serve.",
+      "An accused may be cross-examined on his statement once s/he gave a statement during her/his defense evidence.",
+      "An accused may be required to disclose his/her ground of defense and the nature and type of evidence s/he intends to introduce."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following may not be considered as a crucial and legally acceptable factor in the assessment of the credibility of a witness?",
+    "options": [
+      "Gender of the witness.",
+      "Age of the witness.",
+      "Personal interest of the witness in the outcome of the case.",
+      "Consistency or otherwise of the witness’s testimony."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Normally shift (reversal) of burden of proof relates to:",
+    "options": [
+      "Judicial notice",
+      "Evidential burden of proof",
+      "Presumption of innocence",
+      "Legal burden of proof"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under the present civil and criminal justice system of Ethiopia, judges:",
+    "options": [
+      "Can cross-examine witnesses of parties with a view to facilitate the search of truth.",
+      "Cannot call any witness who is not listed as a witness of either the plaintiff or the defendant.",
+      "Are passive actors both at the pre-trial and during trial stages.",
+      "Can put any question to the witnesses of parties at any stage of examination of such witnesses when they find it necessary for the just decision of cases at their hand."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Evidence or any other means of proof is often required to prove or disprove:",
+    "options": [
+      "Judicial notice",
+      "Facts in issue or relevant facts",
+      "Presumption of law",
+      "Presumption of innocence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following statements is true regarding hearsay evidence?",
+    "options": [
+      "Dying declaration is admissible in every criminal case.",
+      "Any hearsay evidence is admissible in every civil case.",
+      "Some hearsay evidence could be admissible in civil as well as criminal cases in common law systems.",
+      "Hearsay evidence relates only to oral evidence."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following could be considered at trial as a form of real evidence?",
+    "options": [
+      "Exhibits.",
+      "Laboratory test.",
+      "Confession or informal admission.",
+      "Inscription found on a tombstone."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A suspect cannot be punished or held in contempt of court for failing to answer questions or provide documents to a prosecuting authority. This kind of protection represents:",
+    "options": [
+      "The principle against double jeopardy.",
+      "The principle of equality of arms.",
+      "The privilege against self-incrimination.",
+      "Forced confession."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In tort laws of European countries, the rule that applies to issues that arise in relation to immovable property is___________.",
+    "options": [
+      "lex foci",
+      "lex usus",
+      "the law of the resident of the owner",
+      "lex situs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In an adversarial system of criminal procedure, the responsibility for gathering and presenting evidence rests with:",
+    "options": [
+      "the jury",
+      "the parties",
+      "the trial judges",
+      "the investigative judge"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not necessarily relevant in determining the amount of bail:",
+    "options": [
+      "The seriousness of the crime",
+      "The criminal record of the accused",
+      "The financial status of the accused",
+      "The social ties of the defendant"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following rights is directly affected by the interrogation stage:",
+    "options": [
+      "The right to silence",
+      "The right to bail",
+      "The right to disclosure",
+      "The right to appeal"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The theory of judicial jurisdiction that asserts that a forum state should try the case where it is convenient, fair and just to the parties is __________ theory.",
+    "options": [
+      "Equitable",
+      "Subjective",
+      "Fairness",
+      "Minimum contact"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Law of Criminal procedure does not have close connection with:",
+    "options": [
+      "Constitutional Law",
+      "The Law of Criminal Evidence",
+      "The Law of Torts",
+      "Human Rights Law"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A procedural device that allows an indigent plaintiff to institute a civil case in a court of law without paying a court fee is:",
+    "options": [
+      "Public interest litigation",
+      "Pauperism",
+      "Legal aid",
+      "Class action"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The rules on venue of courts are procedural. This means:",
+    "options": [
+      "A court which lacks proper venue cannot give a valid judgment",
+      "Objection to venue of courts is not a waivable defense",
+      "A court which lacks proper venue may still give a valid judgment",
+      "The rules are also jurisdictional"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The monetary value of a civil claim on the date of institution of a suit is relevant to determine:",
+    "options": [
+      "Local jurisdiction of the court",
+      "Whether the claim falls under federal or state court jurisdiction",
+      "Pecuniary jurisdiction of the court and the amount of court fee due",
+      "Subject-matter jurisdiction of the court"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A petition for review by cassation bench of the Federal Supreme Court should be filed within ___ days of a final judgment.",
+    "options": [
+      "60 days",
+      "30 days",
+      "90 days",
+      "10 days"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When a defendant fails to appear on the first hearing of a civil suit despite effective and timely service of summons:",
+    "options": [
+      "he is deemed to have admitted the suit against him",
+      "the court shall order a new summons to be served on him",
+      "the court may dismiss the suit",
+      "the court shall proceed ex-parte without prejudice to the defendant’s right to take appeal against the ex-parte decree"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The distinguishing feature of a summary procedure under the Ethiopian Civil Procedure Code is that:",
+    "options": [
+      "it is the only fast-track procedure recognized in Ethiopia",
+      "it can be employed to prosecute any civil claim so long as the pecuniary value of such claim is known",
+      "a defendant’s right to defend is not automatic",
+      "it can be employed at an appellate level"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which procedural irregularity is a jurisdictional issue?",
+    "options": [
+      "Misjoinder of a party",
+      "Non-joinder of an indispensable party",
+      "Non-joinder of a cause of action",
+      "Splitting of claim."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following statements is not true about execution of a decree under Ethiopian Civil Procedure:",
+    "options": [
+      "Not all assets of the judgment-debtor are subject to attachment.",
+      "A court may transfer its decree to another court for execution.",
+      "Property of the debtor encumbered by pledge or mortgage of a third party is exempted from attachment.",
+      "Appeal by a judgment-debtor does not of itself entail stay of the execution of the decree."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "\"A\" instituted a suit against \"B\" to recover damages for breach of contract. On the day fixed for first hearing, A did not appear to court because he was sick. The court then dismissed his suit, as B denied A’s claim against him. What remedy is available for A?",
+    "options": [
+      "Appeal against the court’s order",
+      "Instituting a fresh suit",
+      "Petitioning the same court for order to set aside the dismissal",
+      "Petitioning the president of the court for judicial impropriety"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Cicero's conception of natural law is 'based on the idea that 'true law is right reason in agreement with Nature.' Reason is a key element because:",
+    "options": [
+      "It is a sin for humans not to apply reason.",
+      "The principles of natural law are discoverable by reason.",
+      "Natural law does not apply without good reason.",
+      "The law of nature is the basis of all positive law."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to Hobbes, peace is the first law of nature because of which of the following situations?",
+    "options": [
+      "Without peace everyone has a right to everything - including another's life.",
+      "Peace is possible only after war.",
+      "Law cannot achieve peace.",
+      "The social contract cannot be entered into unless there is peace."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?",
+    "options": [
+      "They adopt different attitudes towards the role of the courts in maintaining order.",
+      "They disagree about the role of law in society.",
+      "They have opposing views about the nature of contractual obligations.",
+      "They differ in respect of their account of life before the social contract."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hume's attack on natural law is founded on his argument that:",
+    "options": [
+      "We cannot objectively know what is morally right or wrong.",
+      "Natural law is backward-looking.",
+      "There is no such thing as a social contract.",
+      "Natural law fails to protect the state against attacks."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the factors below contributed significantly to the revival of natural law in the 20th century?",
+    "options": [
+      "The Depression of the 1930s.",
+      "The rise of Fascism.",
+      "The international recognition of human rights after WWII.",
+      "The Bolshevik revolution."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "On what grounds does John Finnis reject Hume's conception of practical reason?",
+    "options": [
+      "That natural law corresponds to positive law.",
+      "That Hume is a legal positivist.",
+      "That syllogistic logic is false.",
+      "That human reason can help us to determine what constitutes a worthwhile life."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following most accurately describes Hart's response to Fuller's argument concerning the invalidity of Nazi law?",
+    "options": [
+      "The Nazi law in question was validly enacted.",
+      "The court misunderstood the legislation.",
+      "Fuller misconstrued the purpose of the law.",
+      "The Nazi rule of recognition was unclear."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following statements best captures the nature of Fuller's 'inner morality of law'?",
+    "options": [
+      "A positivist view of law.",
+      "A morality of aspiration.",
+      "An Aquinian concept of natural law.",
+      "A rejection of the 'harm principle'."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which proposition below may be characterized as the most powerful refutation by Hart of Lord Devlin's argument?",
+    "options": [
+      "Society has no right to preserve its moral and social cohesion through the criminal law.",
+      "Homosexual acts cause public outrage.",
+      "The courts are the best place to resolve moral questions such as those concerning homosexuality and prostitution.",
+      "The law is anachronistic."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The United States Supreme Court's decision in Roe v Wade is highly controversial because:",
+    "options": [
+      "It failed to consider the rights of fathers.",
+      "It overlooked the common law relating to abortion.",
+      "The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.",
+      "The court failed to consider the medical evidence."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which statement best describes the relationship between law and morality among non-positivist legal theorists?",
+    "options": [
+      "There is no relationship between law and morality.",
+      "Law is always in advance of moral ideas.",
+      "The law is inextricably bound up with morals.",
+      "Morality is generally in advance of the law."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which statement below is the least consistent with the argument that judges in an unjust legal system ought to resign?",
+    "options": [
+      "Judges are under a duty to act justly.",
+      "Since they also prop up the unjust system, lawyers should also resign.",
+      "If a moral judge resigns, he or she may be replaced by a less moral judge.",
+      "Judges do not make the law, hence they cannot be held responsible for applying unjust legislation."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is the correct reason for the revival of natural law principle?",
+    "options": [
+      "The development of science and technology",
+      "The codification of civil codes in France and Germany",
+      "The inadequacy of positive law in protecting mankind from the state",
+      "The development of enlightenment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A school of jurisprudence which considers judges as the true law makers is",
+    "options": [
+      "Legal positivism.",
+      "Stoicism.",
+      "Legal realism,",
+      "Feminist Legal theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Under which of the following circumstances of termination of employment relationship is a notice period necessary?",
+    "options": [
+      "Completion of the work for which the worker is employed.",
+      "Dismissal of a worker due to his/her misconduct at the place of work.",
+      "Terminations of employment because a worker is found unfit for the job due to his/her health.",
+      "Resignation of a worker as a result of his/her employer's misdeed to him/her."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Suppose that, Aster. who used to work in water bottling company, is forced to resign from her job due to the incessant sexual harassment she faced in her place of work and which her supervisors were not able to stop. Which of the following entitlements is NOT due to Aster under the circumstance?",
+    "options": [
+      "Payment in lieu of unutilized annual leave.",
+      "Certificate of service.",
+      "Severance payment.",
+      "Payment in lieu of notices period."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following facts absolves the employer from liability for injury sustained by a worker at the workplace?",
+    "options": [
+      "Absence of fault of the employer.",
+      "That the employee is in a probation period.",
+      "Fault of the employee that caused the injurious accident.",
+      "Injury is a result of fault of fellow worker."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "As per the Ethiopian Labor Law, which of the following issues relating to the employment relationship cannot be subject to negotiation at the time of conclusion of contract of em1oyment?",
+    "options": [
+      "Wage and allowance.",
+      "Maximum working hours.",
+      "Liability for employment injury.",
+      "Annual leave."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following a correct course of action in legal profession according to the application of rule utilitarianism?",
+    "options": [
+      "An act of advocate during his/her professional service is right only if it produces the best interest of the client.",
+      "Telling a lie before a court of law may be right as long as it is done to protect the best interests of his client.",
+      "Any action of the advocate that fails to protect the best interests of his client is wrong.",
+      "An action of the advocate is right only if such action is done in conformity with the advocate’s code of conduct regulation."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following rights of person is more likely to be affected by partiality of a judge in a trial?",
+    "options": [
+      "The right to equal protection before the law.",
+      "The right to public trial.",
+      "The right to be heard.",
+      "The right to freedom of expression."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is a judicial misconduct of a judge outside the judicial court?",
+    "options": [
+      "A judge may make ex-parte communication with one of the parties if he/she deems it necessary.",
+      "A judge may discuss about the merits of the pending case with other judges sitting in the same bench.",
+      "A judge may not communicate the merits of the pending case with other judges in the same court.",
+      "A judge may receive gifts from friends during his birth day celebrations."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following ethical duties is not the common ethical and legal duty of advocates, judges and public prosecutors in the conduct of their professional legal service?",
+    "options": [
+      "The duty not to accept gift.",
+      "The duty to uphold the honor of the legal profession.",
+      "The duty not to borrow money from one of the parties in the litigation.",
+      "The duty of civility towards each other."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The theory of historical school of jurisprudence in contrast to that of the analytical school holds that:",
+    "options": [
+      "Custom is the source of law.",
+      "Custom has no place in law.",
+      "Law depends up on the desire of the ruler.",
+      "Law owes its existence to the higher moral principles."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which is true about profession in Ethiopian legal context?",
+    "options": [
+      "It has different definitions",
+      "It has clear cut definition for all types of profession",
+      "No legal explanation about it",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What are the ways human beings are finite rational beings, according Kant?",
+    "options": [
+      "Human beings are not ideal rational calculators.",
+      "cognitive limitations are standardly complemented by limited autonomy",
+      "to avoid manipulation and to lend some support to other’s plans and activities",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is not true?",
+    "options": [
+      "Profession is an occupation",
+      "Ethics is a source of professional ethics",
+      "Legal ethics is a branch of applied ethics",
+      "Professional ethics applies to all persons"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one is true about legal profession?",
+    "options": [
+      "it is is essential in a complex society.",
+      "it requires advanced training in law",
+      "work for the welfare of the society",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A person should pass through three distinct stage of legal education to be admitted to the bar in Canada except.",
+    "options": [
+      "The stages are pre-law university instruction,",
+      "the academic stage",
+      "vocational stage",
+      "none"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One is not true about the Ethiopian Bar Association (EBA) activities?",
+    "options": [
+      "Continuing Legal Education CLE)",
+      "Law Reform and Advocacy,",
+      "No render Legal Aid Services",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The main purpose of requiring license to practice law is",
+    "options": [
+      "To create a source of revenue for government",
+      "To protect members of the public against sub-standard advocacy service",
+      "To enable few persons to monopolize the practice of law",
+      "To avoid competition in legal profession"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is not a cause of popular dissatisfaction with legal profession?",
+    "options": [
+      "Excessive fees",
+      "Abuses of adversarial system",
+      "Civility among advocates",
+      "Commercialization of legal profession"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is not true about practicing law?",
+    "options": [
+      "Practicing law without a license is a crime",
+      "A person can represent his father in a court of law without having a license",
+      "Graduation from law school is a pre condition to become an advocate",
+      "Any Ethiopian can practice law"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Judges are without constituency and answerable to no one except:",
+    "options": [
+      "consciences",
+      "the law",
+      "President",
+      "It may different according their respective code of conduct"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one is the purpose of probation?",
+    "options": [
+      "to test the suitability of the employee to a post in which she is intended to be assigned",
+      "Employer can be benefited by the ground of nationality",
+      "Employer can be benefited by the ground of sex",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is not an item for minimum working condition?",
+    "options": [
+      "trying to protect the employee from unjustified dismissal",
+      "prescribing minimum hourly/monthly wages to employees working within their territory",
+      "To fire without good reason",
+      "None"
+    ],
+    "correct": 2
+  }
+]
