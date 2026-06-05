@@ -1,0 +1,912 @@
+[
+  {
+    "questionText": "Identify the wrong claim about strategies.",
+    "options": [
+      "Strategies need to examine set of trends",
+      "Strategy should not present inconsistency to goals and policies",
+      "Strategies create new value but not competitive advantage",
+      "Strategies should not require too much resource"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Bargaining power of suppliers decrease when:",
+    "options": [
+      "Buyers' switching costs are high",
+      "Suppliers' products create high switching costs",
+      "Buyers are large and suppliers are few in number",
+      "Suppliers hold uniquely critical material for the buyer"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one indicates the blueprint or planning stage of the strategic management process?",
+    "options": [
+      "Strategy implementation",
+      "Feedback stage",
+      "Strategy evaluation",
+      "Strategy formulation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A manufacturer of screws has noticed that on average two percent of the screws produced are defective. A random sample of 400 screws is examined for the proportion of defective screws. Find the probability that the proportion of defective screws in the sample is between 0.01 and 0.03.",
+    "options": [
+      "0.4236",
+      "0.7611",
+      "0.4826",
+      "0.8472"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which process strategy does a natural spring water producing company apply?",
+    "options": [
+      "Product focus",
+      "Repetitive",
+      "Process focus",
+      "Mass customization"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Goodness-of-fit tests differ from independence tests in terms of:",
+    "options": [
+      "The method used to compute expected frequencies",
+      "The rule for determining the number of degrees of freedom",
+      "A and B",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is different from the others?",
+    "options": [
+      "Interview",
+      "Observation",
+      "Time series",
+      "Questionnaire"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In which of the leadership styles does the leader make all of the decisions and followers simply execute without deviating from the decision?",
+    "options": [
+      "Autocratic style",
+      "Transformational style",
+      "Free-reign style",
+      "Democratic style"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In building a secure environment for a Management Information System, it is important to understand:",
+    "options": [
+      "The internet or intranet application's security requirements",
+      "The technology components of the intranet solution",
+      "The security policy of the organization",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not an objective of employee compensation.",
+    "options": [
+      "Discourage potential talent development",
+      "Attract qualified employees",
+      "Promote desirable behaviors and outcomes",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is wrong about performance appraisal?",
+    "options": [
+      "Helps in developmental interventions",
+      "Affects employees negatively",
+      "A tool for enhancing productivity",
+      "Formal assessment and rating of individuals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The project monitoring and controlling activities could be done by the following EXCEPT:",
+    "options": [
+      "Control feedback and revision",
+      "Reporting",
+      "Reviewing proposals of other projects",
+      "Consistent loop of review"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT among the ten project management knowledge areas as suggested by the Project Management Institute?",
+    "options": [
+      "Risk management",
+      "Time management",
+      "Procurement management",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which bases of power are most effective in terms of influencing the behavior of others?",
+    "options": [
+      "Political power",
+      "Expert and referent power",
+      "Coercive power",
+      "Reward and legitimate power"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The number of years required to recover the funds invested in a project from its operating cash flows is defined as:",
+    "options": [
+      "Internal Rate of Return",
+      "Net Present Value",
+      "Profitability Index",
+      "Payback Period"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is false about the dual simplex?",
+    "options": [
+      "The dual of the dual is the dual itself",
+      "The dual provides useful economic information",
+      "The term \"dual\" implies two or double",
+      "It gives information on the worth of resources"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What is the most important consideration in retail layout?",
+    "options": [
+      "Improved information flow",
+      "Higher utilization of space",
+      "Maximizing exposure",
+      "Improved employee morale"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Based on the principles of Henri Fayol, an effective organizing function depends on the mastery of the following EXCEPT:",
+    "options": [
+      "Span of control",
+      "Chain of command",
+      "Budget allocation",
+      "Work specialization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A legal form of business having unlimited liability and run by two or more individuals who have pooled resources is:",
+    "options": [
+      "Sole proprietorship",
+      "Partnership",
+      "Joint Venture",
+      "Corporation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Identify the incorrect statement about strategy formulation and implementation.",
+    "options": [
+      "A poor strategy formulation results in failure if poorly implemented",
+      "A poorly formulated strategy might be implemented successfully",
+      "A good strategy formulation can result in a good implementation",
+      "A good strategy formulation necessarily leads to successful implementation"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When information is extracted, filtered, or formatted in some way, the output is:",
+    "options": [
+      "Confidence",
+      "Intelligence",
+      "Commitment",
+      "Knowledge"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "An inspiring, long-term \"dream\" about what the organization will achieve in the future is referred to as:",
+    "options": [
+      "Mission",
+      "Objective",
+      "Vision",
+      "Goal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the definition of management?",
+    "options": [
+      "It is the art of getting things done through the efforts of other people",
+      "It is the process of deciding who in the organization will perform what tasks",
+      "It is an action that managers take to attain the goal of an organization",
+      "It is the process of deciding future course of action today"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is NOT a unique feature of international marketing?",
+    "options": [
+      "It uses similar marketing concepts and principles",
+      "It is complex compared to local marketing",
+      "It uses the same strategy",
+      "It crosses boundaries"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In terms of applications, information can be categorized into all of the following EXCEPT:",
+    "options": [
+      "Planning information",
+      "Control information",
+      "Knowledge information",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is incorrect about operations management?",
+    "options": [
+      "It is pervasive in different organizations",
+      "It focuses on creating value to customers",
+      "It is just the creation of goods and services",
+      "It is a set of activities that create products"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is a correct claim about resistance to change?",
+    "options": [
+      "Resistance is a pandemic phenomenon",
+      "Resistance to change is a red-flag",
+      "Resistance is not always necessarily bad",
+      "Resistance is always an undesirable human response"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Suppose 500 students are selected for interview from three universities. The distribution is: Arba Minch (90 Male, 60 Female), Addis Ababa (100 Male, 70 Female), Jimma (90 Male, 90 Female). What is the probability that the student chosen is female given that Jimma University students are chosen?",
+    "options": [
+      "0.18",
+      "0.36",
+      "0.50",
+      "0.25"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT a possible function of organizational culture?",
+    "options": [
+      "Boundary-defining role",
+      "Enhances the stability of the social system",
+      "Magnifies differences",
+      "Shapes attitudes and behavior of employees"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If a project is found to be feasible from the results of the feasibility study, the next logical step is:",
+    "options": [
+      "To divert the project idea and find another viable idea",
+      "To proceed with the idea to which the feasibility study is conducted",
+      "To report to the government and get approval for the new project idea",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The initial stage in the entrepreneurial process is:",
+    "options": [
+      "Identification and refinement of a viable opportunity",
+      "The identification and refinement of working capital",
+      "The identification and refinement of viable resources",
+      "The identification of skilled labour in the labor market"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In order to provide past, present, and prediction information accessible to managers, a Management Information System can include all of the following EXCEPT:",
+    "options": [
+      "Software that helps in decision-making",
+      "Data resources such as databases",
+      "The hardware resources of a system",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is incorrect about the difference between a leader and a manager.",
+    "options": [
+      "A manager relies on control whereas a leader inspires trust",
+      "Unlike managers, leaders are followed because of their personality",
+      "A leader focuses on maintaining the status quo whereas a manager challenges it",
+      "A leader invents or innovates while a manager imitates"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which cost of quality has significant strategic implication?",
+    "options": [
+      "Internal failure cost",
+      "Prevention cost",
+      "Appraisal cost",
+      "External failure cost"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is a non-probability sampling technique?",
+    "options": [
+      "Judgmental sampling",
+      "Cluster sampling",
+      "Stratified sampling",
+      "Systematic sampling"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is NOT among the definitions of marketing?",
+    "options": [
+      "It is a combined effort of decision making in a company setup so as to get things done",
+      "It is a social and managerial process by which individuals and organizations obtain what they need and want through creating and exchanging value with others",
+      "It is a management of profitable customer relationship that adds value to the company in a way it can serve its purpose",
+      "It is the process by which companies create value for customers and build strong customer relationships in order to capture value from customers in return"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Withdrawal behavior is commonly manifested in the form of:",
+    "options": [
+      "Punctuality",
+      "Turnover",
+      "Motivation",
+      "Engagement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Appropriateness of a structure depends on the following contingency variables EXCEPT:",
+    "options": [
+      "Goal and tasks",
+      "Ethnicity",
+      "Size",
+      "Technology"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If the product introduced in the international market requires a lot of training, installation, and support, the appropriate marketing channel suggested is:",
+    "options": [
+      "Domestic distributors",
+      "Indirect marketing channel",
+      "Direct marketing channel",
+      "Manufacturing agents"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A kind of product that a consumer either does not know about or knows about but does not normally consider buying is:",
+    "options": [
+      "Convenience product",
+      "Unsought product",
+      "Specialty product",
+      "Shopping product"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A work-related attitude describing how one is predisposed to act is:",
+    "options": [
+      "Behavioral component",
+      "Cognitive component",
+      "Evaluative component",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Using the optimistic (maximax) criteria with strategies S1, S2, and S3 and payoffs (S1: 700,000/300,000/150,000; S2: 500,000/450,000/0; S3: 300,000/300,000/300,000), which alternative does the decision maker select?",
+    "options": [
+      "S1",
+      "S2",
+      "S3",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is not true about financial management?",
+    "options": [
+      "Deals with management of capital sources",
+      "One of the important functions of a firm",
+      "Deals with material resources of the firm",
+      "Concerned with maximization of economic value"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In tossing a fair coin three times, what is the probability of achieving at least one head in the three tosses?",
+    "options": [
+      "7/8",
+      "2/3",
+      "2/9",
+      "1/3"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The internal analysis involves all of the following EXCEPT:",
+    "options": [
+      "Analyzing the organization's value creation process",
+      "Analyzing functional areas of the organization",
+      "Identifying resources, capabilities, and core competencies",
+      "Does not look into current vision and mission statements"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Who is mostly responsible for creating a corporate level strategy?",
+    "options": [
+      "Lower-level managers",
+      "Employees at the shop level",
+      "Middle level managers",
+      "Chief executive officers"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Using the assignment table (Row 1: A=40, B=20, C=0; Row 2: A=0, B=10, C=30; Row 3: A=0, B=30, C=10), determine the optimal assignment.",
+    "options": [
+      "1-C, 2-B, 3-A",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-C, 3-B",
+      "1-C, 2-A, 3-A"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Identify the incorrect statement about conflict in organizations.",
+    "options": [
+      "Conflict is an opposition between two or more parties",
+      "Conflict is always dysfunctional",
+      "Conflict arises from incompatible goals",
+      "Conflict involves opposing interests"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one is a type of informal group?",
+    "options": [
+      "Command group",
+      "Task group",
+      "Interest group",
+      "Ad hoc committee"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is a capacity option for aggregate planning?",
+    "options": [
+      "Changing inventory levels",
+      "Varying production rates",
+      "Back ordering",
+      "Varying workforce size"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The first step in conducting human resource development interventions is:",
+    "options": [
+      "Evaluation",
+      "Design",
+      "Implementation",
+      "Need assessment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The degree to which a job entails a variety of different activities demanding the use of a number of skills and talents by the job holder relates to:",
+    "options": [
+      "Task significance",
+      "Task identity",
+      "Skill variety",
+      "Autonomy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following cannot be true about project financing?",
+    "options": [
+      "It is important to secure the sources of finance before going through all the details of the project feasibility study",
+      "The allocation of financial resources to a project constitutes an obvious and basic prerequisite for investment decisions",
+      "A preliminary assessment of project financing possibilities should be done before a feasibility study is undertaken",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an element of the micro environment?",
+    "options": [
+      "Political",
+      "Technological",
+      "Customers",
+      "Cultural"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is wrong about promotion?",
+    "options": [
+      "Entails more responsibility",
+      "Presents greater challenges",
+      "Provides more authority",
+      "Reduces amount of pay"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Whenever consumers in different countries are charged different prices for the same product in an international context, the pricing strategy is:",
+    "options": [
+      "Price discrimination",
+      "Experience curve pricing",
+      "Strategic pricing",
+      "Predatory pricing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Mr. Abemelek wants to examine the association between employees' total reward and employees' engagement at TEAM PLC. What is the appropriate method of analysis?",
+    "options": [
+      "Descriptive",
+      "Regression",
+      "Correlation",
+      "Multivariate"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify the incorrect expression regarding new product pricing strategy.",
+    "options": [
+      "In market skimming pricing, marketers set a high price for a new product to get maximum revenues layer by layer from the segments willing to pay the high price",
+      "In market skimming pricing, the company makes fewer but more profitable sales",
+      "In market skimming pricing, the marketer sets a low price for a new product to attract a large number of buyers and a large market share",
+      "In market penetration, the company sets lower prices to attract a large number of buyers quickly and win a large market share"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify the wrong statement about motivation.",
+    "options": [
+      "A single technique cannot motivate all people equally",
+      "Motivation is synonymous with job performance",
+      "Motivation is multifaceted",
+      "People are motivated by more than just money"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Identify the item that is NOT a marketing stimulus in the model of buyer behavior.",
+    "options": [
+      "Promotion",
+      "Culture",
+      "Product",
+      "Price"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is NOT a component of the linear programming model structure?",
+    "options": [
+      "Decision variable",
+      "Objective function",
+      "Constraints",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is NOT a strategy that provides an opportunity for operations managers to achieve competitive advantage?",
+    "options": [
+      "Response",
+      "Differentiation",
+      "Cost",
+      "Focus"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following products is NOT suitable for standardized advertising?",
+    "options": [
+      "Experiential products",
+      "Unfavorable country image products",
+      "Luxury products",
+      "High-tech products"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Using the given simplex tableau, identify the basic variables.",
+    "options": [
+      "X1, S2, X2",
+      "X2, X3, S1",
+      "X2, X3, S1",
+      "X1, X2, X3"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When a company enters a foreign market using a product produced for the domestic market without any change, the product strategy preferred is:",
+    "options": [
+      "Straight product extension",
+      "Communication adaptation",
+      "Product adaptation",
+      "Product invention"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The new product development process starts with:",
+    "options": [
+      "Implementation",
+      "Diffusion",
+      "Search for ideas",
+      "Incubation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following techniques uses the opinions of supervisors, department managers, or experts in forecasting the manpower requirement?",
+    "options": [
+      "Markov analysis",
+      "Management forecasting",
+      "Trend analysis",
+      "Zero-based forecasting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is correct about foreign market entry strategies?",
+    "options": [
+      "Joint venturing differs from direct investment because an association is not formed with someone in the foreign country",
+      "Joining with foreign companies to produce or market products or services is direct exporting",
+      "Joint venturing differs from exporting in that the company joins with a host country partner to sell or market abroad",
+      "Two companies working in the same country can make an association to work in their parent country as a foreign firm"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Rejecting H0 while it is true is called:",
+    "options": [
+      "Type II error",
+      "Type I error",
+      "Correct conclusion",
+      "A and C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "As an entrepreneur, you must identify target customers for your product. Which of the following is NOT possibly your customer?",
+    "options": [
+      "People who are buying from you now",
+      "People you hope will buy from you in the future",
+      "People who stopped buying from you and ensured they will never return",
+      "People who stopped buying from you but you hope to get them back"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT the role of the state in labor relations?",
+    "options": [
+      "Bargains only for employees",
+      "Promulgates labor laws",
+      "Establishes wage boards",
+      "All"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Research conducted to address a specific business decision for a specific firm or organization is:",
+    "options": [
+      "Basic research",
+      "Deductive research",
+      "Applied research",
+      "Inductive research"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Facts and figures collected, analyzed, and summarized for presentation and interpretation are:",
+    "options": [
+      "Data",
+      "Element parameter",
+      "Observation",
+      "Statistics"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The autocratic style of leadership could be appropriate when:",
+    "options": [
+      "The team is highly motivated and skilled",
+      "The leader values group discussions and input from team members",
+      "The leader encourages team members to function independently",
+      "The leader has urgent issues to accomplish"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is NOT true about operations research?",
+    "options": [
+      "Uses computer programs",
+      "Scientific method",
+      "Multi-disciplinary",
+      "Intuitive"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one is false about the correlation coefficient?",
+    "options": [
+      "Values of the correlation coefficient are always between -1 and +1",
+      "It measures the strength of linear association between two variables",
+      "Values of the correlation coefficient close to zero indicate average relation",
+      "A value of +1 indicates strong correlation between variables"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following are the three basic types of control?",
+    "options": [
+      "Feed forward, in-process, and diagnostic",
+      "Prevention, feedback, and feed forward",
+      "Prevention, diagnostic, and therapeutic",
+      "Feed forward, concurrent, and feedback"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The statement that justifies the primary purpose of the organization and why the organization exists is:",
+    "options": [
+      "Strategic plan",
+      "Mission of the organization",
+      "Operational plan",
+      "Vision of the organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Identify the incorrect statement about strategy evaluation.",
+    "options": [
+      "Not necessary for strategic changes",
+      "Alerts management about potential problems",
+      "It is vital to an organization's well-being",
+      "Helps to correct erroneous strategic decisions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is true about a project idea?",
+    "options": [
+      "Every project starts with ideas and these ideas are considered as investment opportunities",
+      "The project idea stage is the first stage of a project cycle",
+      "The idea about a project could arise from a variety of sources",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is NOT a strategic implication of a location decision?",
+    "options": [
+      "Revenue",
+      "Clustering",
+      "Operating expense",
+      "Innovation and creativity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one is incorrect about task-oriented leaders?",
+    "options": [
+      "Focus on structure",
+      "Focus on goal attainment",
+      "Focus on staff motivation",
+      "Focus on procedures"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "As stated by Jeffry Timmons (2006) in the model of entrepreneurship, for an entrepreneur to create a successful venture, there must be a balance between:",
+    "options": [
+      "Opportunity, challenge, and resources",
+      "Opportunity, government, and international community",
+      "Opportunity, group cycle, and resources",
+      "Opportunity, team, and resources"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is an example of a direct channel?",
+    "options": [
+      "Producer – retailer – consumer",
+      "Producer – consumer",
+      "Producer – business distributor – business customer",
+      "Producer – wholesaler – retailer – consumer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following precedes the others in the research process?",
+    "options": [
+      "Collecting the data",
+      "Planning a research design",
+      "Defining the research objectives",
+      "Planning a sample"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "To restrain the entry of unwanted goods, countries usually utilize all or some of the following EXCEPT:",
+    "options": [
+      "Motivational barriers",
+      "Exchange barriers",
+      "Legal barriers",
+      "Psychological barriers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which statement best distinguishes the situation when classical management theory was developed?",
+    "options": [
+      "Obvious problems related to the factory system were recurring",
+      "Managers were unsure of how to train their employees",
+      "Agricultural societies were not transformed into industrial societies",
+      "Employees were positive about improving their efficiency and effectiveness"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following indicates an external environmental dimension of Human Resource Management?",
+    "options": [
+      "The type of business",
+      "The age of the organization",
+      "The size of the organization",
+      "The social context"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The primary purpose of staffing includes all of the following EXCEPT:",
+    "options": [
+      "Disciplining employees",
+      "Finding employees",
+      "Hiring employees",
+      "Rewarding employees"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Dividing a market into smaller segments with distinct needs, characteristics, or behaviors that might require separate marketing strategies or mixes is:",
+    "options": [
+      "Market targeting",
+      "Market differentiation",
+      "Market segmentation",
+      "Market positioning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A research proposal should address all of the following EXCEPT:",
+    "options": [
+      "The problem to be investigated",
+      "The research process to be carried out",
+      "The objectives to be achieved",
+      "The recommendations to be forwarded"
+    ],
+    "correct": 3
+  }
+]
