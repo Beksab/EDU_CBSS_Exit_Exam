@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "Without journalism there is no democracy, and without MIL there is no:",
+    "options": [
+      "Economic growth",
+      "Democratic human conversation",
+      "Technological innovation",
+      "Entertainment industry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The term \"prosumer\" was coined by Alvin Toffler in 1980 and refers to:",
+    "options": [
+      "Professional consumers",
+      "Participants who are both producers and consumers of information",
+      "Only professional journalists",
+      "Only social media users"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Article 19 of the Universal Declaration of Human Rights guarantees the right to:",
+    "options": [
+      "Own property",
+      "Freedom of opinion and expression, and to seek, receive and impart information",
+      "Free education",
+      "Free healthcare"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Disinformation is:",
+    "options": [
+      "False information not intended to cause harm",
+      "Information based on reality but used to harm",
+      "False information deliberately created to harm a person, group, organization or country",
+      "Accidental errors in reporting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Misinformation is defined as:",
+    "options": [
+      "False and deliberate",
+      "False but not created with the intention to cause harm",
+      "Always true",
+      "Verified information"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Mal-information is defined as:",
+    "options": [
+      "False and deliberate",
+      "False but harmless",
+      "Information based on reality, used to inflict harm on a person, organization or country",
+      "Satire"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The five main areas of MIL skills are:",
+    "options": [
+      "Reading, writing, arithmetic, science, history",
+      "Access, analysis and comprehension, critical evaluation, use, creation and engagement",
+      "Surfing, chatting, posting, liking, sharing",
+      "Printing, broadcasting, filming, recording, publishing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The fundamental journalistic 5Ws and 1H are:",
+    "options": [
+      "Who, what, when, where, why, and how",
+      "Which, whose, whom, whether, whither, hence",
+      "Watch, wait, wander, whistle, wink, hop",
+      "Write, read, edit, publish, share, delete"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "According to UNESCO's Five Laws of MIL, Law 1 states that information, communication, libraries, media, technology, and the Internet should be:",
+    "options": [
+      "Used only by professionals",
+      "Used critically by society and are equal in status",
+      "Controlled by governments",
+      "Avoided by children"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Law 2 of UNESCO's Five Laws of MIL states that:",
+    "options": [
+      "Only journalists can create information",
+      "Every citizen is a creator of information/knowledge and has the right to access information",
+      "Only governments have the right to self-expression",
+      "Information should be censored"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Law 3 of UNESCO's Five Laws of MIL states that:",
+    "options": [
+      "Information is always neutral",
+      "Information, knowledge, and messages are not always value neutral or unbiased",
+      "Only scientific information is valuable",
+      "Entertainment has no value"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Law 4 of UNESCO's Five Laws of MIL states that every citizen has the right to:",
+    "options": [
+      "Ignore information",
+      "Understand new information, knowledge, and messages",
+      "Censor others",
+      "Only receive information from one source"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Law 5 of UNESCO's Five Laws of MIL states that media and information literacy:",
+    "options": [
+      "Is acquired once and never changes",
+      "Is not acquired at once; it is a lived and dynamic experience",
+      "Is only for children",
+      "Is only for professionals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critical thinking as a MIL competency is defined as the ability to:",
+    "options": [
+      "Accept all information as true",
+      "Analyse, compare, challenge, ask questions, and assess objectively",
+      "Share information without verification",
+      "Ignore conflicting viewpoints"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Grunwald Declaration (1982) recognized that media education will be most effective when:",
+    "options": [
+      "Only teachers are involved",
+      "Parents, educators, media workers, and decision-makers are aware of their role in developing critical thinking",
+      "Only governments decide",
+      "Media is banned in schools"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The term \"netiquette\" refers to:",
+    "options": [
+      "Network speed",
+      "A set of rules of conduct for Internet users",
+      "Internet infrastructure",
+      "Computer hardware"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to the handbook, hypertextuality today applies to:",
+    "options": [
+      "Only digital texts",
+      "Both digital information and users of the network",
+      "Only printed books",
+      "Only academic journals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Fes Declaration on Media and Information Literacy was adopted in:",
+    "options": [
+      "2005",
+      "2011",
+      "2015",
+      "2018"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Paris Declaration on Media and Information Literacy in the Digital Era was adopted in:",
+    "options": [
+      "2010",
+      "2012",
+      "2014",
+      "2016"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The Riga Recommendations on Media and Information Literacy were adopted in:",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One reason MIL is needed in journalism today is:",
+    "options": [
+      "To increase advertising revenue",
+      "The news media is being used for misrepresentation, hate speech, and extremism",
+      "To reduce the number of journalists",
+      "To eliminate all criticism of media"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The term \"information culture of a person\" refers to:",
+    "options": [
+      "Only computer skills",
+      "A set of information worldview and system of knowledge and skills for optimal satisfaction of information needs",
+      "Only library cataloging",
+      "Only reading books"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Media literacy is the result of:",
+    "options": [
+      "Watching television",
+      "Media education or media learning",
+      "Buying a computer",
+      "Using social media once"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The ability to \"read\" audiovisual media text, use audiovisual techniques, and understand audiovisual culture is called:",
+    "options": [
+      "Computer literacy",
+      "Audiovisual literacy and visual literacy",
+      "Information literacy",
+      "Numerical literacy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the new information reality, users of new media are required to have networking skills, remixing, sharing, downloading, creation, distribution, and:",
+    "options": [
+      "Only typing",
+      "Proper use of content and multimedia",
+      "Only reading",
+      "Only listening"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to the handbook, journalism's first obligation is to:",
+    "options": [
+      "Profit",
+      "The truth",
+      "Entertainment",
+      "Speed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "MIL is described as a discipline of:",
+    "options": [
+      "Individual verification",
+      "Mass deception",
+      "Political propaganda",
+      "Entertainment only"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "While media are the 4th Estate, MIL enables the:",
+    "options": [
+      "1st Estate",
+      "2nd Estate",
+      "3rd Estate",
+      "5th Estate (citizens)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to the handbook, a journalist should verify a fact using at least:",
+    "options": [
+      "One source",
+      "Two independent sources",
+      "Three independent sources",
+      "Five independent sources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The process of checking facts to identify inconsistencies between published facts and reality is called:",
+    "options": [
+      "Rewriting",
+      "Fact-checking",
+      "Clickbaiting",
+      "Ghostwriting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The International Fact-Checking Network (IFCN) is a subdivision of:",
+    "options": [
+      "UNESCO",
+      "The Poynter Institute",
+      "Google",
+      "Facebook"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Factoids are:",
+    "options": [
+      "Fully verified facts",
+      "Initially non-existent facts published in media and distributed online",
+      "Legal documents",
+      "Scientific proofs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When verifying a photo's authenticity, one recommended service is:",
+    "options": [
+      "Microsoft Word",
+      "Google Image Search or TinEye",
+      "Adobe Photoshop",
+      "Excel"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The service Foto Forensics allows you to:",
+    "options": [
+      "Take better photos",
+      "Check how a photo has been digitally processed and show altered areas",
+      "Print photos",
+      "Store photos"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When checking a social media account for authenticity, a lack of original publications suggests:",
+    "options": [
+      "A celebrity",
+      "A bot or fake account",
+      "A professional journalist",
+      "A government official"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Journalists should be skeptical of:",
+    "options": [
+      "All information",
+      "Headlines that are screaming or sensational",
+      "Only print media",
+      "Only television news"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The accuracy of facts is more important than:",
+    "options": [
+      "Ethics",
+      "Speed",
+      "Sources",
+      "Objectivity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The term \"clickbait\" refers to:",
+    "options": [
+      "Fishing equipment",
+      "Content designed to attract attention and encourage clicks, often with sensational headlines",
+      "Legal documents",
+      "Academic research"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Emotions are described as:",
+    "options": [
+      "A journalist's best friend",
+      "A very dangerous enemy of a journalist",
+      "Always helpful",
+      "Never relevant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When verifying information from social networks, it is advisable to check the account's authenticity by:",
+    "options": [
+      "Ignoring it",
+      "Checking personal information, posts, creation date, and profile picture",
+      "Immediately believing it",
+      "Deleting it"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A journalist's working process begins with:",
+    "options": [
+      "Writing the headline",
+      "Analysis of facts and their sources",
+      "Designing the layout",
+      "Selling advertising"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The concept of \"digital nutrition\" coined by Jocelyn Brewer refers to:",
+    "options": [
+      "Eating healthy food",
+      "Understanding cognitive, social, and emotional impacts of technology-enabled media content",
+      "Exercise routines",
+      "Cooking shows"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "More than 2 hours of social media use per day is associated with:",
+    "options": [
+      "Improved mental health",
+      "Poor mental health including depression, anxiety, and suicidal thoughts",
+      "Higher productivity",
+      "Better grades"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Journalism curricula should include:",
+    "options": [
+      "Only writing skills",
+      "Basic psychological training in cognition, emotional literacy, and audience response assessment",
+      "Only typing skills",
+      "Only advertising"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Media self-regulation can be strengthened through:",
+    "options": [
+      "Government censorship",
+      "Promoting MIL and dialogue with citizens",
+      "Banning all criticism",
+      "Ignoring audience feedback"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Libraries today serve as:",
+    "options": [
+      "Only book warehouses",
+      "Bridges between information, user, and access point",
+      "Only computer labs",
+      "Only study halls"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Gender-sensitive indicators for media help to:",
+    "options": [
+      "Increase profits",
+      "Recognise fair portrayal of women and men, eliminate stereotypes, and highlight gender equality",
+      "Reduce the number of women in media",
+      "Ignore gender issues"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "According to UNESCO, women are less likely to know how to:",
+    "options": [
+      "Read",
+      "Operate a smartphone, navigate the Internet, use social media, and safeguard information in digital mediums",
+      "Cook",
+      "Drive"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Media organisations should implement:",
+    "options": [
+      "No internal policies",
+      "Internal MIL strategy and guidelines for broadcast and print media",
+      "Only profit-based policies",
+      "Censorship policies"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Enabling citizens to tell their own stories and equipping them with production skills is a way to:",
+    "options": [
+      "Reduce media quality",
+      "Build trust and strengthen audience relationship",
+      "Eliminate journalism",
+      "Increase censorship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Open data is defined as information that:",
+    "options": [
+      "Is secret",
+      "Anyone can freely find, use, and distribute",
+      "Is only for government use",
+      "Requires payment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One characteristic of open data is that it must be:",
+    "options": [
+      "Distorted",
+      "Machine-readable and accessible by search request",
+      "Only in print form",
+      "Password-protected"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When working with open data in Excel, each variable should be in:",
+    "options": [
+      "The same cell",
+      "A separate column",
+      "Random order",
+      "A separate document"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "It is recommended to process open data in:",
+    "options": [
+      "Microsoft Word only",
+      "OpenRefine or Excel",
+      "Adobe Photoshop",
+      "PowerPoint"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the most effective ways to present data is:",
+    "options": [
+      "Long paragraphs",
+      "Infographics",
+      "Audio only",
+      "No visuals"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Infographics should be:",
+    "options": [
+      "Complicated and confusing",
+      "Relevant, interesting, meaningful, easily read and understood",
+      "As long as possible",
+      "Text-only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A pie chart becomes unreadable when it has more than:",
+    "options": [
+      "Two figures",
+      "Three to five figures",
+      "Ten figures",
+      "Twenty figures"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If the sum of categories in a pie chart is not 100%, this is:",
+    "options": [
+      "Acceptable",
+      "A gross mistake, as data is distorted",
+      "Preferred",
+      "Standard practice"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Visualization deepens the process of:",
+    "options": [
+      "Ignoring content",
+      "Mastering content and explaining complex data quickly and clearly",
+      "Hiding information",
+      "Reducing understanding"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The service YouTube Data Viewer is used to:",
+    "options": [
+      "Watch videos",
+      "Check the authenticity of videos",
+      "Upload videos",
+      "Edit videos"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When verifying a website's reliability, scholars advise checking:",
+    "options": [
+      "Only the design",
+      "The domain, author, publication date, \"About Us\" section, and comments",
+      "Only the number of images",
+      "Only the font size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If a controversial topic is raised in a material, the material must contain:",
+    "options": [
+      "Only opinions",
+      "Quotes and verifiable facts",
+      "Only emotional language",
+      "Only advertising"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Statistics should always have:",
+    "options": [
+      "Emotional appeal",
+      "Logical sequence, temporal, quantitative, and qualitative data",
+      "No source",
+      "Only percentages"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The service Geofeedia allows journalists to:",
+    "options": [
+      "Edit photos",
+      "Detect posts on social networks by geolocation",
+      "Write articles",
+      "Design infographics"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When a file name contains a long set of numbers, the photo was most likely taken from:",
+    "options": [
+      "A professional camera",
+      "Social networks",
+      "A scanned document",
+      "A book"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "It is recommended that journalists should question:",
+    "options": [
+      "Nothing",
+      "Everything they see and hear",
+      "Only official sources",
+      "Only social media"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When verifying information, it is advisable to separate:",
+    "options": [
+      "Facts and opinions only",
+      "Facts and the source",
+      "Images and text",
+      "Audio and video"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Fact-checking forms:",
+    "options": [
+      "Only the final stage of publication",
+      "The material itself, not just a check",
+      "Only for breaking news",
+      "Only for opinion pieces"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Accurate statistics should not be:",
+    "options": [
+      "Verified",
+      "Amused or emotional",
+      "Logical",
+      "Temporal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The phenomenon of \"a thousand eyes\" refers to:",
+    "options": [
+      "A medical condition",
+      "Ordinary citizens being first to report events via social networks",
+      "A type of camera",
+      "A surveillance system"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When checking an account for authenticity, it is advisable to check when the account was created because:",
+    "options": [
+      "New accounts are always trustworthy",
+      "Accounts created just after a post is published may be for trolling",
+      "Old accounts are always fake",
+      "Creation date is irrelevant"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If a website's \"About Us\" section is dramatic, too pompous, and without specifics, this is:",
+    "options": [
+      "A sign of quality",
+      "A reason for doubt",
+      "Standard practice",
+      "Required by law"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Journalists should not adjust facts to fit:",
+    "options": [
+      "The truth",
+      "Their own hypothesis or vested interest",
+      "The evidence",
+      "The sources"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When verifying a photo, it is advisable to check the URL of the file because:",
+    "options": [
+      "It is always the same",
+      "It may contain the ID of the user who posted it on Facebook",
+      "It is not useful",
+      "It is always encrypted"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The purpose of fact-checking is not only to prove or disprove but also to:",
+    "options": [
+      "Entertain",
+      "Show the sources, verification algorithm, and make a story out of it",
+      "Sell advertising",
+      "Increase speed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The basic principles of professional ethics of journalists include:",
+    "options": [
+      "Sensationalism and speed",
+      "Independence, objectivity, impartiality, and accuracy",
+      "Profit and entertainment",
+      "Censorship and control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Deliberate distortion of facts is considered:",
+    "options": [
+      "Acceptable",
+      "A crime against objectivity and trampling on impartiality and independence",
+      "Standard practice",
+      "A marketing strategy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social networks have avoided the status of mass media to:",
+    "options": [
+      "Increase responsibility",
+      "Reduce their own social responsibility",
+      "Improve quality",
+      "Increase transparency"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Self-regulatory mechanisms in social networks are currently:",
+    "options": [
+      "Highly effective",
+      "Ineffective, as manipulative content is increasing",
+      "Not needed",
+      "Perfect"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Distortion of facts with conscious manipulation turns the journalist into:",
+    "options": [
+      "An objective reporter",
+      "An informational aggressor, participant of an information war",
+      "A neutral observer",
+      "An entertainer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The right of citizens to reliable information and objective coverage of events is:",
+    "options": [
+      "Optional",
+      "A duty of the journalist",
+      "Not important",
+      "Only for public service media"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When a journalist uses a source's personal information from social networks to verify facts, the journalist should consider:",
+    "options": [
+      "No ethical issues",
+      "Moral rights and justification",
+      "Only legal issues",
+      "Only speed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a conflict situation, a journalist should present:",
+    "options": [
+      "Only one side",
+      "Opposing points of view, as there are at least two sides",
+      "Only the journalist's opinion",
+      "Only official statements"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A journalist does not have the moral right to disturb a person in moments of grief unless:",
+    "options": [
+      "It is for entertainment",
+      "The public interest outweighs the individual's grief, and with sensitivity",
+      "It is for profit",
+      "Never under any circumstances"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Inventing a character and putting data in that character's mouth is:",
+    "options": [
+      "Always acceptable",
+      "Not acceptable; it violates accuracy and truth",
+      "Standard practice",
+      "Required for drama"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Media can help advance public debate about:",
+    "options": [
+      "Only sports",
+      "The urgent need for national MIL policies",
+      "Only fashion",
+      "Only entertainment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Without a MIL policy and strategy, disparities are likely to increase between:",
+    "options": [
+      "Rich and poor only",
+      "Those who have access to information and media and those who do not",
+      "Men and women only",
+      "Urban and rural only"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The media literacy index (2018) measures a country's ability to withstand:",
+    "options": [
+      "Economic crises",
+      "Distorted information, post-truth, and related phenomena",
+      "Natural disasters",
+      "Military threats"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The top-performing countries in the 2018 Media Literacy Index were:",
+    "options": [
+      "Southern European countries",
+      "Nordic countries (Finland, Denmark, Sweden), Netherlands, Estonia, Ireland",
+      "Eastern European countries",
+      "South American countries"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The most important indicators in the Media Literacy Index are:",
+    "options": [
+      "Trust and e-participation",
+      "Media freedom and education",
+      "Military spending",
+      "Population size"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The model of MIL is characterised by:",
+    "options": [
+      "Centralized control",
+      "Co-operation between government agencies, schools, academia, NGOs, and libraries",
+      "No collaboration",
+      "Only government control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Media education should be offered:",
+    "options": [
+      "Only in universities",
+      "Wherever there are children and young people: kindergartens, schools, libraries, game rooms, youth centres, even virtual communities",
+      "Only in private schools",
+      "Only in capital city"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Hate speech online is a destructive phenomenon because:",
+    "options": [
+      "It is always legal",
+      "It can be easily multiplied and not always subject to responsibility",
+      "It is protected speech",
+      "It is always true"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the tasks of media is to:",
+    "options": [
+      "Promote hate speech",
+      "Recognise hate speech and inform the audience about risks and negative results",
+      "Ignore hate speech",
+      "Amplify hate speech"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Media organisations should be transparent about:",
+    "options": [
+      "Only their profits",
+      "Their ownership, relationship with sponsors, and advertisers",
+      "Only their address",
+      "Only their phone number"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Editorial policies within media organisations are:",
+    "options": [
+      "Unnecessary",
+      "A proven mechanism to control what is aired or published",
+      "Always ignored",
+      "Only for print media"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "UNESCO proposes that promoting professional and ethical journalism is:",
+    "options": [
+      "Less effective than censorship",
+      "More effective and sustainable than censorship",
+      "Equally effective as censorship",
+      "Not related to censorship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Journalists should be trained to monitor and moderate the potential negative impact of media messages because:",
+    "options": [
+      "It increases profits",
+      "It offers a triple-layered defence to balance first-to-publish principle with ethically protecting citizens",
+      "It reduces workload",
+      "It eliminates all errors"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Gender sensitivity in media should play:",
+    "options": [
+      "No role",
+      "An educational role, and MIL can be employed as a tool for gender equality",
+      "Only a commercial role",
+      "Only an entertainment role"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The ultimate goal of integrating MIL into journalism is to:",
+    "options": [
+      "Increase media profits",
+      "Build trust in media, empower citizens, and strengthen democracy",
+      "Eliminate all criticism",
+      "Reduce the number of journalists"
+    ],
+    "correct": 1
+  }
+]
