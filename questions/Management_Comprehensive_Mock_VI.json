@@ -1,0 +1,1023 @@
+[
+  {
+    "questionText": "Which of the following is true about descriptive statistics?",
+    "options": [
+      "It focuses on making predictions about future data.",
+      "It includes methods like hypothesis testing and regression analysis.",
+      "It summarizes key features of a dataset through measures like mean and standard deviation.",
+      "It is primarily used to draw conclusions about populations from samples"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which graph is most appropriate for displaying the distribution of a continuous variable?",
+    "options": [
+      "Pie chart",
+      "Bar graph",
+      "Histogram",
+      "Scatter plot"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A student scored 80, 90, 75, and 85 in four exams with weights 1, 2, 1, and 3, respectively. The weighted average score is:",
+    "options": [
+      "82.5",
+      "84.3",
+      "85.0",
+      "86.5"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a group of 50 people, 25 like tea, 30 like coffee, and 15 like both. What is the probability that a randomly selected person likes neither tea nor coffee?",
+    "options": [
+      "0.10",
+      "0.20",
+      "0.30",
+      "0.40"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "How many ways can 4 books be arranged on a shelf if two specific books must always be together?",
+    "options": [
+      "12",
+      "24",
+      "48",
+      "120"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which sampling method ensures proportional representation of subgroups (strata) in the population?",
+    "options": [
+      "Simple random sampling",
+      "Stratified sampling",
+      "Convenience sampling",
+      "Snowball sampling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "For a hypothesis test where the alternative hypothesis states that a new drug is more effective than the current standard, the correct pair of hypotheses is:",
+    "options": [
+      "H_0:μ = μ_0; H_1: μ ≠ μ_0",
+      "H_0:μ ≥ μ_0; H_1: μ < μ_0",
+      "H_0:μ ≤ μ_0; H_1: μ > μ_0",
+      "H_0:μ > μ_0; H_1: μ ≤ μ_0"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A survey of 250 customers found that 40% prefer Product X. What is the 90% confidence interval for the population proportion?",
+    "options": [
+      "(0.342, 0.458)",
+      "(0.352, 0.448)",
+      "(0.365, 0.435)",
+      "(0.328, 0.472)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In a binomial distribution with n=8 trials and success probability p=0.4, the expected number of successes is:",
+    "options": [
+      "3.2",
+      "3.6",
+      "4.0",
+      "4.8"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which statement about Spearman’s rank correlation coefficient is correct?",
+    "options": [
+      "It measures linear relationships between two variables.",
+      "It ranges from -1 to 1, indicating the strength and direction of monotonic relationships.",
+      "A value of 0 implies a perfect positive correlation.",
+      "It requires the data to be normally distributed"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following best describes Operations Research?",
+    "options": [
+      "A field of study that focuses on manufacturing processes only.",
+      "A discipline that applies mathematical methods to optimize complex systems",
+      "A branch of economics dealing with market research.",
+      "A study of organizational behavior in the workplace"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a commonly used approach in Operations Research to facilitate solutions to problems?",
+    "options": [
+      "Heuristic Model",
+      "Qualitative Model",
+      "Analytical Model",
+      "Simulation Model"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a predictive model used in Operations Research?",
+    "options": [
+      "Linear regression model for sales forecasting",
+      "Inventory optimization model for reorder point calculation",
+      "Transportation model for route optimization",
+      "Queuing model for service level analysis"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which type of iconic model in Operations Research focuses on finding the optimal allocation of resources to achieve a specific objective?",
+    "options": [
+      "Network flow models",
+      "Dynamic programming models",
+      "Linear programming models",
+      "Queuing models"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "one is different from the other?",
+    "options": [
+      "North West Cost Metod",
+      "Steeping stone Method",
+      "Least Cost Method",
+      "Vogels Approximation Method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of a transportation problem, what does the term \"demand\" refer to?",
+    "options": [
+      "The quantity of goods available at each source",
+      "The cost of transporting goods from one source to another",
+      "The quantity of goods required at each destination",
+      "The distance between sources and destinations"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a transportation problem, what does the term \"feasible solution\" mean?",
+    "options": [
+      "A solution that is economically optimal",
+      "A solution that satisfies all supply and demand constraints",
+      "A solution that minimizes the transportation cost",
+      "A solution that maximizes the profit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What method is commonly used to find an initial feasible solution in the transportation problem?",
+    "options": [
+      "Least Cost Method",
+      "Vogel's Approximation Method",
+      "Northwest Corner Method",
+      "Stepping Stone Method"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In a transportation problem, what is the purpose of the stepping stone method?",
+    "options": [
+      "To find an initial feasible solution",
+      "To identify the optimal solution",
+      "To allocate resources efficiently",
+      "To estimate transportation costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of the assignment problem, what does the term \"assignment\" refer to?",
+    "options": [
+      "The distribution of resources to various tasks.",
+      "The selection of the best candidate for a job",
+      "The scheduling of activities in a project.",
+      "The estimation of costs associated with different tasks"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is not true about central tendency?",
+    "options": [
+      "Uses to condense a mass of data in to one single value",
+      "Facilitate comparison",
+      "Facilitate summarization",
+      "Not affected by extreme values"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "It is an arithmetic mean used when all observations in data have unequal relative importance.",
+    "options": [
+      "Arithmetic mean",
+      "Geometric mean",
+      "Weighted mean",
+      "Harmonic mean"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Assume that Mr. Olika registered for two courses which have 3 and 4 credit hours and he score B and C respectively. What is the average grade point of him?",
+    "options": [
+      "3.50",
+      "2.50",
+      "2.43",
+      "3.23"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The sales of XY company increases at rate of 3, 4 and 6 in three successive days. What is the average increasing?",
+    "options": [
+      "4.33",
+      "4.16",
+      "3.16",
+      "3.33"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "It represents the most frequent values in a given data",
+    "options": [
+      "Mean",
+      "Mean deviation",
+      "Median",
+      "Mode"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Assume that the sales of XY Company in the last eight months are in millions of birr and it is given as follow: 66, 63, 64, 66, 78, 68, 62 and 65. What is the median sale of the company?",
+    "options": [
+      "65.5",
+      "66",
+      "66.5",
+      "56.75"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All are the objectives of measures of dispersion except;",
+    "options": [
+      "To have an idea about the reliability of the measures of central tendency",
+      "To compare two or more sets of data with regard to their variability",
+      "To provide information about the structure of the data",
+      "To pave way to the use of other statistical measures"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A mutually exclusive project can be selected as per payback period when it is _________.",
+    "options": [
+      "Less",
+      "More.",
+      "More than 5 years.",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following techniques does not take into account the time value of money?",
+    "options": [
+      "Internal rate of return method",
+      "Simple cash payback method",
+      "Net present value method",
+      "Discounted cash payback method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A method of budgeting that estimates today’s value of money to be received in the future; It is discounted due to the uncertainty of its true value in the future and for the cost of the Capital is______________.",
+    "options": [
+      "Cash inflow",
+      "Cash outflow.",
+      "Discounted cash flow",
+      "Payback period"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Time value of money is an important concept of finance because it takes in to account:",
+    "options": [
+      "Risk",
+      "Time",
+      "Compound Interest",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is not incorporated in capital budgeting?",
+    "options": [
+      "Tax effect",
+      "Time Value of Money",
+      "Required rate of return",
+      "Rate of cash discount"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the difference between economic profit and accounting profit?",
+    "options": [
+      "Economic profit includes a charge for all providers of capital while accounting profit includes only a charge for debt",
+      "Economic profit covers the profit over the life of the firm, while accounting profit only covers the most recent accounting period.",
+      "Accounting profit is based on current accepted accounting rules while economic profit is based on cash flows.",
+      "All of the above are correct"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Cape Town Company stock paid a dividend of $4.00 in 1999 and $3.75 in 1998. These dividends reflect the long-term growth rate of the company. If your required rate of return is 16% for Cape Town stock, how much should you pay for a share in 1999?",
+    "options": [
+      "45.71",
+      "$55.17",
+      "$65.17",
+      "$87.17"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following project evaluation technique is more appropriate for mutually exclusive projects?",
+    "options": [
+      "Net present value",
+      "Profitability index",
+      "Internal rate of return",
+      "Discounted payback period"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Find the Payback Period for the project with the following cash flows. 0: -1,500; 1: 500; 2: 100; 3:100; 4: 900",
+    "options": [
+      "3.53 years",
+      "3.89 years",
+      "5.11 years",
+      "6.35 years"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "‘W’ Company recently invested in a project with a 3-year life span. The initial investment was $15,060 and annual cash inflows were $7,000 for year 1; $8,000 for year 2; and $9,000 for year 3. The company expects a 15% required rate of return. What is the net present value for the project?",
+    "options": [
+      "$15,264.",
+      "$3,000.",
+      "$9,744.",
+      "$12,000."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following techniques does not take into account the time value of money?",
+    "options": [
+      "Internal rate of return method",
+      "Simple cash payback method",
+      "Net present value method",
+      "Discounted cash payback method"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following disciplines primarily contributes to the technical approach to Management Information Systems (MIS)?",
+    "options": [
+      "Sociology",
+      "Psychology",
+      "Economics",
+      "Computer science"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following best captures the definition of a Management Information System (MIS)",
+    "options": [
+      "A system that primarily automates data entry and record-keeping tasks.",
+      "A collection of independent computer programs used by various departments within an organization.",
+      "An integrated user-machine system that utilizes computer hardware and software, manual procedures, models, and a database to provide information for operations, management, analysis, and decision-making",
+      "A system designed solely for generating financial reports and tracking accounting transactions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Well-managed Management Information System (MIS) can contribute to which of the following business outcomes?",
+    "options": [
+      "Primarily reducing the number of employees needed to perform data entry.",
+      "Exclusively generating accurate financial statements for regulatory compliance.",
+      "Improving processes, products, services, quality, and management, as well as cutting costs and enhancing problem-solving and decision-making",
+      "Only improving the speed of data processing and information retrieval"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is typically an output of a Management/Tactical level MIS?",
+    "options": [
+      "Customer orders",
+      "Variance analysis",
+      "Key ratios",
+      "Updated files listings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Critical information for top management is provided by ______________ information system.",
+    "options": [
+      "Expert",
+      "Executive",
+      "Decision",
+      "Managerial"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is not a characteristic of good information?",
+    "options": [
+      "Interchangeability",
+      "relevance",
+      "cost effectiveness",
+      "timeliness"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Decision makers who are concerned with tactical (short-term) operational problems and decision making are",
+    "options": [
+      "middle managers",
+      "executive managers",
+      "supervisors",
+      "mobile managers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Information technology has a fundamental guideline and rule. Among the rule one is Knowing “high-touch” aspect of IT what it means?",
+    "options": [
+      "Information technology is help to solve problems, to unlock creativity and to make people more effective",
+      "The more you rely on IT, whether in personal activities or in business, the more important it is to be sure that the personal element is not forgotten",
+      "The more you rely on IT, whether in personal activities or in business, the more important it is to be sure that the personal element is forgotten",
+      "Do everything by using information technology without considering capability of persons"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Among the following which one is correctly show the knowledge hierarchy",
+    "options": [
+      "Information, data, knowledge, wisdom",
+      "Data, information, knowledge, wisdom",
+      "Knowledge, information, data, wisdom",
+      "Wisdom, knowledge, information, data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In which type of leadership style decision making is solely by manger?",
+    "options": [
+      "Democratic leadership styles",
+      "Autocratic leadership styles",
+      "Laissez faire leadership style",
+      "Situational leadership style"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Douglas McGregor has hypothesized different sets of assumptions about people that serve as a philosophical base for leadership action. These are?",
+    "options": [
+      "Trait theory of leadership",
+      "Behavioral theory of leadership",
+      "Theory X and theory Y assumption",
+      "Situational leadership theory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The source of power that a leader possesses as a result of his\\her special knowledge is:",
+    "options": [
+      "Legitimate power",
+      "Expert power",
+      "Reward power",
+      "Coercive power"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The theories of motivation related to the use of rewards and punishments as best motivating factors regarded as.",
+    "options": [
+      "Carrot and stick approach",
+      "Theory X and theory Y",
+      "Maslow’s need hierarchy",
+      "Goal setting theory"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Contingency theories of leadership states:",
+    "options": [
+      "That there is no single style of leadership appropriate to all situations",
+      "That there is a single style of leadership appropriate to all managers",
+      "That there is a single style of leadership appropriate to all situations",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is true about dysfunctional outcome of conflict in organization?",
+    "options": [
+      "It reduces group effectiveness",
+      "It enhances productivity",
+      "It is constructive conflict",
+      "It reveals positive consequence of conflict"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is the correct sequence of change management according to Kurt Lewin’s model?",
+    "options": [
+      "Refreezing, Moving and Unfreezing",
+      "Moving, Refreezing and Unfreezing",
+      "Unfreezing, Moving and Refreezing",
+      "Unfreezing, Refreezing and Moving"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one is not a major activities of staffing function?",
+    "options": [
+      "Manpower planning",
+      "Selection",
+      "Recruitment",
+      "Division of labor"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one is not the principle of servant leadership?",
+    "options": [
+      "Coercion",
+      "Empathy",
+      "Stewardship",
+      "Foresight"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is individual source of resistance to change?",
+    "options": [
+      "Habit",
+      "Structural inertia",
+      "Organizational resource allocation",
+      "Limited focus of organization changes"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following refers to the number of employees who are under the immediate supervision of a particular manager.",
+    "options": [
+      "Decentralization",
+      "Division of labor",
+      "Span of control",
+      "Centralization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A good product will sell itself “saying is more related to:",
+    "options": [
+      "Production philosophy",
+      "Product philosophy",
+      "Sales philosophy",
+      "Relationship marketing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Among the following one is different from the other in relation to intellectual property:",
+    "options": [
+      "Business symbols",
+      "Drama",
+      "Music",
+      "Artistic works"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "__________refers to the notion that service is to a great extent consumed at the same time as it is produced.",
+    "options": [
+      "Homogeneity of Services",
+      "Inseparability of Services",
+      "Variability of Services",
+      "Perishability of Services"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which can be protected by copyright?",
+    "options": [
+      "Company’s slogan",
+      "New inventions",
+      "Literal works",
+      "Secret information that should not be disclosed to other company"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Select the correct sequence of the new product development process among the given alternatives.",
+    "options": [
+      "Business Analysis, Market strategy formulation &Product development",
+      "Product development, Business Analysis, Market strategy formulation",
+      "Market strategy formulation, Product development &Business Analysis",
+      "Market strategy formulation, Business Analysis & Product development"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "It is the practice of trading among the Multi National Company’s (MNC) subsidiaries or with the parent firm.",
+    "options": [
+      "Psychological pricing",
+      "Bundle pricing",
+      "Transfer pricing",
+      "Economy price"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary advantage of product standardization in international markets?",
+    "options": [
+      "Lower production costs",
+      "Increased customization for local preferences",
+      "Enhanced brand recognition",
+      "Greater complexity in supply chain management"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "It’s about providing support to an event or a cause by devoting corporate resources in exchange for an opportunity to enhance good will, product image and sales.",
+    "options": [
+      "Corporate Sponsorship",
+      "Corporate Philanthropy",
+      "External Communications",
+      "Special Event Management"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one involves selling a product at a loss to gain access to a market and perhaps to drive out competition?",
+    "options": [
+      "Sporadic dumping",
+      "Predatory dumping",
+      "Persistent dumping",
+      "Value Based pricing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a reason a company might choose to adapt its product for a foreign market?",
+    "options": [
+      "To maintain a consistent brand image worldwide",
+      "To streamline operations and reduce costs",
+      "To meet local regulatory requirements",
+      "To increase brand loyalty in the home market"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "This of the following theory of international trade believed that a country’s wealth was determined by the amount of its gold and silver holdings.",
+    "options": [
+      "Country Similarity Theory",
+      "Mercantilism",
+      "Global Strategic Rivalry theory",
+      "National Competitive Advantage theory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The political risk that the host governments will take ownership of a property without compensation.",
+    "options": [
+      "Domestication",
+      "Nationalization",
+      "Confiscation",
+      "Expropriation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "It is a contract under which a firm agrees to fully design, construct and equip a manufacturing/business/service facility and turn the project over to the purchaser when it’s ready for operation, for remuneration.",
+    "options": [
+      "Contract Manufacturing",
+      "Management Contract",
+      "Turnkey Project",
+      "Exporting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When identifying cultural factors for international marketing, which framework is often used?",
+    "options": [
+      "SWOT analysis",
+      "PESTLE analysis",
+      "Hofstede’s cultural dimensions theory",
+      "Porter’s five forces model"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "It refers to starting of the operations of a company from scratch in a foreign market",
+    "options": [
+      "Greenfield strategy",
+      "Brown Field strategy",
+      "Foreign Direct investment",
+      "Strategic alliance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is/true about the legal issues of entrepreneurship?",
+    "options": [
+      "Patent protection for an entrepreneurial invention is given for an indefinite period of time",
+      "The owner of a trademark can give it to other individuals or businesses",
+      "Patent prevents others from printing, copying, or publishing any original work of authorship",
+      "Copyright gives protection to both the idea and the form in which the works/invention of the owner from being used by others."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is incorrect about intellectual property?",
+    "options": [
+      "A patent provides the owner with exclusive rights to hold, transfer, and license the production and sale of a product/process",
+      "Unlike the trademark, a patent can last indefinitely, as long as the patent continues to perform its indicated function",
+      "Process patent deals with the methods of production",
+      "Trademark registration provides notice to everyone that you have exclusive rights to the use of the mark across the country"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Suppose Mr X is in the very early stages of putting together a business startup and is thinking about writing a business plan to request funds to conduct a feasibility analysis and write a more complete business plan. What type of business plan should Mr X write at this point?",
+    "options": [
+      "Operational business plan",
+      "Summary business plan",
+      "Tactical business plan",
+      "Strategic business plan"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "During the process of small business formation, one of the major activities is to build and manage teams, therefore formulated teams are expected to perform either of the following functions except?",
+    "options": [
+      "Make adjustments to the plan based on changes in the environment",
+      "Market what will maintain profitability",
+      "Execute the business plan",
+      "Identify fundamental changes in the business as they occur"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What does an entrepreneur need to be able to convince customers to buy, but also to create a strong network of connections excited about helping their organization or idea grow?",
+    "options": [
+      "Planning",
+      "Persuasion and networking",
+      "Building self-confidence",
+      "Demanding efficiency and quality"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One reason that idea screening is a critical stage in the new-product development process is that;",
+    "options": [
+      "Competitors can quickly steal ideas so the company wants only those ideas that can be protected with patents.",
+      "International competition and markets demand that all ideas be culturally sensitive.",
+      "Product-development costs rise greatly in later stages and the company only wants those products that can succeed.",
+      "The Federal government carefully monitors each company’s idea screening process to make sure no national security matters are at stake"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "During the process of small business formation, one of the major activities is to build and manage teams, therefore formulated teams are expected to perform either of the following functions except?",
+    "options": [
+      "Make adjustments to the plan based on changes in the environment",
+      "Market what will maintain profitability",
+      "Execute the business plan",
+      "Identify fundamental changes in the business as they occur"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Suppose ABC restaurant has newly established business and wants to promote its business for customers through setting short term incentive package such as discount, free gifts and prizes to be arousing interest of customers to buy its products. This intends to be;",
+    "options": [
+      "Personal selling",
+      "Public relation",
+      "Advertising",
+      "Sales Promotion"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following are not the characteristics of an entrepreneur?",
+    "options": [
+      "They are risk takers",
+      "They are information seekers",
+      "They commit their effort not only for themselves but also to the well-being of others",
+      "They set complex and unattainable personal goals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is the critical elements of the process of entrepreneurship except",
+    "options": [
+      "The ability to perceive an opportunity.",
+      "The ability to commercialize the unperceived opportunity",
+      "The ability to pursue it on a sustainable basis.",
+      "The ability to pursue it through systematic means"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is internal factors influencing HR recruitment",
+    "options": [
+      "Organization policies and practices",
+      "Labour Market Conditions",
+      "Location of the Organization",
+      "Government and union restrictions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "__________is a technique that permits employees who believe they possess the required qualifications to apply for a posted job",
+    "options": [
+      "Development",
+      "Training",
+      "Job posting",
+      "Job bidding"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How do \"promote-from-within\" policies act as a constraint on recruitment?",
+    "options": [
+      "They restrict external hiring until internal candidates are considered",
+      "They require firms to advertise job openings in newspapers",
+      "They increase the pool of job seekers",
+      "They encourage firms to offer lower salaries"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What happens when the number of qualified applicants for a position is very low?",
+    "options": [
+      "The company delays hiring until more applicants apply",
+      "The selection process becomes less competitive and hires may be made out of necessity",
+      "The organization increases its hiring standards",
+      "The company relies more on artificial intelligence for hiring"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Why is it important for managers to have knowledge of legal considerations in the selection process?",
+    "options": [
+      "To ensure they avoid hiring unqualified candidates",
+      "To make the selection process faster",
+      "To understand the relationship between useful and legally defensible selection tools",
+      "To reduce the cost of recruitment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is one way training contributing to greater employee loyalty?",
+    "options": [
+      "It aligns employees’ attitudes with the organization’s goals",
+      "It reduces financial incentives for employees",
+      "It discourages employees from collaborating with each other",
+      "It increases competition among employees"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "An investor purchases the bond at 8% coupon rate with having a face value of Birr 1,000 maturity of 5 years and the net precede of the bond is Birr 960. Determine the Yield to maturity of the bond. (Use only two decimal points)",
+    "options": [
+      "8.97%",
+      "14.00%",
+      "14.58%",
+      "15.55%",
+      "7.98 %"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Suppose you deposit today Birr 2500 at 10% interest rate, what would be the value of the current deposit at the end of two years and four years respectively?",
+    "options": [
+      "4225 Birr and 3875.34 Birr",
+      "4154 Birr and 3875.34 Birr",
+      "3025 Birr and 3660.25 Birr",
+      "4545 Birr and 3875.34 Birr"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Assume the Company is considering the purchase of stock at the beginning of the year. The divided at year end is expected to be Br 3 and the market price by the end of the year is expected to be Br 80. If the investor’s required rate of return is 15 percent. What would be the value of the stock?",
+    "options": [
+      "56.78 Birr",
+      "72.21 Birr",
+      "87.98 Birr",
+      "67.23 Birr"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the primary role of leadership in driving organizational change?",
+    "options": [
+      "To enforce rigid policies and ensure compliance through punitive measures",
+      "To articulate a compelling vision, inspire collective action, and navigate the organization through transitional challenges",
+      "To prioritize financial metrics at the expense of employee engagement and cultural alignment",
+      "To minimize communication to avoid unsettling the workforce"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What distinguishes transformational leadership from transactional leadership in the context of change management?",
+    "options": [
+      "Transformational leaders rely on extrinsic rewards and penalties, while transactional leaders foster intrinsic motivation and creativity",
+      "Transformational leaders inspire and empower employees to embrace change, while transactional leaders emphasize structured processes and contingent rewards",
+      "Transactional leaders are more adept at driving long-term cultural transformation and innovation",
+      "Transformational leaders prioritize maintaining control through limited communication and top-down decision-making"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the context of organizational behavior, which of the following statements accurately describes the difference between a leader and a manager?",
+    "options": [
+      "Leaders are primarily concerned with maintaining the status quo, while managers drive innovation and change.",
+      "Leaders rely on formal authority to achieve results, while managers use influence and inspiration to guide their teams.",
+      "Leaders focus on empowering and developing people, while managers focus on optimizing processes and systems",
+      "Leaders are responsible for operational efficiency, while managers are responsible for setting the organization’s vision and strategy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a not type of non-verbal communication.",
+    "options": [
+      "Gestures",
+      "Movement",
+      "Eye contact",
+      "Visual"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of is not true about important nature of internal communication?",
+    "options": [
+      "Flow of direction weather downward, upward, horizontal rank",
+      "It is purposely ensuring effective and efficient management and concern on operations.",
+      "The communication is almost with respect of everyday activities.",
+      "The formality of internal communication follows only formal channels"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "From the following, which one is the most important objective of external communication?",
+    "options": [
+      "Community relations",
+      "Contracts with customers",
+      "Relations with suppliers",
+      "Relation with financial institutions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a numerical measurement describing some characteristic of a population, such as mean or standard deviation?",
+    "options": [
+      "Sample",
+      "Parameter",
+      "Census",
+      "Population"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What happens after selecting the first unit in systematic sampling?",
+    "options": [
+      "The rest of the units are selected randomly",
+      "The remaining units are selected at fixed intervals",
+      "The sampling process stops",
+      "The sample size is adjusted dynamically"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following statements about sampling error is true?",
+    "options": [
+      "It occurs even if the sample is randomly selected",
+      "It can be eliminated completely by increasing the sample size",
+      "It is caused by human mistakes",
+      "It occurs only in census data"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which type of error is caused by human mistakes in data collection, processing, or analysis?",
+    "options": [
+      "Sampling Error",
+      "Non-Sampling Error",
+      "Random Error",
+      "Standard Error"
+    ],
+    "correct": 1
+  }
+]
