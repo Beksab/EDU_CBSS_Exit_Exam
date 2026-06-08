@@ -1,0 +1,914 @@
+[
+  {
+    "questionText": "Which of the following part of a product addresses the question what customers really purchase?",
+    "options": [
+      "Augmented product",
+      "Core product",
+      "Actual product",
+      "Package"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When a sample is obtained by separating the population elements into non-overlapping groups, called strata it is called",
+    "options": [
+      "Simple random sampling",
+      "Systematic random sampling",
+      "Cluster random sampling",
+      "Stratified sampling"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A type of power in which its base is identification with a person who has desirable resources or personal traits.",
+    "options": [
+      "Coercive power",
+      "Informational power",
+      "Referent power",
+      "Reward power"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Strategy evaluation criteria which refers to the need for strategists to examine sets of trends, as well as individual trends, in evaluating strategies is",
+    "options": [
+      "Consonance",
+      "Advantage",
+      "Consistency",
+      "Flexibility"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The late finish time of activities is equal to the last activity is other than the last activity is equal to the late start time of its immediate follower with the lowest value.",
+    "options": [
+      "The late finish time of activities is equal to the last activity is other than the last activity is equal to the late start time of its immediate follower with the lowest value.",
+      "The late finish time of the last activity is equal to its Early Finish Time.",
+      "The early start time of each activity in the network model is always equal to the early finish time of its immediate predecessor.",
+      "The Early finish time is always equal to early finish time of its predecessor.",
+      "The late early finish time is always equal to early start time plus the time the activity requires."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which statement best explains the relationship between perception and behavior?",
+    "options": [
+      "Behavior is determined by objective reality.",
+      "Behavior and perception are unrelated.",
+      "Perception has no effect on behavior.",
+      "Behavior is based on perceived reality."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A special type of linear programming model where by all of its right hand side values are one with the decision variables coefficients in the constraint function are also one is ---",
+    "options": [
+      "Transportation model",
+      "Assignment model",
+      "Transhipment model",
+      "Game theory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following cannot be factors in heavy manufacturing location",
+    "options": [
+      "Proximity to markets",
+      "Labor availability",
+      "Proximity to raw materials",
+      "Raw material and finished goods shipment modes"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following cannot be foreign intermediary",
+    "options": [
+      "Export merchants",
+      "Foreign sales representatives",
+      "State controlled trading companies",
+      "Foreign sales agents"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "This entry strategy involves having an agreement that permits a foreign company to use industry property, technical knowhow, or engineering design in a foreign market.",
+    "options": [
+      "Exporting",
+      "Licensing",
+      "Joint venture",
+      "Manufacturing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The mode of knowledge conversion in which tacit knowledge is converted into explicit knowledge is called?",
+    "options": [
+      "Internalization",
+      "Combination",
+      "Socialization",
+      "Externalization"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "In experimental method, the researcher can control?",
+    "options": [
+      "Other than dependent and independent variables",
+      "Dependent variable",
+      "Both the dependent and independent variable",
+      "Independent variable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Employment agencies and placement services fall under:",
+    "options": [
+      "Third-party recruitment",
+      "Direct recruitment",
+      "Internal recruitment",
+      "Indirect recruitment"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following is often used as a \"first screening method\".",
+    "options": [
+      "Accounting rate of return",
+      "Payback period",
+      "Net present value",
+      "Internal rate of return"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The followings are the advantages of partnership form of ownership, except",
+    "options": [
+      "Ease of formation",
+      "Lack of continuity",
+      "Personal supervision",
+      "Reduced risk"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Revolutionary change is often associated with:",
+    "options": [
+      "Routine adjustments",
+      "Incremental improvements",
+      "Disruption and paradigm shifts",
+      "Stability and predictability"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is NOT a target area for organizational change?",
+    "options": [
+      "Employee emotions",
+      "Structure",
+      "Physical setting",
+      "Technology"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "a plan that identifies how marketing goals will be achieved is known as?",
+    "options": [
+      "Market segment",
+      "Marketing research",
+      "Marketing research",
+      "Marketing plan"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Why is HRM considered as an open system?",
+    "options": [
+      "It focuses only on internal organizational processes",
+      "It operates independently of external forces",
+      "It is influenced by internal and external environmental factors",
+      "It ignores societal influences"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In which product life cycle stage competition usually comes from innovating nation firms since firms in other countries may not have much knowledge about the innovation",
+    "options": [
+      "Overseas innovation",
+      "Worldwide imitation",
+      "Maturity",
+      "Local innovation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of following marketing concept holds that consumers will favor these products that are widely available and low in cost?",
+    "options": [
+      "Marketing concept",
+      "Production concept",
+      "Product concept",
+      "Selling concept"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following statements is false?",
+    "options": [
+      "Successful strategy formulation does guarantee successful strategy implementation.",
+      "Resource allocation is a central management activity that allows for strategy execution.",
+      "Policies facilitate solving recurring problems and guide the implementation of strategy.",
+      "Strategy implementation is fundamentally different from strategy formulation."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "To be useful market segment must be conceptually distinguishable and respond differently to different marketing mix elements and programs. This characteristic is",
+    "options": [
+      "Market segments must be accessible",
+      "Market segments must be measurable",
+      "Market segments must be differentiable",
+      "Market segments must be actionable"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A good mission statement has the following benefits",
+    "options": [
+      "IT creates confusion",
+      "It resolves divergent views among managers",
+      "It helps to achieve high performance",
+      "It provides direction"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Companies set their PRICING objectives WHEN they are suffering from overcapacity intense competition or changing consumer preference. This pricing objective known as",
+    "options": [
+      "Survival",
+      "Maximum sales growth",
+      "Return on investment",
+      "Market share"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Main problems in formulating a working hypothesis includes",
+    "options": [
+      "The failure to be acquainted with available research techniques",
+      "Clear understanding of related literature",
+      "The lack of clear theoretical framework",
+      "The lack of ability to utilize the theoretical frame work logical"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which variable is the most popular base used by organizations for segmenting customer groups internationally?",
+    "options": [
+      "Geographic",
+      "Psychographic",
+      "Behavioral",
+      "Demographic"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "... issued by the federal government, sometimes referred to as government bonds.",
+    "options": [
+      "Corporate bonds",
+      "Treasury bonds",
+      "Preference shares",
+      "Municipal bonds"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "is the technology of building and using machines (robots) with computer intelligence and computer",
+    "options": [
+      "Machine control",
+      "Robotics",
+      "Computer aided engineering",
+      "Process control"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following cannot be factors in heavy manufacturing location",
+    "options": [
+      "Raw material and finished goods shipment modes",
+      "Proximity to markets",
+      "Proximity to raw materials",
+      "Labor availability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Capacity efficiency describes",
+    "options": [
+      "Percent of available time spent working",
+      "Standard hours of work assigned to a facility",
+      "Ratio of load to capacity",
+      "How well a machine or worker performs compared to a standard output level"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following statements is not true about operation function.",
+    "options": [
+      "It consists of all activities directly related to producing goods or providing services.",
+      "The operations function is the core of most businesses.",
+      "It exists not only in organizational manufacturing and assembly operations.",
+      "The essence of the operations function is to add value during the transformation process."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A manager recognizes a disagreement but has not yet experienced emotional involvement. This corresponds to:",
+    "options": [
+      "Perceived conflict",
+      "Latent conflict",
+      "Manifest conflict",
+      "Felt conflict"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following will not be used to find an initial feasible solution for transportation model?",
+    "options": [
+      "Vogel's approximation Method",
+      "North west corner approach",
+      "Least cost method",
+      "Stepping stone method"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Service concept in service design process refers to",
+    "options": [
+      "Quantifies customer preferences toward quality",
+      "Design parameters such as material used, dimensions, and form of processing",
+      "Purpose of a service, it defines target market and customer experience",
+      "Mixture of physical items, sensual benefits, and psychosocial benefits"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "... refers to the process of assigning numerals or other symbols to answers so that responses can be put into a limited number of categories or scales",
+    "options": [
+      "Editing",
+      "Classification",
+      "Tabulation",
+      "Coding"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which market entry strategy offers the largest potential profits and control",
+    "options": [
+      "Joint venture",
+      "Exporting",
+      "Manufacturing",
+      "Licensing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A transportation company has three plants and 4 destination, due to infrastructural problem the company cannot transport its product from plant one to destination 3, such type transportation model is termed as",
+    "options": [
+      "Degeneracy",
+      "Unbalanced transportation model",
+      "Maximum problem model",
+      "Prohibited route"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Team incentives are preferred over individual incentives when?",
+    "options": [
+      "Competition among employees is encouraged",
+      "Individual output is easy to measure",
+      "Cooperation is needed to complete a task or project",
+      "The organization has unlimited financial resources"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following can assume any value over a certain range and we cannot count these values.",
+    "options": [
+      "Discreet variable",
+      "Quantitative variable",
+      "Qualitative variable",
+      "Continuous variable"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The variation in leadership definitions primarily reflects:",
+    "options": [
+      "Differences in organizational structures",
+      "Inability to measure leadership outcomes",
+      "Lack of academic consensus",
+      "Diverse perspectives and theoretical orientations"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which statement best explains the essence of directing?",
+    "options": [
+      "It eliminates the need for supervision",
+      "It focuses only on issuing orders",
+      "It relies mainly on coercion",
+      "It integrates individual goals with organizational goals"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The range of optimality measures",
+    "options": [
+      "The right-hand-side values for which the dual prices will not change.",
+      "The right-hand-side values for which the two values of the decision variables will not change.",
+      "The change in the coefficient of a non-basic decision variable.",
+      "The change in the coefficient of the decision variables in the objective function without being out of the basic variable."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following facility layout arrange activities in line according to sequence of operations for a particular product or service?",
+    "options": [
+      "All of the above",
+      "Fixed-position layout",
+      "Process layout",
+      "Product layout"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When comparing a new geographic market to the home market, marketers discover that environmental conditions or consumer preferences differ; the same may be true of the function a product serves or consumer receptivity to advertising appeals. Which strategy is appropriate in this case?",
+    "options": [
+      "Dual adaptation",
+      "Dual extension",
+      "Product adaptation/communication extension",
+      "Product extension/communication adaptation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Identify the wrong statement about the need of designing good organization structure.",
+    "options": [
+      "Over exploit human resources",
+      "Use of technology",
+      "Facilitate Management",
+      "Stimulates creativity"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Identify the false statement about characteristics of a project",
+    "options": [
+      "Every project have definite objectives (goals) to achieve",
+      "Has a specific time frame for completion with a definite start and finish",
+      "There is no risk and uncertainty associated with a given project",
+      "It is distinct and separate entity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The difference b/n a number in a data set and the mean of the data set is:",
+    "options": [
+      "Range",
+      "Mean deviation",
+      "Standard deviation",
+      "Coefficient of deviation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Macro level, project ideas emanate from the following, except",
+    "options": [
+      "Unusual events such as droughts, floods, earthquakes, etc.",
+      "Identification of unsatisfied demand or needs",
+      "Multilateral or bilateral development agencies",
+      "National, sector or regional plans"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which need is at the highest level in Maslow's hierarchy?",
+    "options": [
+      "System",
+      "Self-actualization",
+      "Social",
+      "Safety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The development of strong cohesion and group identity occurs in:",
+    "options": [
+      "Forming",
+      "Norming",
+      "Storming",
+      "Adjourning"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following has the purpose of developing a finite list of opportunities that could benefit a firm and threats that should be avoided",
+    "options": [
+      "Industrial view",
+      "External audit",
+      "Resource based view",
+      "Internal audit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which discrete probability distribution enables us to find the probability that a specific number of incidents happen over a particular period?",
+    "options": [
+      "Binomial distribution",
+      "Poisson distribution",
+      "Hyper geometric distribution",
+      "Normal distribution"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The lack of a single, universally accepted definition of management is primarily due to:",
+    "options": [
+      "The different orientations and interests of theorists from various fields.",
+      "Management being a very old discipline.",
+      "Management being universally the same in all organizations.",
+      "The absence of human factors in management theory."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Objectives of pre-feasibility study includes the following, except",
+    "options": [
+      "To undertake supporting studies, such as environmental impact, laboratory test, equipment selection, etc.",
+      "To undertake technical studies",
+      "To determine whether future analysis is justifiable",
+      "To examine possible alternatives those are emanated in prefeasibility studies"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A kind of company which does not identify itself with a particular country and may even prefer to lose its national identity is",
+    "options": [
+      "Polycentric",
+      "Geocentric",
+      "Regiocentric",
+      "Ethnocentric"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following done to track actual progress against planned progress at any given time",
+    "options": [
+      "Project preparation",
+      "Project feasibility",
+      "Project monitoring",
+      "Project evaluation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Social loafing is an example of:",
+    "options": [
+      "Neutral synergy",
+      "Negative synergy",
+      "No synergy",
+      "Positive synergy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the Ohio State Studies of Leadership, \"consideration,\" refers to:",
+    "options": [
+      "Focus on task completion",
+      "Delegation of authority",
+      "Strict adherence to rules",
+      "Concern for interpersonal relationships"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following will not be used as decision criteria when decision is made under uncertainty?",
+    "options": [
+      "Expected Monetary Value",
+      "Minimax regret",
+      "Maximin",
+      "Maximax"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following types of research mainly concerned with generalizations and with the formulation of a theory?",
+    "options": [
+      "Basic (fundamental) research",
+      "Descriptive research",
+      "Applied research",
+      "Analytical research"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is an off-the-job training method?",
+    "options": [
+      "Job rotation",
+      "Role play",
+      "Coaching",
+      "Apprenticeship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following cannot be the advantages of management information system",
+    "options": [
+      "It encourages centralization",
+      "It facilitate planning",
+      "It brings coordination",
+      "It minimizes information overload"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following cannot be the advantages of management information system",
+    "options": [
+      "It encourages centralization",
+      "It facilitate planning",
+      "It brings coordination",
+      "It minimizes information overload"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Identify the incorrect statement from the following",
+    "options": [
+      "Title of a research should be to brief or too short.",
+      "The title of a research proposal should be specific to the area of study.",
+      "Problem statement of a proposal needs to convince the sponsors to continue reading the proposal.",
+      "Research objectives of a proposal addresses the purpose of the investigation."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Effective operation process design can provide a competitive edge through the following, except",
+    "options": [
+      "Increase time required to design a new product or service.",
+      "Match products with customer requirements.",
+      "Ensures that customer requirements are met in the simplest and least costly manner.",
+      "Reduces time required to design a new product or service."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Great Man Theory asserts that leadership:",
+    "options": [
+      "Is an inherent trait present at birth",
+      "Is learned through experience",
+      "Is determined by environmental factors",
+      "Is developed through training programs"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When employee supply exceeds demand, organizations may:",
+    "options": [
+      "Promote all employees",
+      "Use attrition or early retirement",
+      "Increase hiring",
+      "Increase overtime"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is false about operations research?",
+    "options": [
+      "Operations Research avoid the dangers from taking decisions merely by guessing",
+      "It uses a logical approach to problem solving",
+      "It is a war baby",
+      "Operations research was originally created to solve business problems"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Social learning theory emphasizes:",
+    "options": [
+      "Learning only through direct experience",
+      "Learning through observation and experience",
+      "Learning through instinct",
+      "Learning only through punishment"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which step in the planning process most directly involves environmental scanning and organizational diagnosis?",
+    "options": [
+      "Establishing objectives",
+      "Budgeting",
+      "Identifying problems/opportunities",
+      "Identifying alternatives"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "According to international product life cycle theory, in which stage less developed countries begin to import the product",
+    "options": [
+      "Stage 1",
+      "Stage 2",
+      "Stage 3",
+      "Stage 0"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following cannot be internal marketing environmental factor",
+    "options": [
+      "Production capability",
+      "Marketing intermediaries",
+      "Location",
+      "Financial capability"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Business plan will have the following benefits, except",
+    "options": [
+      "It increases the anxieties and tension of the entrepreneur",
+      "It help to attract key employees",
+      "It help to obtain finance",
+      "It helps to obtain large contract"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In the coefficient of correlation (r), values close to ONE indicate ____.",
+    "options": [
+      "Direct relationship",
+      "Strong correlation",
+      "Weak correlation",
+      "Inverse relationship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Social psychologists in OB focus primarily on:",
+    "options": [
+      "The influence of people on one another and group decision-making.",
+      "Individual personality and learning.",
+      "The design of organizational structures.",
+      "Economic aspects of organizational transformations."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following is the most explosive ethical issues concerning workplace privacy and the quality of working conditions in business.",
+    "options": [
+      "Adware and spyware",
+      "Computer virus",
+      "Computer monitoring",
+      "Theft of intellectual property"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which function of HRM is responsible for preventing workplace hazards?",
+    "options": [
+      "Safety and Health",
+      "Compensation",
+      "Staffing",
+      "Industrial Relations"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A temporary separation of the employee from his or her employer is:",
+    "options": [
+      "Discharge",
+      "Dismissal",
+      "Lay off",
+      "Resignation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is a direct result of the organizing function?",
+    "options": [
+      "Budget preparation",
+      "Strategic objectives",
+      "Organizational structure",
+      "Forecasting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Identify the incorrect statement about aggregate planning.",
+    "options": [
+      "Develop an economic strategy for meeting demand",
+      "Establish a department game",
+      "Determine the resource capacities",
+      "Established time horizon",
+      "Established time for allocating resources"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "________ is a model type based on structure scheme that is the least abstract and is the physical model that looks like the reality.",
+    "options": [
+      "Analog models",
+      "Symbolic model",
+      "Iconic model",
+      "Deterministic model"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "One of the following is not internal failure costs",
+    "options": [
+      "Process downtime costs",
+      "Rework costs",
+      "Customer complaint costs",
+      "Process failure costs"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Taylor's main criticism of traditional management was that it relied heavily on:",
+    "options": [
+      "Rule-of-thumb methods",
+      "Scientific experimentation",
+      "Employee participation",
+      "Rules and regulations"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following growth strategy attempts to sell current products to new customers by taking its products to new location(s)",
+    "options": [
+      "Market development",
+      "Product development",
+      "Diversification",
+      "Market penetration"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The business analysis step in the new product development process involves",
+    "options": [
+      "Systematically searching for new product ideas",
+      "Testing product ideas",
+      "Review of the sales, costs and profit projection for a new product",
+      "Make a final decision whether to launch the new product"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which factor most strongly influences non-programmed decisions?",
+    "options": [
+      "Established rules",
+      "Organizational policies",
+      "Past repetition",
+      "Uncertainty and uniqueness"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "....can be defined as the art and science of formulating, implementing, and evaluating cross-functional decisions that enable an organization to achieve its objectives.",
+    "options": [
+      "Strategy formulation",
+      "Strategic management",
+      "Strategy evaluation",
+      "Strategy implementation"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is false about the properties of the chi-square distribution?",
+    "options": [
+      "For each degree of freedom, we have one chi-square distribution.",
+      "The degree of freedom when working with a single population variance is n-1.",
+      "Chisquare is non-negative.",
+      "For each degree of freedom, we have more one chi-square distribution."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Staffing primarily focuses on:",
+    "options": [
+      "Controlling performance",
+      "Structuring departments",
+      "Setting organizational goals",
+      "Filling and maintaining positions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The level in which consumer will experience some level of satisfaction or dissatisfaction is?",
+    "options": [
+      "Post purchase behavior",
+      "Purchase decision",
+      "Attitude of others",
+      "Purchase Intention"
+    ],
+    "correct": 0
+  }
+]
