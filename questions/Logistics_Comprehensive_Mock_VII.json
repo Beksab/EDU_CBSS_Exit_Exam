@@ -1,0 +1,1397 @@
+[
+  {
+    "questionText": "Which one is true about E-commerce security technology?",
+    "options": [
+      "During transaction and sending information should be kept security is not as such necessary.",
+      "Privacy is the ability to ensure that information is accessed and changed only by authorized Parties.",
+      "Integrity of information means ensuring that a communication received has been altered.",
+      "All are true."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one is/are incorrect about types of data bases?",
+    "options": [
+      "The relational data model represents all data in the data base as simple two dimensional tables called relations.",
+      "Hierarchical DBMS is organizing data in a top-down.",
+      "Network structure is best at representing many to many relationships among Records.",
+      "none"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "___ is a private network that is accessible only to internal members of an organization and select external individuals.",
+    "options": [
+      "Extranet",
+      "Intranet",
+      "Internet",
+      "w.w.web"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "______ is the process of dividing items into three classes according to their birr usage so that managers can focus on items that have the highest birr value.",
+    "options": [
+      "ABC analysis",
+      "VED analysis",
+      "SDE analysis",
+      "FNSD analysis"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A cupboard in a furniture firm is _________________________",
+    "options": [
+      "Dependent demand",
+      "Independent demand",
+      "Work-in-process",
+      "All except C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A company's competitive strategy",
+    "options": [
+      "defines the set of customer needs that it seeks to satisfy through its products",
+      "Specifies the portfolio of new products that it will try to develop.",
+      "Specifies how the market will be segmented and how the product will be positioned.",
+      "Determines the nature of procurement and transportation of materials as well as manufacture and distribution of the product"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company's product development strategy",
+    "options": [
+      "Defines the set of customer needs that it seeks to satisfy through its products and services.",
+      "Specifies the collection of new products that it will try to develop.",
+      "Specifies how the market will be segmented and how the product will be positioned, priced, and promoted.",
+      "Determines the nature of procurement and transportation of materials as well as manufacture and distribution of the product."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following defines the set of customer needs that a company seeks to satisfy through its products and services?",
+    "options": [
+      "Competitive strategy",
+      "Product development strategy",
+      "Marketing and sales strategy",
+      "Supply chain strategy"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The value chain connection between a firm and its suppliers is called:",
+    "options": [
+      "Inbound logistics.",
+      "Outbound logistics.",
+      "SCM.",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All are the of Role of manager in supply chain expect one :",
+    "options": [
+      "Planning/Scheduling:",
+      "Works closely with Sales and Engineering on new jobs and product developments.",
+      "Provides input into staffing and capacity needs in order to maximize productivity",
+      "Nane."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Delegating a job to someone or a team within the company",
+    "options": [
+      "Outsourcing",
+      "In sourcing",
+      "Near-sourcing",
+      "Low-cost Country Sourcing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Is not true about Product Design Company.",
+    "options": [
+      "shape of the supply chain and this has a great impact on the cost and availability of the product",
+      "procurement and manufacturing people can work together in the design",
+      "Creates products that will be successful and profitable.",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All are to minimize the bullwhip effect except one:",
+    "options": [
+      "Use Warehouse Inventory Management Software",
+      "increase Your Promotions and Sales",
+      "Modernize the Supply Chain",
+      "Optimize Your Minimum Order Quantity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Is not aspects of goals affect negotiation",
+    "options": [
+      "goals often linked to other party’s goals",
+      "Wishes are not goals especially in negotiation",
+      "There are boundaries or limits to what our goals",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All are success in negotiation planning except one",
+    "options": [
+      "Defining the major issues related to achieving the goal",
+      "Assembling the issues, ranking their importance",
+      "Analyzing and understanding the other party’s goals, issues, and resistance points",
+      "Assessing the social context of negotiation",
+      "None"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "All factors are important in attempting to influence the other person’s resistance point: except one;",
+    "options": [
+      "costs the other attaches to delay or difficulty in negotiations",
+      "The cost the other attaches to having the negotiations aborted.",
+      "value the other attaches to a particular outcome",
+      "more the other party believes that you value an issue"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not reasons that every negotiator should understand distributive bargaining.",
+    "options": [
+      "tactics almost exclusively",
+      "To require distributive bargaining skills when at the “claiming-value” stage.",
+      "negotiators face some interdependent situations that are distributive",
+      "goals of the parties are not mutually exclusive"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "--- In bargaining, the other party does not usually reveal accurate and precise information about his or her targets, resistance points.",
+    "options": [
+      "Indirect Assessment",
+      "direct Assessment",
+      "Screening Activities",
+      "Disruptive Action"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "All are the benefits of contract management not one",
+    "options": [
+      "Save both time and money",
+      "Control important contract deadlines",
+      "Get more confidence to your work",
+      "Mitigate your legal risks better",
+      "None"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "All are true structure of integrative negotiation expect one",
+    "options": [
+      "goals of the parties are not mutually exclusive",
+      "One party’s gain is not necessarily at the other party’s expense",
+      "mutual exploration will often suggest alternatives where both parties can gain",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "All are true Identify and Define the Problem not one",
+    "options": [
+      "Define the Problem in a Way That Is Mutually Acceptable to Both Sides",
+      "State the Problem as a Goal and Identify the Obstacles to Attaining This Goal",
+      "Depersonalize the Problem",
+      "Identifying interests is a critical step in the integrative negotiation process"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "-------------services provided by firms in respect of claims for compensation, reparation, restitution or any other remedy for financial loss or breach of contractual obligation.",
+    "options": [
+      "Instrumental Interest",
+      "Claim Management",
+      "Logroll",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not true observation of Interests",
+    "options": [
+      "Parties can have different types of interests at stake.",
+      "Interests often stem from deeply rooted human needs or values",
+      "Interests can change",
+      "none"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Liberalized trading rules and deregulated markets lead to lowered tariffs and allowed foreign direct investments in almost all over the world.",
+    "options": [
+      "Technological drivers",
+      "Political drivers",
+      "Market drivers",
+      "Competitive drivers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Procurement can involve hiring temporary staffers, leasing software, and bringing in short term vendors to work at an event or seminar.",
+    "options": [
+      "Indirect procurement",
+      "Services procurement",
+      "Goods procurement",
+      "Direct procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "All are the Challenges with international purchasing except one",
+    "options": [
+      "Language differences",
+      "Payment methods",
+      "Shipping procedures",
+      "Evaluating Your Company’s Capabilities",
+      "None"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "All are Advantages of International Competitive Bidding except one",
+    "options": [
+      "promotes competition between suppliers, resulting in best “value for money” for purchasers and users",
+      "offers a kind of transparency and help avoid corruption and favoritism",
+      "gives all suppliers the opportunity to win the business that is advertised",
+      "NONE"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "--------procurement method that limits the request for tenders to a select number of suppliers, contractors or service providers.",
+    "options": [
+      "Restricted Tendering",
+      "Two-stage tendering",
+      "request for proposal",
+      "Request for Quotations"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "----------is the transferring activities or ownership of a complete business process to a different country from the country (or countries) where the company receiving the services is located.",
+    "options": [
+      "Sourcing",
+      "Outsourcing",
+      "Offshoring",
+      "Global sourcing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Documentary collection is a type of trade financing in which an exporter receives payment for his goods from an importer after the financial institutions of the parties",
+    "options": [
+      "true",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the following is the shipper and carrier cannot satisfactory resolve a claim, the shipper’s only recourse is to start a legal action against the carrier in the appropriate state or federal.",
+    "options": [
+      "Freight claim reduction",
+      "Freight claim arbitration",
+      "Determination of freight clam damages",
+      "Concealed loss and damage"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not true Transportation planning",
+    "options": [
+      "the process of defining future policies, goals, investments",
+      "planning designs to prepare for future needs to move people and goods to destinations",
+      "is highly essential in shaping cities, enabling economic activities,",
+      "unnecessary for sustainable development and ensuring safe accessibility"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Is not true Bill of Lading?",
+    "options": [
+      "legal contract between the shipper and the carrier for the movement of the designated freight",
+      "basic document in the purchase of transport services",
+      "company that arranges commercial transportation for the cargo of other firms",
+      "All"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Is not true good identification of route will provide",
+    "options": [
+      "Improved customer services",
+      "Increase time or distance",
+      "Reduced transportation costs",
+      "Increased these routes identified"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One is a form of trade finance in which an exporter is paid for its goods by an importer after the two parties' banks exchange the required documents.",
+    "options": [
+      "collection document",
+      "bill of lading",
+      "shipping document",
+      "Bill freight"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One 6.of the following is occurred when the cost per unit of weight decrease as the size of a shipment increases.",
+    "options": [
+      "transportation economy of cost",
+      "Transportation economic of distance",
+      "transportation economy of scale",
+      "Transportation economy of Speed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Goods are loaded on the trailer which will be further loaded on a ship. At the destination, it will be unloaded from the ship & reloaded on truck for final delivery.",
+    "options": [
+      "Piggy back",
+      "Fishy back",
+      "bendy-back",
+      "Trans ship"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Among the following, which one is not basic to be operationally efficient to maximize logistics service?",
+    "options": [
+      "Faster delivery",
+      "Flexibility of delivery",
+      "inconsistency of delivery",
+      "Responsiveness"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Through which logistical arrangement shall fast-moving products or materials in forward warehouses pass?",
+    "options": [
+      "Echelons",
+      "Combined",
+      "Direct",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following logistics performance is more productive in terms of time?",
+    "options": [
+      "Transporting 70 quintals per 2 hour",
+      "Transporting 70 quintals per 1 hour",
+      "Transporting 35 quintals per 1 hour",
+      "Transporting 35quintals per 3 hour"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is not true considering the Customer focused marketing ideas?",
+    "options": [
+      "Volume is basic or primary to generate profit",
+      "Customer needs and requirements are more basic than products or services",
+      "Products are better to be available wherever the customers live",
+      "Meet quantity requirements of customers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The firm's ability to accommodate special situations and unusual or unexpected customer requests is:",
+    "options": [
+      "Speed",
+      "Flexibility",
+      "Consistency",
+      "Malfunction recovery"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The amount of time the customer must wait between ordering and receiving products is:",
+    "options": [
+      "Spatial convenience",
+      "Lead time",
+      "Lot Size",
+      "Product Variety"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The Performance which results in customer satisfaction or freedom from deficiency which avoids customer dissatisfaction is:",
+    "options": [
+      "Customer expectations",
+      "Supplier performance",
+      "Service quality",
+      "Value-added services"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following are true about ‘reverse logistics’ compared to ‘forward logistics’?",
+    "options": [
+      "Product quality is uniform",
+      "Forecasting is more difficult",
+      "Speed is generally more important",
+      "Packaging is often damaged",
+      "B & D",
+      "A&C"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "Which discipline of Organizational Behavior draws on psychology, anthropology and sociology to gain insight into the behavior of individuals in organizational settings?",
+    "options": [
+      "The Organizational Structure",
+      "The Behavior of People in Organizations",
+      "The Behavior of organizations",
+      "The objective of the Organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Among the Properties of Group in Organizational Behavior, the set of expected behavior patterns that are attributed to occupying a given position in a social unit is:",
+    "options": [
+      "Roles",
+      "Norms",
+      "Status",
+      "Cohesiveness",
+      "Size"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which category of hierarchy needs theory includes the need for love, affection, care, belongingness, and friendships?",
+    "options": [
+      "Physiological needs",
+      "Safety needs",
+      "Social needs",
+      "Self-actualization need"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following Theories of motivation most typically incorporates an assumption of Theory X?",
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "1 and 4 only"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The following alternatives are the main features of Organizational Behavior at an accepted discipline, but one is not. Which one is it?",
+    "options": [
+      "An Interdisciplinary Approach",
+      "Applied Science",
+      "A Normative Science",
+      "A Humanistic and Optimistic Approach",
+      "A partial System Approach"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "Using Technology has the following advantages in the global trade particularly in e-procurement except one:",
+    "options": [
+      "Buy or sell products",
+      "Dissatisfying customers",
+      "Improve Customer Service",
+      "Market Expansion",
+      "Low Cost Selling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "ERP (enterprise resource planning) most typically incorporates which of the following?",
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "3 and 4 only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "E-commerce environment companies sell their online goods to other companies without being engaged in sales to consumers. In which Model of E-Commerce?",
+    "options": [
+      "Business-to-Business",
+      "Business-to-Consumer",
+      "Consumer-to-Consumer",
+      "Consumer-to-Business",
+      "Business-to-Government"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following given alternatives one is not the benefits of E- Procurement?",
+    "options": [
+      "Shortens Procurement and Purchasing Cycle’s Time and Cost",
+      "Helps Companies to save Money",
+      "Add Administrative Errors",
+      "Standardized Buying",
+      "Eliminating Paperwork"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In an enterprise, a safety exposure might result in possible damage in the organizations information and communication systems, unauthorized disclosure, transfer, modifications, or destruction, whether accidental or intentional. Which one is prefer to against such like possible damage?",
+    "options": [
+      "E-Commerce",
+      "E-security",
+      "E-procurement",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "All of the following are the common e-commerce pitfalls except:",
+    "options": [
+      "contingency measures in place",
+      "Denial-of-service attacks",
+      "Loss of customer confidence",
+      "Hackers gain access to information"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Making e-payments effective and successful the following requirements are essentials:",
+    "options": [
+      "1&3 only",
+      "2&4 only",
+      "1&4 only",
+      "2&3 only"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The advantages of smart cards include the following:",
+    "options": [
+      "Include Low maximum transaction limit",
+      "High Infrastructure costs",
+      "Lack of universal standards for their design and utilization.",
+      "high security"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Research ________is the blue print for the study.",
+    "options": [
+      "Variable",
+      "Problem",
+      "Design",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "_________ Data can be obtained by communication or by observation.",
+    "options": [
+      "Secondary",
+      "Primary",
+      "Sample",
+      "None of these."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Sample means a ………part of an entire population.",
+    "options": [
+      "Small",
+      "Large",
+      "Sizable",
+      "Representative"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The essential qualities of a researcher are",
+    "options": [
+      "Spirit of free enquiry",
+      "Reliance on observation and evidence",
+      "Systematization or theorizing of knowledge",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Hypothesis refers to:",
+    "options": [
+      "The outcome of an experiment",
+      "A conclusion A form of bias in which the subject tries to outguess the experimenter",
+      "A tentative statement about the relationship",
+      "drawn from an experiment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The final step in the research process is to:",
+    "options": [
+      "Conduct a statistical analysis of data",
+      "Report the research results",
+      "Dismantle the apparatus",
+      "Clean the laboratory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What is the modern method of acquiring knowledge?",
+    "options": [
+      "Authority",
+      "Personal experience",
+      "Scientific method",
+      "Expert opinion"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A successful research proposal not consists of the following element:",
+    "options": [
+      "An introduction",
+      "A problem statement",
+      "Research questions",
+      "Abstract"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Operations management is applicable:",
+    "options": [
+      "mostly to the service sector",
+      "to services exclusively",
+      "mostly to the manufacturing sector",
+      "to all firms, whether manufacturing and service",
+      "to the manufacturing sector exclusively"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All of the following decisions fall within the scope of operations management except for",
+    "options": [
+      "financial analysis",
+      "design of goods and processes",
+      "location of facilities",
+      "managing quality",
+      "All of the above fall within the scope of operations management."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A strategy is a (an):",
+    "options": [
+      "set of opportunities in the marketplace",
+      "broad statement of purpose",
+      "simulation used to test various product line options",
+      "plan for cost reduction",
+      "action plan to achieve the mission"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "____Is used to rank a company's products to determine which products represent the best use of the firm's resources, or, perhaps, to determine which products are to be eliminated.",
+    "options": [
+      "Value analysis",
+      "Value engineering",
+      "Financial analysis",
+      "Product-by-value analysis",
+      "Product cost justification"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "\"Making it right the first time\" is",
+    "options": [
+      "an unrealistic definition of quality",
+      "a user-based definition of quality",
+      "a manufacturing-based definition of quality",
+      "a product-based definition of quality",
+      "the definition proposed by the American Society for Quality"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A job shop is an example of a(n):",
+    "options": [
+      "repetitive process",
+      "continuous process",
+      "line process",
+      "intermittent process",
+      "specialized process"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Effective capacity is the",
+    "options": [
+      "maximum output of a system in a given period",
+      "capacity a firm expects to achieve given the current operating constraints",
+      "average output that can be achieved under ideal conditions",
+      "minimum usable capacity of a particular facility",
+      "sum of all of the organization's inputs"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The type of layout which features departments or other functional groupings in which similar activities are performed is?",
+    "options": [
+      "process-oriented",
+      "product-oriented",
+      "fixed-position",
+      "mass production",
+      "unit production"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Outsourcing is simply an extension of the long-standing practice of",
+    "options": [
+      "subcontracting",
+      "importing",
+      "exporting",
+      "postponement",
+      "e-procurement"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Aggregate planning is capacity planning for?",
+    "options": [
+      "the long range",
+      "the intermediate range",
+      "the short range",
+      "typically one to three months",
+      "typically three or more years"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A computer system followed by Ethiopian customs authority to automate customs revenue calculation and prepare different statistics is called?",
+    "options": [
+      "ACYCUDA++",
+      "ACYCUDA--",
+      "ACYCUDA+-",
+      "ACYCUDA-+"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Is the process of clearing cargo through customs at sea port or inland clearance depot?",
+    "options": [
+      "Cargo clearance",
+      "Cargo declaration",
+      "Cargo booking service",
+      "Dry-dock"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A temporary commercial invoice prepared and sent by an exporter to the importer is ?",
+    "options": [
+      "Pro-forma invoice",
+      "Cargo insurance policy/ Debit Note",
+      "Foreign Exchange (FOREX) permits",
+      "Purchase order"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following are not the reasons for foreign purchasing?",
+    "options": [
+      "Cost /price benefits",
+      "Quality",
+      "availability of items domestically",
+      "Faster Delivery and Continuity of Supply"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "____is a document issued by the ship owner or by the master or other agent on his/her behalf which states that certain goods have been shipped on a particular ship and which purports to set out the terms on which such goods have been delivered to, and received by the ship.",
+    "options": [
+      "Freight invoice/receipt",
+      "Bill of lading",
+      "Warranty of Title",
+      "Custom declaration form (CDF)."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Purchase and sale of goods with in a country is known as:",
+    "options": [
+      "internal/home trade",
+      "international trade",
+      "foreign trade"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Export marketing is restricted to some extent due to certain difficulties or drawbacks such as:",
+    "options": [
+      "Difficulties of Distance",
+      "Absence of Risk and certainties",
+      "Common Languages, Customs and Traditions",
+      "Common Currencies, Weights and Measure"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following one is wider scope than the others which one it?",
+    "options": [
+      "Sustainable supply chain management.",
+      "Sustainable supply chain.",
+      "Sustainable logistics management.",
+      "Sustainable procurement management."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Process of moving, all information, money, products, storing and distributing goods from when they’re the home of origin to their final delivery?",
+    "options": [
+      "Sustainable supply chain management.",
+      "Sustainable supply chain.",
+      "Sustainable logistics.",
+      "Sustainable procurement."
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "An important branch of logistics aimed at value-recovery, cost reduction, and streamlining of the sustainable supply chain management is?",
+    "options": [
+      "Procurement.",
+      "Reverse logistics.",
+      "Supply chain management.",
+      "Materials handling."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The practice of creating and maintaining conditions under which humans and nature can exist in productive harmony that permits fulfilling the social, economic and other requirements of present and future generations?",
+    "options": [
+      "Environmental Sustainability",
+      "Social Sustainability",
+      "Economic Sustainability",
+      "Legal Sustainability"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company's competitive strategy",
+    "options": [
+      "defines the set of customer needs that it seeks to satisfy through its products",
+      "Specifies the portfolio of new products that it will try to develop.",
+      "Specifies how the market will be segmented and how the product will be positioned.",
+      "Determines the nature of procurement and transportation of materials as well as manufacture and distribution of the product",
+      "Determines how it will obtain and maintain the appropriate set of skills and abilities to meet customer needs."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company's product development strategy:",
+    "options": [
+      "Defines the set of customer needs that it seeks to satisfy through its products and services.",
+      "Specifies the collection of new products that it will try to develop.",
+      "Specifies how the market will be segmented and how the product will be positioned, priced, and promoted.",
+      "Determines the nature of procurement and transportation of materials as well as manufacture and distribution of the product.",
+      "Determines how it will obtain and maintain the appropriate set of skills and abilities to meet customer needs."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following defines the set of customer needs that a company seeks to satisfy through its products and services?",
+    "options": [
+      "Competitive strategy",
+      "Product development strategy",
+      "Marketing and sales strategy",
+      "Supply chain strategy",
+      "None of the"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The value chain connection between a firm and its suppliers is called:",
+    "options": [
+      "Inbound logistics.",
+      "Outbound logistics.",
+      "Supply Chain Management",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Role of manager in supply chain:",
+    "options": [
+      "Planning/Scheduling:",
+      "Works closely with Sales and Engineering on new jobs and product developments.",
+      "Provides input into staffing and capacity needs in order to maximize productivity",
+      "Responsible for efficient and accurate MRP functionality.",
+      "Negotiates cost reductions.",
+      "All"
+    ],
+    "correct": 5
+  },
+  {
+    "questionText": "Delegating a job to someone or a team within the company",
+    "options": [
+      "Outsourcing",
+      "In sourcing",
+      "Near-sourcing",
+      "Low-cost Country Sourcing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is not true about Product Design Company?",
+    "options": [
+      "shape of the supply chain and this has a great impact on the cost and availability of the product",
+      "procurement and manufacturing people can work together in the design",
+      "Creates products that will be successful and profitable.",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All are to minimize the bullwhip effect except one",
+    "options": [
+      "Use Warehouse Inventory Management Software",
+      "increase Your Promotions and Sales",
+      "Modernize the Supply Chain",
+      "Optimize Your Minimum Order Quantity"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Coordination supply chain participants",
+    "options": [
+      "Information Integration",
+      "Planning Synchronization",
+      "Work-Flow Coordination",
+      "New Business Models",
+      "All"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "Is not aspects of goals affect negotiation",
+    "options": [
+      "goals often linked to other party’s goals",
+      "Wishes are not goals especially in negotiation",
+      "There are boundaries or limits to what our goals",
+      "Effective goals must be concrete or specific",
+      "None"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "All are success in negotiation planning except one",
+    "options": [
+      "Defining the major issues related to achieving the goal",
+      "Assembling the issues, ranking their importance",
+      "Analyzing and understanding the other party’s goals, issues, and resistance points",
+      "Assessing the social context of negotiation",
+      "None"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "All factors are important in attempting to influence the other person’s resistance point: except one",
+    "options": [
+      "costs the other attaches to delay or difficulty in negotiations",
+      "The cost the other attaches to having the negotiations aborted.",
+      "value the other attaches to a particular outcome",
+      "more the other party believes that you value an issue"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not reasons that every negotiator should understand distributive bargaining.",
+    "options": [
+      "tactics almost exclusively",
+      "To require distributive bargaining skills when at the “claiming-value” stage.",
+      "negotiators face some interdependent situations that are distributive",
+      "goals of the parties are not mutually exclusive"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "--------- In bargaining, the other party does not usually reveal accurate and precise information about his or her targets, resistance points.",
+    "options": [
+      "Indirect Assessment",
+      "direct Assessment",
+      "Screening Activities",
+      "Disruptive Action"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All are the benefits of contract management but one is not",
+    "options": [
+      "Save both time and money",
+      "Control important contract deadlines",
+      "Get more confidence to your work",
+      "Mitigate your legal risks better",
+      "None"
+    ],
+    "correct": 4
+  },
+  {
+    "questionText": "All are true structure of integrative negotiation expect one",
+    "options": [
+      "goals of the parties are not mutually exclusive",
+      "One party’s gain is not necessarily at the other party’s expense",
+      "mutual exploration will often suggest alternatives where both parties can gain",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "All are true Identify and Define the Problem not one",
+    "options": [
+      "Define the Problem in a Way That Is Mutually Acceptable to Both Sides",
+      "State the Problem as a Goal and Identify the Obstacles to Attaining This Goal",
+      "Depersonalize the Problem",
+      "Identifying interests is a critical step in the integrative negotiation process"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "-------------services provided by firms in respect of claims for compensation, reparation, restitution or any other remedy for financial loss or breach of contractual obligation",
+    "options": [
+      "Instrumental Interest",
+      "Claim Management",
+      "Logroll",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the following is not true observation of Interests",
+    "options": [
+      "Parties can have different types of interests at stake.",
+      "Interests often stem from deeply rooted human needs or values",
+      "Interests can change",
+      "none"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Liberalized trading rules and deregulated markets lead to lowered tariffs and allowed foreign direct investments in almost all over the world.",
+    "options": [
+      "Technological drivers",
+      "Political drivers",
+      "Market drivers",
+      "Competitive drivers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Procurement can involve hiring temporary staffers, leasing software, and bringing in short term vendors to work at an event or seminar.",
+    "options": [
+      "Indirect procurement",
+      "Services procurement",
+      "Goods procurement",
+      "Direct procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "All are the Challenges with international purchasing except one",
+    "options": [
+      "Language differences",
+      "Payment methods",
+      "Shipping procedures",
+      "Evaluating Your Company’s Capabilities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All are Advantages of International Competitive Bidding except one",
+    "options": [
+      "promotes competition between suppliers, resulting in best “value for money” for purchasers and users",
+      "offers a kind of transparency and help avoid corruption and favoritism",
+      "gives all suppliers the opportunity to win the business that is advertised",
+      "NONE"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The _____procurement method that limits the request for tenders to a select number of suppliers, contractors or service providers.",
+    "options": [
+      "Restricted Tendering",
+      "Two-stage tendering",
+      "request for proposal",
+      "Request for Quotations"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following alternatives which is true about a managers of an organization.",
+    "options": [
+      "Coordinator role of a managers are concerning with making the environment conducive for a work.",
+      "Developing an overall structure of the organization is the function of the middle managers.",
+      "Managers are a group of two or more people brought to gather to achieve a common stated",
+      "In managerial skill applying methods and procedures are called technical skill."
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A broad managerial system that integrated many key managerial activities in a systematic Manner to achievement of organizational and individual objectives is _____________",
+    "options": [
+      "Planning",
+      "Management by objectives",
+      "strategic planning",
+      "Operational planning."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "From the following which one is odd from the others?",
+    "options": [
+      "Division of labour",
+      "Delegation of authority",
+      "Formal organization",
+      "Organizational structure"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "“Leaders can be made, rather than born”. It is the assumption of the ________________",
+    "options": [
+      "Behavioral theory",
+      "Great man theory",
+      "Trait theory",
+      "Participative leader ship theory"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "According the following statement which one is false about controlling in an organization.",
+    "options": [
+      "It is the feedback system in an organization",
+      "To make sure an organization objective it is not as such important.",
+      "In the organization the area of controlling includes financial resource, information resource, human resource and physical resources",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following organization doesn’t require inventory?",
+    "options": [
+      "Hospital",
+      "College",
+      "Hotel",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is true about forecasting?",
+    "options": [
+      "Experience, judgment, and technical expertise play a role in developing useful forecast.",
+      "Forecast are always perfect",
+      "Forecasts for individual item is tend to be more accurate than forecast to group items.",
+      "Forecast accuracy increases as time period covered by the forecast increases"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following forecasting approaches one is different from others?",
+    "options": [
+      "Executive opinions",
+      "Consumer survey",
+      "Time serious models",
+      "Opinions of managers and staff"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "___ is the process of dividing items into three classes according to their birr usage so that managers can focus on items that have the highest birr value.",
+    "options": [
+      "ABC analysis",
+      "VED analysis",
+      "SDE analysis",
+      "FNSD analysis"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A cup board in a furniture firm is _________________________",
+    "options": [
+      "Dependent demand",
+      "Independent demand",
+      "Work-in-process",
+      "All except C"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Purchased lumber in a furniture firm is ________________________________",
+    "options": [
+      "Dependent demand",
+      "Independent demand",
+      "Work-in-process",
+      "All except C"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following one is not the assumption of economic order quantity (EOQ) model?",
+    "options": [
+      "Annual demand requirements are known",
+      "Lead time does not vary",
+      "Usage occurs continually, but production occurs periodically",
+      "There are no quantity discounts"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "__is the planning and coordinating of the movement of commodities across international borders, on behalf of shippers.",
+    "options": [
+      "Freight forwarding",
+      "Agents",
+      "brokers",
+      "Logistics"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All are not correct about Ocean Transportation except one.",
+    "options": [
+      "It is more often used for smaller loads",
+      "is the least expensive and slowest mode of freight transport.",
+      "I t used where speed of delivery is more important than the cost.",
+      "none"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "From the following which criteria is/are important for the selection of mode of transportation.",
+    "options": [
+      "Time Sensitive",
+      "Cost",
+      "Capability",
+      "all"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one true about Bill of lading.",
+    "options": [
+      "It serves as a purchase order receipt by documenting commodities and quantities Shipped",
+      "It is a contract between shipper and carrier that describes the merchandise or cargo being shipped.",
+      "According to the commercial code of Ethiopia, three copies of the bill of lading shall be prepared by the receiver and delivered to the carrier together with the goods.",
+      "All are correct."
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When the government organization prepared procurement plan it contain the following element/s. Then, which one it contain/s?",
+    "options": [
+      "The Procurement number,",
+      "Description of the procurement",
+      "Quantity of the procurement",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one true about approved method of Ethiopian government purchasing.",
+    "options": [
+      "In restricted Bidding invitation for bid is sent to limited number of qualified firms or suppliers,",
+      "Request for Proposals procedure is used for service goods procurement.",
+      "Request for Quotation is applied in a many value procurements.",
+      "All are correct"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The Standard Bidding Document for the Procurement of Goods has been designed to:",
+    "options": [
+      "Simplify the drafting of a specific bidding document for Procurement of Goods and Related Services by Procurement Units.",
+      "Minimize the time required by the Tender Committee to approve Bidding Documents prior to release.",
+      "Reduce Bidders’ time and effort in the preparation of Bids.",
+      "All are correct"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is false about tender evaluation principles?",
+    "options": [
+      "It based on subjective judgment",
+      "Equal opportunities are provided for all bidders.",
+      "The process will be open, clear and defensible."
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "_______is a commercial purchase transaction between a buyer and a supplier located in a different country.",
+    "options": [
+      "Domestic purchasing",
+      "Local purchasing",
+      "Foreign purchasing",
+      "All are correct"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is incorrect about international purchasing?",
+    "options": [
+      "In international business, the samples are always sent by air (for light stuff) or shipping, the fee involved is much higher than domestic business.",
+      "The requirement of order quantities of international business needs not consider so much about the delivery process.",
+      "In domestic procurement, the lead time is much shorter than in international Procurement",
+      "all are correct"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one is not the advantage of international sourcing?",
+    "options": [
+      "High-quality technological know-how",
+      "Market entry",
+      "Small competition",
+      "none"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "In international purchasing which one true about agents.",
+    "options": [
+      "Imports brokers help or assist buyers locate foreign sources but assume no financial risk and carry no inventory.",
+      "Merchants are located in foreign countries will act as an agent for fee.",
+      "Representatives are just representatives of foreign manufacturing firm who are located inside of the country.",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One is not the problem in foreign purchasing.",
+    "options": [
+      "Political related challenges",
+      "Risk Sharing",
+      "Currency fluctuation",
+      "none"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Total cost in international purchasing is called_____",
+    "options": [
+      "Landed cost",
+      "fixed cost",
+      "variable cost",
+      "none"
+    ],
+    "correct": 0
+  }
+]

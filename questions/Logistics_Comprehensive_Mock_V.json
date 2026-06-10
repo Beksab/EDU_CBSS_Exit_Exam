@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "Many management scholars hold the view that management is the art of getting things done through other people. The issue they really address in this respect is:",
+    "options": [
+      "Managers achieve organizational goals by arranging tasks for operatives",
+      "Managers involve themselves in performing tasks",
+      "Managers are responsible for arranging conducive working environment",
+      "Managers need not do anything to achieve the organizational goal"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The upper limit of employees or subordinates a supervisor can effectively manage is called:",
+    "options": [
+      "Span of control",
+      "Span of manpower",
+      "Span of organization",
+      "Span of functions"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following would NOT be an accurate depiction of the differences between strategic and tactical planning?",
+    "options": [
+      "Strategic planning is developed mainly by upper-level management and tactical planning is generally developed by lower-level management",
+      "Strategic plans generally contain less details than tactical plans",
+      "Strategic plans generally cover a longer period of time than tactical plans",
+      "Managers who are engaged in the development of strategic plans tend to work in more uncertainty than those managers engaged in the development of tactical plans"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Under which decision making conditions does level of ambiguity and chances of making a bad decision is higher?",
+    "options": [
+      "Under certainty",
+      "Under risk",
+      "Under uncertainty",
+      "Under possibility"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one is NOT a recognized key skill of management?",
+    "options": [
+      "Conceptual skills",
+      "Human skills",
+      "Technical skills",
+      "Writing skills"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following principles of organization states that the flow of authority from top to bottom is in a hierarchical way. Identify it.",
+    "options": [
+      "The adequacy-of-authority principle",
+      "The scalar (chain of command) principle",
+      "The accountability principle",
+      "The unity of command principle"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The organizational structure at which managers hold equal positions and status is depicted in:",
+    "options": [
+      "Vertical elongation of authority line",
+      "Vertically and horizontally designed system of organization",
+      "Horizontally designed system of organization",
+      "Diagonal designed system of organization"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following violates the principle of unity of command?",
+    "options": [
+      "Matrix organization",
+      "Functional departmentalization",
+      "Geographic or territorial basis",
+      "Product departmentalization"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which means that the seller pays the freight for the carriage of the goods to the named destination?",
+    "options": [
+      "CPT",
+      "CIP",
+      "CIF",
+      "CFR"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which party covers loading charges at EXW?",
+    "options": [
+      "Seller",
+      "Buyer",
+      "Owner",
+      "Freight forwarder"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is a process of fulfilling customs formalities for import and export cargo on behalf of consignor or consignee within customs station?",
+    "options": [
+      "Custom clearance",
+      "Custom clearing",
+      "Port clearance",
+      "Customs Transit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is not the function of the freight forwarder?",
+    "options": [
+      "Customs clearance",
+      "Consolidation",
+      "Payment",
+      "Fumigation"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "It is duties on certain imported and on certain locally provided services like electricity supplied by power industries.",
+    "options": [
+      "Excise tariff",
+      "Export duties tariff",
+      "Surtax tariff",
+      "Dumping duties tariff"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is issued by the assistant to the captain of the ship after the cargo is loaded on the ship?",
+    "options": [
+      "Packing list",
+      "Mate's receipt",
+      "Inspection certificate",
+      "Insurance certificate"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one is determined on the basis of the cost of production of the goods valued, plus an amount for profit?",
+    "options": [
+      "Transaction value of similar goods",
+      "Computed value method",
+      "Fall-back method",
+      "Deductive value goods"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one is not standard form of documentation under L/C payment?",
+    "options": [
+      "Commercial invoice",
+      "Bill of lading",
+      "Letter of indemnity",
+      "Letter of certification"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company's competitive strategy:",
+    "options": [
+      "Defines the set of customer needs that it seeks to satisfy through its products and services",
+      "Specifies the portfolio of new products that it will try to develop",
+      "Specifies how the market will be segmented and how the product will be positioned, priced, and promoted",
+      "Determines the nature of procurement and transportation of materials as well as manufacture and distribution of the product"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A company's supply chain strategy:",
+    "options": [
+      "Defines the set of customer needs that it seeks to satisfy through its products and services",
+      "Specifies the portfolio of new products that it will try to develop",
+      "Specifies how the market will be segmented and how the product will be positioned, priced, and promoted",
+      "Determines the nature of procurement and transportation of materials as well as manufacture and distribution of the product"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following determines the nature of procurement of raw materials, transportation of materials to and from the company, manufacture of the product or operation to provide the service, and distribution of the product to the customer along with follow-up service?",
+    "options": [
+      "Competitive strategy",
+      "Product development strategy",
+      "Marketing and sales strategy",
+      "Supply chain strategy"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A supply chain strategy involves decisions regarding all of the following except:",
+    "options": [
+      "Inventory",
+      "Transportation",
+      "New product development",
+      "Operating facilities"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The preferable supply chain strategy for a firm that sells multiple products and serves customer segments with very different needs is to:",
+    "options": [
+      "Set up independent supply chains for each different product or customer segment",
+      "Set up a supply chain that meets the needs of the highest volume product or customer segment",
+      "Tailor the supply chain to best meet the needs of each product's demand",
+      "Set up a supply chain that meets the needs of the customer segment with the highest implied uncertainty"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A company's partners in the supply chain determine:",
+    "options": [
+      "The company's success",
+      "The scope of strategic fit",
+      "The relevance of sustainability initiatives",
+      "The need for customers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Concerns related to the environment and sustainability:",
+    "options": [
+      "Are becoming less important to the consuming public",
+      "Are sometimes dictated by regulations and sometimes by perception",
+      "Result in increased cost for the supply chain",
+      "Are relevant to only the retail member of each supply chain"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "When a researcher defines and develops a decision statement and the steps involved in translating it into more precise research terminology, he or she is involved in what process?",
+    "options": [
+      "Hypotheses development",
+      "Research planning",
+      "Problem definition",
+      "Research process"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the LAST step of the problem definition process?",
+    "options": [
+      "State the hypotheses and the research questions",
+      "Determine the relevant variables",
+      "Determine the unit of analysis",
+      "Understand the background of the problem"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The appropriate analytical technique is determined by:",
+    "options": [
+      "The research design",
+      "Nature of the data collected",
+      "Nature of the hypothesis",
+      "Both A and B"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which ONE is the most damaging problem for the researcher with secondary data?",
+    "options": [
+      "It may not be accurate",
+      "It may be biased",
+      "It may not address the aims",
+      "It may only provide part of the answer"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is an advantage of using open-ended questions?",
+    "options": [
+      "Potential is high for interviewer bias",
+      "They can also be used in panel research",
+      "People can express themselves in their own way",
+      "Expensive analysis uses budgets too quickly"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "When interpreting a correlation coefficient expressing the relationship between two variables, it is very important to avoid:",
+    "options": [
+      "Checking the strength of relationship",
+      "Jumping to the conclusions of causality",
+      "Checking the direction of the relationship",
+      "Expressing a relationship with a correlation coefficient"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Good research reports will always:",
+    "options": [
+      "Focus on the Harvard style",
+      "Provide results that may be irrelevant",
+      "Focus on addressing the research objectives",
+      "Provide respondent names and addresses"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which involves those items which are necessary for manufacturing but do not become major components of finishing output?",
+    "options": [
+      "Independent Demand",
+      "Indirect Inventories",
+      "Direct Inventories",
+      "Dependent Demand"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In the effect of ending inventory on the following period's financial statements:",
+    "options": [
+      "Gross profit indirect relationship",
+      "Net income indirect relationship",
+      "Cost of merchandise sold direct relationship",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following inventories involves those items which are directly contributed in manufacturing and become major part?",
+    "options": [
+      "Raw Material",
+      "Work In Progress",
+      "Finishing Goods",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What can be found on an income statement?",
+    "options": [
+      "Revenues, expenses and net profit or loss",
+      "Assets, revenues and expenses",
+      "Revenues, expenses, and stockholders' equity",
+      "Assets, liabilities and stockholders' equity"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The just-in-time (JIT) system is a(n):",
+    "options": [
+      "Management system of people and procedures to fulfill all delivery deadlines",
+      "Production system of small-lot manufacturing to reduce work-in-process inventory",
+      "Materials management system for removing all inventories",
+      "Integrated system of managing resources, information, and decision processes to eliminate waste"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A production line uses signs at specific points on the line to indicate when components or raw materials need to be replenished. This practice is an example of:",
+    "options": [
+      "Kanban",
+      "Poka-yoke",
+      "Checkpoints",
+      "Hoshin"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which describes the internal demand for parts based on the demand of the final product in which the parts are used?",
+    "options": [
+      "Direct Inventory",
+      "Independent demand",
+      "Dependent demand",
+      "Indirect Inventories"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The lean system concept will not work without the proper environment. Which one of the following characteristics is most common to firms that have successfully implemented a lean system?",
+    "options": [
+      "Uniform assembly schedules",
+      "Specialized workforce",
+      "High rates of machine failures",
+      "Longer setup times"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "In MRP, the starting points for each part and material needed to accomplish the master production schedule are the:",
+    "options": [
+      "Net requirements",
+      "Gross requirements",
+      "Planned releases",
+      "Scheduled receipts"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Service level of 95% means that:",
+    "options": [
+      "The service goal is to meet 95% of annual demand",
+      "The service goal is to meet 95% of demand during lead time",
+      "There is a 95% chance that 95% of demand during lead time will be met",
+      "There is a 95% chance that all of demand during lead time will be met"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Inventory holding cost may include:",
+    "options": [
+      "Material purchase cost",
+      "Penalty charge if demand is not met",
+      "Inspection of incoming supplies at warehouses",
+      "Interest on loans"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "There are many requirements for the successful implementation of the lean system of production. Which one of the following is not such a requirement?",
+    "options": [
+      "Substantial natural resources",
+      "Short setup time",
+      "Low machine failure and low defects",
+      "Uniform assembly schedule"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "JIT systems use the standardization of components because standardization:",
+    "options": [
+      "Decreases the demand for each component",
+      "Decreases repeatability",
+      "Allows for small lot sizes more easily",
+      "Increases worker productivity"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements is not correct about the assumptions of EOQ?",
+    "options": [
+      "Annual demand requirement is unknown",
+      "Only one product is involved",
+      "Demand is even throughout the year",
+      "Lead time does not vary"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is not correct about EOQ?",
+    "options": [
+      "The optimal order quantity reflects a trade-off between carrying costs and ordering costs",
+      "Orders are timed to avoid both excess stock and stock-outs",
+      "As order size is varied, one type of cost will decrease and the other will also decrease",
+      "All are correct"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which is a means of long production runs and centralized manufacturing and distribution centers?",
+    "options": [
+      "High levels of customer service",
+      "Low inventory levels",
+      "High utilization rates",
+      "All except A and B"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Forecasting methods that are primarily subjective and rely on human judgment are known as:",
+    "options": [
+      "Qualitative forecasting methods",
+      "Time series forecasting methods",
+      "Causal forecasting methods",
+      "Quantitative forecasting methods"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Allocating too much capacity to a location results in:",
+    "options": [
+      "Permanent damage",
+      "Poor utilization, and as a result, higher costs",
+      "High utilization, and as a result, higher costs",
+      "Poor utilization, and as a result, lower costs"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is a means of short production runs and just-in-time delivery of raw materials?",
+    "options": [
+      "High levels of customer service",
+      "Low inventory levels",
+      "High utilization rates",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which are deliveries made from one originating location to one receiving location?",
+    "options": [
+      "Direct Deliveries",
+      "Milk Run Deliveries",
+      "Cross docking deliveries",
+      "All except A"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Product design, production management, and facility management are supply chain operations for what purpose?",
+    "options": [
+      "Make",
+      "Deliver",
+      "Planning",
+      "Sourcing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "The inventory held in case demand exceeds expectation in order to counter uncertainty is called:",
+    "options": [
+      "Cycle inventory",
+      "Safety inventory",
+      "Seasonal inventory",
+      "Sourcing"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which distribution network design is being used when the distributor or retailer delivers the product to the customer's home instead of using a package carrier?",
+    "options": [
+      "Manufacturer storage with direct shipping",
+      "Manufacturer or distributor storage with customer pickup",
+      "Distributor storage with package carrier delivery",
+      "Distributor storage with last mile delivery"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The probability of having a product in stock when a customer order arrives is:",
+    "options": [
+      "Response time",
+      "Product variety",
+      "Product availability",
+      "Customer experience"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following are measures of customer service that are influenced by the structure of the distribution network?",
+    "options": [
+      "Response time",
+      "Product variety",
+      "Product availability",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which distribution network design is being used when inventory is stored locally at retail stores and customers walk into the retail store or place an order online or on the phone and pick it up at the retail store?",
+    "options": [
+      "Manufacturer storage with direct shipping",
+      "Manufacturer or distributor storage with customer pickup",
+      "Distributor storage with package carrier delivery",
+      "Retail storage with customer pickup"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "As the number of facilities in a supply chain increases, total facility costs:",
+    "options": [
+      "Decrease",
+      "Remain the same",
+      "Increase",
+      "Decrease to a point and then increase"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statements about distribution networks is true?",
+    "options": [
+      "The ownership structure of the distribution network can have as big an impact as the type of distribution network",
+      "The choice of a distribution network has very long-term consequences",
+      "The choice of an exclusive distribution strategy may be advantageous",
+      "All of the above are true"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is a cost factor performance characteristic of Retail Storage at Consumer Pickup Sites that is higher than all other options?",
+    "options": [
+      "Transportation",
+      "Inventory",
+      "Information",
+      "Facilities and Handling"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The situation in which fluctuations in orders increase as they move up the supply chain from retailers to wholesalers to manufacturers to suppliers is known as:",
+    "options": [
+      "Market fluctuations",
+      "The whiplash effect",
+      "The bullwhip effect",
+      "Lack of visibility"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following condition is used as a justification to apply an approved government method?",
+    "options": [
+      "The integrity level required",
+      "The variation in quantity, quality, market competition and confidentiality",
+      "The intention is to obtain best VFM and the maximum price that buyer is willing to pay for goods",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Among the following factors, one does not determine the type or kind of approved government methods:",
+    "options": [
+      "The monetary value and/or the threshold level set by the Directive",
+      "The total quantity available",
+      "The time and urgency level required",
+      "The interest of the Procuring Entity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "When used by Procurement Entity, it enables extensive interaction on technical matters with bidders and is more suitable for procurement of complex information systems and procurements involving extensive technical services.",
+    "options": [
+      "International Competitive Bid",
+      "One stage Bidding",
+      "Two-stage Bidding",
+      "Request For Proposal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Direct procurement method is permissible under the following condition under the Ethiopian Public Procurement Directive 649/2010?",
+    "options": [
+      "Under strict necessity for reasons of urgency brought about by causes unforeseeable by the Contracting Authority such as earthquakes and floods",
+      "Unforeseen circumstances causing additional works or services may force use of negotiated procedure without prior notice",
+      "For new works or services consisting in the repetition of similar works contracting authorities awarded the original contract on the basis of open or restricted procedure",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Identify the wrong statement regarding Standard Bidding Document (SBD):",
+    "options": [
+      "Prepared by PPA mostly in a standardized format except on certain parts",
+      "The contents should be tailored to the particular needs of contracting authorities and nature of goods to be procured",
+      "It is developed in a form of template",
+      "It is required for the sake of consistency, avoiding mistakes and omissions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "One of the parts of the SBD is prepared by the Procurement Entity with the aim of informing bidders of the administrative regulations and laying foundation for the preparation of a bid or proposal and setting rules for the bidding contest:",
+    "options": [
+      "Standard Bidding Document",
+      "Instruction to Bidder",
+      "Special Conditions of a Contract",
+      "General Conditions of a Contract"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Identify the correct statement about Section 3 of the SBD, Evaluation and Qualification Criteria (EQC):",
+    "options": [
+      "It serves as an assurance to tenderers that the evaluation would be fair and treats all bidders in the same manner",
+      "Qualification is more concerned with assessing the financial and technical capability of a bidder to carry out a specified contractual value",
+      "Evaluation involves assessing the bidders' proposition on the bases of PE's requirement",
+      "All except D"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "One of the following is not part of Section 3 of the SBD:",
+    "options": [
+      "Bid Submission Sheet",
+      "Supply of Requirements",
+      "Price schedule for goods and related services",
+      "Bid Security Form"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Assume that you are a Tender evaluation committee of a public institution procuring construction of a 5 story building. The final bid values are: Supplier X = 1,000 birr, Supplier Y = 950 birr, Supplier Z = 1,010 birr, and Supplier A = 1,050 birr. Supplier Z and A are Small Businesses while the others are large scale businesses, and you must apply margin of preference according to Ethiopian PP Directive 649/2010. Which supplier wins as least bidder?",
+    "options": [
+      "Supplier Z",
+      "Supplier X",
+      "Supplier Y",
+      "Supplier A"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the primary purpose of Incoterms?",
+    "options": [
+      "To define the responsibilities of buyers and sellers in an international trade transaction",
+      "To establish uniform customs procedures",
+      "To regulate international trade in goods",
+      "To set the prices of goods in international trade"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Letter of credit is used as a payment modality in international trade due to the following reasons except:",
+    "options": [
+      "Credit risk is reduced",
+      "Covered by international rules and system for settling disputes",
+      "Provides the seller with firm evidence of an export sale",
+      "Provides maximum advantage for the importer"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which refers to the integration and coordination of requirements across worldwide business units, looking at common items, processes, technology, and suppliers?",
+    "options": [
+      "Offshore outsourcing",
+      "Global Sourcing",
+      "Foreign Sourcing",
+      "International Procurement"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is the riskiest payment method for the Exporter?",
+    "options": [
+      "Letter of Credit",
+      "Cash Against Document",
+      "Open Account",
+      "Advance Payment"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Organizations responsible for managing the procurement of specific commodity groups on a global scale refers to:",
+    "options": [
+      "Regional Purchasing Office",
+      "Global Commodity Management",
+      "International Purchasing Offices",
+      "Foreign Purchasing Office"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A secure storage facility where imported goods can be stored without the payment of duties and taxes refers to:",
+    "options": [
+      "Port or terminal",
+      "Bonded warehouse",
+      "Public warehouse",
+      "Free Trade Zone"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Performance relative to service reliability is generally reflected in an organization's measurement of:",
+    "options": [
+      "Logistics Quality",
+      "Logistics Cycle time",
+      "Logistics Productivity",
+      "Logistics financial measures"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Organisations with a customer focus will typically:",
+    "options": [
+      "Aim for complete customer satisfaction",
+      "Allow customers easy access to the organization",
+      "Do every operation using less of each resource",
+      "Be flexible and respond quickly to changing customer demands"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is the most widely used measure of logistics performance?",
+    "options": [
+      "Financial Measures of Logistics Performance",
+      "Cycle Time of Logistics Performance",
+      "Quality Measures of Logistics Performance",
+      "Productivity Measures of Logistics Performance"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All of the following statements are correct, except:",
+    "options": [
+      "Organisations can only survive by supplying products that customers view as somehow better than those from competitors",
+      "Organizations can completely avoid the cost of logistics",
+      "As markets are demanding more variety and customization, logistics should be more flexible",
+      "Without customers an organization has no sales, no income, no profit, no business and no organization"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following are the basic principles of customer-focused marketing, except:",
+    "options": [
+      "The focal point of a business's strategy must be the customers it intends to serve",
+      "Customer needs and requirements are more basic than product and service",
+      "The job is to find the right customers for your product but not to find the right products for your customers",
+      "Is a customer centered sense and responds philosophy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following statement is true?",
+    "options": [
+      "The larger a shipment and the longer the distance it is transported, the lower is the cost per unit",
+      "The customer's take-away in terms of market value is high quality at a low price",
+      "The focus of economic value is effectiveness of product or service creation",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is true about undifferentiated marketing strategy?",
+    "options": [
+      "Target one segment out of the overall market by offering very precise services",
+      "Targets different market segments with specific marketing mixes designed specifically to meet those segments' needs",
+      "Is an advertising strategy that focuses on a unique target market",
+      "Employs a single marketing mix, one product, one price, one placement and a single promotional effort to reach the maximum number of consumers in its target market"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one is not true about brick and mortar companies?",
+    "options": [
+      "They are traditional form of businesses",
+      "These forms of businesses are characterized by their natural physical existence in the actual business setting and their entire business operations are not supported by online technologies",
+      "They are companies which reside in the cyber world",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Two-way communication enhanced by e-commerce is best described by:",
+    "options": [
+      "Business process perspective",
+      "Communication perspective",
+      "Interface perspective",
+      "Interactivity"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "How a company's product or service fulfils the needs of customers is typically addressed by:",
+    "options": [
+      "Revenue model",
+      "Customization",
+      "Value proposition",
+      "Cost transparency"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "For consumers, the difference between a debit card and a credit card is that:",
+    "options": [
+      "Both debit card and credit card necessarily expects the consumer to spend money from a deposit account like a checking account",
+      "Credit card allows the consumer to spend money on credit to the issuing bank but debit card allows the consumer to spend money from a deposit account",
+      "Credit card uses the money you have and a debit card uses the money you do not have",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Cash differs from checking transfer in that:",
+    "options": [
+      "Both are used for e-payment",
+      "It is anonymous and difficult to trace",
+      "The former is portable and requires authentication",
+      "It lacks privacy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is analogous to bank overdraft traditional payment?",
+    "options": [
+      "Smart cards",
+      "Credit cards",
+      "Debit cards",
+      "CBE Birr"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Traditional consumer behavior differs from online consumer behavior in that:",
+    "options": [
+      "Both are the manifestation of stimulus-response models",
+      "Marketing communication is the intervening variable for both",
+      "The former is characterized by click stream behavior",
+      "It is characterized by in-store behavior"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Money laundering and possibility of double spending are crucial problems in:",
+    "options": [
+      "Credit cards",
+      "Debit cards",
+      "E-cash",
+      "Smart cards"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "From the given alternatives which one is false?",
+    "options": [
+      "Truck Load shipping is best suited for transportation between manufacturing facilities and warehouses or between suppliers and manufacturers",
+      "Rail services are considered as an ideal model for carrying large, heavy or high-density products over long distances",
+      "Intermodal transportation is a combination of at least two or more modes of transportation",
+      "Mass transportation is expensive than transporting goods in small quantities"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A representation of the structure and geometry of transportation within the area under investigation mainly comprising of nodes and links is:",
+    "options": [
+      "Transportation network",
+      "Routing",
+      "Transportation system",
+      "Transportation planning"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is wrong?",
+    "options": [
+      "Transport land use models deals only with passenger transportation",
+      "GPS can be used for tracking of urban bus movement",
+      "Transportation development leads to less usage of non-renewable fossil fuel",
+      "Aircraft is the fastest mode of transportation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "One of the essential components of transportation that represents the conveyances and mostly takes the form of vehicles used to support the mobility of passengers or freight is:",
+    "options": [
+      "Mode of transport",
+      "Transportation flows",
+      "Transportation network",
+      "Transportation infrastructure"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "A set of relationships between transportation nodes, networks and demand refers to:",
+    "options": [
+      "Transportation network",
+      "Route identification",
+      "Transportation system",
+      "Transportation planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Social welfare, training for workers, educational opportunity and having a good relationship with the local community are included under the umbrella of:",
+    "options": [
+      "Employment Equity",
+      "Health and safety",
+      "Human Rights",
+      "Quality of life"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "According to Zsidisin and Hendrick (1998) the key factors for green purchasing includes all but:",
+    "options": [
+      "Cooperation with suppliers",
+      "Design specification to suppliers",
+      "Environmental audits for supplier's internal management",
+      "Environmental audits for Customer's internal management"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is a company operation with cleaner technology?",
+    "options": [
+      "Resource utilization",
+      "Waste and Recycling",
+      "Greenhouse gas emission",
+      "Environmental pollution"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Government has the power to act as the driver in the implementation of GrSCM in the following ways except:",
+    "options": [
+      "Setting partial environmental regulations",
+      "Promoting green innovation",
+      "Educating citizens on it",
+      "Applying coercion and penalty"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one is wrong about green Manufacturing?",
+    "options": [
+      "Leads to lower raw material costs",
+      "Leads to production inefficiency",
+      "Leads to reduced environmental expenses",
+      "Improved corporate image"
+    ],
+    "correct": 1
+  }
+]

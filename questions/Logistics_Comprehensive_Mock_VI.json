@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "A division of business with a high relative market share position in a low-growth industry can be described as a:",
+    "options": [
+      "Star",
+      "Dog",
+      "Question mark",
+      "Cash cow"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "As an entrepreneur which strategy will you implement to make use of good opportunity outside the current business market and product?",
+    "options": [
+      "Diversification",
+      "Market development",
+      "Market penetration",
+      "Product development"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Differentiation strategy can be effective in controlling the power of rivalry with existing competitors in an industry because:",
+    "options": [
+      "Customers will seek out the lowest cost product",
+      "Customers of non-differentiated products are sensitive to price increases",
+      "Customers are loyal to brands that are differentiated in meaningful ways",
+      "The differentiation strategy benefits from rivalry"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is the best example of conglomerate (unrelated) diversification?",
+    "options": [
+      "A chain of radio stations acquiring TV stations",
+      "An electrical equipment manufacturer acquiring an athletic footwear company",
+      "A producer of canned soups acquiring a maker of breakfast cereals",
+      "A manufacturer of beverage diversifying into the production of jewelry"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Lack of access to key distribution channel indicates which of the following?",
+    "options": [
+      "Strength",
+      "Opportunity",
+      "Threat",
+      "Weakness"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A supplier group is not powerful when:",
+    "options": [
+      "Substitute products are available to industry firms",
+      "Suppliers' products have created high switching costs",
+      "Effectiveness of suppliers' products have created high switching costs",
+      "Suppliers are a credible threat to integrate forward into the buyers' industry"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Cost leadership strategy provides goods or services with features that are:",
+    "options": [
+      "Standardized products to customers",
+      "Able to meet unique needs of the customer",
+      "Unique to the customer",
+      "Highly valued by the customer"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "When XYZ company returns product by unknown reasons, which one is not true about common reasons for returning a product in supply chain?",
+    "options": [
+      "Warranty claim",
+      "Faulty order processing",
+      "Retail overstock",
+      "Customer is satisfied"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "All are true about the goal of the replenishment cycle except one:",
+    "options": [
+      "Get the correct and complete orders to the customer, by the promised due date and at the highest possible cost",
+      "Meet the actual and/or forecasted demand in a timely and cost-effective manner, within the scope of the available production capacity",
+      "The current product availability in the manufacturer's finished-product warehouse",
+      "Fill inventories at the retailer at minimum cost, while providing a certain product availability to the customer"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Deliveries made from one originating location to one receiving location refers to which of the following?",
+    "options": [
+      "Milk run deliveries",
+      "Direct deliveries",
+      "Indirect deliveries",
+      "Truck load"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is not true about popular measures of internal efficiency?",
+    "options": [
+      "Inventory value",
+      "Inventory turns",
+      "Activity cycle time",
+      "Return on investment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "The most common form of forecasting based on the assumption that historical patterns of demand are a good indicator of future demand is:",
+    "options": [
+      "Time Series method",
+      "Casual method",
+      "Simulation method",
+      "Qualitative method"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "It is a process by which two parties in negotiation have found the way to resolve their differences by influencing one another's outcome or decision.",
+    "options": [
+      "Distributive bargaining",
+      "Mutual Adjustment",
+      "Non zero sum bargaining process",
+      "Interdependence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is not true regarding goal in negotiation?",
+    "options": [
+      "Effective goals must be concrete and measurable",
+      "Individuals or parties must change their goal if it exceeds the limits",
+      "There is a need of linking the goals with the other parties goal to have better settlement",
+      "Negotiators' wish can be considered as goal"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "It is one of the negotiation strategies by which negotiating parties have high concern for achieving relationship while little concern for the substantive outcome.",
+    "options": [
+      "Accommodation strategy",
+      "Collaborative strategy",
+      "Avoidance strategy",
+      "Competition strategy"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "It is the process of collecting and analyzing information to know the progress of the contract or whether the activities are performed in line with the contract.",
+    "options": [
+      "Performance assessment and appraisal",
+      "Contract performance",
+      "Performance scheduling",
+      "Contract monitoring"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What is the reason behind that integrative bargaining is difficult to achieve?",
+    "options": [
+      "Due to the existence of similar interest among the parties",
+      "Because of all conflicts need to be resolved through distributive bargaining",
+      "Because there may not be purely integrative or purely distributive negotiation situations",
+      "Because the belief of negotiators in the validity of the other party's position"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Among the following alternatives one is an influencing style by which we insist that our ideas are to be heard while we challenge the ideas of others to be successful in persuasion.",
+    "options": [
+      "Asserting",
+      "Convincing",
+      "Bridging",
+      "Inspiring"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "It is an interest concerning the advantage that negotiators can generate through using fair, right and ethical guidelines in negotiation process.",
+    "options": [
+      "Intrinsic relationship interests",
+      "Instrumental relationship interests",
+      "Intrinsic interests in principles",
+      "Instrumental interests in principles"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is true regarding distributive negotiation strategy?",
+    "options": [
+      "It is the process of creating value in negotiation",
+      "It is the process of claiming value in negotiation",
+      "Negotiators will give more concern for collaboration rather than competing each other",
+      "The result of negotiation may be a win-win relationship at the end of the process"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which theory says that companies should focus as much attention on social and environmental issues as they do on financial issues?",
+    "options": [
+      "Triple-down-line",
+      "Corporate social responsibility",
+      "Technological",
+      "Triple-bottom-line"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which is an important branch of logistics aimed at value-recovery, cost reduction, and streamlining of the supply chain?",
+    "options": [
+      "Reverse logistics",
+      "Sustainable warehouse",
+      "Sustainable transportation",
+      "Sustainable procurement"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Economic benefits of implementing an environmental management system or good environmental stewardship that an organization can expect include all except:",
+    "options": [
+      "Corporate reputation and image",
+      "Lower environmentally related costs and fees",
+      "Increased access to new customers",
+      "Indirect savings through environmental source reduction"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is not the importance of green supply chain?",
+    "options": [
+      "GSCM reduces community impact",
+      "Competitive advantages can be seen in GSCM",
+      "GSCM increases noise reduction",
+      "Traffic congestion avoidance can be achieved through GSCM"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is true about air mode of transport?",
+    "options": [
+      "Airlines can carry extremely heavy or bulky cargo",
+      "Items that are low-value tend to travel by air",
+      "Most products air-shipped are low priority or of extreme imperishability",
+      "Fixed cost is 2nd lowest but variable costs are extremely high"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Parties that own ships and make decisions on how to use existing ships to provide shipping services, when and how to buy new ships, and what ships to buy refers to:",
+    "options": [
+      "Ship owners",
+      "Shipbuilder",
+      "Scrap dealer",
+      "Ship brokers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which process deals with product returns from customers or avoiding returns in the first place?",
+    "options": [
+      "Return policy and procedure",
+      "Returns management",
+      "Remanufacturing or refurbishment",
+      "Packaging management"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is NOT a primary component of e-commerce infrastructure?",
+    "options": [
+      "Internet Security",
+      "Payment Gateway",
+      "Online Shopping Cart",
+      "Fax Machine"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which of the following is a unique feature of e-commerce?",
+    "options": [
+      "Limited geographic reach",
+      "Time constraints on transactions",
+      "Accessibility 24/7",
+      "High dependence on physical stores"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What distinguishes e-commerce from traditional commerce regarding transaction speed?",
+    "options": [
+      "Longer processing times",
+      "Immediate transaction confirmation",
+      "Delayed delivery of goods",
+      "Limited payment options"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What distinguishes an intranet from the Internet?",
+    "options": [
+      "An intranet is accessible to the public, while the Internet is restricted to private networks",
+      "An intranet is a private network accessible only to authorized users within an organization, while the Internet is a global network accessible to the public",
+      "An intranet is used exclusively for e-commerce transactions, while the Internet encompasses various online activities",
+      "An intranet is slower than the Internet due to bandwidth limitations"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which protocol is commonly used for requesting and delivering web pages in e-commerce?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "TCP/IP"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which statement best describes a credit card?",
+    "options": [
+      "It allows you to spend money you have in your bank account",
+      "It is directly linked to your checking account",
+      "It provides a line of credit from the issuing bank to make purchases",
+      "It can only be used for cash withdrawals"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which of the following is an example of a subscription-based e-commerce model?",
+    "options": [
+      "Amazon",
+      "eBay",
+      "Netflix",
+      "Alibaba"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "A wholesaler places an order from a company's website and after receiving the consignment, sells the end product to a final customer who comes to buy the product at the wholesaler's retail outlet. This statement is an example of:",
+    "options": [
+      "Business-to-Business (B2B)",
+      "Business-to-Consumer (B2C)",
+      "Business-to-Government (B2G)",
+      "Government-to-Business (G2B)"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which involves creating and approving purchasing requisitions and placing purchase orders and receiving goods and services by using a software system based on Internet technology?",
+    "options": [
+      "E-procurement",
+      "Electronic document interchange",
+      "Enterprise resource planning",
+      "E-auctioning"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which of the following is NOT a common type of e-payment system?",
+    "options": [
+      "Credit card payments",
+      "Bank transfers",
+      "Cash on delivery (COD)",
+      "Postal mail payments"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which e-payment system uses encrypted electronic versions of paper checks for online transactions?",
+    "options": [
+      "Credit card payments",
+      "Digital currencies",
+      "Mobile payments",
+      "E-checks"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is true about liner shipping market?",
+    "options": [
+      "It is to provide a convenient and economical means to transport goods that require cross-ocean movement",
+      "It provides flexibility in sea transport to satisfy the needs of world trade",
+      "It can be any vessel that does not have a fixed itinerary or schedule and mainly carries dry cargoes in bulk from one or more ports to one or more different ports",
+      "It is to satisfy the demand for regular transport under which cargoes are transported through regular routes and with regular schedules"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is not a national transportation policy theme?",
+    "options": [
+      "Ensure that the transportation system supports public safety and national security",
+      "Maintain and expand the Nation's transportation system",
+      "Discourage a sound financial base for transportation",
+      "Keep the transportation industry strong and competitive"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "It exists if the cost (average cost) of a carrier decreases with the increase of the number of products or services which the carrier provides:",
+    "options": [
+      "Economy of scale",
+      "Economy of scope",
+      "Economy of distance",
+      "Economy of density"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Managers at every location connected to the transportation network require information in order to make decisions about the following except:",
+    "options": [
+      "Strategic decision-making focuses on the creation of long-range transportation plans",
+      "Tactical planning focuses on cross-organization linkages and transportation activity coordination",
+      "Routine decision-making leverages operational level information for rules-based decision making",
+      "Ultimately, all three information requirements must be not met to drive efficient and effective transportation decisions"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Transportation information must depict reality refers to:",
+    "options": [
+      "Information Accessibility",
+      "Information quality standard",
+      "Information accuracy",
+      "Information relevancy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Freight forwarders cannot do one of the following:",
+    "options": [
+      "They can prepare all documents necessary for importing or exporting goods",
+      "They can consolidate freight for fewer shipments",
+      "They can always handle the movement of the goods",
+      "They can select transportation providers to move the goods to their destination"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which freight shipment documentation can overview the cargo mentioned in the commercial invoice and marks as well as numbers noted outside of the shipment boxes?",
+    "options": [
+      "Air or Rail Waybill",
+      "Arrival Notice",
+      "Certificate of Origin",
+      "Packing List"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Among the following, one is not an actor that facilitates the importing of commodity in Ethiopia:",
+    "options": [
+      "Freight forwarders",
+      "Custom Clearing Agent",
+      "Commercial Banks",
+      "National Banks"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "What issues should be considered before importing certain products?",
+    "options": [
+      "The importer cannot understand the characteristics of that item and it should be reviewed before it comes",
+      "The importer should identify those countries that have the products that the importer is seeking to purchase",
+      "The importer must not pay attention to the prevailing market price",
+      "The importer should not spend a significant amount of time in evaluating the potential supplier if there are going to be ongoing purchase transactions"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "In which mode of payment does the exporter ship the goods, and the importer only has to remit payment for them after the goods have been sold and the importer gets paid from his customer?",
+    "options": [
+      "Open account",
+      "Sight draft documents against acceptance",
+      "Cash in advance",
+      "Consignment"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "At which stage does a transportation company take products from a company to the freight forwarder's warehouse?",
+    "options": [
+      "Items checkpoint",
+      "Export haulage",
+      "Import haulage",
+      "Destination arrival and handling"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "If you want to import a Chevrolet model of vehicle to Ethiopia and you have to pay taxes for it, which duties and taxes are levied from the vehicle according to Ethiopian tax laws?",
+    "options": [
+      "Customs duty",
+      "Excise tax",
+      "Value added tax",
+      "Surtax"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Why do Ethiopians import certain goods from abroad?",
+    "options": [
+      "Because we can never escape from globalization",
+      "Because we are self-sufficient",
+      "Because the production cost of goods from that nation is costly than ours",
+      "Because we are specialized on the production of such goods"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "What advice do your clients expect from you if you are a customs broker?",
+    "options": [
+      "I am trying to help my clients to decide on which shipping routes are best, to get their goods in the longest possible time",
+      "I am trying to tell them on which methods of shipment is best for their goods",
+      "I am trying to guide them on domestic payments",
+      "I did nothing for them"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Among the following, which one is correctly corresponded?",
+    "options": [
+      "Hull insurance covers losses of the ship itself",
+      "Cargo insurance covers losses of the ship and physical cargo",
+      "Freight insurance covers damages to the people",
+      "Marine liability covers damages of people only"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "It is a written statement of research design which contains all information regarding the purpose, objectives, methodologies and all procedures of the research:",
+    "options": [
+      "Research design",
+      "Summary and conclusion",
+      "Research proposal",
+      "Analysis, interpretation and discussion"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Among the following alternatives, one is not a characteristic of a good research topic.",
+    "options": [
+      "Research topic which can be achieved with minimum cost",
+      "Relevance of the research topic which fits the intended purpose",
+      "Appropriateness",
+      "Capability of the researcher to engage the study with reasonable resources"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "It is a sampling technique by which the researcher will divide the total population into various classes based on homogeneity to take appropriate sample.",
+    "options": [
+      "Quota sampling technique",
+      "Stratified Sampling",
+      "Judgmental sampling technique",
+      "Systematic sampling technique"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Among the following alternatives, one is a type of research which intends to provide immediate solution for the problems faced by the society or organization.",
+    "options": [
+      "Basic research",
+      "Fundamental research",
+      "Cross-sectional research",
+      "Applied research"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Among the following alternatives, one is the reason why researchers prefer to use sample for their study.",
+    "options": [
+      "It increases the homogeneity of respondents",
+      "It is economical and may enable them to take more accurate measurement",
+      "It enables them to get accurate and detailed information",
+      "It increases the reliability of required data"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Among the following alternatives, one is true about the structured interviews method of data collection.",
+    "options": [
+      "It allows greater freedom to the interviewer to ask questions for deep knowledge",
+      "Interviewer can use both flexible and rigid procedure",
+      "Use of a set of predetermined questions with a rigid procedure",
+      "Interviewer can ask interviewee both what they wrote and other related questions"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "What is the need of using literature review for your study?",
+    "options": [
+      "To refine questionnaires",
+      "To support the study with past studies",
+      "To have deep knowledge of the theoretical, empirical and methodological issues about the topic",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "It is one of the data collection instruments which allows the respondents to express their ideas freely and deeply.",
+    "options": [
+      "Close ended question",
+      "Open ended question",
+      "Observation",
+      "Questionnaires"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which of the following is a type of research conducted for the first time and depends on experience or observation alone?",
+    "options": [
+      "Descriptive type research",
+      "Explanatory type of research",
+      "Exploratory research",
+      "Cross sectional research"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "If the researcher wants to conduct qualitative research and define the problem first, propose a hypothetical explanation to the problem and then proceed with the examination of cases by collecting data via in-depth interviews, which data analysis method needs to be used?",
+    "options": [
+      "Narrative analysis technique",
+      "Analytic induction technique",
+      "Content analysis technique",
+      "Descriptive analysis technique"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which one of the following is an objective of a procurement plan?",
+    "options": [
+      "Ascertain that there are adequate suppliers for the needs",
+      "Identify procurement need is environmentally friendly",
+      "Determine the cost estimate for each type of procurement",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is not a reason for bid rejection?",
+    "options": [
+      "The bid did not meet the circumstances mentioned in the tender",
+      "The number of suppliers is very low",
+      "The license was not renewed or not valid any more",
+      "The tax clearance certificate was not presented"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "A Public Body has to take all the following points into consideration under identification of needs except:",
+    "options": [
+      "Needs which cannot be met by unused resources",
+      "Needs which cause the Public Body to incur unnecessary cost",
+      "Additional needs that might arise in the future",
+      "Needs which are similar and related"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following methods of purchasing is appropriate for procurements of complex items?",
+    "options": [
+      "Open tendering",
+      "Request for quotation",
+      "Two stage bidding",
+      "Request for proposal"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is true about tendering?",
+    "options": [
+      "Tendering is always utilized by only private sectors",
+      "Tendering is always utilized by only government sectors",
+      "Tendering is always held by large scale manufacturing sectors",
+      "Tendering may be held by any capable private or governmental industries"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following words is mismatched?",
+    "options": [
+      "Tendering - request for quotation",
+      "Tendering - request for proposal",
+      "Tendering - invitation to tender",
+      "None"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Guarantee of money for the contract value for the due performance of contract is pointed on:",
+    "options": [
+      "Bid form",
+      "Price schedule",
+      "Non-refundable bid security",
+      "Payment for bid document"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which one of the following is a reason for bid rejection?",
+    "options": [
+      "The bid did not meet the circumstances mentioned in the tender",
+      "The number of suppliers is very low",
+      "The license was not renewed or not valid any more",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is considered as a formal qualification of bidders?",
+    "options": [
+      "Managerial capacity",
+      "Financial capacity",
+      "Trade license",
+      "Professional competency"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following represents the correct sequence of the bidding process?",
+    "options": [
+      "Selection of Bidders - Bid Preparation and Submission - Bidding Period and Bid Receipts - Bid Opening - Bid Evaluation",
+      "Bidding Period and Bid Receipts - Bid Opening - Bid Evaluation - Selection of Bidders - Bid Preparation and Submission",
+      "Bid Preparation and Submission - Bidding Period and Bid Receipts - Bid Opening - Bid Evaluation - Selection of Bidders",
+      "Bid Evaluation - Selection of bidder - Bidding Period and Bid Receipts - Bid Opening - Bid Preparation and Submission"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Assume a store manager is forecasting this month's June 30 demand. The actual demand of the past months is the same at 100. The weighted amounts of the months are 0.1, 0.2, 0.3, and 0.4 starting from the farthest to the nearest month. Compute the weighted 4-month moving average for June 30.",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "100"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which one of the following is not an assumption of the Economic Order Quantity Model?",
+    "options": [
+      "The demand is known and constant",
+      "Order lead time is known and constant",
+      "The holding cost is unknown and constant",
+      "Order cost is known and constant"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Assume a Dashen Brewery company store manager is forecasting this week's demand. The demand one week ago was 50, two weeks ago was 50 and the next week will also have the same demand. For this example, which method of forecasting is appropriate?",
+    "options": [
+      "Naive method",
+      "Simple moving average method",
+      "Weighted moving average method",
+      "Exponential smoothing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "All of the following are symptoms of poor inventory management except:",
+    "options": [
+      "A high cost of inventory",
+      "Consistent stock outs",
+      "A high rate of inventory turnover",
+      "A high amount of obsolete inventory"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Product A is made of one unit of part B and two units of part C. Part B is made of one unit of part G and one unit of part D. Part C is made of three units of part E and two units of part F. Part F is made of two units of part C. Determine the quantities of part C required to assemble 100 As.",
+    "options": [
+      "100",
+      "200",
+      "800",
+      "1000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "A toy manufacturer company uses 48,000 rubber wheels per year for its popular dump truck series. The toy trucks are assembled uniformly over the entire year. Carrying cost is $1 per wheel a year. Setup cost for a production run of wheels is $45. Determine the EPQ.",
+    "options": [
+      "1067 wheels",
+      "2,160,000 wheels",
+      "2400 wheels",
+      "4800 wheels"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Which one of the following is an activity of supply chain management plan?",
+    "options": [
+      "Demand forecasting",
+      "Procurement",
+      "Product design",
+      "Delivery schedule"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "These activities are the routine activities related to issuing purchase orders for needed products.",
+    "options": [
+      "Consumption Management",
+      "Vendor Selection",
+      "Contract Negotiation",
+      "Purchasing"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Which shapes the supply chain and has a great impact on the cost and availability of the product?",
+    "options": [
+      "Product scheduling",
+      "Product design",
+      "Facility management",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "What happens is that small changes in product demand by the consumer at the front of the supply chain translate into wider and wider swings in demand experienced by companies further back in the supply chain.",
+    "options": [
+      "Supply chain management",
+      "Demand forecasting",
+      "Bullwhip effect",
+      "Planning"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The delivery process works within the constraints set by transportation decisions.",
+    "options": [
+      "Order management",
+      "Delivery scheduling",
+      "Delivery source",
+      "Direct delivery"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which is the universal communications network that can connect with all computers and communication devices?",
+    "options": [
+      "Internet",
+      "Broadband",
+      "Electronic Data Interchange",
+      "eXtensible Markup Language"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Systems that gather data from across multiple functions in a company and monitor orders, production schedules, raw material purchases, and finished goods inventory are:",
+    "options": [
+      "Procurement Systems",
+      "Advanced Planning and Scheduling",
+      "Transportation Planning Systems",
+      "Enterprise Resource Planning (ERP)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "It is also common for managers within a company to be motivated by incentives that conflict with other company objectives.",
+    "options": [
+      "Order batching",
+      "Product rationing",
+      "Performance incentives",
+      "Product pricing"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "The group role that explains how others believe you should act in a given situation is:",
+    "options": [
+      "Role identity",
+      "Role expectation",
+      "Role perception",
+      "Role conflict"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The fundamental assumption people share about organizational values, beliefs and norms is called:",
+    "options": [
+      "Organizational behavior",
+      "Organizational culture",
+      "Organizational design",
+      "Organizational structure"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Maslow's hierarchy of need which indicates the need to be free of physical danger and of the fear of losing a job, property or shelter is:",
+    "options": [
+      "Security need",
+      "Esteem need",
+      "Acceptance needs",
+      "Self-actualization need"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Among the following theories of motivation, which one is different from the others?",
+    "options": [
+      "Vroom expectancy theory",
+      "Herzberg two factor theory",
+      "Adams equity theory",
+      "Edwin Locke goal theory"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "Which refers to a set of personality traits, needs, and other factors likely to be related to political behavior?",
+    "options": [
+      "Individual factor",
+      "Group factor",
+      "Organizational factor",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which refers to the degree to which jobs within the organization are standardized?",
+    "options": [
+      "Formalization",
+      "Organization standard",
+      "Organization structure",
+      "Departmentation"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "Which is the study of the impact that individuals, groups, and structure have on behavior within organizations?",
+    "options": [
+      "Leadership",
+      "Human skills",
+      "Conceptual skills",
+      "Organizational behavior"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Management is said to be universal, which is described by:",
+    "options": [
+      "All management principles and practices are found in every organization",
+      "All management principles are found in every organization but not practices",
+      "All management practices are found in every organization but not principles",
+      "All management principles and practices are found in every business organization"
+    ],
+    "correct": 0
+  },
+  {
+    "questionText": "According to Charles Babbage, division of labor:",
+    "options": [
+      "Improves skills of workers",
+      "Reduces learning time",
+      "Reduces expenses",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionText": "Information on the human attributes in terms of education, skills, aptitudes, and experience necessary to perform a job effectively is:",
+    "options": [
+      "Job evaluation",
+      "Job specification",
+      "Job description",
+      "Job analysis"
+    ],
+    "correct": 1
+  },
+  {
+    "questionText": "The last step in preparing an organizational plan is:",
+    "options": [
+      "Establish objectives that must be attained by the organization",
+      "Evaluate alternative courses of action",
+      "Change the plan into budget",
+      "Conducting the problem identification"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Banks, insurance companies and distribution agencies are examples of:",
+    "options": [
+      "Departmentation by function",
+      "Departmentation by products",
+      "Departmentation by territory",
+      "Departmentation by customers"
+    ],
+    "correct": 2
+  },
+  {
+    "questionText": "Fixation of standards, measurement of performance, comparison, and correction of deviation are the steps in:",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Staffing",
+      "Control"
+    ],
+    "correct": 3
+  }
+]
